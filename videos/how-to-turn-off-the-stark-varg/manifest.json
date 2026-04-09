@@ -1,0 +1,38 @@
+{
+  "slug": "how-to-turn-off-the-stark-varg",
+  "title": "How to TURN OFF the Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=PWP1QAd6Mcw",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-turn-off-the-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_stabilize-the-bike-before-powering-down"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_locate-the-power-off-control"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_switch-the-bike-off"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_confirm-the-bike-has-shut-off"
+    }
+  ]
+}

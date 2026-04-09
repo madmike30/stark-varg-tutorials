@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-right-side-plate-stark-varg",
+  "title": "Remove and Install right Side Plate - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=30UH5FZOhwA",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-right-side-plate-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 35,
+      "name": "step_01_prepare-access-to-the-right-side-plate"
+    },
+    {
+      "timestamp": 69,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-right-side-pla"
+    },
+    {
+      "timestamp": 103,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-right-s"
+    },
+    {
+      "timestamp": 137,
+      "name": "step_04_remove-the-right-side-plate-from-the-bike"
+    },
+    {
+      "timestamp": 171,
+      "name": "step_05_position-the-right-side-plate-for-installation"
+    },
+    {
+      "timestamp": 205,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-right-side-pla"
+    },
+    {
+      "timestamp": 239,
+      "name": "step_07_install-the-retaining-hardware-for-the-right-side-plate"
+    },
+    {
+      "timestamp": 273,
+      "name": "step_08_verify-the-completed-installation-of-the-right-side-plate"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "how-to-charge-the-stark-varg",
+  "title": "How to CHARGE the Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=o2_6Vm1RVm4",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-charge-the-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 9,
+      "name": "step_01_prepare-the-bike-and-charger"
+    },
+    {
+      "timestamp": 17,
+      "name": "step_02_open-or-access-the-charging-port"
+    },
+    {
+      "timestamp": 25,
+      "name": "step_03_connect-the-charger-to-the-bike"
+    },
+    {
+      "timestamp": 33,
+      "name": "step_04_connect-power-and-begin-charging"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_05_verify-charging-status"
+    },
+    {
+      "timestamp": 49,
+      "name": "step_06_disconnect-safely-after-charging"
+    }
+  ]
+}

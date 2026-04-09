@@ -1,6 +1,1042 @@
 {
   "tutorials": [
     {
+      "slug": "bleeding-the-cooling-system-stark-varg",
+      "title": "Bleeding the Cooling System",
+      "full_title": "Bleeding the Cooling System - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/bleeding-the-cooling-system-stark-varg/output/pdf/bleeding-the-cooling-system-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=dZMHxFu8dU4"
+    },
+    {
+      "slug": "gear-oil-change-stark-varg",
+      "title": "Gear Oil Change",
+      "full_title": "Gear Oil Change - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/gear-oil-change-stark-varg/output/pdf/gear-oil-change-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=24lAXWuuTGI"
+    },
+    {
+      "slug": "how-to-charge-the-stark-varg",
+      "title": "How to CHARGE",
+      "full_title": "How to CHARGE the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-charge-the-stark-varg/output/pdf/how-to-charge-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=o2_6Vm1RVm4"
+    },
+    {
+      "slug": "how-to-disengage-the-stark-varg",
+      "title": "How to DISENGAGE",
+      "full_title": "How to DISENGAGE the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-disengage-the-stark-varg/output/pdf/how-to-disengage-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=5eBYcjnS6rc"
+    },
+    {
+      "slug": "how-to-engage-the-stark-varg",
+      "title": "How to ENGAGE",
+      "full_title": "How to ENGAGE the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-engage-the-stark-varg/output/pdf/how-to-engage-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=F7qdjtaOKJ8"
+    },
+    {
+      "slug": "how-to-shutdown-the-stark-varg",
+      "title": "How to SHUTDOWN",
+      "full_title": "How to SHUTDOWN the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-shutdown-the-stark-varg/output/pdf/how-to-shutdown-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=3iA8mMst4mw"
+    },
+    {
+      "slug": "how-to-turn-off-the-stark-varg",
+      "title": "How to TURN OFF",
+      "full_title": "How to TURN OFF the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-turn-off-the-stark-varg/output/pdf/how-to-turn-off-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=PWP1QAd6Mcw"
+    },
+    {
+      "slug": "how-to-turn-on-the-stark-varg",
+      "title": "How to TURN ON",
+      "full_title": "How to TURN ON the Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-turn-on-the-stark-varg/output/pdf/how-to-turn-on-the-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=gs0BOhZ20Sw"
+    },
+    {
+      "slug": "how-to-unbox-the-stark-varg-mx",
+      "title": "How to Unbox",
+      "full_title": "How to Unbox the Stark VARG MX",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-unbox-the-stark-varg-mx/output/pdf/how-to-unbox-the-stark-varg-mx.pdf",
+      "video_url": "https://www.youtube.com/watch?v=NN7uaOUArxw"
+    },
+    {
+      "slug": "how-to-update-the-stark-varg-software",
+      "title": "How to UPDATE the Stark VARG Software",
+      "full_title": "How to UPDATE the Stark VARG Software",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/how-to-update-the-stark-varg-software/output/pdf/how-to-update-the-stark-varg-software.pdf",
+      "video_url": "https://www.youtube.com/watch?v=LiSrJl6rhaI"
+    },
+    {
+      "slug": "remove-and-install-battery-stark-varg",
+      "title": "Remove and Install Battery",
+      "full_title": "Remove and Install Battery - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-battery-stark-varg/output/pdf/remove-and-install-battery-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=WtnSutMhIqE"
+    },
+    {
+      "slug": "remove-and-install-brake-pedal-stark-varg",
+      "title": "Remove and Install Brake Pedal",
+      "full_title": "Remove and Install Brake Pedal - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-brake-pedal-stark-varg/output/pdf/remove-and-install-brake-pedal-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=w7YDBJMmlqo"
+    },
+    {
+      "slug": "remove-and-install-charging-port-stark-varg",
+      "title": "Remove and Install Charging Port",
+      "full_title": "Remove and Install Charging Port - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-charging-port-stark-varg/output/pdf/remove-and-install-charging-port-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=2auwe312ncs"
+    },
+    {
+      "slug": "remove-and-install-control-switch-stark-varg",
+      "title": "Remove and Install Control Switch",
+      "full_title": "Remove and Install Control Switch - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-control-switch-stark-varg/output/pdf/remove-and-install-control-switch-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=2n49aoU9KEk"
+    },
+    {
+      "slug": "remove-and-install-docking-station-stark-varg",
+      "title": "Remove and Install Docking Station",
+      "full_title": "Remove and Install Docking Station - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-docking-station-stark-varg/output/pdf/remove-and-install-docking-station-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=-VddwbLEZko"
+    },
+    {
+      "slug": "remove-and-install-foot-brake-stark-varg",
+      "title": "Remove and Install Foot Brake",
+      "full_title": "Remove and Install Foot Brake - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-foot-brake-stark-varg/output/pdf/remove-and-install-foot-brake-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=2k2su-4IE58"
+    },
+    {
+      "slug": "remove-and-install-foot-brake-master-cylinder-stark-varg",
+      "title": "Remove and Install Foot Brake Master Cylinder",
+      "full_title": "Remove and Install Foot Brake Master Cylinder - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-foot-brake-master-cylinder-stark-varg/output/pdf/remove-and-install-foot-brake-master-cylinder-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=hk1tPRRr2gI"
+    },
+    {
+      "slug": "remove-and-install-forks-stark-varg",
+      "title": "Remove and Install Forks",
+      "full_title": "Remove and Install Forks - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-forks-stark-varg/output/pdf/remove-and-install-forks-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=g8WfkgsCqBI"
+    },
+    {
+      "slug": "remove-and-install-front-brake-assembly-stark-varg",
+      "title": "Remove and Install Front Brake Assembly",
+      "full_title": "Remove and Install Front Brake Assembly - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-assembly-stark-varg/output/pdf/remove-and-install-front-brake-assembly-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=HPDYJlpExLc"
+    },
+    {
+      "slug": "remove-and-install-front-brake-caliper-stark-varg",
+      "title": "Remove and Install Front Brake Caliper",
+      "full_title": "Remove and Install Front Brake Caliper - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-caliper-stark-varg/output/pdf/remove-and-install-front-brake-caliper-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=5zfVy-vV_9U"
+    },
+    {
+      "slug": "remove-and-install-front-brake-line-bracket-stark-varg",
+      "title": "Remove and Install Front Brake Line Bracket",
+      "full_title": "Remove and Install Front Brake Line Bracket - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-line-bracket-stark-varg/output/pdf/remove-and-install-front-brake-line-bracket-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=2pdAbQk4WKk"
+    },
+    {
+      "slug": "remove-and-install-front-fender-stark-varg",
+      "title": "Remove and Install Front Fender",
+      "full_title": "Remove and Install Front Fender - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-fender-stark-varg/output/pdf/remove-and-install-front-fender-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=K6fHIdZxBX8"
+    },
+    {
+      "slug": "remove-and-install-front-number-plate-stark-varg",
+      "title": "Remove and Install Front Number Plate",
+      "full_title": "Remove and Install Front Number Plate - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-number-plate-stark-varg/output/pdf/remove-and-install-front-number-plate-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=SFK_6b-PAXE"
+    },
+    {
+      "slug": "remove-and-install-front-wheel-stark-varg",
+      "title": "Remove and Install Front Wheel",
+      "full_title": "Remove and Install Front Wheel - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-wheel-stark-varg/output/pdf/remove-and-install-front-wheel-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=dymHVOlRNpg"
+    },
+    {
+      "slug": "remove-and-install-hand-brake-master-cylinder-stark-varg",
+      "title": "Remove and Install Hand Brake Master Cylinder",
+      "full_title": "Remove and Install Hand Brake Master Cylinder - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-hand-brake-master-cylinder-stark-varg/output/pdf/remove-and-install-hand-brake-master-cylinder-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=RATa3ZFhgU8"
+    },
+    {
+      "slug": "remove-and-install-handlebar-stark-varg",
+      "title": "Remove and Install Handlebar",
+      "full_title": "Remove and Install Handlebar - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-handlebar-stark-varg/output/pdf/remove-and-install-handlebar-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=hMoE3P0_q7E"
+    },
+    {
+      "slug": "remove-and-install-left-side-plate-stark-varg",
+      "title": "Remove and Install left Side Plate",
+      "full_title": "Remove and Install left Side Plate - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-left-side-plate-stark-varg/output/pdf/remove-and-install-left-side-plate-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=rAgHqT-u0PM"
+    },
+    {
+      "slug": "remove-and-install-pull-rod-stark-varg",
+      "title": "Remove and Install Pull Rod",
+      "full_title": "Remove and Install Pull Rod - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-pull-rod-stark-varg/output/pdf/remove-and-install-pull-rod-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=yNa4CXP0EMk"
+    },
+    {
+      "slug": "remove-and-install-rear-mud-flap-stark-varg",
+      "title": "Remove and Install Rear Mud Flap",
+      "full_title": "Remove and Install Rear Mud Flap - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-mud-flap-stark-varg/output/pdf/remove-and-install-rear-mud-flap-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=9CoUnXaVy3Q"
+    },
+    {
+      "slug": "remove-and-install-rear-shock-stark-varg",
+      "title": "Remove and Install Rear Shock",
+      "full_title": "Remove and Install Rear Shock - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-shock-stark-varg/output/pdf/remove-and-install-rear-shock-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=s-pQVWsXvz0"
+    },
+    {
+      "slug": "remove-and-install-rear-wheel-stark-varg",
+      "title": "Remove and Install Rear Wheel",
+      "full_title": "Remove and Install Rear Wheel - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-wheel-stark-varg/output/pdf/remove-and-install-rear-wheel-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=A4FPF4G-vMA"
+    },
+    {
+      "slug": "remove-and-install-right-side-plate-stark-varg",
+      "title": "Remove and Install right Side Plate",
+      "full_title": "Remove and Install right Side Plate - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-right-side-plate-stark-varg/output/pdf/remove-and-install-right-side-plate-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=30UH5FZOhwA"
+    },
+    {
+      "slug": "remove-and-install-rocker-arm-stark-varg",
+      "title": "Remove and Install Rocker Arm",
+      "full_title": "Remove and Install Rocker Arm - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-rocker-arm-stark-varg/output/pdf/remove-and-install-rocker-arm-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=SCClqTIzyI0"
+    },
+    {
+      "slug": "remove-and-install-side-stand-stark-varg",
+      "title": "Remove and Install Side Stand",
+      "full_title": "Remove and Install Side Stand - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-side-stand-stark-varg/output/pdf/remove-and-install-side-stand-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=Y32ZHBcOuaA"
+    },
+    {
+      "slug": "remove-and-install-skid-plate-stark-varg",
+      "title": "Remove and Install Skid Plate",
+      "full_title": "Remove and Install Skid Plate - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-skid-plate-stark-varg/output/pdf/remove-and-install-skid-plate-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=N0Fm4B5MsLw"
+    },
+    {
+      "slug": "remove-and-install-spoiler-assembly-stark-varg",
+      "title": "Remove and Install Spoiler Assembly",
+      "full_title": "Remove and Install Spoiler Assembly - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-spoiler-assembly-stark-varg/output/pdf/remove-and-install-spoiler-assembly-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=VXPgR7LWs-s"
+    },
+    {
+      "slug": "remove-and-install-stark-phone-stark-varg",
+      "title": "Remove and Install Stark Phone",
+      "full_title": "Remove and Install Stark Phone - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-stark-phone-stark-varg/output/pdf/remove-and-install-stark-phone-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=k9ScGrnVjWM"
+    },
+    {
+      "slug": "remove-and-install-swingarm-stark-future",
+      "title": "Remove and Install Swingarm - Stark Future",
+      "full_title": "Remove and Install Swingarm - Stark Future",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-swingarm-stark-future/output/pdf/remove-and-install-swingarm-stark-future.pdf",
+      "video_url": "https://www.youtube.com/watch?v=CerLvHreJ-Q"
+    },
+    {
+      "slug": "remove-and-install-the-power-train-unit-stark-varg",
+      "title": "Remove and Install the Power Train Unit",
+      "full_title": "Remove and Install the Power Train Unit - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-the-power-train-unit-stark-varg/output/pdf/remove-and-install-the-power-train-unit-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=wKgq2c-WlFs"
+    },
+    {
+      "slug": "remove-and-install-throttle-stark-varg",
+      "title": "Remove and Install Throttle",
+      "full_title": "Remove and Install Throttle - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-throttle-stark-varg/output/pdf/remove-and-install-throttle-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=zP623x53H-I"
+    },
+    {
+      "slug": "remove-and-install-top-steering-bearing-stark-varg",
+      "title": "Remove and Install Top Steering Bearing",
+      "full_title": "Remove and Install Top Steering Bearing - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-top-steering-bearing-stark-varg/output/pdf/remove-and-install-top-steering-bearing-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=uc9hPByhKIA"
+    },
+    {
+      "slug": "remove-and-install-vcu-stark-varg",
+      "title": "Remove and Install VCU",
+      "full_title": "Remove and Install VCU - Stark VARG",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-install-vcu-stark-varg/output/pdf/remove-and-install-vcu-stark-varg.pdf",
+      "video_url": "https://www.youtube.com/watch?v=gTeNcdEYqp4"
+    },
+    {
+      "slug": "remove-and-installing-chain",
+      "title": "Remove and installing chain",
+      "full_title": "Remove and installing chain",
+      "source_family": "MX",
+      "applicability_label": "MX",
+      "applicable_models": [
+        "MX"
+      ],
+      "pdf_url": "videos/remove-and-installing-chain/output/pdf/remove-and-installing-chain.pdf",
+      "video_url": "https://www.youtube.com/watch?v=zD5KW3tjKPg"
+    },
+    {
+      "slug": "how-to-bleed-the-cooling-system-stark-varg-mx-1-2",
+      "title": "How To Bleed The Cooling System",
+      "full_title": "How To Bleed The Cooling System - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/how-to-bleed-the-cooling-system-stark-varg-mx-1-2/output/pdf/how-to-bleed-the-cooling-system-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=iItNWwhdmEQ"
+    },
+    {
+      "slug": "how-to-gear-oil-change-stark-varg-mx-1-2",
+      "title": "How To Gear Oil Change",
+      "full_title": "How To Gear Oil Change - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/how-to-gear-oil-change-stark-varg-mx-1-2/output/pdf/how-to-gear-oil-change-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=MzsXAV4Ee1E"
+    },
+    {
+      "slug": "how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2",
+      "title": "How to Rear Brake Calliper Maintenance",
+      "full_title": "How to Rear Brake Calliper Maintenance - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2/output/pdf/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=WPdC1iC7LbQ"
+    },
+    {
+      "slug": "how-to-remove-and-install-the-vcu-on-your-stark-varg-mx1-2",
+      "title": "How to remove and install the VCU",
+      "full_title": "How to remove and install the VCU - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/how-to-remove-and-install-the-vcu-on-your-stark-varg-mx1-2/output/pdf/how-to-remove-and-install-the-vcu-on-your-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=QmTcjvOdRrY"
+    },
+    {
+      "slug": "remove-and-install-brake-pedal-stark-varg-mx-1-2",
+      "title": "Remove and Install Brake Pedal",
+      "full_title": "Remove and Install Brake Pedal - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-brake-pedal-stark-varg-mx-1-2/output/pdf/remove-and-install-brake-pedal-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=k-nXZX6ZC_s&list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW&index="
+    },
+    {
+      "slug": "remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2",
+      "title": "Remove and Install Carbon Fiber Spoiler",
+      "full_title": "Remove and Install Carbon Fiber Spoiler - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2/output/pdf/remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=BPgD2QsgliA"
+    },
+    {
+      "slug": "remove-and-install-chain-stark-varg-mx-1-2",
+      "title": "Remove and Install Chain",
+      "full_title": "Remove and Install Chain - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-chain-stark-varg-mx-1-2/output/pdf/remove-and-install-chain-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=tQw_BhAxjc4"
+    },
+    {
+      "slug": "remove-and-install-control-switch-stark-varg-mx-1-2",
+      "title": "Remove and Install Control Switch",
+      "full_title": "Remove and Install Control Switch - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-control-switch-stark-varg-mx-1-2/output/pdf/remove-and-install-control-switch-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=eYEhCEVRSfY"
+    },
+    {
+      "slug": "remove-and-install-countershaft-replacement-stark-varg-mx-1-2",
+      "title": "Remove and Install Countershaft Replacement",
+      "full_title": "Remove and Install Countershaft Replacement - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-countershaft-replacement-stark-varg-mx-1-2/output/pdf/remove-and-install-countershaft-replacement-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=N5_INHPwDQ0"
+    },
+    {
+      "slug": "remove-and-install-docking-station-stark-varg-mx-1-2",
+      "title": "Remove and Install Docking Station",
+      "full_title": "Remove and Install Docking Station - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-docking-station-stark-varg-mx-1-2/output/pdf/remove-and-install-docking-station-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=p3jrXkU519k"
+    },
+    {
+      "slug": "remove-and-install-footbrake-stark-varg-mx-1-2",
+      "title": "Remove and Install Footbrake",
+      "full_title": "Remove and Install Footbrake - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-footbrake-stark-varg-mx-1-2/output/pdf/remove-and-install-footbrake-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=JBqwHpLQ798"
+    },
+    {
+      "slug": "remove-and-install-footpegs-stark-varg-mx-1-2",
+      "title": "Remove and Install Footpegs",
+      "full_title": "Remove and Install Footpegs - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-footpegs-stark-varg-mx-1-2/output/pdf/remove-and-install-footpegs-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=3jf77p82xLY"
+    },
+    {
+      "slug": "remove-and-install-front-brake-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Brake",
+      "full_title": "Remove and Install Front Brake - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=pJ9P35kyWkI"
+    },
+    {
+      "slug": "remove-and-install-front-brake-caliper-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Brake Caliper",
+      "full_title": "Remove and Install Front Brake Caliper - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-caliper-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-caliper-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=QYF3S5mr1m8"
+    },
+    {
+      "slug": "remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Brake Master Cylinder",
+      "full_title": "Remove and Install Front Brake Master Cylinder - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=BZ6Wk-h8_fA"
+    },
+    {
+      "slug": "remove-and-install-front-number-plate-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Number Plate",
+      "full_title": "Remove and Install Front Number Plate - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-number-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-front-number-plate-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=5MwxP4-j-fg"
+    },
+    {
+      "slug": "remove-and-install-front-sprocket-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Sprocket",
+      "full_title": "Remove and Install Front Sprocket - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-sprocket-stark-varg-mx-1-2/output/pdf/remove-and-install-front-sprocket-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=m_4MPSopNKg"
+    },
+    {
+      "slug": "remove-and-install-front-wheel-stark-varg-mx-1-2",
+      "title": "Remove and Install Front Wheel",
+      "full_title": "Remove and Install Front Wheel - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-front-wheel-stark-varg-mx-1-2/output/pdf/remove-and-install-front-wheel-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=GLvPtIIWlus"
+    },
+    {
+      "slug": "remove-and-install-handlebar-stark-varg-mx-1-2",
+      "title": "Remove and Install Handlebar",
+      "full_title": "Remove and Install Handlebar - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-handlebar-stark-varg-mx-1-2/output/pdf/remove-and-install-handlebar-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=BDqmEHqy_vQ"
+    },
+    {
+      "slug": "remove-and-install-left-side-plate-stark-varg-mx-1-2",
+      "title": "Remove and Install Left Side Plate",
+      "full_title": "Remove and Install Left Side Plate - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-left-side-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-left-side-plate-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=n6UB5h2uEY4"
+    },
+    {
+      "slug": "remove-and-install-mud-flap-stark-varg-mx-1-2",
+      "title": "Remove and Install Mud Flap",
+      "full_title": "Remove and Install Mud Flap - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-mud-flap-stark-varg-mx-1-2/output/pdf/remove-and-install-mud-flap-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=Xw7sG88qKC8"
+    },
+    {
+      "slug": "remove-and-install-pull-rod-stark-varg-mx-1-2",
+      "title": "Remove and Install Pull Rod",
+      "full_title": "Remove and Install Pull Rod - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-pull-rod-stark-varg-mx-1-2/output/pdf/remove-and-install-pull-rod-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=6JpfQIFO_rE"
+    },
+    {
+      "slug": "remove-and-install-radiator-stark-varg-mx-1-2",
+      "title": "Remove and Install Radiator",
+      "full_title": "Remove and Install Radiator - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-radiator-stark-varg-mx-1-2/output/pdf/remove-and-install-radiator-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=NoN5L__G2m8"
+    },
+    {
+      "slug": "remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2",
+      "title": "Remove and Install Rear Brake Master Cylinder",
+      "full_title": "Remove and Install Rear Brake Master Cylinder - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=_zuf6jAthuo"
+    },
+    {
+      "slug": "remove-and-install-rear-fender-stark-varg-mx-1-2",
+      "title": "Remove and Install Rear Fender",
+      "full_title": "Remove and Install Rear Fender - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-fender-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-fender-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=tFFOnzXoS5U"
+    },
+    {
+      "slug": "remove-and-install-rear-hand-brake-stark-varg-mx-1-2",
+      "title": "Remove and Install Rear Hand Brake",
+      "full_title": "Remove and Install Rear Hand Brake - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-hand-brake-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-hand-brake-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=KCcWJrdij60"
+    },
+    {
+      "slug": "remove-and-install-rear-shock-stark-varg-mx-1-2",
+      "title": "Remove and Install Rear Shock",
+      "full_title": "Remove and Install Rear Shock - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-shock-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-shock-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=xsRjWXCPaLc"
+    },
+    {
+      "slug": "remove-and-install-rear-wheel-stark-varg-mx-1-2",
+      "title": "Remove and Install Rear Wheel",
+      "full_title": "Remove and Install Rear Wheel - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rear-wheel-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-wheel-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=pcqAfkvK998"
+    },
+    {
+      "slug": "remove-and-install-rockerarm-stark-varg-mx-1-2",
+      "title": "Remove and Install Rockerarm",
+      "full_title": "Remove and Install Rockerarm - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-rockerarm-stark-varg-mx-1-2/output/pdf/remove-and-install-rockerarm-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=0FoKLSbUFF4"
+    },
+    {
+      "slug": "remove-and-install-side-stand-stark-varg-mx-1-2",
+      "title": "Remove and Install Side Stand",
+      "full_title": "Remove and Install Side Stand - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-side-stand-stark-varg-mx-1-2/output/pdf/remove-and-install-side-stand-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=fdXu24nS1u8"
+    },
+    {
+      "slug": "remove-and-install-skidplate-stark-varg-mx-1-2",
+      "title": "Remove and Install Skidplate",
+      "full_title": "Remove and Install Skidplate - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-skidplate-stark-varg-mx-1-2/output/pdf/remove-and-install-skidplate-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=Mwtx8YGQqe8"
+    },
+    {
+      "slug": "remove-and-install-spoiler-stark-varg-mx-1-2",
+      "title": "Remove and Install Spoiler",
+      "full_title": "Remove and Install Spoiler - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-spoiler-stark-varg-mx-1-2/output/pdf/remove-and-install-spoiler-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=PepXYSDov4Y"
+    },
+    {
+      "slug": "remove-and-install-subframe-stark-varg-mx-1-2",
+      "title": "Remove and Install Subframe",
+      "full_title": "Remove and Install Subframe - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-subframe-stark-varg-mx-1-2/output/pdf/remove-and-install-subframe-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=BqxuHpaQHlE"
+    },
+    {
+      "slug": "remove-and-install-swingarm-stark-varg-mx-1-2",
+      "title": "Remove and Install Swingarm",
+      "full_title": "Remove and Install Swingarm - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-swingarm-stark-varg-mx-1-2/output/pdf/remove-and-install-swingarm-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=Cf8d7EqnRig"
+    },
+    {
+      "slug": "remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2",
+      "title": "Remove and Install The Arkenstone Phone",
+      "full_title": "Remove and Install The Arkenstone Phone - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2/output/pdf/remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=ZPb7d-8MR3o"
+    },
+    {
+      "slug": "remove-and-install-the-forks-stark-varg-mx-1-2",
+      "title": "Remove and Install The Forks",
+      "full_title": "Remove and Install The Forks - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-the-forks-stark-varg-mx-1-2/output/pdf/remove-and-install-the-forks-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=FoGSZn_VOdI"
+    },
+    {
+      "slug": "remove-and-install-the-right-side-plate-stark-varg-mx-1-2",
+      "title": "Remove and Install The Right Side Plate",
+      "full_title": "Remove and Install The Right Side Plate - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-the-right-side-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-the-right-side-plate-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=YB6k0gPqjXY"
+    },
+    {
+      "slug": "remove-and-install-throttle-stark-varg-mx-1-2",
+      "title": "Remove and Install Throttle",
+      "full_title": "Remove and Install Throttle - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-throttle-stark-varg-mx-1-2/output/pdf/remove-and-install-throttle-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=iWtOpqtUmMo"
+    },
+    {
+      "slug": "remove-and-install-water-pump-stark-varg-mx-1-2",
+      "title": "Remove and Install Water Pump",
+      "full_title": "Remove and Install Water Pump - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-water-pump-stark-varg-mx-1-2/output/pdf/remove-and-install-water-pump-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=aTduBP2kUcI"
+    },
+    {
+      "slug": "remove-and-install-wiring-harness-stark-varg-mx-1-2",
+      "title": "Remove and Install Wiring Harness",
+      "full_title": "Remove and Install Wiring Harness - Stark VARG MX 1.2 / EX",
+      "source_family": "MX 1.2",
+      "applicability_label": "MX 1.2 / EX",
+      "applicable_models": [
+        "MX 1.2",
+        "EX"
+      ],
+      "pdf_url": "videos/remove-and-install-wiring-harness-stark-varg-mx-1-2/output/pdf/remove-and-install-wiring-harness-stark-varg-mx-1-2.pdf",
+      "video_url": "https://www.youtube.com/watch?v=SW23dNSCWpA"
+    },
+    {
       "slug": "how-to-remove-and-install-the-foot-brake-sensor-on-your-stark-varg-ex",
       "title": "How to remove and install the Foot Brake Sensor",
       "full_title": "How to remove and install the Foot Brake Sensor on your Stark VARG EX",
@@ -146,7 +1182,7 @@
     },
     {
       "slug": "how-to-unbox-the-stark-varg-ex",
-      "title": "How to unbox the",
+      "title": "How to unbox",
       "full_title": "How to unbox the Stark Varg EX",
       "source_family": "EX",
       "applicability_label": "EX",
@@ -155,526 +1191,6 @@
       ],
       "pdf_url": "videos/how-to-unbox-the-stark-varg-ex/output/pdf/how-to-unbox-the-stark-varg-ex.pdf",
       "video_url": "https://www.youtube.com/watch?v=nBx43Dxl2og"
-    },
-    {
-      "slug": "how-to-bleed-the-cooling-system-stark-varg-mx-1-2",
-      "title": "How To Bleed The Cooling System",
-      "full_title": "How To Bleed The Cooling System - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/how-to-bleed-the-cooling-system-stark-varg-mx-1-2/output/pdf/how-to-bleed-the-cooling-system-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=iItNWwhdmEQ"
-    },
-    {
-      "slug": "how-to-gear-oil-change-stark-varg-mx-1-2",
-      "title": "How To Gear Oil Change",
-      "full_title": "How To Gear Oil Change - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/how-to-gear-oil-change-stark-varg-mx-1-2/output/pdf/how-to-gear-oil-change-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=MzsXAV4Ee1E"
-    },
-    {
-      "slug": "how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2",
-      "title": "How to Rear Brake Calliper Maintenance",
-      "full_title": "How to Rear Brake Calliper Maintenance - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2/output/pdf/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=WPdC1iC7LbQ"
-    },
-    {
-      "slug": "how-to-remove-and-install-the-vcu-on-your-stark-varg-mx1-2",
-      "title": "How to remove and install the VCU",
-      "full_title": "How to remove and install the VCU - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/how-to-remove-and-install-the-vcu-on-your-stark-varg-mx1-2/output/pdf/how-to-remove-and-install-the-vcu-on-your-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=QmTcjvOdRrY"
-    },
-    {
-      "slug": "remove-and-install-brake-pedal-stark-varg-mx-1-2",
-      "title": "Remove and Install Brake Pedal",
-      "full_title": "Remove and Install Brake Pedal - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-brake-pedal-stark-varg-mx-1-2/output/pdf/remove-and-install-brake-pedal-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=k-nXZX6ZC_s&list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW&index="
-    },
-    {
-      "slug": "remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2",
-      "title": "Remove and Install Carbon Fiber Spoiler",
-      "full_title": "Remove and Install Carbon Fiber Spoiler - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2/output/pdf/remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=BPgD2QsgliA"
-    },
-    {
-      "slug": "remove-and-install-chain-stark-varg-mx-1-2",
-      "title": "Remove and Install Chain",
-      "full_title": "Remove and Install Chain - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-chain-stark-varg-mx-1-2/output/pdf/remove-and-install-chain-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=tQw_BhAxjc4"
-    },
-    {
-      "slug": "remove-and-install-control-switch-stark-varg-mx-1-2",
-      "title": "Remove and Install Control Switch",
-      "full_title": "Remove and Install Control Switch - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-control-switch-stark-varg-mx-1-2/output/pdf/remove-and-install-control-switch-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=eYEhCEVRSfY"
-    },
-    {
-      "slug": "remove-and-install-countershaft-replacement-stark-varg-mx-1-2",
-      "title": "Remove and Install Countershaft Replacement",
-      "full_title": "Remove and Install Countershaft Replacement - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-countershaft-replacement-stark-varg-mx-1-2/output/pdf/remove-and-install-countershaft-replacement-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=N5_INHPwDQ0"
-    },
-    {
-      "slug": "remove-and-install-docking-station-stark-varg-mx-1-2",
-      "title": "Remove and Install Docking Station",
-      "full_title": "Remove and Install Docking Station - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-docking-station-stark-varg-mx-1-2/output/pdf/remove-and-install-docking-station-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=p3jrXkU519k"
-    },
-    {
-      "slug": "remove-and-install-footbrake-stark-varg-mx-1-2",
-      "title": "Remove and Install Footbrake",
-      "full_title": "Remove and Install Footbrake - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-footbrake-stark-varg-mx-1-2/output/pdf/remove-and-install-footbrake-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=JBqwHpLQ798"
-    },
-    {
-      "slug": "remove-and-install-footpegs-stark-varg-mx-1-2",
-      "title": "Remove and Install Footpegs",
-      "full_title": "Remove and Install Footpegs - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-footpegs-stark-varg-mx-1-2/output/pdf/remove-and-install-footpegs-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=3jf77p82xLY"
-    },
-    {
-      "slug": "remove-and-install-front-brake-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Brake",
-      "full_title": "Remove and Install Front Brake - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-brake-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=pJ9P35kyWkI"
-    },
-    {
-      "slug": "remove-and-install-front-brake-caliper-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Brake Caliper",
-      "full_title": "Remove and Install Front Brake Caliper - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-brake-caliper-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-caliper-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=QYF3S5mr1m8"
-    },
-    {
-      "slug": "remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Brake Master Cylinder",
-      "full_title": "Remove and Install Front Brake Master Cylinder - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2/output/pdf/remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=BZ6Wk-h8_fA"
-    },
-    {
-      "slug": "remove-and-install-front-number-plate-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Number Plate",
-      "full_title": "Remove and Install Front Number Plate - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-number-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-front-number-plate-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=5MwxP4-j-fg"
-    },
-    {
-      "slug": "remove-and-install-front-sprocket-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Sprocket",
-      "full_title": "Remove and Install Front Sprocket - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-sprocket-stark-varg-mx-1-2/output/pdf/remove-and-install-front-sprocket-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=m_4MPSopNKg"
-    },
-    {
-      "slug": "remove-and-install-front-wheel-stark-varg-mx-1-2",
-      "title": "Remove and Install Front Wheel",
-      "full_title": "Remove and Install Front Wheel - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-front-wheel-stark-varg-mx-1-2/output/pdf/remove-and-install-front-wheel-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=GLvPtIIWlus"
-    },
-    {
-      "slug": "remove-and-install-handlebar-stark-varg-mx-1-2",
-      "title": "Remove and Install Handlebar",
-      "full_title": "Remove and Install Handlebar - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-handlebar-stark-varg-mx-1-2/output/pdf/remove-and-install-handlebar-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=BDqmEHqy_vQ"
-    },
-    {
-      "slug": "remove-and-install-left-side-plate-stark-varg-mx-1-2",
-      "title": "Remove and Install Left Side Plate",
-      "full_title": "Remove and Install Left Side Plate - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-left-side-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-left-side-plate-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=n6UB5h2uEY4"
-    },
-    {
-      "slug": "remove-and-install-mud-flap-stark-varg-mx-1-2",
-      "title": "Remove and Install Mud Flap",
-      "full_title": "Remove and Install Mud Flap - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-mud-flap-stark-varg-mx-1-2/output/pdf/remove-and-install-mud-flap-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=Xw7sG88qKC8"
-    },
-    {
-      "slug": "remove-and-install-pull-rod-stark-varg-mx-1-2",
-      "title": "Remove and Install Pull Rod",
-      "full_title": "Remove and Install Pull Rod - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-pull-rod-stark-varg-mx-1-2/output/pdf/remove-and-install-pull-rod-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=6JpfQIFO_rE"
-    },
-    {
-      "slug": "remove-and-install-radiator-stark-varg-mx-1-2",
-      "title": "Remove and Install Radiator",
-      "full_title": "Remove and Install Radiator - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-radiator-stark-varg-mx-1-2/output/pdf/remove-and-install-radiator-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=NoN5L__G2m8"
-    },
-    {
-      "slug": "remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2",
-      "title": "Remove and Install Rear Brake Master Cylinder",
-      "full_title": "Remove and Install Rear Brake Master Cylinder - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=_zuf6jAthuo"
-    },
-    {
-      "slug": "remove-and-install-rear-fender-stark-varg-mx-1-2",
-      "title": "Remove and Install Rear Fender",
-      "full_title": "Remove and Install Rear Fender - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rear-fender-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-fender-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=tFFOnzXoS5U"
-    },
-    {
-      "slug": "remove-and-install-rear-hand-brake-stark-varg-mx-1-2",
-      "title": "Remove and Install Rear Hand Brake",
-      "full_title": "Remove and Install Rear Hand Brake - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rear-hand-brake-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-hand-brake-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=KCcWJrdij60"
-    },
-    {
-      "slug": "remove-and-install-rear-shock-stark-varg-mx-1-2",
-      "title": "Remove and Install Rear Shock",
-      "full_title": "Remove and Install Rear Shock - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rear-shock-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-shock-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=xsRjWXCPaLc"
-    },
-    {
-      "slug": "remove-and-install-rear-wheel-stark-varg-mx-1-2",
-      "title": "Remove and Install Rear Wheel",
-      "full_title": "Remove and Install Rear Wheel - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rear-wheel-stark-varg-mx-1-2/output/pdf/remove-and-install-rear-wheel-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=pcqAfkvK998"
-    },
-    {
-      "slug": "remove-and-install-rockerarm-stark-varg-mx-1-2",
-      "title": "Remove and Install Rockerarm",
-      "full_title": "Remove and Install Rockerarm - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-rockerarm-stark-varg-mx-1-2/output/pdf/remove-and-install-rockerarm-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=0FoKLSbUFF4"
-    },
-    {
-      "slug": "remove-and-install-side-stand-stark-varg-mx-1-2",
-      "title": "Remove and Install Side Stand",
-      "full_title": "Remove and Install Side Stand - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-side-stand-stark-varg-mx-1-2/output/pdf/remove-and-install-side-stand-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=fdXu24nS1u8"
-    },
-    {
-      "slug": "remove-and-install-skidplate-stark-varg-mx-1-2",
-      "title": "Remove and Install Skidplate",
-      "full_title": "Remove and Install Skidplate - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-skidplate-stark-varg-mx-1-2/output/pdf/remove-and-install-skidplate-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=Mwtx8YGQqe8"
-    },
-    {
-      "slug": "remove-and-install-spoiler-stark-varg-mx-1-2",
-      "title": "Remove and Install Spoiler",
-      "full_title": "Remove and Install Spoiler - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-spoiler-stark-varg-mx-1-2/output/pdf/remove-and-install-spoiler-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=PepXYSDov4Y"
-    },
-    {
-      "slug": "remove-and-install-subframe-stark-varg-mx-1-2",
-      "title": "Remove and Install Subframe",
-      "full_title": "Remove and Install Subframe - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-subframe-stark-varg-mx-1-2/output/pdf/remove-and-install-subframe-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=BqxuHpaQHlE"
-    },
-    {
-      "slug": "remove-and-install-swingarm-stark-varg-mx-1-2",
-      "title": "Remove and Install Swingarm",
-      "full_title": "Remove and Install Swingarm - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-swingarm-stark-varg-mx-1-2/output/pdf/remove-and-install-swingarm-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=Cf8d7EqnRig"
-    },
-    {
-      "slug": "remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2",
-      "title": "Remove and Install The Arkenstone Phone",
-      "full_title": "Remove and Install The Arkenstone Phone - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2/output/pdf/remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=ZPb7d-8MR3o"
-    },
-    {
-      "slug": "remove-and-install-the-forks-stark-varg-mx-1-2",
-      "title": "Remove and Install The Forks",
-      "full_title": "Remove and Install The Forks - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-the-forks-stark-varg-mx-1-2/output/pdf/remove-and-install-the-forks-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=FoGSZn_VOdI"
-    },
-    {
-      "slug": "remove-and-install-the-right-side-plate-stark-varg-mx-1-2",
-      "title": "Remove and Install The Right Side Plate",
-      "full_title": "Remove and Install The Right Side Plate - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-the-right-side-plate-stark-varg-mx-1-2/output/pdf/remove-and-install-the-right-side-plate-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=YB6k0gPqjXY"
-    },
-    {
-      "slug": "remove-and-install-throttle-stark-varg-mx-1-2",
-      "title": "Remove and Install Throttle",
-      "full_title": "Remove and Install Throttle - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-throttle-stark-varg-mx-1-2/output/pdf/remove-and-install-throttle-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=iWtOpqtUmMo"
-    },
-    {
-      "slug": "remove-and-install-water-pump-stark-varg-mx-1-2",
-      "title": "Remove and Install Water Pump",
-      "full_title": "Remove and Install Water Pump - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-water-pump-stark-varg-mx-1-2/output/pdf/remove-and-install-water-pump-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=aTduBP2kUcI"
-    },
-    {
-      "slug": "remove-and-install-wiring-harness-stark-varg-mx-1-2",
-      "title": "Remove and Install Wiring Harness",
-      "full_title": "Remove and Install Wiring Harness - Stark VARG MX 1.2 / EX",
-      "source_family": "MX",
-      "applicability_label": "MX 1.2 / EX",
-      "applicable_models": [
-        "MX 1.2",
-        "EX"
-      ],
-      "pdf_url": "videos/remove-and-install-wiring-harness-stark-varg-mx-1-2/output/pdf/remove-and-install-wiring-harness-stark-varg-mx-1-2.pdf",
-      "video_url": "https://www.youtube.com/watch?v=SW23dNSCWpA"
     }
   ]
 }

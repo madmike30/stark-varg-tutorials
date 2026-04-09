@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-installing-chain",
+  "title": "Remove and installing chain",
+  "video_url": "https://www.youtube.com/watch?v=zD5KW3tjKPg",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-installing-chain.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 10,
+      "name": "step_01_prepare-access-to-the-remove-and-installing-chain"
+    },
+    {
+      "timestamp": 19,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-remove-and-ins"
+    },
+    {
+      "timestamp": 28,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-remove-"
+    },
+    {
+      "timestamp": 37,
+      "name": "step_04_remove-the-remove-and-installing-chain-from-the-bike"
+    },
+    {
+      "timestamp": 46,
+      "name": "step_05_position-the-remove-and-installing-chain-for-installation"
+    },
+    {
+      "timestamp": 55,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-remove-and-ins"
+    },
+    {
+      "timestamp": 64,
+      "name": "step_07_install-the-retaining-hardware-for-the-remove-and-installing"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_08_verify-the-completed-installation-of-the-remove-and-installi"
+    }
+  ]
+}

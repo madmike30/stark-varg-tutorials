@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-pull-rod-stark-varg",
+  "title": "Remove and Install Pull Rod - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=yNa4CXP0EMk",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-pull-rod-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 23,
+      "name": "step_01_prepare-access-to-the-pull-rod"
+    },
+    {
+      "timestamp": 45,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-pull-rod"
+    },
+    {
+      "timestamp": 67,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-pull-ro"
+    },
+    {
+      "timestamp": 89,
+      "name": "step_04_remove-the-pull-rod-from-the-bike"
+    },
+    {
+      "timestamp": 111,
+      "name": "step_05_position-the-pull-rod-for-installation"
+    },
+    {
+      "timestamp": 133,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-pull-rod"
+    },
+    {
+      "timestamp": 155,
+      "name": "step_07_install-the-retaining-hardware-for-the-pull-rod"
+    },
+    {
+      "timestamp": 177,
+      "name": "step_08_verify-the-completed-installation-of-the-pull-rod"
+    }
+  ]
+}

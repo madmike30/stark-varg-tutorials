@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-front-brake-caliper-stark-varg",
+  "title": "Remove and Install Front Brake Caliper - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=5zfVy-vV_9U",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-front-brake-caliper-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 7,
+      "name": "step_01_prepare-access-to-the-front-brake-caliper"
+    },
+    {
+      "timestamp": 13,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-brake-ca"
+    },
+    {
+      "timestamp": 19,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b"
+    },
+    {
+      "timestamp": 25,
+      "name": "step_04_remove-the-front-brake-caliper-from-the-bike"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_05_position-the-front-brake-caliper-for-installation"
+    },
+    {
+      "timestamp": 37,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-ca"
+    },
+    {
+      "timestamp": 43,
+      "name": "step_07_install-the-retaining-hardware-for-the-front-brake-caliper"
+    },
+    {
+      "timestamp": 49,
+      "name": "step_08_verify-the-completed-installation-of-the-front-brake-caliper"
+    }
+  ]
+}

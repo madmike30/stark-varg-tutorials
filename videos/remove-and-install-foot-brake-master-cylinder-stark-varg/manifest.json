@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-foot-brake-master-cylinder-stark-varg",
+  "title": "Remove and Install Foot Brake Master Cylinder - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=hk1tPRRr2gI",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-foot-brake-master-cylinder-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 8,
+      "name": "step_01_prepare-access-to-the-foot-brake-master-cylinder"
+    },
+    {
+      "timestamp": 15,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-foot-brake-mas"
+    },
+    {
+      "timestamp": 22,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-foot-br"
+    },
+    {
+      "timestamp": 29,
+      "name": "step_04_remove-the-foot-brake-master-cylinder-from-the-bike"
+    },
+    {
+      "timestamp": 36,
+      "name": "step_05_position-the-foot-brake-master-cylinder-for-installation"
+    },
+    {
+      "timestamp": 43,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-foot-brake-mas"
+    },
+    {
+      "timestamp": 50,
+      "name": "step_07_install-the-retaining-hardware-for-the-foot-brake-master-cyl"
+    },
+    {
+      "timestamp": 57,
+      "name": "step_08_verify-the-completed-installation-of-the-foot-brake-master-c"
+    }
+  ]
+}

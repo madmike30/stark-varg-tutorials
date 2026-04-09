@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-rear-wheel-stark-varg",
+  "title": "Remove and Install Rear Wheel - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=A4FPF4G-vMA",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-rear-wheel-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 10,
+      "name": "step_01_prepare-access-to-the-rear-wheel"
+    },
+    {
+      "timestamp": 19,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-rear-wheel"
+    },
+    {
+      "timestamp": 28,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-wh"
+    },
+    {
+      "timestamp": 37,
+      "name": "step_04_remove-the-rear-wheel-from-the-bike"
+    },
+    {
+      "timestamp": 46,
+      "name": "step_05_position-the-rear-wheel-for-installation"
+    },
+    {
+      "timestamp": 55,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-rear-wheel"
+    },
+    {
+      "timestamp": 64,
+      "name": "step_07_install-the-retaining-hardware-for-the-rear-wheel"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_08_verify-the-completed-installation-of-the-rear-wheel"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-docking-station-stark-varg",
+  "title": "Remove and Install Docking Station - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=-VddwbLEZko",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-docking-station-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 13,
+      "name": "step_01_prepare-access-to-the-docking-station"
+    },
+    {
+      "timestamp": 25,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-docking-statio"
+    },
+    {
+      "timestamp": 37,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-docking"
+    },
+    {
+      "timestamp": 49,
+      "name": "step_04_remove-the-docking-station-from-the-bike"
+    },
+    {
+      "timestamp": 61,
+      "name": "step_05_position-the-docking-station-for-installation"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-docking-statio"
+    },
+    {
+      "timestamp": 85,
+      "name": "step_07_install-the-retaining-hardware-for-the-docking-station"
+    },
+    {
+      "timestamp": 97,
+      "name": "step_08_verify-the-completed-installation-of-the-docking-station"
+    }
+  ]
+}

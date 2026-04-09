@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-front-number-plate-stark-varg",
+  "title": "Remove and Install Front Number Plate - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=SFK_6b-PAXE",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-front-number-plate-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_prepare-access-to-the-front-number-plate"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-number-p"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-n"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_remove-the-front-number-plate-from-the-bike"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_05_position-the-front-number-plate-for-installation"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-number-p"
+    },
+    {
+      "timestamp": 36,
+      "name": "step_07_install-the-retaining-hardware-for-the-front-number-plate"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_08_verify-the-completed-installation-of-the-front-number-plate"
+    }
+  ]
+}

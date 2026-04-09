@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-top-steering-bearing-stark-varg",
+  "title": "Remove and Install Top Steering Bearing - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=uc9hPByhKIA",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-top-steering-bearing-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 56,
+      "name": "step_01_prepare-access-to-the-top-steering-bearing"
+    },
+    {
+      "timestamp": 111,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-top-steering-b"
+    },
+    {
+      "timestamp": 166,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-top-ste"
+    },
+    {
+      "timestamp": 221,
+      "name": "step_04_remove-the-top-steering-bearing-from-the-bike"
+    },
+    {
+      "timestamp": 276,
+      "name": "step_05_position-the-top-steering-bearing-for-installation"
+    },
+    {
+      "timestamp": 331,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-top-steering-b"
+    },
+    {
+      "timestamp": 386,
+      "name": "step_07_install-the-retaining-hardware-for-the-top-steering-bearing"
+    },
+    {
+      "timestamp": 441,
+      "name": "step_08_verify-the-completed-installation-of-the-top-steering-bearin"
+    }
+  ]
+}

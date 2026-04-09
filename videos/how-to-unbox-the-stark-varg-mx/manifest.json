@@ -1,0 +1,50 @@
+{
+  "slug": "how-to-unbox-the-stark-varg-mx",
+  "title": "How to Unbox the Stark VARG MX",
+  "video_url": "https://www.youtube.com/watch?v=NN7uaOUArxw",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-unbox-the-stark-varg-mx.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 65,
+      "name": "step_01_inspect-the-shipping-package"
+    },
+    {
+      "timestamp": 129,
+      "name": "step_02_remove-the-outer-packaging"
+    },
+    {
+      "timestamp": 193,
+      "name": "step_03_release-the-crate-fasteners-and-supports"
+    },
+    {
+      "timestamp": 257,
+      "name": "step_04_remove-the-bike-from-the-crate"
+    },
+    {
+      "timestamp": 321,
+      "name": "step_05_install-the-supplied-setup-parts"
+    },
+    {
+      "timestamp": 385,
+      "name": "step_06_secure-the-setup-hardware"
+    },
+    {
+      "timestamp": 449,
+      "name": "step_07_complete-the-final-setup-inspection"
+    }
+  ]
+}

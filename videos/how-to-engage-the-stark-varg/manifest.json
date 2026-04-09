@@ -1,0 +1,42 @@
+{
+  "slug": "how-to-engage-the-stark-varg",
+  "title": "How to ENGAGE the Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=F7qdjtaOKJ8",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-engage-the-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_prepare-the-bike-for-engagement"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_select-the-engagement-control"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_engage-the-drive-system"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_check-the-bike-is-engaged"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_05_confirm-the-bike-is-stable-before-moving"
+    }
+  ]
+}

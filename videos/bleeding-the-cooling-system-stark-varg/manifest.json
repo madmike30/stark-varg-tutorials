@@ -1,0 +1,54 @@
+{
+  "slug": "bleeding-the-cooling-system-stark-varg",
+  "title": "Bleeding the Cooling System - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=dZMHxFu8dU4",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/bleeding-the-cooling-system-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 17,
+      "name": "step_01_prepare-access-to-the-cooling-system"
+    },
+    {
+      "timestamp": 33,
+      "name": "step_02_position-a-container-for-drained-coolant"
+    },
+    {
+      "timestamp": 49,
+      "name": "step_03_open-the-cooling-system-service-points"
+    },
+    {
+      "timestamp": 65,
+      "name": "step_04_drain-and-refill-the-coolant-circuit"
+    },
+    {
+      "timestamp": 81,
+      "name": "step_05_cycle-the-system-to-purge-trapped-air"
+    },
+    {
+      "timestamp": 97,
+      "name": "step_06_top-off-and-close-the-cooling-system"
+    },
+    {
+      "timestamp": 113,
+      "name": "step_07_reinstall-the-removed-bodywork"
+    },
+    {
+      "timestamp": 129,
+      "name": "step_08_check-for-leaks-and-correct-level"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-side-stand-stark-varg",
+  "title": "Remove and Install Side Stand - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=Y32ZHBcOuaA",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-side-stand-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 14,
+      "name": "step_01_prepare-access-to-the-side-stand"
+    },
+    {
+      "timestamp": 27,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-side-stand"
+    },
+    {
+      "timestamp": 40,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-side-st"
+    },
+    {
+      "timestamp": 53,
+      "name": "step_04_remove-the-side-stand-from-the-bike"
+    },
+    {
+      "timestamp": 66,
+      "name": "step_05_position-the-side-stand-for-installation"
+    },
+    {
+      "timestamp": 79,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-side-stand"
+    },
+    {
+      "timestamp": 92,
+      "name": "step_07_install-the-retaining-hardware-for-the-side-stand"
+    },
+    {
+      "timestamp": 105,
+      "name": "step_08_verify-the-completed-installation-of-the-side-stand"
+    }
+  ]
+}

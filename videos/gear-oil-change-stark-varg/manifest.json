@@ -1,0 +1,54 @@
+{
+  "slug": "gear-oil-change-stark-varg",
+  "title": "Gear Oil Change - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=24lAXWuuTGI",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/gear-oil-change-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 22,
+      "name": "step_01_prepare-access-to-the-gear-oil-service-points"
+    },
+    {
+      "timestamp": 43,
+      "name": "step_02_position-a-container-under-the-drain-point"
+    },
+    {
+      "timestamp": 64,
+      "name": "step_03_open-the-fill-and-drain-points"
+    },
+    {
+      "timestamp": 85,
+      "name": "step_04_drain-the-old-gear-oil"
+    },
+    {
+      "timestamp": 106,
+      "name": "step_05_reinstall-the-drain-hardware"
+    },
+    {
+      "timestamp": 127,
+      "name": "step_06_refill-with-fresh-gear-oil"
+    },
+    {
+      "timestamp": 148,
+      "name": "step_07_close-the-fill-point-and-clean-the-area"
+    },
+    {
+      "timestamp": 169,
+      "name": "step_08_reinstall-removed-parts-and-inspect-for-leaks"
+    }
+  ]
+}

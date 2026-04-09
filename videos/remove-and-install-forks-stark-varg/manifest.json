@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-forks-stark-varg",
+  "title": "Remove and Install Forks - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=g8WfkgsCqBI",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-forks-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 24,
+      "name": "step_01_prepare-access-to-the-forks"
+    },
+    {
+      "timestamp": 47,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-forks"
+    },
+    {
+      "timestamp": 70,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-forks"
+    },
+    {
+      "timestamp": 93,
+      "name": "step_04_remove-the-forks-from-the-bike"
+    },
+    {
+      "timestamp": 116,
+      "name": "step_05_position-the-forks-for-installation"
+    },
+    {
+      "timestamp": 139,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-forks"
+    },
+    {
+      "timestamp": 162,
+      "name": "step_07_install-the-retaining-hardware-for-the-forks"
+    },
+    {
+      "timestamp": 185,
+      "name": "step_08_verify-the-completed-installation-of-the-forks"
+    }
+  ]
+}

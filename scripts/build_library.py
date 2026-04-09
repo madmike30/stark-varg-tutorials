@@ -18,11 +18,24 @@ VIDEOS_DIR = ROOT / "videos"
 
 PLAYLISTS = [
     {
+        "url": "https://www.youtube.com/playlist?list=PLkap5aPwLLRBoeCpkpNh-ayt6BO0oiq2y",
+        "label": "mx-original",
+        "title": "Stark VARG MX Tutorials",
+        "manual_name": "Stark-VARG-MX-Tutorials-And-Technical",
+        "manual_url": "https://starkfuture.com/en-IL/tutorials-and-technical",
+        "source_family": "MX",
+        "applicability_label": "MX",
+        "applicable_models": ["MX"],
+    },
+    {
         "url": "https://www.youtube.com/playlist?list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW",
-        "label": "mx",
+        "label": "mx-1-2-shared",
         "title": "Stark VARG MX 1.2 / EX Shared Tutorials",
         "manual_name": "Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf",
         "manual_url": "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf",
+        "source_family": "MX 1.2",
+        "applicability_label": "MX 1.2 / EX",
+        "applicable_models": ["MX 1.2", "EX"],
     },
     {
         "url": "https://www.youtube.com/playlist?list=PLkap5aPwLLRCEirHu95EHvDsCDujl3ia_",
@@ -30,6 +43,9 @@ PLAYLISTS = [
         "title": "Stark VARG EX Tutorials",
         "manual_name": "Stark-VARG-EX-Owners-Manual-ENG-2025-02.pdf",
         "manual_url": "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf",
+        "source_family": "EX",
+        "applicability_label": "EX",
+        "applicable_models": ["EX"],
     },
 ]
 
@@ -56,6 +72,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build Stark tutorial library content from playlist videos.")
     parser.add_argument("--limit-per-playlist", type=int, default=0, help="Optional limit for testing.")
     parser.add_argument("--skip-existing", action="store_true", help="Skip videos that already have a tutorial and PDF.")
+    parser.add_argument("--playlist-label", action="append", dest="playlist_labels", help="Only process the matching playlist label(s).")
     return parser.parse_args()
 
 
@@ -143,16 +160,42 @@ def spaced_stark_model(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def is_ex_specific_title(title: str) -> bool:
-    return "stark varg ex" in spaced_stark_model(title).lower()
+def infer_metadata_from_title(title: str) -> dict:
+    normalized = spaced_stark_model(title).lower()
+    if "stark varg ex" in normalized:
+        playlist = next(item for item in PLAYLISTS if item["label"] == "ex")
+    elif "mx 1.2 / ex" in normalized or "stark varg mx 1.2" in normalized:
+        playlist = next(item for item in PLAYLISTS if item["label"] == "mx-1-2-shared")
+    else:
+        playlist = next(item for item in PLAYLISTS if item["label"] == "mx-original")
+    return {
+        "source_family": playlist["source_family"],
+        "applicability_label": playlist["applicability_label"],
+        "applicable_models": playlist["applicable_models"][:],
+        "playlist_title": playlist["title"],
+    }
+
+
+def metadata_from_manifest(manifest: dict, fallback_title: str = "") -> dict:
+    title = manifest.get("title", fallback_title)
+    metadata = infer_metadata_from_title(title)
+    if manifest.get("source_family"):
+        metadata["source_family"] = manifest["source_family"]
+    if manifest.get("applicability_label"):
+        metadata["applicability_label"] = manifest["applicability_label"]
+    if manifest.get("applicable_models"):
+        metadata["applicable_models"] = list(manifest["applicable_models"])
+    if manifest.get("playlist_title"):
+        metadata["playlist_title"] = manifest["playlist_title"]
+    return metadata
 
 
 def applicability_label_for_title(title: str) -> str:
-    return "EX" if is_ex_specific_title(title) else "MX 1.2 / EX"
+    return infer_metadata_from_title(title)["applicability_label"]
 
 
 def source_family_for_title(title: str) -> str:
-    return "EX" if is_ex_specific_title(title) else "MX"
+    return infer_metadata_from_title(title)["source_family"]
 
 
 def compact_spacing_around_punctuation(text: str) -> str:
@@ -165,6 +208,10 @@ def compact_spacing_around_punctuation(text: str) -> str:
 def strip_model_suffix(title: str) -> str:
     title = compact_spacing_around_punctuation(spaced_stark_model(title))
     patterns = (
+        r"\s*-\s*Stark VARG MX\s*$",
+        r"\s*Stark VARG MX\s*$",
+        r"\s*-\s*Stark VARG\s*$",
+        r"\s*Stark VARG\s*$",
         r"\s*-\s*Stark VARG MX 1\.2\s*/\s*EX\s*$",
         r"\s*Stark VARG MX 1\.2\s*/\s*EX\s*$",
         r"\s*-\s*Stark VARG MX 1\.2\s*$",
@@ -178,8 +225,11 @@ def strip_model_suffix(title: str) -> str:
             if next_title != title:
                 title = next_title
                 changed = True
+    title = re.sub(r"\s+the\s+Stark VARG MX\s*$", "", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s+the\s+Stark VARG\s*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\s*on your Stark VARG EX\s*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\s*Stark Varg EX\s*$", "", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s+(?:the|your)\s*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\s*-\s*$", "", title)
     return compact_spacing_around_punctuation(title)
 
@@ -274,6 +324,147 @@ def build_unboxing_steps(duration_seconds: int) -> list[Step]:
     return steps
 
 
+def build_visual_sequence(titles_and_bodies: list[tuple[str, list[str]]], duration_seconds: int) -> list[Step]:
+    interval = max(5, duration_seconds // (len(titles_and_bodies) + 1))
+    steps: list[Step] = []
+    for index, (title, body_lines) in enumerate(titles_and_bodies, start=1):
+        steps.append(
+            Step(
+                index=index,
+                start=float(interval * index),
+                duration=float(interval),
+                title=title,
+                body_lines=body_lines,
+                screenshot_name=f"step_{index:02d}_{slugify(title)[:60]}",
+                mode="visual",
+            )
+        )
+    return steps
+
+
+def build_turn_on_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Stabilize the bike before power-up", ["Place the bike in a stable position and make sure the controls and surrounding area are clear before switching it on."]),
+            ("Locate the main power control", ["Use the control shown in the video to begin the startup sequence for the bike."]),
+            ("Switch the bike ON", ["Press the power control as shown and allow the bike electronics and display to boot fully."]),
+            ("Confirm the bike has powered up correctly", ["Check the display or system indicators shown in the video to confirm the bike is awake and ready for the next action."]),
+            ("Verify normal startup status", ["Make sure no warning state is shown and confirm the bike remains stable before riding or engaging drive."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_engage_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Prepare the bike for engagement", ["Hold the bike securely and confirm it has already been powered on before attempting to engage it."]),
+            ("Select the engagement control", ["Use the control sequence shown in the video to move the bike from powered-on standby into the engaged state."]),
+            ("Engage the drive system", ["Perform the engagement action exactly as shown and wait for the bike to confirm the new state."]),
+            ("Check the bike is engaged", ["Verify the display or status indication shown in the video so you know the bike is ready to ride."]),
+            ("Confirm the bike is stable before moving", ["Keep the bike controlled and stationary until you are ready to ride away safely."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_disengage_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Bring the bike to a controlled stop", ["Hold the bike securely and keep it stable before disengaging the drive system."]),
+            ("Use the disengagement control", ["Operate the control shown in the video to move the bike out of the engaged state."]),
+            ("Disengage the drive system", ["Complete the disengagement action and wait for the bike to confirm the state change."]),
+            ("Verify the bike is no longer engaged", ["Check the display or status indication shown in the video to confirm the bike is safe to handle without drive engagement."]),
+            ("Prepare for shutdown or service", ["Once disengaged, continue with shutdown, charging, transport, or service as needed."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_turn_off_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Stabilize the bike before powering down", ["Make sure the bike is stopped and secure before switching it off."]),
+            ("Locate the power-off control", ["Use the same control area shown in the video for the shutdown command."]),
+            ("Switch the bike OFF", ["Perform the power-off action shown and wait for the display and system indicators to power down."]),
+            ("Confirm the bike has shut off", ["Verify the bike display and active indicators are off before leaving the bike unattended."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_shutdown_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Secure the bike before shutdown", ["Place the bike in a stable position and make sure the drive system is no longer engaged."]),
+            ("Initiate the shutdown sequence", ["Use the shutdown control sequence shown in the video rather than only a quick power toggle."]),
+            ("Wait for the bike to complete shutdown", ["Allow the bike electronics to finish the shutdown process fully before disconnecting anything or storing the bike."]),
+            ("Confirm the system is fully off", ["Check that the display and system indicators are no longer active once shutdown is complete."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_charge_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Prepare the bike and charger", ["Place the bike in a stable position and inspect the charger, cable, and charging port before connecting anything."]),
+            ("Open or access the charging port", ["Expose the charging connection point shown in the video and make sure it is clean and unobstructed."]),
+            ("Connect the charger to the bike", ["Insert the charging connector carefully as shown so it seats fully without stressing the cable."]),
+            ("Connect power and begin charging", ["Supply power to the charger as shown and confirm the charging sequence starts on the bike or charger indicators."]),
+            ("Verify charging status", ["Check the visual charging indication shown in the video so you know the bike is actively charging."]),
+            ("Disconnect safely after charging", ["Once charging is complete, disconnect the charger in the same careful order shown and secure the port cover or cable routing."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_update_software_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Prepare the bike for a software update", ["Start with the bike stable, powered on, and ready for the update process shown in the video."]),
+            ("Access the software update screen or workflow", ["Open the update menu or control path shown in the video to check for available software updates."]),
+            ("Review the available update", ["Confirm the update shown on-screen before starting the installation process."]),
+            ("Start the software update", ["Begin the update exactly as shown and keep the bike powered and undisturbed while the software installs."]),
+            ("Wait for the update to complete", ["Allow the progress sequence to finish without interrupting power, controls, or connections."]),
+            ("Confirm the updated software status", ["Check the final screen or version/status indication shown in the video to verify the update completed successfully."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_bleed_cooling_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Prepare access to the cooling system", ["Place the bike on a stable stand and remove the visible bodywork or guards shown in the video to reach the cooling system service points."]),
+            ("Position a container for drained coolant", ["Place a suitable container under the bike before opening the cooling system so drained coolant is captured cleanly."]),
+            ("Open the cooling system service points", ["Loosen the drain and cap points shown in the video so coolant can move through the system and trapped air can be released."]),
+            ("Drain and refill the coolant circuit", ["Drain the old coolant as shown, then refill the system with the coolant type indicated in the procedure."]),
+            ("Cycle the system to purge trapped air", ["Operate the bike as shown in the video so the coolant circulates and air is bled from the system."]),
+            ("Top off and close the cooling system", ["Bring the coolant level back to the correct height, then close the cap and service points shown in the video."]),
+            ("Reinstall the removed bodywork", ["Reinstall the covers, skid plate, and other removed parts in the same order used during access."]),
+            ("Check for leaks and correct level", ["Inspect the system for leaks and confirm the coolant level remains correct before riding."]),
+        ],
+        duration_seconds,
+    )
+
+
+def build_gear_oil_change_steps(duration_seconds: int) -> list[Step]:
+    return build_visual_sequence(
+        [
+            ("Prepare access to the gear oil service points", ["Place the bike on a stable stand and remove any cover or guard shown in the video that blocks the gear oil fill and drain points."]),
+            ("Position a container under the drain point", ["Place a suitable drain container under the bike before removing the gear oil drain hardware."]),
+            ("Open the fill and drain points", ["Loosen the fill and drain hardware shown in the video so the old gear oil can drain fully."]),
+            ("Drain the old gear oil", ["Allow the old oil to drain completely while monitoring the drain container and the service opening."]),
+            ("Reinstall the drain hardware", ["Reinstall the drain hardware shown in the video once draining is complete and the mating surfaces are ready for assembly."]),
+            ("Refill with fresh gear oil", ["Fill the system with the oil type and level indicated by the procedure shown in the video."]),
+            ("Close the fill point and clean the area", ["Reinstall the fill hardware and wipe any spilled oil from the surrounding parts."]),
+            ("Reinstall removed parts and inspect for leaks", ["Reinstall any removed guards or covers and check the service area for leaks before returning the bike to use."]),
+        ],
+        duration_seconds,
+    )
+
+
 def build_visual_fallback_steps(video_title: str, duration_seconds: int) -> list[Step]:
     component = component_from_title(video_title) or "component"
     lower_component = component.lower()
@@ -281,6 +472,24 @@ def build_visual_fallback_steps(video_title: str, duration_seconds: int) -> list
 
     if "unbox" in lower_title:
         return build_unboxing_steps(duration_seconds)
+    if "turn on" in lower_title:
+        return build_turn_on_steps(duration_seconds)
+    if "engage" in lower_title and "disengage" not in lower_title:
+        return build_engage_steps(duration_seconds)
+    if "disengage" in lower_title:
+        return build_disengage_steps(duration_seconds)
+    if "turn off" in lower_title:
+        return build_turn_off_steps(duration_seconds)
+    if "shutdown" in lower_title:
+        return build_shutdown_steps(duration_seconds)
+    if "charge" in lower_title:
+        return build_charge_steps(duration_seconds)
+    if "update" in lower_title and "software" in lower_title:
+        return build_update_software_steps(duration_seconds)
+    if "cooling system" in lower_title and ("bleed" in lower_title or "bleeding" in lower_title):
+        return build_bleed_cooling_steps(duration_seconds)
+    if "gear oil" in lower_title and "change" in lower_title:
+        return build_gear_oil_change_steps(duration_seconds)
 
     if is_wiring_component(component):
         titles_and_bodies = [
@@ -460,21 +669,7 @@ def build_visual_fallback_steps(video_title: str, duration_seconds: int) -> list
             ),
         ]
 
-    interval = max(5, duration_seconds // (len(titles_and_bodies) + 1))
-    steps: list[Step] = []
-    for index, (title, body_lines) in enumerate(titles_and_bodies, start=1):
-        steps.append(
-            Step(
-                index=index,
-                start=float(interval * index),
-                duration=float(interval),
-                title=title,
-                body_lines=body_lines,
-                screenshot_name=f"step_{index:02d}_{slugify(title)[:60]}",
-                mode="visual",
-            )
-        )
-    return steps
+    return build_visual_sequence(titles_and_bodies, duration_seconds)
 
 
 def split_sections(video_title: str, steps: list[Step]) -> list[tuple[str, list[Step]]]:
@@ -501,7 +696,8 @@ def split_sections(video_title: str, steps: list[Step]) -> list[tuple[str, list[
 
 def tutorial_title_from_video_title(video_title: str) -> str:
     clean = spaced_stark_model(clean_sentence(video_title))
-    if not is_ex_specific_title(clean):
+    metadata = infer_metadata_from_title(clean)
+    if metadata["source_family"] == "MX 1.2":
         patterns = (
             r"\s+on your Stark VARG MX 1\.2(?:\s*/\s*EX)?\s*$",
             r"\s*-\s*Stark VARG MX 1\.2(?:\s*/\s*EX)?\s*$",
@@ -545,18 +741,22 @@ def collect_torque_lines(steps: list[Step]) -> tuple[list[tuple[str, str]], list
     return summary, manual_matched
 
 
-def write_manifest(video_dir: Path, title: str, video_url: str, manual_url: str, steps: list[Step]) -> None:
+def write_manifest(video_dir: Path, title: str, video_url: str, playlist: dict, steps: list[Step]) -> None:
     manifest = {
         "slug": video_dir.name,
         "title": title,
         "video_url": video_url,
+        "source_family": playlist["source_family"],
+        "applicability_label": playlist["applicability_label"],
+        "applicable_models": playlist["applicable_models"],
+        "playlist_title": playlist["title"],
         "tutorial_markdown": "tutorial.md",
         "source_video": "source/video.mp4",
         "screenshots_dir": "assets/screenshots",
         "contact_sheet": "assets/contact-sheet.jpg",
         "pdf_output": f"output/pdf/{slugify(title)}.pdf",
         "pdf_render_dir": "tmp/pdfs",
-        "references": [manual_url],
+        "references": [playlist["manual_url"]],
         "frames": [
             {
                 "timestamp": int(step.start if step.duration < 2 else step.start + min(1.0, step.duration / 2)),
@@ -678,6 +878,9 @@ def run_root_script(script_name: str) -> None:
 
 
 def process_video(entry: dict, playlist: dict, skip_existing: bool) -> dict:
+    if not entry.get("id") or not entry.get("title") or entry.get("title") == "[Private video]":
+        return {"slug": slugify(entry.get("title", "unavailable-video")), "status": "unavailable"}
+
     title = entry["title"]
     video_id = entry["id"]
     video_url = f"https://www.youtube.com/watch?v={video_id}"
@@ -686,7 +889,7 @@ def process_video(entry: dict, playlist: dict, skip_existing: bool) -> dict:
     manifest_path = video_dir / "manifest.json"
     if skip_existing and manifest_path.exists() and (video_dir / "tutorial.md").exists():
         try:
-            existing_manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            existing_manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
             existing_pdf = video_dir / existing_manifest["pdf_output"]
             if existing_pdf.exists():
                 return {"slug": slug, "status": "skipped"}
@@ -706,7 +909,7 @@ def process_video(entry: dict, playlist: dict, skip_existing: bool) -> dict:
     except YouTubeTranscriptApiException:
         steps = build_visual_fallback_steps(title, int(entry.get("duration") or 120))
     tutorial_title = tutorial_title_from_video_title(title)
-    write_manifest(video_dir, tutorial_title, video_url, playlist["manual_url"], steps)
+    write_manifest(video_dir, tutorial_title, video_url, playlist, steps)
     write_tutorial(video_dir, tutorial_title, title, steps, split_sections(title, steps))
 
     run_script("extract_frames.py", video_dir)
@@ -732,7 +935,8 @@ def write_library_index(results: list[dict]) -> None:
         "",
         "These tutorials are derived from videos published on Stark Future's official YouTube playlists.",
         "",
-        "- MX playlist: https://www.youtube.com/playlist?list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW",
+        "- Original MX playlist: https://www.youtube.com/playlist?list=PLkap5aPwLLRBoeCpkpNh-ayt6BO0oiq2y",
+        "- MX 1.2 playlist: https://www.youtube.com/playlist?list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW",
         "- EX playlist: https://www.youtube.com/playlist?list=PLkap5aPwLLRCEirHu95EHvDsCDujl3ia_",
         "",
         "## Copyright and Attribution",
@@ -761,7 +965,9 @@ def write_library_index(results: list[dict]) -> None:
         "",
         "## Library",
         "",
-        "MX-derived procedures are marked `MX 1.2 / EX` where the same service steps apply to both bikes.",
+        "Original MX procedures are marked `MX`.",
+        "",
+        "MX 1.2-derived procedures are marked `MX 1.2 / EX` where the same service steps apply to both bikes.",
         "",
     ]
     existing_entries: list[dict] = []
@@ -771,14 +977,14 @@ def write_library_index(results: list[dict]) -> None:
         if not tutorial_path.exists() or not manifest_path.exists():
             continue
         try:
-            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+            manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
             title = spaced_stark_model(manifest.get("title", tutorial_path.stem))
-            playlist_title = "Stark VARG EX Tutorials" if is_ex_specific_title(title) else "Stark VARG MX 1.2 / EX Shared Tutorials"
+            metadata = metadata_from_manifest(manifest, title)
             pdf_output = manifest.get("pdf_output", "")
             existing_entries.append(
                 {
                     "slug": video_dir.name,
-                    "playlist": playlist_title,
+                    "playlist": metadata["playlist_title"],
                     "title": title,
                     "pdf_output": pdf_output,
                 }
@@ -803,7 +1009,12 @@ def write_library_index(results: list[dict]) -> None:
 def main() -> None:
     args = parse_args()
     results: list[dict] = []
-    for playlist in PLAYLISTS:
+    selected_playlists = PLAYLISTS
+    if args.playlist_labels:
+        selected = set(args.playlist_labels)
+        selected_playlists = [playlist for playlist in PLAYLISTS if playlist["label"] in selected]
+
+    for playlist in selected_playlists:
         entries = get_playlist_entries(playlist["url"])
         if args.limit_per_playlist:
             entries = entries[: args.limit_per_playlist]

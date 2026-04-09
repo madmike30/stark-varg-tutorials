@@ -1,0 +1,38 @@
+{
+  "slug": "how-to-shutdown-the-stark-varg",
+  "title": "How to SHUTDOWN the Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=3iA8mMst4mw",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-shutdown-the-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_secure-the-bike-before-shutdown"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_initiate-the-shutdown-sequence"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_wait-for-the-bike-to-complete-shutdown"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_confirm-the-system-is-fully-off"
+    }
+  ]
+}

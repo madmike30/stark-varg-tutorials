@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-hand-brake-master-cylinder-stark-varg",
+  "title": "Remove and Install Hand Brake Master Cylinder - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=RATa3ZFhgU8",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-hand-brake-master-cylinder-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_prepare-access-to-the-hand-brake-master-cylinder"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-hand-brake-mas"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-hand-br"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_remove-the-hand-brake-master-cylinder-from-the-bike"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_05_position-the-hand-brake-master-cylinder-for-installation"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-hand-brake-mas"
+    },
+    {
+      "timestamp": 36,
+      "name": "step_07_install-the-retaining-hardware-for-the-hand-brake-master-cyl"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_08_verify-the-completed-installation-of-the-hand-brake-master-c"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "remove-and-install-vcu-stark-varg",
+  "title": "Remove and Install VCU - Stark VARG",
+  "video_url": "https://www.youtube.com/watch?v=gTeNcdEYqp4",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-vcu-stark-varg.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 28,
+      "name": "step_01_prepare-access-to-the-vcu"
+    },
+    {
+      "timestamp": 55,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-vcu"
+    },
+    {
+      "timestamp": 82,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-vcu"
+    },
+    {
+      "timestamp": 109,
+      "name": "step_04_remove-the-vcu-from-the-bike"
+    },
+    {
+      "timestamp": 136,
+      "name": "step_05_position-the-vcu-for-installation"
+    },
+    {
+      "timestamp": 163,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-vcu"
+    },
+    {
+      "timestamp": 190,
+      "name": "step_07_install-the-retaining-hardware-for-the-vcu"
+    },
+    {
+      "timestamp": 217,
+      "name": "step_08_verify-the-completed-installation-of-the-vcu"
+    }
+  ]
+}

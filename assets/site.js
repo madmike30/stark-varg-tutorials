@@ -7,18 +7,21 @@ const state = {
 const listEl = document.getElementById("tutorial-list");
 const resultsCountEl = document.getElementById("results-count");
 const totalCountEl = document.getElementById("total-count");
-const mxCountEl = document.getElementById("mx-count");
+const mxOriginalCountEl = document.getElementById("mx-original-count");
+const mx12CountEl = document.getElementById("mx12-count");
 const exCountEl = document.getElementById("ex-count");
 const template = document.getElementById("tutorial-row-template");
 const searchInput = document.getElementById("search-input");
 const filterButtons = Array.from(document.querySelectorAll(".filter-chip"));
 
 function updateCounts(tutorials) {
-  const mxCount = tutorials.filter((item) => item.applicable_models.includes("MX 1.2")).length;
+  const mxOriginalCount = tutorials.filter((item) => item.applicable_models.includes("MX")).length;
+  const mx12Count = tutorials.filter((item) => item.applicable_models.includes("MX 1.2")).length;
   const exCount = tutorials.filter((item) => item.applicable_models.includes("EX")).length;
 
   totalCountEl.textContent = tutorials.length;
-  mxCountEl.textContent = mxCount;
+  mxOriginalCountEl.textContent = mxOriginalCount;
+  mx12CountEl.textContent = mx12Count;
   exCountEl.textContent = exCount;
 }
 

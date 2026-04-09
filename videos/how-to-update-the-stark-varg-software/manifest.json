@@ -1,0 +1,46 @@
+{
+  "slug": "how-to-update-the-stark-varg-software",
+  "title": "How to UPDATE the Stark VARG Software",
+  "video_url": "https://www.youtube.com/watch?v=LiSrJl6rhaI",
+  "source_family": "MX",
+  "applicability_label": "MX",
+  "applicable_models": [
+    "MX"
+  ],
+  "playlist_title": "Stark VARG MX Tutorials",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-update-the-stark-varg-software.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://starkfuture.com/en-IL/tutorials-and-technical"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_prepare-the-bike-for-a-software-update"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_access-the-software-update-screen-or-workflow"
+    },
+    {
+      "timestamp": 16,
+      "name": "step_03_review-the-available-update"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_04_start-the-software-update"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_05_wait-for-the-update-to-complete"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_06_confirm-the-updated-software-status"
+    }
+  ]
+}
