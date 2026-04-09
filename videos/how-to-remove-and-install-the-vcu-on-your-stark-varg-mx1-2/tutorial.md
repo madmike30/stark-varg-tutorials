@@ -1,6 +1,8 @@
-# How to remove and install the VCU on your Stark VARG MX 1.2
+# How to remove and install the VCU - Stark VARG MX 1.2 / EX
 
 Source video: `How to remove and install the VCU on your Stark VARG MX1.2` by Stark Future Official
+
+Applicable models: `MX 1.2 / EX`
 
 ## Scope
 

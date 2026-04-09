@@ -1,168 +1,168 @@
-﻿{
-    "slug":  "remove-and-install-radiator-stark-varg-mx-1-2",
-    "title":  "Remove and Install Radiator - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=NoN5L__G2m8",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-radiator-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  9,
-                       "name":  "step_01_unscrew-the-side-plate-bolts"
-                   },
-                   {
-                       "timestamp":  31,
-                       "name":  "step_02_unscrew-the-subframe-to-seat-base-bolt-under-the-rear-fender"
-                   },
-                   {
-                       "timestamp":  36,
-                       "name":  "step_03_unscrew-the-four-front-bolts-on-the-side-spoilers"
-                   },
-                   {
-                       "timestamp":  71,
-                       "name":  "step_04_carefully-remove-the-spoiler-assembly-by-sliding-it-backward"
-                   },
-                   {
-                       "timestamp":  79,
-                       "name":  "step_05_remove-the-four-skid-plate-screws"
-                   },
-                   {
-                       "timestamp":  118,
-                       "name":  "step_06_carefully-remove-the-skid-plate-from-the-battery"
-                   },
-                   {
-                       "timestamp":  126,
-                       "name":  "step_07_place-a-container-underneath-the-bike-to-collect-the-drained"
-                   },
-                   {
-                       "timestamp":  133,
-                       "name":  "step_08_loosen-and-remove-the-coolant-drain-bolt"
-                   },
-                   {
-                       "timestamp":  169,
-                       "name":  "step_09_loosen-the-radiator-cap-to-allow-the-coolant-to-drain"
-                   },
-                   {
-                       "timestamp":  197,
-                       "name":  "step_10_unscrew-the-four-bolts-that-attach-the-rear-fender-to-the-su"
-                   },
-                   {
-                       "timestamp":  231,
-                       "name":  "step_11_carefully-remove-the-rear-fender-from-the-bike"
-                   },
-                   {
-                       "timestamp":  248,
-                       "name":  "step_12_remove-the-bleeding-hose-clamp-from-the-water-pump"
-                   },
-                   {
-                       "timestamp":  261,
-                       "name":  "step_13_unplug-the-fan-connector"
-                   },
-                   {
-                       "timestamp":  273,
-                       "name":  "step_14_remove-the-radiator-hose-clamps-and-slide-them-back-from-the"
-                   },
-                   {
-                       "timestamp":  296,
-                       "name":  "step_15_remove-the-water-pump-strap"
-                   },
-                   {
-                       "timestamp":  301,
-                       "name":  "step_16_remove-the-hoses-by-pulling-them-backward"
-                   },
-                   {
-                       "timestamp":  319,
-                       "name":  "step_17_remove-the-bolts-securing-the-radiator-to-the-subframe"
-                   },
-                   {
-                       "timestamp":  366,
-                       "name":  "step_18_carefully-remove-the-radiator-assembly-from-the-bike"
-                   },
-                   {
-                       "timestamp":  384,
-                       "name":  "step_19_carefully-place-the-radiator-into-its-position"
-                   },
-                   {
-                       "timestamp":  411,
-                       "name":  "step_20_tighten-the-bolts-securing-the-radiator-to-the-subframe-to-5"
-                   },
-                   {
-                       "timestamp":  455,
-                       "name":  "step_21_connect-the-radiator-bleed-hose-to-the-water-pump"
-                   },
-                   {
-                       "timestamp":  461,
-                       "name":  "step_22_connect-the-radiator-hoses-by-pushing-them-securely-into-pos"
-                   },
-                   {
-                       "timestamp":  469,
-                       "name":  "step_23_secure-the-water-pump-by-positioning-its-rubber-strap-correc"
-                   },
-                   {
-                       "timestamp":  506,
-                       "name":  "step_24_secure-the-radiator-bleed-hose-clamp-in-its-proper-position"
-                   },
-                   {
-                       "timestamp":  516,
-                       "name":  "step_25_secure-the-radiator-hose-clamps-in-their-proper-positions-no"
-                   },
-                   {
-                       "timestamp":  543,
-                       "name":  "step_26_connect-the-fan-and-secure-the-connector-in-the-subframe-bra"
-                   },
-                   {
-                       "timestamp":  551,
-                       "name":  "step_27_carefully-position-the-rear-fender-between-the-subframe-and-"
-                   },
-                   {
-                       "timestamp":  564,
-                       "name":  "step_28_tighten-the-four-bolts-that-attach-the-rear-fender-to-the-su"
-                   },
-                   {
-                       "timestamp":  668,
-                       "name":  "step_29_install-a-new-copper-washer-on-the-coolant-drain-bolt-then-t"
-                   },
-                   {
-                       "timestamp":  721,
-                       "name":  "step_30_fill-the-cooling-system-to-the-top-with-glycol-based-coolant"
-                   },
-                   {
-                       "timestamp":  744,
-                       "name":  "step_31_switch-the-bike-on-and-off-as-needed-to-allow-the-water-pump"
-                   },
-                   {
-                       "timestamp":  766,
-                       "name":  "step_32_tighten-the-radiator-cap-to-7-nm"
-                   },
-                   {
-                       "timestamp":  782,
-                       "name":  "step_33_place-the-skid-plate-into-its-position"
-                   },
-                   {
-                       "timestamp":  791,
-                       "name":  "step_34_tighten-the-four-skid-plate-bolts-to-15-nm"
-                   },
-                   {
-                       "timestamp":  856,
-                       "name":  "step_35_position-the-spoiler-assembly-on-top-of-the-bike-and-slide-i"
-                   },
-                   {
-                       "timestamp":  866,
-                       "name":  "step_36_tighten-the-four-front-bolts-to-5-nm"
-                   },
-                   {
-                       "timestamp":  914,
-                       "name":  "step_37_tighten-the-subframe-to-seat-base-bolt-to-10-nm"
-                   },
-                   {
-                       "timestamp":  930,
-                       "name":  "step_38_tighten-the-side-plate-bolts-to-20-nm"
-                   }
-               ]
+{
+  "slug": "remove-and-install-radiator-stark-varg-mx-1-2",
+  "title": "Remove and Install Radiator - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=NoN5L__G2m8",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-radiator-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 9,
+      "name": "step_01_unscrew-the-side-plate-bolts"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_02_unscrew-the-subframe-to-seat-base-bolt-under-the-rear-fender"
+    },
+    {
+      "timestamp": 36,
+      "name": "step_03_unscrew-the-four-front-bolts-on-the-side-spoilers"
+    },
+    {
+      "timestamp": 71,
+      "name": "step_04_carefully-remove-the-spoiler-assembly-by-sliding-it-backward"
+    },
+    {
+      "timestamp": 79,
+      "name": "step_05_remove-the-four-skid-plate-screws"
+    },
+    {
+      "timestamp": 118,
+      "name": "step_06_carefully-remove-the-skid-plate-from-the-battery"
+    },
+    {
+      "timestamp": 126,
+      "name": "step_07_place-a-container-underneath-the-bike-to-collect-the-drained"
+    },
+    {
+      "timestamp": 133,
+      "name": "step_08_loosen-and-remove-the-coolant-drain-bolt"
+    },
+    {
+      "timestamp": 169,
+      "name": "step_09_loosen-the-radiator-cap-to-allow-the-coolant-to-drain"
+    },
+    {
+      "timestamp": 197,
+      "name": "step_10_unscrew-the-four-bolts-that-attach-the-rear-fender-to-the-su"
+    },
+    {
+      "timestamp": 231,
+      "name": "step_11_carefully-remove-the-rear-fender-from-the-bike"
+    },
+    {
+      "timestamp": 248,
+      "name": "step_12_remove-the-bleeding-hose-clamp-from-the-water-pump"
+    },
+    {
+      "timestamp": 261,
+      "name": "step_13_unplug-the-fan-connector"
+    },
+    {
+      "timestamp": 273,
+      "name": "step_14_remove-the-radiator-hose-clamps-and-slide-them-back-from-the"
+    },
+    {
+      "timestamp": 296,
+      "name": "step_15_remove-the-water-pump-strap"
+    },
+    {
+      "timestamp": 301,
+      "name": "step_16_remove-the-hoses-by-pulling-them-backward"
+    },
+    {
+      "timestamp": 319,
+      "name": "step_17_remove-the-bolts-securing-the-radiator-to-the-subframe"
+    },
+    {
+      "timestamp": 366,
+      "name": "step_18_carefully-remove-the-radiator-assembly-from-the-bike"
+    },
+    {
+      "timestamp": 384,
+      "name": "step_19_carefully-place-the-radiator-into-its-position"
+    },
+    {
+      "timestamp": 411,
+      "name": "step_20_tighten-the-bolts-securing-the-radiator-to-the-subframe-to-5"
+    },
+    {
+      "timestamp": 455,
+      "name": "step_21_connect-the-radiator-bleed-hose-to-the-water-pump"
+    },
+    {
+      "timestamp": 461,
+      "name": "step_22_connect-the-radiator-hoses-by-pushing-them-securely-into-pos"
+    },
+    {
+      "timestamp": 469,
+      "name": "step_23_secure-the-water-pump-by-positioning-its-rubber-strap-correc"
+    },
+    {
+      "timestamp": 506,
+      "name": "step_24_secure-the-radiator-bleed-hose-clamp-in-its-proper-position"
+    },
+    {
+      "timestamp": 516,
+      "name": "step_25_secure-the-radiator-hose-clamps-in-their-proper-positions-no"
+    },
+    {
+      "timestamp": 543,
+      "name": "step_26_connect-the-fan-and-secure-the-connector-in-the-subframe-bra"
+    },
+    {
+      "timestamp": 551,
+      "name": "step_27_carefully-position-the-rear-fender-between-the-subframe-and-"
+    },
+    {
+      "timestamp": 564,
+      "name": "step_28_tighten-the-four-bolts-that-attach-the-rear-fender-to-the-su"
+    },
+    {
+      "timestamp": 668,
+      "name": "step_29_install-a-new-copper-washer-on-the-coolant-drain-bolt-then-t"
+    },
+    {
+      "timestamp": 721,
+      "name": "step_30_fill-the-cooling-system-to-the-top-with-glycol-based-coolant"
+    },
+    {
+      "timestamp": 744,
+      "name": "step_31_switch-the-bike-on-and-off-as-needed-to-allow-the-water-pump"
+    },
+    {
+      "timestamp": 766,
+      "name": "step_32_tighten-the-radiator-cap-to-7-nm"
+    },
+    {
+      "timestamp": 782,
+      "name": "step_33_place-the-skid-plate-into-its-position"
+    },
+    {
+      "timestamp": 791,
+      "name": "step_34_tighten-the-four-skid-plate-bolts-to-15-nm"
+    },
+    {
+      "timestamp": 856,
+      "name": "step_35_position-the-spoiler-assembly-on-top-of-the-bike-and-slide-i"
+    },
+    {
+      "timestamp": 866,
+      "name": "step_36_tighten-the-four-front-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 914,
+      "name": "step_37_tighten-the-subframe-to-seat-base-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 930,
+      "name": "step_38_tighten-the-side-plate-bolts-to-20-nm"
+    }
+  ]
 }

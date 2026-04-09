@@ -228,7 +228,11 @@ def parse_markdown(markdown_path: Path, manifest: dict):
             i += 1
 
         text = " ".join(paragraph_lines)
-        style = styles["SmallNote"] if text.startswith("Source video:") or text.startswith("Note:") else styles["Body"]
+        style = (
+            styles["SmallNote"]
+            if text.startswith("Source video:") or text.startswith("Applicable models:") or text.startswith("Note:")
+            else styles["Body"]
+        )
         kept_block.append(Paragraph(md_to_para(text), style))
         if block_kind is None:
             block_kind = "section"
@@ -240,7 +244,7 @@ def parse_markdown(markdown_path: Path, manifest: dict):
 def main():
     args = parse_args()
     video_dir = Path(args.video_dir).resolve()
-    manifest = json.loads((video_dir / "manifest.json").read_text(encoding="utf-8"))
+    manifest = json.loads((video_dir / "manifest.json").read_text(encoding="utf-8-sig"))
     markdown_path = video_dir / manifest["tutorial_markdown"]
     pdf_path = video_dir / manifest["pdf_output"]
 

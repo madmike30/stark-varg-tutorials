@@ -1,56 +1,56 @@
-﻿{
-    "slug":  "how-to-gear-oil-change-stark-varg-mx-1-2",
-    "title":  "How To Gear Oil Change - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=MzsXAV4Ee1E",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/how-to-gear-oil-change-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  8,
-                       "name":  "step_01_remove-the-four-skid-plate-screws"
-                   },
-                   {
-                       "timestamp":  50,
-                       "name":  "step_02_carefully-remove-the-skid-plate-from-the-battery"
-                   },
-                   {
-                       "timestamp":  61,
-                       "name":  "step_03_unscrew-the-oil-drain-plug"
-                   },
-                   {
-                       "timestamp":  71,
-                       "name":  "step_04_place-a-container-underneath-to-collect-the-used-oil"
-                   },
-                   {
-                       "timestamp":  79,
-                       "name":  "step_05_unscrew-the-motor-case-side-cap"
-                   },
-                   {
-                       "timestamp":  91,
-                       "name":  "step_06_place-a-copper-washer-on-the-oil-drain-plug-then-tighten-it-"
-                   },
-                   {
-                       "timestamp":  131,
-                       "name":  "step_07_fill-the-transmission-with-80-ml-of-sae-75w-90-oil"
-                   },
-                   {
-                       "timestamp":  146,
-                       "name":  "step_08_tighten-the-motor-case-side-cap-to-5-nm"
-                   },
-                   {
-                       "timestamp":  174,
-                       "name":  "step_09_place-the-skid-plate-into-its-position"
-                   },
-                   {
-                       "timestamp":  183,
-                       "name":  "step_10_tighten-the-four-skid-plate-bolts-to-15-nm"
-                   }
-               ]
+{
+  "slug": "how-to-gear-oil-change-stark-varg-mx-1-2",
+  "title": "How To Gear Oil Change - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=MzsXAV4Ee1E",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-gear-oil-change-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 8,
+      "name": "step_01_remove-the-four-skid-plate-screws"
+    },
+    {
+      "timestamp": 50,
+      "name": "step_02_carefully-remove-the-skid-plate-from-the-battery"
+    },
+    {
+      "timestamp": 61,
+      "name": "step_03_unscrew-the-oil-drain-plug"
+    },
+    {
+      "timestamp": 71,
+      "name": "step_04_place-a-container-underneath-to-collect-the-used-oil"
+    },
+    {
+      "timestamp": 79,
+      "name": "step_05_unscrew-the-motor-case-side-cap"
+    },
+    {
+      "timestamp": 91,
+      "name": "step_06_place-a-copper-washer-on-the-oil-drain-plug-then-tighten-it-"
+    },
+    {
+      "timestamp": 131,
+      "name": "step_07_fill-the-transmission-with-80-ml-of-sae-75w-90-oil"
+    },
+    {
+      "timestamp": 146,
+      "name": "step_08_tighten-the-motor-case-side-cap-to-5-nm"
+    },
+    {
+      "timestamp": 174,
+      "name": "step_09_place-the-skid-plate-into-its-position"
+    },
+    {
+      "timestamp": 183,
+      "name": "step_10_tighten-the-four-skid-plate-bolts-to-15-nm"
+    }
+  ]
 }

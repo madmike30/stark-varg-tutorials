@@ -1,48 +1,48 @@
-﻿{
-    "slug":  "remove-and-install-front-wheel-stark-varg-mx-1-2",
-    "title":  "Remove and Install Front Wheel - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=GLvPtIIWlus",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-front-wheel-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  22,
-                       "name":  "step_01_prepare-access-to-the-front-wheel"
-                   },
-                   {
-                       "timestamp":  43,
-                       "name":  "step_02_remove-the-visible-retaining-hardware-for-the-front-wheel"
-                   },
-                   {
-                       "timestamp":  64,
-                       "name":  "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-w"
-                   },
-                   {
-                       "timestamp":  85,
-                       "name":  "step_04_remove-the-front-wheel-from-the-bike"
-                   },
-                   {
-                       "timestamp":  106,
-                       "name":  "step_05_position-the-front-wheel-for-installation"
-                   },
-                   {
-                       "timestamp":  127,
-                       "name":  "step_06_reconnect-or-refit-the-support-pieces-for-the-front-wheel"
-                   },
-                   {
-                       "timestamp":  148,
-                       "name":  "step_07_install-the-retaining-hardware-for-the-front-wheel"
-                   },
-                   {
-                       "timestamp":  169,
-                       "name":  "step_08_verify-the-completed-installation-of-the-front-wheel"
-                   }
-               ]
+{
+  "slug": "remove-and-install-front-wheel-stark-varg-mx-1-2",
+  "title": "Remove and Install Front Wheel - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=GLvPtIIWlus",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-front-wheel-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 22,
+      "name": "step_01_prepare-access-to-the-front-wheel"
+    },
+    {
+      "timestamp": 43,
+      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-wheel"
+    },
+    {
+      "timestamp": 64,
+      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-w"
+    },
+    {
+      "timestamp": 85,
+      "name": "step_04_remove-the-front-wheel-from-the-bike"
+    },
+    {
+      "timestamp": 106,
+      "name": "step_05_position-the-front-wheel-for-installation"
+    },
+    {
+      "timestamp": 127,
+      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-wheel"
+    },
+    {
+      "timestamp": 148,
+      "name": "step_07_install-the-retaining-hardware-for-the-front-wheel"
+    },
+    {
+      "timestamp": 169,
+      "name": "step_08_verify-the-completed-installation-of-the-front-wheel"
+    }
+  ]
 }

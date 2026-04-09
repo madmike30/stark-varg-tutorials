@@ -14,8 +14,8 @@ const searchInput = document.getElementById("search-input");
 const filterButtons = Array.from(document.querySelectorAll(".filter-chip"));
 
 function updateCounts(tutorials) {
-  const mxCount = tutorials.filter((item) => item.model === "MX").length;
-  const exCount = tutorials.filter((item) => item.model === "EX").length;
+  const mxCount = tutorials.filter((item) => item.applicable_models.includes("MX 1.2")).length;
+  const exCount = tutorials.filter((item) => item.applicable_models.includes("EX")).length;
 
   totalCountEl.textContent = tutorials.length;
   mxCountEl.textContent = mxCount;
@@ -26,11 +26,12 @@ function getVisibleTutorials() {
   const query = state.query.trim().toLowerCase();
 
   return state.tutorials.filter((item) => {
-    const matchesFilter = state.filter === "all" || item.model === state.filter;
+    const matchesFilter = state.filter === "all" || item.applicable_models.includes(state.filter);
     const matchesQuery =
       !query ||
       item.title.toLowerCase().includes(query) ||
-      item.full_title.toLowerCase().includes(query);
+      item.full_title.toLowerCase().includes(query) ||
+      item.applicability_label.toLowerCase().includes(query);
 
     return matchesFilter && matchesQuery;
   });
@@ -53,7 +54,7 @@ function renderTutorials() {
 
   visibleTutorials.forEach((item) => {
     const row = template.content.firstElementChild.cloneNode(true);
-    row.querySelector(".model-pill").textContent = item.model;
+    row.querySelector(".model-pill").textContent = item.applicability_label;
     row.querySelector("h3").textContent = item.title;
 
     const [pdfLink, videoLink] = row.querySelectorAll(".row-link");

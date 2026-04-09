@@ -2,6 +2,8 @@
 
 Source video: `How to remove and install the Hand Guards on your Stark VARG EX` by Stark Future Official
 
+Applicable models: `EX`
+
 ## Scope
 
 This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.

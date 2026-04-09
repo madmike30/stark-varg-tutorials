@@ -1,48 +1,48 @@
-﻿{
-    "slug":  "remove-and-install-pull-rod-stark-varg-mx-1-2",
-    "title":  "Remove and Install Pull Rod- Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=6JpfQIFO_rE",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-pull-rod-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  57,
-                       "name":  "step_01_prepare-access-to-the-pull-rod"
-                   },
-                   {
-                       "timestamp":  113,
-                       "name":  "step_02_remove-the-visible-fasteners-securing-the-pull-rod"
-                   },
-                   {
-                       "timestamp":  169,
-                       "name":  "step_03_release-the-pull-rod-from-its-mounting-position"
-                   },
-                   {
-                       "timestamp":  225,
-                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
-                   },
-                   {
-                       "timestamp":  281,
-                       "name":  "step_05_position-the-pull-rod-for-installation"
-                   },
-                   {
-                       "timestamp":  337,
-                       "name":  "step_06_install-the-retaining-hardware-for-the-pull-rod"
-                   },
-                   {
-                       "timestamp":  393,
-                       "name":  "step_07_align-the-pull-rod-in-its-final-position"
-                   },
-                   {
-                       "timestamp":  449,
-                       "name":  "step_08_verify-the-completed-installation"
-                   }
-               ]
+{
+  "slug": "remove-and-install-pull-rod-stark-varg-mx-1-2",
+  "title": "Remove and Install Pull Rod - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=6JpfQIFO_rE",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-pull-rod-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 57,
+      "name": "step_01_prepare-access-to-the-pull-rod"
+    },
+    {
+      "timestamp": 113,
+      "name": "step_02_remove-the-visible-fasteners-securing-the-pull-rod"
+    },
+    {
+      "timestamp": 169,
+      "name": "step_03_release-the-pull-rod-from-its-mounting-position"
+    },
+    {
+      "timestamp": 225,
+      "name": "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+    },
+    {
+      "timestamp": 281,
+      "name": "step_05_position-the-pull-rod-for-installation"
+    },
+    {
+      "timestamp": 337,
+      "name": "step_06_install-the-retaining-hardware-for-the-pull-rod"
+    },
+    {
+      "timestamp": 393,
+      "name": "step_07_align-the-pull-rod-in-its-final-position"
+    },
+    {
+      "timestamp": 449,
+      "name": "step_08_verify-the-completed-installation"
+    }
+  ]
 }

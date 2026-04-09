@@ -1,48 +1,48 @@
-﻿{
-    "slug":  "remove-and-install-rockerarm-stark-varg-mx-1-2",
-    "title":  "Remove and Install Rockerarm- Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=0FoKLSbUFF4",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-rockerarm-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  71,
-                       "name":  "step_01_prepare-access-to-the-rockerarm"
-                   },
-                   {
-                       "timestamp":  141,
-                       "name":  "step_02_remove-the-visible-fasteners-securing-the-rockerarm"
-                   },
-                   {
-                       "timestamp":  211,
-                       "name":  "step_03_release-the-rockerarm-from-its-mounting-position"
-                   },
-                   {
-                       "timestamp":  281,
-                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
-                   },
-                   {
-                       "timestamp":  351,
-                       "name":  "step_05_position-the-rockerarm-for-installation"
-                   },
-                   {
-                       "timestamp":  421,
-                       "name":  "step_06_install-the-retaining-hardware-for-the-rockerarm"
-                   },
-                   {
-                       "timestamp":  491,
-                       "name":  "step_07_align-the-rockerarm-in-its-final-position"
-                   },
-                   {
-                       "timestamp":  561,
-                       "name":  "step_08_verify-the-completed-installation"
-                   }
-               ]
+{
+  "slug": "remove-and-install-rockerarm-stark-varg-mx-1-2",
+  "title": "Remove and Install Rockerarm - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=0FoKLSbUFF4",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-rockerarm-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 71,
+      "name": "step_01_prepare-access-to-the-rockerarm"
+    },
+    {
+      "timestamp": 141,
+      "name": "step_02_remove-the-visible-fasteners-securing-the-rockerarm"
+    },
+    {
+      "timestamp": 211,
+      "name": "step_03_release-the-rockerarm-from-its-mounting-position"
+    },
+    {
+      "timestamp": 281,
+      "name": "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+    },
+    {
+      "timestamp": 351,
+      "name": "step_05_position-the-rockerarm-for-installation"
+    },
+    {
+      "timestamp": 421,
+      "name": "step_06_install-the-retaining-hardware-for-the-rockerarm"
+    },
+    {
+      "timestamp": 491,
+      "name": "step_07_align-the-rockerarm-in-its-final-position"
+    },
+    {
+      "timestamp": 561,
+      "name": "step_08_verify-the-completed-installation"
+    }
+  ]
 }

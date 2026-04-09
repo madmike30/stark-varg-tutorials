@@ -1,108 +1,108 @@
-﻿{
-    "slug":  "remove-and-install-footbrake-stark-varg-mx-1-2",
-    "title":  "Remove and Install Footbrake - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=JBqwHpLQ798",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-footbrake-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  10,
-                       "name":  "step_01_unscrew-the-rear-wheel-shaft-lock-nut-and-press-the-shaft-ou"
-                   },
-                   {
-                       "timestamp":  35,
-                       "name":  "step_02_remove-the-rear-wheel-shaft"
-                   },
-                   {
-                       "timestamp":  38,
-                       "name":  "step_03_remove-the-chain-from-the-rear-sprocket"
-                   },
-                   {
-                       "timestamp":  41,
-                       "name":  "step_04_carefully-remove-the-rear-wheel"
-                   },
-                   {
-                       "timestamp":  56,
-                       "name":  "step_05_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
-                   },
-                   {
-                       "timestamp":  75,
-                       "name":  "step_06_loosen-and-remove-both-bolts-from-the-rear-brake-master-cyli"
-                   },
-                   {
-                       "timestamp":  96,
-                       "name":  "step_07_remove-the-rear-foot-brake-assembly-from-the-bike"
-                   },
-                   {
-                       "timestamp":  118,
-                       "name":  "step_08_unscrew-the-rear-brake-pedal-sway-bolt"
-                   },
-                   {
-                       "timestamp":  142,
-                       "name":  "step_09_carefully-remove-the-rear-brake-pedal"
-                   },
-                   {
-                       "timestamp":  154,
-                       "name":  "step_10_unscrew-and-remove-the-stopper-bolt-from-the-frame"
-                   },
-                   {
-                       "timestamp":  168,
-                       "name":  "step_11_loosen-and-remove-both-bolts-to-detach-the-rear-foot-brake-m"
-                   },
-                   {
-                       "timestamp":  220,
-                       "name":  "step_12_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
-                   },
-                   {
-                       "timestamp":  304,
-                       "name":  "step_13_adjust-the-stopper-bolt-to-the-correct-position-then-tighten"
-                   },
-                   {
-                       "timestamp":  322,
-                       "name":  "step_14_install-the-brake-pedal-in-its-position-and-tighten-the-sway"
-                   },
-                   {
-                       "timestamp":  391,
-                       "name":  "step_15_position-the-rear-foot-brake-assembly-in-place"
-                   },
-                   {
-                       "timestamp":  408,
-                       "name":  "step_16_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
-                   },
-                   {
-                       "timestamp":  469,
-                       "name":  "step_17_carefully-position-the-spring-and-spring-housing-then-insert"
-                   },
-                   {
-                       "timestamp":  481,
-                       "name":  "step_18_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
-                   },
-                   {
-                       "timestamp":  520,
-                       "name":  "step_19_carefully-position-the-wheel-and-ensure-it-is-aligned-with-t"
-                   },
-                   {
-                       "timestamp":  546,
-                       "name":  "step_20_install-the-rear-wheel-shaft-and-secure-it-with-the-lock-nut"
-                   },
-                   {
-                       "timestamp":  563,
-                       "name":  "step_21_ensure-the-chain-is-properly-tensioned-by-placing-a-cloth-be"
-                   },
-                   {
-                       "timestamp":  571,
-                       "name":  "step_22_tighten-the-rear-wheel-shaft-lock-nut-to-80-nm"
-                   },
-                   {
-                       "timestamp":  579,
-                       "name":  "step_23_check-chain-tension-and-brake-system"
-                   }
-               ]
+{
+  "slug": "remove-and-install-footbrake-stark-varg-mx-1-2",
+  "title": "Remove and Install Footbrake - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=JBqwHpLQ798",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-footbrake-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 10,
+      "name": "step_01_unscrew-the-rear-wheel-shaft-lock-nut-and-press-the-shaft-ou"
+    },
+    {
+      "timestamp": 35,
+      "name": "step_02_remove-the-rear-wheel-shaft"
+    },
+    {
+      "timestamp": 38,
+      "name": "step_03_remove-the-chain-from-the-rear-sprocket"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_04_carefully-remove-the-rear-wheel"
+    },
+    {
+      "timestamp": 56,
+      "name": "step_05_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
+    },
+    {
+      "timestamp": 75,
+      "name": "step_06_loosen-and-remove-both-bolts-from-the-rear-brake-master-cyli"
+    },
+    {
+      "timestamp": 96,
+      "name": "step_07_remove-the-rear-foot-brake-assembly-from-the-bike"
+    },
+    {
+      "timestamp": 118,
+      "name": "step_08_unscrew-the-rear-brake-pedal-sway-bolt"
+    },
+    {
+      "timestamp": 142,
+      "name": "step_09_carefully-remove-the-rear-brake-pedal"
+    },
+    {
+      "timestamp": 154,
+      "name": "step_10_unscrew-and-remove-the-stopper-bolt-from-the-frame"
+    },
+    {
+      "timestamp": 168,
+      "name": "step_11_loosen-and-remove-both-bolts-to-detach-the-rear-foot-brake-m"
+    },
+    {
+      "timestamp": 220,
+      "name": "step_12_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
+    },
+    {
+      "timestamp": 304,
+      "name": "step_13_adjust-the-stopper-bolt-to-the-correct-position-then-tighten"
+    },
+    {
+      "timestamp": 322,
+      "name": "step_14_install-the-brake-pedal-in-its-position-and-tighten-the-sway"
+    },
+    {
+      "timestamp": 391,
+      "name": "step_15_position-the-rear-foot-brake-assembly-in-place"
+    },
+    {
+      "timestamp": 408,
+      "name": "step_16_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
+    },
+    {
+      "timestamp": 469,
+      "name": "step_17_carefully-position-the-spring-and-spring-housing-then-insert"
+    },
+    {
+      "timestamp": 481,
+      "name": "step_18_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 520,
+      "name": "step_19_carefully-position-the-wheel-and-ensure-it-is-aligned-with-t"
+    },
+    {
+      "timestamp": 546,
+      "name": "step_20_install-the-rear-wheel-shaft-and-secure-it-with-the-lock-nut"
+    },
+    {
+      "timestamp": 563,
+      "name": "step_21_ensure-the-chain-is-properly-tensioned-by-placing-a-cloth-be"
+    },
+    {
+      "timestamp": 571,
+      "name": "step_22_tighten-the-rear-wheel-shaft-lock-nut-to-80-nm"
+    },
+    {
+      "timestamp": 579,
+      "name": "step_23_check-chain-tension-and-brake-system"
+    }
+  ]
 }

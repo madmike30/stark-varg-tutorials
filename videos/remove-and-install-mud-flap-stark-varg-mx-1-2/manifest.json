@@ -1,48 +1,48 @@
-﻿{
-    "slug":  "remove-and-install-mud-flap-stark-varg-mx-1-2",
-    "title":  "Remove and Install Mud Flap - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=Xw7sG88qKC8",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-mud-flap-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  46,
-                       "name":  "step_01_prepare-access-to-the-mud-flap"
-                   },
-                   {
-                       "timestamp":  91,
-                       "name":  "step_02_remove-the-visible-fasteners-securing-the-mud-flap"
-                   },
-                   {
-                       "timestamp":  136,
-                       "name":  "step_03_release-the-mud-flap-from-its-mounting-position"
-                   },
-                   {
-                       "timestamp":  181,
-                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
-                   },
-                   {
-                       "timestamp":  226,
-                       "name":  "step_05_position-the-mud-flap-for-installation"
-                   },
-                   {
-                       "timestamp":  271,
-                       "name":  "step_06_install-the-retaining-hardware-for-the-mud-flap"
-                   },
-                   {
-                       "timestamp":  316,
-                       "name":  "step_07_align-the-mud-flap-in-its-final-position"
-                   },
-                   {
-                       "timestamp":  361,
-                       "name":  "step_08_verify-the-completed-installation"
-                   }
-               ]
+{
+  "slug": "remove-and-install-mud-flap-stark-varg-mx-1-2",
+  "title": "Remove and Install Mud Flap - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=Xw7sG88qKC8",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-mud-flap-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 46,
+      "name": "step_01_prepare-access-to-the-mud-flap"
+    },
+    {
+      "timestamp": 91,
+      "name": "step_02_remove-the-visible-fasteners-securing-the-mud-flap"
+    },
+    {
+      "timestamp": 136,
+      "name": "step_03_release-the-mud-flap-from-its-mounting-position"
+    },
+    {
+      "timestamp": 181,
+      "name": "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+    },
+    {
+      "timestamp": 226,
+      "name": "step_05_position-the-mud-flap-for-installation"
+    },
+    {
+      "timestamp": 271,
+      "name": "step_06_install-the-retaining-hardware-for-the-mud-flap"
+    },
+    {
+      "timestamp": 316,
+      "name": "step_07_align-the-mud-flap-in-its-final-position"
+    },
+    {
+      "timestamp": 361,
+      "name": "step_08_verify-the-completed-installation"
+    }
+  ]
 }

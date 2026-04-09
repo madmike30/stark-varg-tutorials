@@ -1,6 +1,8 @@
-# How To Gear Oil Change - Stark VARG MX 1.2
+# How To Gear Oil Change - Stark VARG MX 1.2 / EX
 
 Source video: `How To Gear Oil Change - Stark VARG MX 1.2` by Stark Future Official
+
+Applicable models: `MX 1.2 / EX`
 
 ## Scope
 

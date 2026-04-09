@@ -1,44 +1,44 @@
-﻿{
-    "slug":  "remove-and-install-brake-pedal-stark-varg-mx-1-2",
-    "title":  "Remove and Install Brake Pedal - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=k-nXZX6ZC_s\u0026list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW\u0026index=",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-brake-pedal-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  6,
-                       "name":  "step_01_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
-                   },
-                   {
-                       "timestamp":  21,
-                       "name":  "step_02_unscrew-the-rear-brake-pedal-sway-bolt"
-                   },
-                   {
-                       "timestamp":  51,
-                       "name":  "step_03_carefully-remove-the-rear-brake-pedal"
-                   },
-                   {
-                       "timestamp":  66,
-                       "name":  "step_04_install-the-brake-pedal-in-its-position-and-tighten-the-sway"
-                   },
-                   {
-                       "timestamp":  116,
-                       "name":  "step_05_carefully-position-the-spring-and-spring-housing-then-insert"
-                   },
-                   {
-                       "timestamp":  131,
-                       "name":  "step_06_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
-                   },
-                   {
-                       "timestamp":  162,
-                       "name":  "step_07_verify-that-the-brake-pedal-and-the-entire-brake-system-are-"
-                   }
-               ]
+{
+  "slug": "remove-and-install-brake-pedal-stark-varg-mx-1-2",
+  "title": "Remove and Install Brake Pedal - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=k-nXZX6ZC_s&list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW&index=",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-brake-pedal-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
+    },
+    {
+      "timestamp": 21,
+      "name": "step_02_unscrew-the-rear-brake-pedal-sway-bolt"
+    },
+    {
+      "timestamp": 51,
+      "name": "step_03_carefully-remove-the-rear-brake-pedal"
+    },
+    {
+      "timestamp": 66,
+      "name": "step_04_install-the-brake-pedal-in-its-position-and-tighten-the-sway"
+    },
+    {
+      "timestamp": 116,
+      "name": "step_05_carefully-position-the-spring-and-spring-housing-then-insert"
+    },
+    {
+      "timestamp": 131,
+      "name": "step_06_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 162,
+      "name": "step_07_verify-that-the-brake-pedal-and-the-entire-brake-system-are-"
+    }
+  ]
 }

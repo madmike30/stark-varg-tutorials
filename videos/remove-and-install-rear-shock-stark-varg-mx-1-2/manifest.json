@@ -1,48 +1,48 @@
-﻿{
-    "slug":  "remove-and-install-rear-shock-stark-varg-mx-1-2",
-    "title":  "Remove and Install Rear Shock - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=xsRjWXCPaLc",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-rear-shock-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  39,
-                       "name":  "step_01_prepare-access-to-the-rear-shock"
-                   },
-                   {
-                       "timestamp":  77,
-                       "name":  "step_02_remove-the-visible-fasteners-securing-the-rear-shock"
-                   },
-                   {
-                       "timestamp":  115,
-                       "name":  "step_03_release-the-rear-shock-from-its-mounting-position"
-                   },
-                   {
-                       "timestamp":  153,
-                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
-                   },
-                   {
-                       "timestamp":  191,
-                       "name":  "step_05_position-the-rear-shock-for-installation"
-                   },
-                   {
-                       "timestamp":  229,
-                       "name":  "step_06_install-the-retaining-hardware-for-the-rear-shock"
-                   },
-                   {
-                       "timestamp":  267,
-                       "name":  "step_07_align-the-rear-shock-in-its-final-position"
-                   },
-                   {
-                       "timestamp":  305,
-                       "name":  "step_08_verify-the-completed-installation"
-                   }
-               ]
+{
+  "slug": "remove-and-install-rear-shock-stark-varg-mx-1-2",
+  "title": "Remove and Install Rear Shock - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=xsRjWXCPaLc",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-rear-shock-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 39,
+      "name": "step_01_prepare-access-to-the-rear-shock"
+    },
+    {
+      "timestamp": 77,
+      "name": "step_02_remove-the-visible-fasteners-securing-the-rear-shock"
+    },
+    {
+      "timestamp": 115,
+      "name": "step_03_release-the-rear-shock-from-its-mounting-position"
+    },
+    {
+      "timestamp": 153,
+      "name": "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+    },
+    {
+      "timestamp": 191,
+      "name": "step_05_position-the-rear-shock-for-installation"
+    },
+    {
+      "timestamp": 229,
+      "name": "step_06_install-the-retaining-hardware-for-the-rear-shock"
+    },
+    {
+      "timestamp": 267,
+      "name": "step_07_align-the-rear-shock-in-its-final-position"
+    },
+    {
+      "timestamp": 305,
+      "name": "step_08_verify-the-completed-installation"
+    }
+  ]
 }

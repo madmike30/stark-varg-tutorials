@@ -1,6 +1,8 @@
-# How To Bleed The Cooling System - Stark VARG MX 1.2
+# How To Bleed The Cooling System - Stark VARG MX 1.2 / EX
 
 Source video: `How To Bleed The Cooling System - Stark VARG MX 1.2` by Stark Future Official
+
+Applicable models: `MX 1.2 / EX`
 
 ## Scope
 

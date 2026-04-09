@@ -1,84 +1,84 @@
-﻿{
-    "slug":  "remove-and-install-front-brake-caliper-stark-varg-mx-1-2",
-    "title":  "Remove and Install Front Brake Caliper - Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=QYF3S5mr1m8",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-front-brake-caliper-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  6,
-                       "name":  "step_01_carefully-remove-the-master-cylinder-reservoir-cap"
-                   },
-                   {
-                       "timestamp":  24,
-                       "name":  "step_02_remove-the-rubber-cap-from-the-front-caliper-bleeder"
-                   },
-                   {
-                       "timestamp":  31,
-                       "name":  "step_03_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
-                   },
-                   {
-                       "timestamp":  41,
-                       "name":  "step_04_drain-the-brake-fluid-from-the-system"
-                   },
-                   {
-                       "timestamp":  76,
-                       "name":  "step_05_carefully-remove-the-hose-from-the-front-caliper-bleeder"
-                   },
-                   {
-                       "timestamp":  88,
-                       "name":  "step_06_unscrew-the-banjo-bolt-from-the-front-brake-caliper-note-car"
-                   },
-                   {
-                       "timestamp":  115,
-                       "name":  "step_07_unscrew-and-remove-both-front-brake-caliper-bolts-to-complet"
-                   },
-                   {
-                       "timestamp":  171,
-                       "name":  "step_08_apply-thread-locker-to-both-front-brake-caliper-bolts-then-i"
-                   },
-                   {
-                       "timestamp":  236,
-                       "name":  "step_09_clean-the-area-thoroughly"
-                   },
-                   {
-                       "timestamp":  255,
-                       "name":  "step_10_tighten-the-banjo-bolt-into-the-front-caliper-to-25-nm"
-                   },
-                   {
-                       "timestamp":  287,
-                       "name":  "step_11_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
-                   },
-                   {
-                       "timestamp":  293,
-                       "name":  "step_12_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv"
-                   },
-                   {
-                       "timestamp":  340,
-                       "name":  "step_13_actively-check-the-brake-fluid-level"
-                   },
-                   {
-                       "timestamp":  387,
-                       "name":  "step_14_carefully-remove-the-hose-from-the-front-brake-caliper-bleed"
-                   },
-                   {
-                       "timestamp":  423,
-                       "name":  "step_15_place-the-rubber-protector-cap-into-its-position"
-                   },
-                   {
-                       "timestamp":  431,
-                       "name":  "step_16_install-the-master-cylinder-reservoir-cap-and-tighten-both-s"
-                   },
-                   {
-                       "timestamp":  464,
-                       "name":  "step_17_clean-the-area-thoroughly-and-test-the-brake-system"
-                   }
-               ]
+{
+  "slug": "remove-and-install-front-brake-caliper-stark-varg-mx-1-2",
+  "title": "Remove and Install Front Brake Caliper - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=QYF3S5mr1m8",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-front-brake-caliper-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 6,
+      "name": "step_01_carefully-remove-the-master-cylinder-reservoir-cap"
+    },
+    {
+      "timestamp": 24,
+      "name": "step_02_remove-the-rubber-cap-from-the-front-caliper-bleeder"
+    },
+    {
+      "timestamp": 31,
+      "name": "step_03_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_04_drain-the-brake-fluid-from-the-system"
+    },
+    {
+      "timestamp": 76,
+      "name": "step_05_carefully-remove-the-hose-from-the-front-caliper-bleeder"
+    },
+    {
+      "timestamp": 88,
+      "name": "step_06_unscrew-the-banjo-bolt-from-the-front-brake-caliper-note-car"
+    },
+    {
+      "timestamp": 115,
+      "name": "step_07_unscrew-and-remove-both-front-brake-caliper-bolts-to-complet"
+    },
+    {
+      "timestamp": 171,
+      "name": "step_08_apply-thread-locker-to-both-front-brake-caliper-bolts-then-i"
+    },
+    {
+      "timestamp": 236,
+      "name": "step_09_clean-the-area-thoroughly"
+    },
+    {
+      "timestamp": 255,
+      "name": "step_10_tighten-the-banjo-bolt-into-the-front-caliper-to-25-nm"
+    },
+    {
+      "timestamp": 287,
+      "name": "step_11_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+    },
+    {
+      "timestamp": 293,
+      "name": "step_12_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv"
+    },
+    {
+      "timestamp": 340,
+      "name": "step_13_actively-check-the-brake-fluid-level"
+    },
+    {
+      "timestamp": 387,
+      "name": "step_14_carefully-remove-the-hose-from-the-front-brake-caliper-bleed"
+    },
+    {
+      "timestamp": 423,
+      "name": "step_15_place-the-rubber-protector-cap-into-its-position"
+    },
+    {
+      "timestamp": 431,
+      "name": "step_16_install-the-master-cylinder-reservoir-cap-and-tighten-both-s"
+    },
+    {
+      "timestamp": 464,
+      "name": "step_17_clean-the-area-thoroughly-and-test-the-brake-system"
+    }
+  ]
 }

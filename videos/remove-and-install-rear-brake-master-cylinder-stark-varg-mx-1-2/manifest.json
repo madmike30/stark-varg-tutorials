@@ -1,100 +1,100 @@
-﻿{
-    "slug":  "remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2",
-    "title":  "Remove and Install Rear Brake Master Cylinder- Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=_zuf6jAthuo",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  11,
-                       "name":  "step_01_remove-the-rubber-cap-from-the-rear-caliper-bleeder"
-                   },
-                   {
-                       "timestamp":  18,
-                       "name":  "step_02_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
-                   },
-                   {
-                       "timestamp":  26,
-                       "name":  "step_03_drain-the-brake-fluid-from-the-system"
-                   },
-                   {
-                       "timestamp":  41,
-                       "name":  "step_04_carefully-remove-the-hose-from-the-rear-caliper-bleeder"
-                   },
-                   {
-                       "timestamp":  61,
-                       "name":  "step_05_unscrew-and-carefully-remove-the-foot-brake-master-cylinder-"
-                   },
-                   {
-                       "timestamp":  101,
-                       "name":  "step_06_unscrew-the-banjo-bolt-from-the-master-cylinder"
-                   },
-                   {
-                       "timestamp":  151,
-                       "name":  "step_07_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
-                   },
-                   {
-                       "timestamp":  166,
-                       "name":  "step_08_loosen-and-remove-both-bolts-from-the-rear-brake-master-cyli"
-                   },
-                   {
-                       "timestamp":  191,
-                       "name":  "step_09_remove-the-rear-foot-brake-assembly-from-the-bike"
-                   },
-                   {
-                       "timestamp":  236,
-                       "name":  "step_10_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
-                   },
-                   {
-                       "timestamp":  309,
-                       "name":  "step_11_carefully-position-the-spring-and-spring-housing-then-insert"
-                   },
-                   {
-                       "timestamp":  324,
-                       "name":  "step_12_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
-                   },
-                   {
-                       "timestamp":  345,
-                       "name":  "step_13_tighten-the-banjo-bolt-into-the-master-cylinder-to-27-nm"
-                   },
-                   {
-                       "timestamp":  381,
-                       "name":  "step_14_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
-                   },
-                   {
-                       "timestamp":  393,
-                       "name":  "step_15_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv"
-                   },
-                   {
-                       "timestamp":  404,
-                       "name":  "step_16_pump-the-brake-lever-several-times-and-while-holding-it-pull"
-                   },
-                   {
-                       "timestamp":  437,
-                       "name":  "step_17_actively-check-the-brake-fluid-level"
-                   },
-                   {
-                       "timestamp":  486,
-                       "name":  "step_18_tighten-the-foot-brake-master-cylinder-reservoir-cap"
-                   },
-                   {
-                       "timestamp":  504,
-                       "name":  "step_19_carefully-remove-the-hose-from-the-rear-brake-caliper-bleed-"
-                   },
-                   {
-                       "timestamp":  544,
-                       "name":  "step_20_place-the-rubber-protector-cap-into-its-position"
-                   },
-                   {
-                       "timestamp":  550,
-                       "name":  "step_21_clean-the-area-thoroughly-and-test-the-brake-system"
-                   }
-               ]
+{
+  "slug": "remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2",
+  "title": "Remove and Install Rear Brake Master Cylinder - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=_zuf6jAthuo",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 11,
+      "name": "step_01_remove-the-rubber-cap-from-the-rear-caliper-bleeder"
+    },
+    {
+      "timestamp": 18,
+      "name": "step_02_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_03_drain-the-brake-fluid-from-the-system"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_04_carefully-remove-the-hose-from-the-rear-caliper-bleeder"
+    },
+    {
+      "timestamp": 61,
+      "name": "step_05_unscrew-and-carefully-remove-the-foot-brake-master-cylinder-"
+    },
+    {
+      "timestamp": 101,
+      "name": "step_06_unscrew-the-banjo-bolt-from-the-master-cylinder"
+    },
+    {
+      "timestamp": 151,
+      "name": "step_07_loosen-and-remove-the-lever-rod-to-brake-pedal-bolt"
+    },
+    {
+      "timestamp": 166,
+      "name": "step_08_loosen-and-remove-both-bolts-from-the-rear-brake-master-cyli"
+    },
+    {
+      "timestamp": 191,
+      "name": "step_09_remove-the-rear-foot-brake-assembly-from-the-bike"
+    },
+    {
+      "timestamp": 236,
+      "name": "step_10_apply-thread-locker-to-both-rear-foot-brake-master-cylinder-"
+    },
+    {
+      "timestamp": 309,
+      "name": "step_11_carefully-position-the-spring-and-spring-housing-then-insert"
+    },
+    {
+      "timestamp": 324,
+      "name": "step_12_tighten-the-lever-rod-to-brake-pedal-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 345,
+      "name": "step_13_tighten-the-banjo-bolt-into-the-master-cylinder-to-27-nm"
+    },
+    {
+      "timestamp": 381,
+      "name": "step_14_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+    },
+    {
+      "timestamp": 393,
+      "name": "step_15_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv"
+    },
+    {
+      "timestamp": 404,
+      "name": "step_16_pump-the-brake-lever-several-times-and-while-holding-it-pull"
+    },
+    {
+      "timestamp": 437,
+      "name": "step_17_actively-check-the-brake-fluid-level"
+    },
+    {
+      "timestamp": 486,
+      "name": "step_18_tighten-the-foot-brake-master-cylinder-reservoir-cap"
+    },
+    {
+      "timestamp": 504,
+      "name": "step_19_carefully-remove-the-hose-from-the-rear-brake-caliper-bleed-"
+    },
+    {
+      "timestamp": 544,
+      "name": "step_20_place-the-rubber-protector-cap-into-its-position"
+    },
+    {
+      "timestamp": 550,
+      "name": "step_21_clean-the-area-thoroughly-and-test-the-brake-system"
+    }
+  ]
 }

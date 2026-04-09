@@ -1,80 +1,80 @@
-﻿{
-    "slug":  "how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2",
-    "title":  "How to Rear Brake Calliper Maintenance Stark VARG MX 1.2",
-    "video_url":  "https://www.youtube.com/watch?v=WPdC1iC7LbQ",
-    "tutorial_markdown":  "tutorial.md",
-    "source_video":  "source/video.mp4",
-    "screenshots_dir":  "assets/screenshots",
-    "contact_sheet":  "assets/contact-sheet.jpg",
-    "pdf_output":  "output/pdf/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2.pdf",
-    "pdf_render_dir":  "tmp/pdfs",
-    "references":  [
-                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
-                   ],
-    "frames":  [
-                   {
-                       "timestamp":  9,
-                       "name":  "step_01_unscrew-the-rear-wheel-shaft-lock-nut-and-press-the-shaft-ou"
-                   },
-                   {
-                       "timestamp":  35,
-                       "name":  "step_02_remove-the-rear-wheel-shaft"
-                   },
-                   {
-                       "timestamp":  41,
-                       "name":  "step_03_carefully-remove-the-rear-wheel"
-                   },
-                   {
-                       "timestamp":  56,
-                       "name":  "step_04_remove-the-rear-brake-caliper-brake-pads"
-                   },
-                   {
-                       "timestamp":  83,
-                       "name":  "step_05_remove-the-rear-brake-caliper-from-the-swingarm-and-remove-t"
-                   },
-                   {
-                       "timestamp":  95,
-                       "name":  "step_06_thoroughly-clean-the-entire-caliper-especially-the-pins-guid"
-                   },
-                   {
-                       "timestamp":  173,
-                       "name":  "step_07_apply-grease-to-the-mounting-pins-and-to-the-inside-of-the-g"
-                   },
-                   {
-                       "timestamp":  230,
-                       "name":  "step_08_insert-the-mounting-bracket-into-the-rear-brake-caliper"
-                   },
-                   {
-                       "timestamp":  243,
-                       "name":  "step_09_install-the-rear-brake-caliper-in-position"
-                   },
-                   {
-                       "timestamp":  260,
-                       "name":  "step_10_install-the-brake-pads-into-the-rear-brake-caliper"
-                   },
-                   {
-                       "timestamp":  304,
-                       "name":  "step_11_carefully-position-the-wheel-and-ensure-it-is-aligned-with-t"
-                   },
-                   {
-                       "timestamp":  318,
-                       "name":  "step_12_install-the-chain-onto-the-rear-sprocket"
-                   },
-                   {
-                       "timestamp":  325,
-                       "name":  "step_13_install-the-rear-wheel-shaft-and-secure-it-with-the-lock-nut"
-                   },
-                   {
-                       "timestamp":  341,
-                       "name":  "step_14_ensure-the-chain-is-properly-tensioned-by-placing-a-cloth-be"
-                   },
-                   {
-                       "timestamp":  346,
-                       "name":  "step_15_tighten-the-rear-wheel-shaft-lock-nut-to-80-nm"
-                   },
-                   {
-                       "timestamp":  358,
-                       "name":  "step_16_check-chain-tension-and-brake-system"
-                   }
-               ]
+{
+  "slug": "how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2",
+  "title": "How to Rear Brake Calliper Maintenance - Stark VARG MX 1.2 / EX",
+  "video_url": "https://www.youtube.com/watch?v=WPdC1iC7LbQ",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [
+    "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+  ],
+  "frames": [
+    {
+      "timestamp": 9,
+      "name": "step_01_unscrew-the-rear-wheel-shaft-lock-nut-and-press-the-shaft-ou"
+    },
+    {
+      "timestamp": 35,
+      "name": "step_02_remove-the-rear-wheel-shaft"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_03_carefully-remove-the-rear-wheel"
+    },
+    {
+      "timestamp": 56,
+      "name": "step_04_remove-the-rear-brake-caliper-brake-pads"
+    },
+    {
+      "timestamp": 83,
+      "name": "step_05_remove-the-rear-brake-caliper-from-the-swingarm-and-remove-t"
+    },
+    {
+      "timestamp": 95,
+      "name": "step_06_thoroughly-clean-the-entire-caliper-especially-the-pins-guid"
+    },
+    {
+      "timestamp": 173,
+      "name": "step_07_apply-grease-to-the-mounting-pins-and-to-the-inside-of-the-g"
+    },
+    {
+      "timestamp": 230,
+      "name": "step_08_insert-the-mounting-bracket-into-the-rear-brake-caliper"
+    },
+    {
+      "timestamp": 243,
+      "name": "step_09_install-the-rear-brake-caliper-in-position"
+    },
+    {
+      "timestamp": 260,
+      "name": "step_10_install-the-brake-pads-into-the-rear-brake-caliper"
+    },
+    {
+      "timestamp": 304,
+      "name": "step_11_carefully-position-the-wheel-and-ensure-it-is-aligned-with-t"
+    },
+    {
+      "timestamp": 318,
+      "name": "step_12_install-the-chain-onto-the-rear-sprocket"
+    },
+    {
+      "timestamp": 325,
+      "name": "step_13_install-the-rear-wheel-shaft-and-secure-it-with-the-lock-nut"
+    },
+    {
+      "timestamp": 341,
+      "name": "step_14_ensure-the-chain-is-properly-tensioned-by-placing-a-cloth-be"
+    },
+    {
+      "timestamp": 346,
+      "name": "step_15_tighten-the-rear-wheel-shaft-lock-nut-to-80-nm"
+    },
+    {
+      "timestamp": 358,
+      "name": "step_16_check-chain-tension-and-brake-system"
+    }
+  ]
 }

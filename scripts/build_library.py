@@ -20,7 +20,7 @@ PLAYLISTS = [
     {
         "url": "https://www.youtube.com/playlist?list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW",
         "label": "mx",
-        "title": "Stark VARG MX 1.2 Tutorials",
+        "title": "Stark VARG MX 1.2 / EX Shared Tutorials",
         "manual_name": "Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf",
         "manual_url": "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf",
     },
@@ -143,6 +143,18 @@ def spaced_stark_model(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def is_ex_specific_title(title: str) -> bool:
+    return "stark varg ex" in spaced_stark_model(title).lower()
+
+
+def applicability_label_for_title(title: str) -> str:
+    return "EX" if is_ex_specific_title(title) else "MX 1.2 / EX"
+
+
+def source_family_for_title(title: str) -> str:
+    return "EX" if is_ex_specific_title(title) else "MX"
+
+
 def compact_spacing_around_punctuation(text: str) -> str:
     text = re.sub(r"\s+-\s+", " - ", text)
     text = re.sub(r"\s+([,.:;])", r"\1", text)
@@ -152,11 +164,28 @@ def compact_spacing_around_punctuation(text: str) -> str:
 
 def strip_model_suffix(title: str) -> str:
     title = compact_spacing_around_punctuation(spaced_stark_model(title))
-    title = re.sub(r"\s*-\s*Stark VARG MX 1\.2\s*$", "", title, flags=re.IGNORECASE)
-    title = re.sub(r"\s*Stark VARG MX 1\.2\s*$", "", title, flags=re.IGNORECASE)
+    patterns = (
+        r"\s*-\s*Stark VARG MX 1\.2\s*/\s*EX\s*$",
+        r"\s*Stark VARG MX 1\.2\s*/\s*EX\s*$",
+        r"\s*-\s*Stark VARG MX 1\.2\s*$",
+        r"\s*Stark VARG MX 1\.2\s*$",
+    )
+    changed = True
+    while changed:
+        changed = False
+        for pattern in patterns:
+            next_title = re.sub(pattern, "", title, flags=re.IGNORECASE)
+            if next_title != title:
+                title = next_title
+                changed = True
     title = re.sub(r"\s*on your Stark VARG EX\s*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\s*Stark Varg EX\s*$", "", title, flags=re.IGNORECASE)
+    title = re.sub(r"\s*-\s*$", "", title)
     return compact_spacing_around_punctuation(title)
+
+
+def display_title_with_applicability(title: str) -> str:
+    return f"{strip_model_suffix(title)} ({applicability_label_for_title(title)})"
 
 
 def is_wiring_component(component: str) -> bool:
@@ -472,6 +501,23 @@ def split_sections(video_title: str, steps: list[Step]) -> list[tuple[str, list[
 
 def tutorial_title_from_video_title(video_title: str) -> str:
     clean = spaced_stark_model(clean_sentence(video_title))
+    if not is_ex_specific_title(clean):
+        patterns = (
+            r"\s+on your Stark VARG MX 1\.2(?:\s*/\s*EX)?\s*$",
+            r"\s*-\s*Stark VARG MX 1\.2(?:\s*/\s*EX)?\s*$",
+            r"\s+Stark VARG MX 1\.2(?:\s*/\s*EX)?\s*$",
+        )
+        changed = True
+        while changed:
+            changed = False
+            for pattern in patterns:
+                next_clean = re.sub(pattern, "", clean, flags=re.IGNORECASE)
+                if next_clean != clean:
+                    clean = next_clean
+                    changed = True
+        clean = re.sub(r"\s*-\s*$", "", clean)
+        clean = compact_spacing_around_punctuation(clean)
+        return f"{clean} - Stark VARG MX 1.2 / EX"
     if clean.lower().startswith("how to "):
         return clean[0].upper() + clean[1:]
     if clean.lower().startswith("remove and install"):
@@ -528,6 +574,8 @@ def write_tutorial(video_dir: Path, title: str, video_title: str, steps: list[St
     lines.append(f"# {title}")
     lines.append("")
     lines.append(f"Source video: `{video_title}` by Stark Future Official")
+    lines.append("")
+    lines.append(f"Applicable models: `{applicability_label_for_title(title)}`")
     lines.append("")
     lines.append("## Scope")
     lines.append("")
@@ -713,6 +761,8 @@ def write_library_index(results: list[dict]) -> None:
         "",
         "## Library",
         "",
+        "MX-derived procedures are marked `MX 1.2 / EX` where the same service steps apply to both bikes.",
+        "",
     ]
     existing_entries: list[dict] = []
     for video_dir in sorted(path for path in VIDEOS_DIR.iterdir() if path.is_dir() and not path.name.startswith("_")):
@@ -723,7 +773,7 @@ def write_library_index(results: list[dict]) -> None:
         try:
             manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
             title = spaced_stark_model(manifest.get("title", tutorial_path.stem))
-            playlist_title = "Stark VARG EX Tutorials" if "stark varg ex" in title.lower() else "Stark VARG MX 1.2 Tutorials"
+            playlist_title = "Stark VARG EX Tutorials" if is_ex_specific_title(title) else "Stark VARG MX 1.2 / EX Shared Tutorials"
             pdf_output = manifest.get("pdf_output", "")
             existing_entries.append(
                 {
@@ -745,7 +795,7 @@ def write_library_index(results: list[dict]) -> None:
         )
         for item in entries:
             slug = item["slug"]
-            lines.append(f"- [{strip_model_suffix(item['title'])}](videos/{slug}/{item['pdf_output']})")
+            lines.append(f"- [{display_title_with_applicability(item['title'])}](videos/{slug}/{item['pdf_output']})")
         lines.append("")
     readme.write_text("\n".join(lines), encoding="utf-8")
 
