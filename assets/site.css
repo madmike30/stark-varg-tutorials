@@ -129,7 +129,7 @@ main,
 
 .hero h1 {
   max-width: 12ch;
-  font-size: clamp(2.8rem, 6.4vw, 5.1rem);
+  font-size: clamp(2.15rem, 4.6vw, 3.8rem);
 }
 
 .hero-text,
@@ -272,7 +272,7 @@ main,
 }
 
 .section-head h2 {
-  font-size: clamp(2rem, 3.8vw, 3.35rem);
+  font-size: clamp(1.65rem, 2.8vw, 2.5rem);
   max-width: 12ch;
 }
 
@@ -503,7 +503,7 @@ main,
 
   .hero h1 {
     max-width: 10ch;
-    font-size: clamp(2.3rem, 9.2vw, 3.45rem);
+    font-size: clamp(1.95rem, 7.2vw, 2.9rem);
   }
 
   .tutorial-row {
