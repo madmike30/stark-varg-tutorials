@@ -304,7 +304,7 @@ MX_1_2_MANUAL_TORQUE_RULES = [
         "match": ("carbon fiber spoiler",),
         "target": "install the retaining hardware",
         "lines": [
-            "Tighten the carbon fiber spoiler bolts to 3 Nm.",
+            "Tighten the carbon fiber spoiler to frame bolts to 8 Nm.",
         ],
     },
     {
@@ -607,8 +607,6 @@ def manual_torque_source_label_for_title(title: str) -> str:
     source_family = source_family_for_title(title)
     if source_family == "MX":
         return "the official Stark VARG owner manual torque table"
-    if source_family == "MX 1.2":
-        return "the official Stark VARG MX 1.2 owner manual torque table"
     return "the official Stark tutorial video"
 
 

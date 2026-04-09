@@ -73,7 +73,7 @@ Install the main retaining hardware for the Carbon Fiber Spoiler by hand first, 
 
 Check that the component remains aligned while the hardware is brought fully home.
 
-Tighten the carbon fiber spoiler bolts to **3 Nm**.
+Tighten the carbon fiber spoiler to frame bolts to **8 Nm**.
 
 ![Step 7 - install the retaining hardware for the carbon fiber spoiler](assets/screenshots/step_07_install-the-retaining-hardware-for-the-carbon-fiber-spoiler.jpg)
 
@@ -89,11 +89,11 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the carbon fiber spoiler bolts | 3 Nm |
+| Tighten the carbon fiber spoiler to frame bolts | 8 Nm |
 
 Verified torque items:
 
-- Tighten the carbon fiber spoiler bolts: **3 Nm** from the official Stark VARG MX 1.2 owner manual torque table.
+- Tighten the carbon fiber spoiler to frame bolts: **8 Nm** from the official Stark tutorial video.
 
 ## Critical Checks Before Riding
 
