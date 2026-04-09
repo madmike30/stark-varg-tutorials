@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -63,6 +63,14 @@ Install and tighten the visible fasteners for the newly fitted setup parts.
 
 Make sure the parts sit flush and that no clip, washer, or spacer is omitted during assembly.
 
+Tighten the docking station bolts to **30 Nm**.
+
+Tighten the front wheel axle lock bolt to **35 Nm**.
+
+Tighten the front wheel clamp bolts to **15 Nm**.
+
+Tighten the foot peg pin to **20 Nm**.
+
 ![Step 6 - secure the setup hardware](assets/screenshots/step_06_secure-the-setup-hardware.jpg)
 
 ### 7. Complete the final setup inspection
@@ -72,6 +80,22 @@ Check that the bike is fully assembled, all packing materials are removed, and t
 Verify the bike is ready for the next setup steps before riding or charging.
 
 ![Step 7 - complete the final setup inspection](assets/screenshots/step_07_complete-the-final-setup-inspection.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the docking station bolts | 30 Nm |
+| Tighten the front wheel axle lock bolt | 35 Nm |
+| Tighten the front wheel clamp bolts | 15 Nm |
+| Tighten the foot peg pin | 20 Nm |
+
+Verified torque items:
+
+- Tighten the docking station bolts: **30 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front wheel axle lock bolt: **35 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front wheel clamp bolts: **15 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the foot peg pin: **20 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

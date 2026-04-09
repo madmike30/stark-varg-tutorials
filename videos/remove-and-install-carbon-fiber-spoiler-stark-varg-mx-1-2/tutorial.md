@@ -6,7 +6,7 @@ Applicable models: `MX 1.2 / EX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,8 @@ Install the main retaining hardware for the Carbon Fiber Spoiler by hand first, 
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the carbon fiber spoiler bolts to **3 Nm**.
+
 ![Step 7 - install the retaining hardware for the carbon fiber spoiler](assets/screenshots/step_07_install-the-retaining-hardware-for-the-carbon-fiber-spoiler.jpg)
 
 ### 8. Verify the completed installation of the Carbon Fiber Spoiler
@@ -82,6 +84,16 @@ Inspect the final position of the Carbon Fiber Spoiler and confirm that all hard
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the carbon fiber spoiler](assets/screenshots/step_08_verify-the-completed-installation-of-the-carbon-fiber-spoile.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the carbon fiber spoiler bolts | 3 Nm |
+
+Verified torque items:
+
+- Tighten the carbon fiber spoiler bolts: **3 Nm** from the official Stark VARG MX 1.2 owner manual torque table.
 
 ## Critical Checks Before Riding
 

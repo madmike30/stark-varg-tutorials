@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -63,7 +63,19 @@ Reinstall the fill hardware and wipe any spilled oil from the surrounding parts.
 
 Reinstall any removed guards or covers and check the service area for leaks before returning the bike to use.
 
+Tighten the skid plate bolts to **15 Nm**.
+
 ![Step 8 - reinstall removed parts and inspect for leaks](assets/screenshots/step_08_reinstall-removed-parts-and-inspect-for-leaks.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the skid plate bolts | 15 Nm |
+
+Verified torque items:
+
+- Tighten the skid plate bolts: **15 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -57,6 +57,8 @@ Bring the coolant level back to the correct height, then close the cap and servi
 
 Reinstall the covers, skid plate, and other removed parts in the same order used during access.
 
+Tighten the skid plate bolts to **15 Nm**.
+
 ![Step 7 - reinstall the removed bodywork](assets/screenshots/step_07_reinstall-the-removed-bodywork.jpg)
 
 ### 8. Check for leaks and correct level
@@ -64,6 +66,16 @@ Reinstall the covers, skid plate, and other removed parts in the same order used
 Inspect the system for leaks and confirm the coolant level remains correct before riding.
 
 ![Step 8 - check for leaks and correct level](assets/screenshots/step_08_check-for-leaks-and-correct-level.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the skid plate bolts | 15 Nm |
+
+Verified torque items:
+
+- Tighten the skid plate bolts: **15 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

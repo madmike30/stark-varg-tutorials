@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,8 @@ Install the main retaining hardware for the Front Brake Line Bracket by hand fir
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the fork brake line bracket screws to **3 Nm**.
+
 ![Step 7 - install the retaining hardware for the front brake line bracket](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-brake-line-brac.jpg)
 
 ### 8. Verify the completed installation of the Front Brake Line Bracket
@@ -82,6 +84,16 @@ Inspect the final position of the Front Brake Line Bracket and confirm that all 
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front brake line bracket](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-line-br.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the fork brake line bracket screws | 3 Nm |
+
+Verified torque items:
+
+- Tighten the fork brake line bracket screws: **3 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,10 @@ Install the main retaining hardware for the Rear Mud Flap by hand first, then ti
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the lower rear fender bolts to **5 Nm**.
+
+Tighten the mud flap screws to **3 Nm**.
+
 ![Step 7 - install the retaining hardware for the rear mud flap](assets/screenshots/step_07_install-the-retaining-hardware-for-the-rear-mud-flap.jpg)
 
 ### 8. Verify the completed installation of the Rear Mud Flap
@@ -82,6 +86,18 @@ Inspect the final position of the Rear Mud Flap and confirm that all hardware, c
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the rear mud flap](assets/screenshots/step_08_verify-the-completed-installation-of-the-rear-mud-flap.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the lower rear fender bolts | 5 Nm |
+| Tighten the mud flap screws | 3 Nm |
+
+Verified torque items:
+
+- Tighten the lower rear fender bolts: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the mud flap screws: **3 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

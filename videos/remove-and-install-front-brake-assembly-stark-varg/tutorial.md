@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,12 @@ Install the main retaining hardware for the Front Brake Assembly by hand first, 
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the front brake caliper bolts to **25 Nm**.
+
+Tighten the hand brake master cylinder clamp bolts to **3 Nm**.
+
+Tighten the fork brake line bracket screws to **3 Nm**.
+
 ![Step 7 - install the retaining hardware for the front brake assembly](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-brake-assembly.jpg)
 
 ### 8. Verify the completed installation of the Front Brake Assembly
@@ -82,6 +88,20 @@ Inspect the final position of the Front Brake Assembly and confirm that all hard
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front brake assembly](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-assembl.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the front brake caliper bolts | 25 Nm |
+| Tighten the hand brake master cylinder clamp bolts | 3 Nm |
+| Tighten the fork brake line bracket screws | 3 Nm |
+
+Verified torque items:
+
+- Tighten the front brake caliper bolts: **25 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the hand brake master cylinder clamp bolts: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the fork brake line bracket screws: **3 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

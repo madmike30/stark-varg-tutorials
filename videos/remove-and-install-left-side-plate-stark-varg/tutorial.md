@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,10 @@ Install the main retaining hardware for the left Side Plate by hand first, then 
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the side plates top bolt to **45 Nm**.
+
+Tighten the side plates bottom bolt to **40 Nm**.
+
 ![Step 7 - install the retaining hardware for the left side plate](assets/screenshots/step_07_install-the-retaining-hardware-for-the-left-side-plate.jpg)
 
 ### 8. Verify the completed installation of the left Side Plate
@@ -82,6 +86,18 @@ Inspect the final position of the left Side Plate and confirm that all hardware,
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the left side plate](assets/screenshots/step_08_verify-the-completed-installation-of-the-left-side-plate.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the side plates top bolt | 45 Nm |
+| Tighten the side plates bottom bolt | 40 Nm |
+
+Verified torque items:
+
+- Tighten the side plates top bolt: **45 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the side plates bottom bolt: **40 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

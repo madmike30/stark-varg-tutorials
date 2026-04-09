@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,10 @@ Install the main retaining hardware for the Front Wheel by hand first, then tigh
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the front wheel axle lock bolt to **35 Nm**.
+
+Tighten the front wheel clamp bolts to **15 Nm**.
+
 ![Step 7 - install the retaining hardware for the front wheel](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-wheel.jpg)
 
 ### 8. Verify the completed installation of the Front Wheel
@@ -82,6 +86,18 @@ Inspect the final position of the Front Wheel and confirm that all hardware, cli
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front wheel](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-wheel.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the front wheel axle lock bolt | 35 Nm |
+| Tighten the front wheel clamp bolts | 15 Nm |
+
+Verified torque items:
+
+- Tighten the front wheel axle lock bolt: **35 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front wheel clamp bolts: **15 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

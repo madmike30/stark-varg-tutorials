@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,8 @@ Install the main retaining hardware for the Front Number Plate by hand first, th
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the front number plate bolt to **8 Nm**.
+
 ![Step 7 - install the retaining hardware for the front number plate](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-number-plate.jpg)
 
 ### 8. Verify the completed installation of the Front Number Plate
@@ -82,6 +84,16 @@ Inspect the final position of the Front Number Plate and confirm that all hardwa
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front number plate](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-number-plate.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the front number plate bolt | 8 Nm |
+
+Verified torque items:
+
+- Tighten the front number plate bolt: **8 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

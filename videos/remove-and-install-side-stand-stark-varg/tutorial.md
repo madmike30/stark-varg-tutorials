@@ -6,7 +6,7 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,10 @@ Install the main retaining hardware for the Side Stand by hand first, then tight
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the side stand bracket bolts to **5 Nm**.
+
+Tighten the side stand leg bolt to **15 Nm**.
+
 ![Step 7 - install the retaining hardware for the side stand](assets/screenshots/step_07_install-the-retaining-hardware-for-the-side-stand.jpg)
 
 ### 8. Verify the completed installation of the Side Stand
@@ -82,6 +86,18 @@ Inspect the final position of the Side Stand and confirm that all hardware, clip
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the side stand](assets/screenshots/step_08_verify-the-completed-installation-of-the-side-stand.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the side stand bracket bolts | 5 Nm |
+| Tighten the side stand leg bolt | 15 Nm |
+
+Verified torque items:
+
+- Tighten the side stand bracket bolts: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the side stand leg bolt: **15 Nm** from the official Stark VARG owner manual torque table.
 
 ## Critical Checks Before Riding
 

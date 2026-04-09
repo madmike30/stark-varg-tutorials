@@ -6,7 +6,7 @@ Applicable models: `MX 1.2 / EX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -53,6 +53,10 @@ Position the Rear Shock for installation.
 
 Install the retaining hardware for the Rear Shock.
 
+Tighten the top shock shaft nut to **40 Nm**.
+
+Tighten the bottom shock shaft nut to **40 Nm**.
+
 ![Step 6 - install the retaining hardware for the rear shock](assets/screenshots/step_06_install-the-retaining-hardware-for-the-rear-shock.jpg)
 
 ### 7. Align the Rear Shock in its final position
@@ -66,6 +70,18 @@ Align the Rear Shock in its final position.
 Verify the completed installation.
 
 ![Step 8 - verify the completed installation](assets/screenshots/step_08_verify-the-completed-installation.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the top shock shaft nut | 40 Nm |
+| Tighten the bottom shock shaft nut | 40 Nm |
+
+Verified torque items:
+
+- Tighten the top shock shaft nut: **40 Nm** from the official Stark VARG MX 1.2 owner manual torque table.
+- Tighten the bottom shock shaft nut: **40 Nm** from the official Stark VARG MX 1.2 owner manual torque table.
 
 ## Critical Checks Before Riding
 
