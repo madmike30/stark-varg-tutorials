@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stark Varg Tutorial Library</title>
+    <meta name="theme-color" content="#f1eee8" />
+    <meta
+      name="description"
+      content="Garage-friendly Stark VARG PDF tutorials organized from the official Stark Future playlists."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/site.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brandmark" href="#top">Stark Varg Tutorials</a>
+        <nav class="topnav" aria-label="Primary">
+          <a href="#library">Library</a>
+          <a href="#source">Sources</a>
+          <a href="#disclaimer">Disclaimer</a>
+        </nav>
+      </header>
+
+      <main id="top">
+        <section class="hero">
+          <div class="hero-copy reveal">
+            <p class="eyebrow">Tutorials & Technical</p>
+            <h1>Workshop-ready Stark VARG PDF guides for the garage.</h1>
+            <p class="hero-text">
+              A cleaner support-style library built from Stark Future's official video playlists,
+              rewritten into fast-scanning PDFs with screenshots, torque callouts, and direct links.
+            </p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#library">Browse Tutorials</a>
+              <a class="button button-secondary" href="#source">View Source Links</a>
+            </div>
+          </div>
+
+          <div class="hero-panel reveal">
+            <div class="hero-stat">
+              <span class="stat-label">MX Tutorials</span>
+              <strong id="mx-count">0</strong>
+            </div>
+            <div class="hero-stat">
+              <span class="stat-label">EX Tutorials</span>
+              <strong id="ex-count">0</strong>
+            </div>
+            <div class="hero-stat">
+              <span class="stat-label">Ready PDFs</span>
+              <strong id="total-count">0</strong>
+            </div>
+            <p class="panel-note">
+              Inspired by Stark's support layout, but narrowed to the PDF documents you actually
+              need at the bike.
+            </p>
+          </div>
+        </section>
+
+        <section class="info-grid reveal" id="source">
+          <article class="info-block">
+            <p class="block-kicker">Source Material</p>
+            <h2>Built from Stark Future's official channels.</h2>
+            <ul class="link-list">
+              <li>
+                <a href="https://starkfuture.com/en-IL/tutorials-and-technical" target="_blank" rel="noreferrer"
+                  >Stark Tutorials & Technical</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLkap5aPwLLRBqClumfq428p7DvfueeWdW"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Official MX Playlist</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/playlist?list=PLkap5aPwLLRCEirHu95EHvDsCDujl3ia_"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Official EX Playlist</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Official MX Owner Manual</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                  target="_blank"
+                  rel="noreferrer"
+                  >Official EX Owner Manual</a
+                >
+              </li>
+            </ul>
+          </article>
+
+          <article class="info-block" id="disclaimer">
+            <p class="block-kicker">Disclaimer</p>
+            <h2>Use this as guidance, not as a substitute for judgment.</h2>
+            <p>
+              This library is an unofficial convenience conversion of Stark Future's original video
+              content into a garage-friendly reference format.
+            </p>
+            <p>
+              By using these materials, you accept full responsibility for maintenance, inspection,
+              assembly, torque verification, riding, damage, injury, and any results connected to
+              their use. Always verify critical work against official Stark documentation.
+            </p>
+          </article>
+        </section>
+
+        <section class="library-section reveal" id="library">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">PDF Library</p>
+              <h2>Open the document you need and keep working.</h2>
+            </div>
+            <p class="section-copy">
+              Filter by bike family or search by component name. Each entry links straight to the
+              generated PDF and back to the original video.
+            </p>
+          </div>
+
+          <div class="toolbar">
+            <div class="filter-group" role="tablist" aria-label="Filter tutorials by model">
+              <button class="filter-chip is-active" data-filter="all" type="button" aria-pressed="true">All</button>
+              <button class="filter-chip" data-filter="MX" type="button" aria-pressed="false">MX</button>
+              <button class="filter-chip" data-filter="EX" type="button" aria-pressed="false">EX</button>
+            </div>
+            <label class="search-wrap">
+              <span class="sr-only">Search tutorials</span>
+              <input
+                id="search-input"
+                type="search"
+                placeholder="Search component or procedure"
+                autocomplete="off"
+              />
+            </label>
+          </div>
+
+          <div class="results-meta">
+            <p id="results-count">Loading tutorials...</p>
+          </div>
+
+          <div class="tutorial-list" id="tutorial-list" aria-live="polite"></div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <p>Static GitHub Pages library for Stark VARG PDF tutorials.</p>
+      </footer>
+    </div>
+
+    <template id="tutorial-row-template">
+      <article class="tutorial-row">
+        <div class="row-main">
+          <span class="model-pill"></span>
+          <h3></h3>
+        </div>
+        <div class="row-actions">
+          <a class="row-link row-link-primary" target="_blank" rel="noreferrer">Open PDF</a>
+          <a class="row-link" target="_blank" rel="noreferrer">Original Video</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="assets/site.js" defer></script>
+  </body>
+</html>

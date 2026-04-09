@@ -621,6 +621,14 @@ def run_script(script_name: str, video_dir: Path) -> None:
     )
 
 
+def run_root_script(script_name: str) -> None:
+    subprocess.run(
+        ["python", str(ROOT / "scripts" / script_name)],
+        cwd=ROOT,
+        check=True,
+    )
+
+
 def process_video(entry: dict, playlist: dict, skip_existing: bool) -> dict:
     title = entry["title"]
     video_id = entry["id"]
@@ -754,6 +762,7 @@ def main() -> None:
             result["playlist"] = playlist["title"]
             results.append(result)
     write_library_index(results)
+    run_root_script("build_site_data.py")
 
 
 if __name__ == "__main__":
