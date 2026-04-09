@@ -169,6 +169,8 @@ Tighten the side plate bolts to **20 Nm**.
 
 | Component | Torque |
 | --- | ---: |
+| Tighten the side bolts from the VCU to the frame | 2 Nm |
+| Tighten the center bolt from the VCU to the frame | 5 Nm |
 | Tighten the four bolts from the front fender to the lower triple clamp | 8 Nm |
 | Tighten the carbon fiber spoiler to frame bolts | 8 Nm |
 | Tighten the four front bolts | 5 Nm |
@@ -177,6 +179,8 @@ Tighten the side plate bolts to **20 Nm**.
 
 Video-sourced torque items:
 
+- Tighten the side bolts from the VCU to the frame: **2 Nm** from the official Stark tutorial video.
+- Tighten the center bolt from the VCU to the frame: **5 Nm** from the official Stark tutorial video.
 - Tighten the four bolts from the front fender to the lower triple clamp: **8 Nm** from the official Stark tutorial video.
 - Tighten the carbon fiber spoiler to frame bolts: **8 Nm** from the official Stark tutorial video.
 - Tighten the four front bolts: **5 Nm** from the official Stark tutorial video.

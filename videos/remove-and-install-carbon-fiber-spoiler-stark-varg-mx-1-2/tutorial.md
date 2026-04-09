@@ -93,7 +93,7 @@ Check the component for correct fit and movement before returning the bike to se
 
 Verified torque items:
 
-- Tighten the carbon fiber spoiler to frame bolts: **8 Nm** from the official Stark tutorial video.
+- Tighten the carbon fiber spoiler to frame bolts: **8 Nm** from the official Stark documentation.
 
 ## Critical Checks Before Riding
 

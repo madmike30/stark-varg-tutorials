@@ -80,8 +80,8 @@ Verify the completed installation.
 
 Verified torque items:
 
-- Tighten the top shock shaft nut: **40 Nm** from the official Stark tutorial video.
-- Tighten the bottom shock shaft nut: **40 Nm** from the official Stark tutorial video.
+- Tighten the top shock shaft nut: **40 Nm** from the official Stark documentation.
+- Tighten the bottom shock shaft nut: **40 Nm** from the official Stark documentation.
 
 ## Critical Checks Before Riding
 

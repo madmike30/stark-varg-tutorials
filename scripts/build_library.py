@@ -301,10 +301,85 @@ MX_MANUAL_TORQUE_RULES = [
 
 MX_1_2_MANUAL_TORQUE_RULES = [
     {
+        "match": ("chain",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the chain slider bolts to 5 Nm.",
+            "Tighten the rear wheel axle lock bolt to 80 Nm.",
+        ],
+    },
+    {
         "match": ("carbon fiber spoiler",),
         "target": "install the retaining hardware",
         "lines": [
             "Tighten the carbon fiber spoiler to frame bolts to 8 Nm.",
+        ],
+    },
+    {
+        "match": ("control switch",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the control switch bolt to 2.5 Nm.",
+        ],
+    },
+    {
+        "match": ("docking station",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the docking station bolts to 30 Nm.",
+        ],
+    },
+    {
+        "match": ("front brake",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the front brake caliper bolts to 25 Nm.",
+            "Tighten the hand brake master cylinder clamp bolts to 6 Nm.",
+            "Tighten the fork brake line bracket screws to 5 Nm.",
+        ],
+    },
+    {
+        "match": ("front number plate",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the front number plate bolt to 5 Nm.",
+        ],
+    },
+    {
+        "match": ("front wheel",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the front wheel axle lock bolt to 35 Nm.",
+            "Tighten the front wheel clamp bolts to 15 Nm.",
+        ],
+    },
+    {
+        "match": ("mud flap",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the mud flap screws to 3 Nm.",
+        ],
+    },
+    {
+        "match": ("pull rod",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the pull rod nuts to 60 Nm.",
+        ],
+    },
+    {
+        "match": ("rear fender",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the lower rear fender bolts to 5 Nm.",
+            "Tighten the mud flap screws to 3 Nm.",
+        ],
+    },
+    {
+        "match": ("rear hand brake",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the hand brake master cylinder clamp bolts to 6 Nm.",
         ],
     },
     {
@@ -315,7 +390,67 @@ MX_1_2_MANUAL_TORQUE_RULES = [
             "Tighten the bottom shock shaft nut to 40 Nm.",
         ],
     },
+    {
+        "match": ("rear wheel",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the rear wheel axle lock bolt to 80 Nm.",
+        ],
+    },
+    {
+        "match": ("rockerarm",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the rocker arm reverse lock nut to 20 Nm.",
+            "Tighten the rocker arm main shaft to 60 Nm.",
+            "Tighten the rocker arm shaft lids to 5 Nm.",
+            "Tighten the rocker arm lock nut to 60 Nm.",
+        ],
+    },
+    {
+        "match": ("side stand",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the side stand bracket bolts to 20 Nm.",
+            "Tighten the side stand leg bolt to 35 Nm.",
+        ],
+    },
+    {
+        "match": ("swingarm",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the swingarm axle to 45 Nm.",
+            "Tighten the swingarm clamp bolt to 25 Nm.",
+        ],
+    },
+    {
+        "match": ("right side plate",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the side plates top bolt to 20 Nm.",
+            "Tighten the side plates bottom bolt to 30 Nm.",
+        ],
+    },
+    {
+        "match": ("throttle",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the throttle bolt to 2.5 Nm.",
+        ],
+    },
 ]
+
+MX_1_2_COMPACT_VISUAL_COMPONENTS = {
+    "chain",
+    "mud flap",
+    "pull rod",
+    "rear fender",
+    "rear hand brake",
+    "rockerarm",
+    "side stand",
+    "swingarm",
+    "right side plate",
+}
 
 
 @dataclass
@@ -362,7 +497,7 @@ def clean_sentence(text: str) -> str:
 
 
 def bold_torque(text: str) -> str:
-    return re.sub(r"(\b\d+\s*Nm\b)", r"**\1**", text)
+    return re.sub(r"(\b\d+(?:[.,]\d+)?\s*Nm\b)", r"**\1**", text)
 
 
 def step_title_from_text(text: str) -> str:
@@ -603,11 +738,25 @@ def build_visual_sequence(titles_and_bodies: list[tuple[str, list[str]]], durati
     return steps
 
 
+def build_compact_visual_component_steps(component: str, duration_seconds: int) -> list[Step]:
+    titles_and_bodies = [
+        (f"Prepare access to the {component}", [f"Prepare access to the {component}."]),
+        (f"Remove the visible fasteners securing the {component}", [f"Remove the visible fasteners securing the {component}."]),
+        (f"Release the {component} from its mounting position", [f"Release the {component} from its mounting position."]),
+        ("Remove or free any related clip, bracket, or connector", ["Remove or free any related clip, bracket, or connector."]),
+        (f"Position the {component} for installation", [f"Position the {component} for installation."]),
+        (f"Install the retaining hardware for the {component}", [f"Install the retaining hardware for the {component}."]),
+        (f"Align the {component} in its final position", [f"Align the {component} in its final position."]),
+        ("Verify the completed installation", ["Verify the completed installation."]),
+    ]
+    return build_visual_sequence(titles_and_bodies, duration_seconds)
+
+
 def manual_torque_source_label_for_title(title: str) -> str:
     source_family = source_family_for_title(title)
     if source_family == "MX":
         return "the official Stark VARG owner manual torque table"
-    return "the official Stark tutorial video"
+    return "the official Stark documentation"
 
 
 def find_mx_manual_torque_rule(video_title: str) -> dict | None:
@@ -844,6 +993,13 @@ def build_visual_fallback_steps(video_title: str, duration_seconds: int) -> list
             ("Install the retaining hardware for the Rear Shock", ["Install the retaining hardware for the Rear Shock."]),
             ("Align the Rear Shock in its final position", ["Align the Rear Shock in its final position."]),
             ("Verify the completed installation", ["Verify the completed installation."]),
+        ]
+        titles_and_bodies = apply_mx_manual_torque_lines(video_title, titles_and_bodies)
+        return build_visual_sequence(titles_and_bodies, duration_seconds)
+    if source_family_for_title(video_title) == "MX 1.2" and any(item in lower_title for item in MX_1_2_COMPACT_VISUAL_COMPONENTS):
+        titles_and_bodies = [
+            (step.title, step.body_lines[:])
+            for step in build_compact_visual_component_steps(component, duration_seconds)
         ]
         titles_and_bodies = apply_mx_manual_torque_lines(video_title, titles_and_bodies)
         return build_visual_sequence(titles_and_bodies, duration_seconds)
@@ -1086,7 +1242,7 @@ def collect_torque_lines(steps: list[Step], title: str) -> tuple[list[tuple[str,
     seen = set()
     for step in steps:
         for body in step.body_lines:
-            match = re.search(r"(.+?)\s+to\s+\*\*(\d+\s*Nm)\*\*", body, flags=re.IGNORECASE)
+            match = re.search(r"(.+?)\s+(?:to|at)\s+\*\*(\d+(?:[.,]\d+)?\s*Nm)\*\*", body, flags=re.IGNORECASE)
             if not match:
                 continue
             component = match.group(1).strip()

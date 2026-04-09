@@ -175,7 +175,7 @@ Install the throttle assembly onto the handlebar.
 
 ### 26. Tighten the throttle body bolt to 2.5 Nm
 
-Tighten the throttle body bolt to 2.**5 Nm**.
+Tighten the throttle body bolt to **2.5 Nm**.
 
 ![Step 26 - tighten the throttle body bolt to 2.5 nm](assets/screenshots/step_26_tighten-the-throttle-body-bolt-to-2-5-nm.jpg)
 
@@ -217,7 +217,7 @@ Carefully guide the control switch cable through the handlebar in and out apertu
 
 ### 33. Tighten the control switch bolt to 2,5 Nm
 
-Tighten the control switch bolt to 2,**5 Nm**
+Tighten the control switch bolt to **2.5 Nm**.
 
 ![Step 33 - tighten the control switch bolt to 2,5 nm](assets/screenshots/step_33_tighten-the-control-switch-bolt-to-2-5-nm.jpg)
 
@@ -276,7 +276,9 @@ Tighten the number plate bolt into the top triple clamp to **8 Nm**.
 | Place the docking station mechanism over the handlebar and tighten the four bolts in the specified sequence | 30 Nm |
 | Install the rear hand brake master cylinder by tightening the handlebar bracket bolts | 6 Nm |
 | Install the front brake master cylinder by tightening the handlebar bracket bolts | 6 Nm |
+| Tighten the throttle body bolt | 2.5 Nm |
 | Tighten the throttle splitter holder bolt to the top triple clamp | 5 Nm |
+| Tighten the control switch bolt | 2.5 Nm |
 | Tighten the number plate bolt into the top triple clamp | 8 Nm |
 
 Video-sourced torque items:
@@ -284,7 +286,9 @@ Video-sourced torque items:
 - Place the docking station mechanism over the handlebar and tighten the four bolts in the specified sequence: **30 Nm** from the official Stark tutorial video.
 - Install the rear hand brake master cylinder by tightening the handlebar bracket bolts: **6 Nm** from the official Stark tutorial video.
 - Install the front brake master cylinder by tightening the handlebar bracket bolts: **6 Nm** from the official Stark tutorial video.
+- Tighten the throttle body bolt: **2.5 Nm** from the official Stark tutorial video.
 - Tighten the throttle splitter holder bolt to the top triple clamp: **5 Nm** from the official Stark tutorial video.
+- Tighten the control switch bolt: **2.5 Nm** from the official Stark tutorial video.
 - Tighten the number plate bolt into the top triple clamp: **8 Nm** from the official Stark tutorial video.
 
 ## Critical Checks Before Riding

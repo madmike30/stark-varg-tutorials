@@ -228,6 +228,8 @@ Tighten the side plate bolts to **20 Nm**.
 | Tighten the top shock shaft nut | 40 Nm |
 | Tighten the bottom shock shaft nut | 40 Nm |
 | Place the bushings in their positions and tighten the bolts securing the radiator to the subframe | 5 Nm |
+| Tighten the bolt to secure the fan connector bracket into the subframe | 5 Nm |
+| Tighten the bolt to secure the cable holder into the subframe | 5 Nm |
 | Tighten the four bolts that attach the rear fender to the subframe | 5 Nm |
 | Tighten the four front bolts | 5 Nm |
 | Tighten the subframe to seat base bolt | 10 Nm |
@@ -238,6 +240,8 @@ Video-sourced torque items:
 - Tighten the top shock shaft nut: **40 Nm** from the official Stark tutorial video.
 - Tighten the bottom shock shaft nut: **40 Nm** from the official Stark tutorial video.
 - Place the bushings in their positions and tighten the bolts securing the radiator to the subframe: **5 Nm** from the official Stark tutorial video.
+- Tighten the bolt to secure the fan connector bracket into the subframe: **5 Nm** from the official Stark tutorial video.
+- Tighten the bolt to secure the cable holder into the subframe: **5 Nm** from the official Stark tutorial video.
 - Tighten the four bolts that attach the rear fender to the subframe: **5 Nm** from the official Stark tutorial video.
 - Tighten the four front bolts: **5 Nm** from the official Stark tutorial video.
 - Tighten the subframe to seat base bolt: **10 Nm** from the official Stark tutorial video.

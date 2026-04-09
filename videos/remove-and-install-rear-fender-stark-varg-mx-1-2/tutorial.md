@@ -6,7 +6,7 @@ Applicable models: `MX 1.2 / EX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -53,6 +53,10 @@ Position the Rear Fender for installation.
 
 Install the retaining hardware for the Rear Fender.
 
+Tighten the lower rear fender bolts to **5 Nm**.
+
+Tighten the mud flap screws to **3 Nm**.
+
 ![Step 6 - install the retaining hardware for the rear fender](assets/screenshots/step_06_install-the-retaining-hardware-for-the-rear-fender.jpg)
 
 ### 7. Align the Rear Fender in its final position
@@ -66,6 +70,18 @@ Align the Rear Fender in its final position.
 Verify the completed installation.
 
 ![Step 8 - verify the completed installation](assets/screenshots/step_08_verify-the-completed-installation.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the lower rear fender bolts | 5 Nm |
+| Tighten the mud flap screws | 3 Nm |
+
+Verified torque items:
+
+- Tighten the lower rear fender bolts: **5 Nm** from the official Stark documentation.
+- Tighten the mud flap screws: **3 Nm** from the official Stark documentation.
 
 ## Critical Checks Before Riding
 

@@ -6,7 +6,7 @@ Applicable models: `MX 1.2 / EX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -73,6 +73,8 @@ Install the main retaining hardware for the Control Switch by hand first, then t
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the control switch bolt to **2.5 Nm**.
+
 ![Step 7 - install the retaining hardware for the control switch](assets/screenshots/step_07_install-the-retaining-hardware-for-the-control-switch.jpg)
 
 ### 8. Verify the completed installation of the Control Switch
@@ -82,6 +84,16 @@ Inspect the final position of the Control Switch and confirm that all hardware, 
 Check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the control switch](assets/screenshots/step_08_verify-the-completed-installation-of-the-control-switch.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the control switch bolt | 2.5 Nm |
+
+Verified torque items:
+
+- Tighten the control switch bolt: **2.5 Nm** from the official Stark documentation.
 
 ## Critical Checks Before Riding
 
