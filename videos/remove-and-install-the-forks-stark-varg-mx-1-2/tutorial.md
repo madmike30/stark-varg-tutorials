@@ -6,7 +6,7 @@ Applicable models: `MX 1.2 / EX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the EX video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
 
 ## Preparation
 
@@ -72,6 +72,8 @@ Make sure each supporting piece is seated correctly before final tightening.
 Install the main retaining hardware for the Forks by hand first, then tighten it evenly.
 
 Check that the component remains aligned while the hardware is brought fully home.
+
+Tighten the KYB upper triple clamp and middle/lower triple clamp pinch bolts to the etched torque values marked on each fork assembly.
 
 ![Step 7 - install the retaining hardware for the forks](assets/screenshots/step_07_install-the-retaining-hardware-for-the-forks.jpg)
 

@@ -73,6 +73,8 @@ Install the main retaining hardware for the Forks by hand first, then tighten it
 
 Check that the component remains aligned while the hardware is brought fully home.
 
+Tighten the KYB upper triple clamp and middle/lower triple clamp pinch bolts to the etched torque values marked on each fork assembly.
+
 ![Step 7 - install the retaining hardware for the forks](assets/screenshots/step_07_install-the-retaining-hardware-for-the-forks.jpg)
 
 ### 8. Verify the completed installation of the Forks

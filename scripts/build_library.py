@@ -227,6 +227,13 @@ MX_MANUAL_TORQUE_RULES = [
         ],
     },
     {
+        "match": ("forks",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the KYB upper triple clamp and middle/lower triple clamp pinch bolts to the etched torque values marked on each fork assembly.",
+        ],
+    },
+    {
         "match": ("rear wheel",),
         "target": "install the retaining hardware",
         "lines": [
@@ -351,6 +358,13 @@ MX_1_2_MANUAL_TORQUE_RULES = [
         "lines": [
             "Tighten the front wheel axle lock bolt to 35 Nm.",
             "Tighten the front wheel clamp bolts to 15 Nm.",
+        ],
+    },
+    {
+        "match": ("forks",),
+        "target": "install the retaining hardware",
+        "lines": [
+            "Tighten the KYB upper triple clamp and middle/lower triple clamp pinch bolts to the etched torque values marked on each fork assembly.",
         ],
     },
     {
