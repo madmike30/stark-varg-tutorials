@@ -1,0 +1,180 @@
+﻿{
+    "slug":  "remove-and-install-handlebar-stark-varg-mx-1-2",
+    "title":  "Remove and Install Handlebar - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=BDqmEHqy_vQ",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-handlebar-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  6,
+                       "name":  "step_01_unscrew-the-number-plate-bolt-from-the-top-triple-clamp"
+                   },
+                   {
+                       "timestamp":  21,
+                       "name":  "step_02_remove-the-front-brake-hose-from-the-number-plate"
+                   },
+                   {
+                       "timestamp":  24,
+                       "name":  "step_03_press-the-top-pad-of-the-mechanism-to-release-the-arkenstone"
+                   },
+                   {
+                       "timestamp":  28,
+                       "name":  "step_04_remove-the-arkenstone-and-the-foam-from-the-docking-station"
+                   },
+                   {
+                       "timestamp":  40,
+                       "name":  "step_05_remove-the-wireless-charging-module-connectors-plastic-cover"
+                   },
+                   {
+                       "timestamp":  43,
+                       "name":  "step_06_disconnect-the-control-switch-from-the-wireless-charging-mod"
+                   },
+                   {
+                       "timestamp":  47,
+                       "name":  "step_07_remove-the-rubber-wire-guide-from-the-handlebar"
+                   },
+                   {
+                       "timestamp":  55,
+                       "name":  "step_08_unscrew-the-control-switch-bolt"
+                   },
+                   {
+                       "timestamp":  63,
+                       "name":  "step_09_carefully-remove-the-control-switch-from-the-handlebar"
+                   },
+                   {
+                       "timestamp":  72,
+                       "name":  "step_10_unscrew-the-throttle-splitter-holder-screw-to-the-top-triple"
+                   },
+                   {
+                       "timestamp":  81,
+                       "name":  "step_11_carefully-remove-the-throttle-splitter-holder"
+                   },
+                   {
+                       "timestamp":  91,
+                       "name":  "step_12_disconnect-the-throttle-from-the-wireless-charging-module"
+                   },
+                   {
+                       "timestamp":  96,
+                       "name":  "step_13_carefully-remove-the-throttle-cable-from-the-top-triple-clam"
+                   },
+                   {
+                       "timestamp":  101,
+                       "name":  "step_14_remove-the-throttle-cable-rubber-strap-from-the-handlebar"
+                   },
+                   {
+                       "timestamp":  107,
+                       "name":  "step_15_unscrew-the-throttle-body-bolt"
+                   },
+                   {
+                       "timestamp":  112,
+                       "name":  "step_16_remove-the-throttle-assembly-from-the-handlebar"
+                   },
+                   {
+                       "timestamp":  119,
+                       "name":  "step_17_unscrew-the-two-bolts-from-the-handlebar-bracket-and-remove-"
+                   },
+                   {
+                       "timestamp":  154,
+                       "name":  "step_18_unscrew-the-two-bolts-from-the-handlebar-bracket-and-remove-"
+                   },
+                   {
+                       "timestamp":  191,
+                       "name":  "step_19_unscrew-the-four-bolts-securing-the-docking-station-mechanis"
+                   },
+                   {
+                       "timestamp":  236,
+                       "name":  "step_20_remove-the-handlebar"
+                   },
+                   {
+                       "timestamp":  245,
+                       "name":  "step_21_carefully-position-the-handle-bar-onto-the-lower-brackets"
+                   },
+                   {
+                       "timestamp":  251,
+                       "name":  "step_22_place-the-docking-station-mechanism-over-the-handlebar-and-t"
+                   },
+                   {
+                       "timestamp":  307,
+                       "name":  "step_23_install-the-rear-hand-brake-master-cylinder-by-tightening-th"
+                   },
+                   {
+                       "timestamp":  364,
+                       "name":  "step_24_install-the-front-brake-master-cylinder-by-tightening-the-ha"
+                   },
+                   {
+                       "timestamp":  409,
+                       "name":  "step_25_install-the-throttle-assembly-onto-the-handlebar"
+                   },
+                   {
+                       "timestamp":  416,
+                       "name":  "step_26_tighten-the-throttle-body-bolt-to-2-5-nm"
+                   },
+                   {
+                       "timestamp":  425,
+                       "name":  "step_27_route-the-throttle-splitter-through-the-top-triple-clamp-sil"
+                   },
+                   {
+                       "timestamp":  429,
+                       "name":  "step_28_connect-the-throttle-into-the-wireless-charging-module"
+                   },
+                   {
+                       "timestamp":  434,
+                       "name":  "step_29_secure-the-throttle-cable-rubber-strap-around-the-handlebar"
+                   },
+                   {
+                       "timestamp":  444,
+                       "name":  "step_30_clip-the-throttle-splitter-into-the-throttle-splitter-holder"
+                   },
+                   {
+                       "timestamp":  451,
+                       "name":  "step_31_tighten-the-throttle-splitter-holder-bolt-to-the-top-triple-"
+                   },
+                   {
+                       "timestamp":  486,
+                       "name":  "step_32_carefully-guide-the-control-switch-cable-through-the-handleb"
+                   },
+                   {
+                       "timestamp":  501,
+                       "name":  "step_33_tighten-the-control-switch-bolt-to-2-5-nm"
+                   },
+                   {
+                       "timestamp":  521,
+                       "name":  "step_34_place-the-rubber-cable-guide-into-the-handlebar-center-apert"
+                   },
+                   {
+                       "timestamp":  531,
+                       "name":  "step_35_connect-the-control-switch-into-the-wireless-charging-module"
+                   },
+                   {
+                       "timestamp":  541,
+                       "name":  "step_36_place-the-wireless-charging-module-connectors-plastic-cover"
+                   },
+                   {
+                       "timestamp":  551,
+                       "name":  "step_37_place-the-foam-into-the-docking-station"
+                   },
+                   {
+                       "timestamp":  556,
+                       "name":  "step_38_dock-the-arkenstone-into-the-docking-station"
+                   },
+                   {
+                       "timestamp":  565,
+                       "name":  "step_39_position-the-front-brake-hose-through-the-number-plate-guide"
+                   },
+                   {
+                       "timestamp":  571,
+                       "name":  "step_40_position-the-number-plate-over-the-front-fender-inserts"
+                   },
+                   {
+                       "timestamp":  577,
+                       "name":  "step_41_tighten-the-number-plate-bolt-into-the-top-triple-clamp-to-8"
+                   }
+               ]
+}

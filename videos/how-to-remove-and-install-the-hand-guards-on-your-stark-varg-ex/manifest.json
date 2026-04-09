@@ -1,0 +1,44 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-hand-guards-on-your-stark-varg-ex",
+    "title":  "How to remove and install the Hand Guards on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=L_xPYdc5tjw",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-hand-guards-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  26,
+                       "name":  "step_01_remove-the-retaining-hardware-for-the-hand-guards"
+                   },
+                   {
+                       "timestamp":  51,
+                       "name":  "step_02_release-any-support-piece-attached-to-the-hand-guards"
+                   },
+                   {
+                       "timestamp":  76,
+                       "name":  "step_03_remove-the-hand-guards-from-its-mounting-position"
+                   },
+                   {
+                       "timestamp":  101,
+                       "name":  "step_04_position-the-hand-guards-for-installation"
+                   },
+                   {
+                       "timestamp":  126,
+                       "name":  "step_05_reinstall-any-spacer-bracket-or-clip-for-the-hand-guards"
+                   },
+                   {
+                       "timestamp":  151,
+                       "name":  "step_06_install-the-retaining-hardware-for-the-hand-guards"
+                   },
+                   {
+                       "timestamp":  176,
+                       "name":  "step_07_verify-the-clearance-and-alignment-of-the-hand-guards"
+                   }
+               ]
+}

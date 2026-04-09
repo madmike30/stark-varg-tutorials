@@ -1,0 +1,184 @@
+﻿{
+    "slug":  "remove-and-install-countershaft-replacement-stark-varg-mx-1-2",
+    "title":  "Remove and Install Countershaft Replacement - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=N5_INHPwDQ0",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-countershaft-replacement-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  8,
+                       "name":  "step_01_remove-the-four-skid-plate-screws"
+                   },
+                   {
+                       "timestamp":  50,
+                       "name":  "step_02_carefully-remove-the-skid-plate-from-the-battery"
+                   },
+                   {
+                       "timestamp":  61,
+                       "name":  "step_03_unscrew-the-oil-drain-plug"
+                   },
+                   {
+                       "timestamp":  71,
+                       "name":  "step_04_place-a-container-underneath-to-collect-the-used-oil"
+                   },
+                   {
+                       "timestamp":  79,
+                       "name":  "step_05_unscrew-the-motor-case-side-cap"
+                   },
+                   {
+                       "timestamp":  96,
+                       "name":  "step_06_remove-the-eight-bolts-securing-the-right-motor-cover"
+                   },
+                   {
+                       "timestamp":  135,
+                       "name":  "step_07_carefully-remove-the-right-motor-cover"
+                   },
+                   {
+                       "timestamp":  151,
+                       "name":  "step_08_prevent-the-motor-main-shaft-gear-and-the-countershaft-gear-"
+                   },
+                   {
+                       "timestamp":  158,
+                       "name":  "step_09_remove-the-front-sprocket-guard"
+                   },
+                   {
+                       "timestamp":  178,
+                       "name":  "step_10_loosen-the-front-sprocket-bolt-while-applying-the-rear-brake"
+                   },
+                   {
+                       "timestamp":  201,
+                       "name":  "step_11_carefully-remove-the-front-sprocket"
+                   },
+                   {
+                       "timestamp":  215,
+                       "name":  "step_12_carefully-open-the-countershaft-retaining-ring"
+                   },
+                   {
+                       "timestamp":  230,
+                       "name":  "step_13_loosen-and-remove-the-countershaft-nut"
+                   },
+                   {
+                       "timestamp":  240,
+                       "name":  "step_14_loosen-and-remove-the-motor-core-gear-bolt"
+                   },
+                   {
+                       "timestamp":  261,
+                       "name":  "step_15_carefully-remove-the-main-shaft-gear"
+                   },
+                   {
+                       "timestamp":  271,
+                       "name":  "step_16_carefully-remove-the-countershaft-gear"
+                   },
+                   {
+                       "timestamp":  293,
+                       "name":  "step_17_before-removing-it-loosen-and-remove-the-three-bolts-securin"
+                   },
+                   {
+                       "timestamp":  331,
+                       "name":  "step_18_remove-the-countershaft-spacer-bushing"
+                   },
+                   {
+                       "timestamp":  341,
+                       "name":  "step_19_using-a-rubber-mallet-gently-tap-the-countershaft-and-bearin"
+                   },
+                   {
+                       "timestamp":  361,
+                       "name":  "step_20_remove-the-countershaft-seal"
+                   },
+                   {
+                       "timestamp":  367,
+                       "name":  "step_21_using-a-pin-punch-carefully-remove-the-roller-bearing-from-t"
+                   },
+                   {
+                       "timestamp":  395,
+                       "name":  "step_22_thoroughly-clean-all-housing-surfaces"
+                   },
+                   {
+                       "timestamp":  451,
+                       "name":  "step_23_using-a-pin-punch-carefully-install-the-roller-bearing-into-"
+                   },
+                   {
+                       "timestamp":  471,
+                       "name":  "step_24_place-the-ball-bearings-into-the-countershaft"
+                   },
+                   {
+                       "timestamp":  501,
+                       "name":  "step_25_install-the-circlip-onto-the-countershaft-to-secure-the-ball"
+                   },
+                   {
+                       "timestamp":  521,
+                       "name":  "step_26_install-the-countershaft-spacer-bushing-onto-the-countershaf"
+                   },
+                   {
+                       "timestamp":  533,
+                       "name":  "step_27_using-a-heat-gun-gently-warm-the-housing-area-to-facilitate-"
+                   },
+                   {
+                       "timestamp":  568,
+                       "name":  "step_28_insert-the-countershaft-assembly-into-the-motor-case-housing"
+                   },
+                   {
+                       "timestamp":  591,
+                       "name":  "step_29_install-the-motor-bearing-retainer-and-secure-it-by-tighteni"
+                   },
+                   {
+                       "timestamp":  711,
+                       "name":  "step_30_after-cleaning-the-motor-core-gear-bolt-and-installing-the-m"
+                   },
+                   {
+                       "timestamp":  779,
+                       "name":  "step_31_install-the-countershaft-seal-all-the-way-into-its-proper-po"
+                   },
+                   {
+                       "timestamp":  798,
+                       "name":  "step_32_install-the-o-ring-onto-the-countershaft"
+                   },
+                   {
+                       "timestamp":  807,
+                       "name":  "step_33_install-the-countershaft-spacer-bushing"
+                   },
+                   {
+                       "timestamp":  814,
+                       "name":  "step_34_carefully-install-the-front-sprocket"
+                   },
+                   {
+                       "timestamp":  836,
+                       "name":  "step_35_carefully-apply-thread-locker-to-the-front-sprocket-bolt-and"
+                   },
+                   {
+                       "timestamp":  871,
+                       "name":  "step_36_install-the-front-sprocket-guard-by-tightening-the-two-bolts"
+                   },
+                   {
+                       "timestamp":  913,
+                       "name":  "step_37_install-the-right-motor-cover-and-gasket-then-tighten-the-ei"
+                   },
+                   {
+                       "timestamp":  971,
+                       "name":  "step_38_place-a-copper-washer-on-the-oil-drain-plug-then-tighten-it-"
+                   },
+                   {
+                       "timestamp":  996,
+                       "name":  "step_39_fill-the-transmission-with-80-ml-of-sae-75w-90-oil"
+                   },
+                   {
+                       "timestamp":  1011,
+                       "name":  "step_40_tighten-the-motor-case-side-cap-to-5-nm"
+                   },
+                   {
+                       "timestamp":  1042,
+                       "name":  "step_41_place-the-skid-plate-into-its-position"
+                   },
+                   {
+                       "timestamp":  1051,
+                       "name":  "step_42_tighten-the-four-skid-plate-bolts-to-15-nm"
+                   }
+               ]
+}

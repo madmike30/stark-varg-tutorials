@@ -1,0 +1,52 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-license-plate-holder-on-your-stark-varg-ex",
+    "title":  "How to remove and install the License Plate Holder on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=-GyfgsF6rUk",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-license-plate-holder-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  60,
+                       "name":  "step_01_remove-the-fasteners-or-panels-that-block-access-to-the-lice"
+                   },
+                   {
+                       "timestamp":  119,
+                       "name":  "step_02_release-the-clips-and-routing-points-for-the-license-plate-h"
+                   },
+                   {
+                       "timestamp":  178,
+                       "name":  "step_03_disconnect-the-license-plate-holder"
+                   },
+                   {
+                       "timestamp":  237,
+                       "name":  "step_04_remove-the-retaining-hardware-for-the-license-plate-holder"
+                   },
+                   {
+                       "timestamp":  296,
+                       "name":  "step_05_remove-the-license-plate-holder-from-the-bike"
+                   },
+                   {
+                       "timestamp":  355,
+                       "name":  "step_06_position-the-license-plate-holder-for-installation"
+                   },
+                   {
+                       "timestamp":  414,
+                       "name":  "step_07_reconnect-the-license-plate-holder-and-route-the-wiring-corr"
+                   },
+                   {
+                       "timestamp":  473,
+                       "name":  "step_08_install-the-retaining-hardware-for-the-license-plate-holder"
+                   },
+                   {
+                       "timestamp":  532,
+                       "name":  "step_09_verify-the-operation-of-the-license-plate-holder"
+                   }
+               ]
+}

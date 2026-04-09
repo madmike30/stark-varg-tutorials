@@ -1,0 +1,52 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-horn-on-your-stark-varg-ex",
+    "title":  "How to remove and install the Horn on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=9P_dmj_X0LQ",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-horn-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  73,
+                       "name":  "step_01_remove-the-fasteners-or-panels-that-block-access-to-the-horn"
+                   },
+                   {
+                       "timestamp":  145,
+                       "name":  "step_02_release-the-clips-and-routing-points-for-the-horn"
+                   },
+                   {
+                       "timestamp":  217,
+                       "name":  "step_03_disconnect-the-horn"
+                   },
+                   {
+                       "timestamp":  289,
+                       "name":  "step_04_remove-the-retaining-hardware-for-the-horn"
+                   },
+                   {
+                       "timestamp":  361,
+                       "name":  "step_05_remove-the-horn-from-the-bike"
+                   },
+                   {
+                       "timestamp":  433,
+                       "name":  "step_06_position-the-horn-for-installation"
+                   },
+                   {
+                       "timestamp":  505,
+                       "name":  "step_07_reconnect-the-horn-and-route-the-wiring-correctly"
+                   },
+                   {
+                       "timestamp":  577,
+                       "name":  "step_08_install-the-retaining-hardware-for-the-horn"
+                   },
+                   {
+                       "timestamp":  649,
+                       "name":  "step_09_verify-the-operation-of-the-horn"
+                   }
+               ]
+}

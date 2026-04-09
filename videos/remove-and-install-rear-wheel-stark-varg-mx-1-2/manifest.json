@@ -1,0 +1,48 @@
+﻿{
+    "slug":  "remove-and-install-rear-wheel-stark-varg-mx-1-2",
+    "title":  "Remove and Install Rear Wheel - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=pcqAfkvK998",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-rear-wheel-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  15,
+                       "name":  "step_01_prepare-access-to-the-rear-wheel"
+                   },
+                   {
+                       "timestamp":  29,
+                       "name":  "step_02_remove-the-visible-retaining-hardware-for-the-rear-wheel"
+                   },
+                   {
+                       "timestamp":  43,
+                       "name":  "step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-wh"
+                   },
+                   {
+                       "timestamp":  57,
+                       "name":  "step_04_remove-the-rear-wheel-from-the-bike"
+                   },
+                   {
+                       "timestamp":  71,
+                       "name":  "step_05_position-the-rear-wheel-for-installation"
+                   },
+                   {
+                       "timestamp":  85,
+                       "name":  "step_06_reconnect-or-refit-the-support-pieces-for-the-rear-wheel"
+                   },
+                   {
+                       "timestamp":  99,
+                       "name":  "step_07_install-the-retaining-hardware-for-the-rear-wheel"
+                   },
+                   {
+                       "timestamp":  113,
+                       "name":  "step_08_verify-the-completed-installation-of-the-rear-wheel"
+                   }
+               ]
+}

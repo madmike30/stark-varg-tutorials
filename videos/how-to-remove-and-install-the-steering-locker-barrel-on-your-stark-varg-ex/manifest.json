@@ -1,0 +1,48 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-steering-locker-barrel-on-your-stark-varg-ex",
+    "title":  "How to remove and install the Steering Locker Barrel on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=FmNoajqid1w",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-steering-locker-barrel-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  30,
+                       "name":  "step_01_prepare-access-to-the-steering-locker-barrel"
+                   },
+                   {
+                       "timestamp":  59,
+                       "name":  "step_02_remove-the-visible-retaining-hardware-for-the-steering-locke"
+                   },
+                   {
+                       "timestamp":  88,
+                       "name":  "step_03_release-any-bracket-clip-or-coupling-attached-to-the-steerin"
+                   },
+                   {
+                       "timestamp":  117,
+                       "name":  "step_04_remove-the-steering-locker-barrel-from-the-bike"
+                   },
+                   {
+                       "timestamp":  146,
+                       "name":  "step_05_position-the-steering-locker-barrel-for-installation"
+                   },
+                   {
+                       "timestamp":  175,
+                       "name":  "step_06_reconnect-or-refit-the-support-pieces-for-the-steering-locke"
+                   },
+                   {
+                       "timestamp":  204,
+                       "name":  "step_07_install-the-retaining-hardware-for-the-steering-locker-barre"
+                   },
+                   {
+                       "timestamp":  233,
+                       "name":  "step_08_verify-the-completed-installation-of-the-steering-locker-bar"
+                   }
+               ]
+}

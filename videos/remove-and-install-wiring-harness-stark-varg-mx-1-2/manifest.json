@@ -1,0 +1,40 @@
+﻿{
+    "slug":  "remove-and-install-wiring-harness-stark-varg-mx-1-2",
+    "title":  "Remove and Install Wiring Harness - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=SW23dNSCWpA",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-wiring-harness-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  102,
+                       "name":  "step_01_prepare-access-to-the-wiring-harness"
+                   },
+                   {
+                       "timestamp":  203,
+                       "name":  "step_02_remove-the-visible-retaining-hardware-for-the-wiring-harness"
+                   },
+                   {
+                       "timestamp":  304,
+                       "name":  "step_03_release-the-wiring-harness-from-its-mounting-position"
+                   },
+                   {
+                       "timestamp":  405,
+                       "name":  "step_04_disconnect-or-free-any-related-clip-bracket-or-connector"
+                   },
+                   {
+                       "timestamp":  506,
+                       "name":  "step_05_position-the-wiring-harness-for-reinstallation"
+                   },
+                   {
+                       "timestamp":  607,
+                       "name":  "step_06_reinstall-the-hardware-and-verify-alignment"
+                   }
+               ]
+}

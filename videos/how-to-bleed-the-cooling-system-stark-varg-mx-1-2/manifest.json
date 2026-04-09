@@ -1,0 +1,92 @@
+﻿{
+    "slug":  "how-to-bleed-the-cooling-system-stark-varg-mx-1-2",
+    "title":  "How To Bleed The Cooling System - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=iItNWwhdmEQ",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-bleed-the-cooling-system-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  9,
+                       "name":  "step_01_unscrew-the-side-plate-bolts"
+                   },
+                   {
+                       "timestamp":  31,
+                       "name":  "step_02_unscrew-the-subframe-to-seat-base-bolt-under-the-rear-fender"
+                   },
+                   {
+                       "timestamp":  36,
+                       "name":  "step_03_unscrew-the-four-front-bolts-on-the-side-spoilers"
+                   },
+                   {
+                       "timestamp":  71,
+                       "name":  "step_04_carefully-remove-the-spoiler-assembly-by-sliding-it-backward"
+                   },
+                   {
+                       "timestamp":  78,
+                       "name":  "step_05_remove-the-four-skid-plate-screws"
+                   },
+                   {
+                       "timestamp":  119,
+                       "name":  "step_06_carefully-remove-the-skid-plate-from-the-battery"
+                   },
+                   {
+                       "timestamp":  129,
+                       "name":  "step_07_place-a-container-underneath-the-bike-to-collect-the-drained"
+                   },
+                   {
+                       "timestamp":  133,
+                       "name":  "step_08_loosen-and-remove-the-coolant-drain-bolt"
+                   },
+                   {
+                       "timestamp":  169,
+                       "name":  "step_09_loosen-the-radiator-cap-to-allow-the-coolant-to-drain"
+                   },
+                   {
+                       "timestamp":  224,
+                       "name":  "step_10_install-a-new-copper-washer-on-the-coolant-drain-bolt-then-t"
+                   },
+                   {
+                       "timestamp":  276,
+                       "name":  "step_11_fill-the-cooling-system-to-the-top-with-glycol-based-coolant"
+                   },
+                   {
+                       "timestamp":  299,
+                       "name":  "step_12_switch-the-bike-on-and-off-as-needed-to-allow-the-water-pump"
+                   },
+                   {
+                       "timestamp":  321,
+                       "name":  "step_13_tighten-the-radiator-cap-to-7-nm"
+                   },
+                   {
+                       "timestamp":  338,
+                       "name":  "step_14_place-the-skid-plate-into-its-position"
+                   },
+                   {
+                       "timestamp":  346,
+                       "name":  "step_15_tighten-the-four-skid-plate-bolts-to-15-nm"
+                   },
+                   {
+                       "timestamp":  411,
+                       "name":  "step_16_position-the-spoiler-assembly-on-top-of-the-bike-and-slide-i"
+                   },
+                   {
+                       "timestamp":  422,
+                       "name":  "step_17_tighten-the-four-front-bolts-to-5-nm"
+                   },
+                   {
+                       "timestamp":  471,
+                       "name":  "step_18_tighten-the-subframe-to-seat-base-bolt-to-10-nm"
+                   },
+                   {
+                       "timestamp":  487,
+                       "name":  "step_19_tighten-the-side-plate-bolts-to-20-nm"
+                   }
+               ]
+}

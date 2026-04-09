@@ -1,0 +1,44 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-rear-brake-disc-protector-on-your-stark-varg-ex",
+    "title":  "How to remove and install the Rear Brake Disc Protector on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=SSy8KthLilc",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-rear-brake-disc-protector-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  48,
+                       "name":  "step_01_remove-the-retaining-hardware-for-the-rear-brake-disc-protec"
+                   },
+                   {
+                       "timestamp":  95,
+                       "name":  "step_02_release-any-support-piece-attached-to-the-rear-brake-disc-pr"
+                   },
+                   {
+                       "timestamp":  142,
+                       "name":  "step_03_remove-the-rear-brake-disc-protector-from-its-mounting-posit"
+                   },
+                   {
+                       "timestamp":  189,
+                       "name":  "step_04_position-the-rear-brake-disc-protector-for-installation"
+                   },
+                   {
+                       "timestamp":  236,
+                       "name":  "step_05_reinstall-any-spacer-bracket-or-clip-for-the-rear-brake-disc"
+                   },
+                   {
+                       "timestamp":  283,
+                       "name":  "step_06_install-the-retaining-hardware-for-the-rear-brake-disc-prote"
+                   },
+                   {
+                       "timestamp":  330,
+                       "name":  "step_07_verify-the-clearance-and-alignment-of-the-rear-brake-disc-pr"
+                   }
+               ]
+}

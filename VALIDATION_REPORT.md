@@ -1,0 +1,57 @@
+# Validation Report
+
+- OK `how-to-bleed-the-cooling-system-stark-varg-mx-1-2`: steps=19, images=19, pdf_pages=11, rendered_pages=11, source_videos=0
+- OK `how-to-gear-oil-change-stark-varg-mx-1-2`: steps=10, images=10, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-rear-brake-calliper-maintenance-stark-varg-mx-1-2`: steps=16, images=16, pdf_pages=9, rendered_pages=9, source_videos=0
+- OK `how-to-remove-and-install-the-foot-brake-sensor-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-front-brake-sensor-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=8, rendered_pages=8, source_videos=0
+- OK `how-to-remove-and-install-the-front-indicators-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-hand-guards-on-your-stark-varg-ex`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `how-to-remove-and-install-the-hand-rear-brake-sensor-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=8, rendered_pages=8, source_videos=0
+- OK `how-to-remove-and-install-the-head-light-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-horn-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-license-plate-holder-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=8, rendered_pages=8, source_videos=0
+- OK `how-to-remove-and-install-the-rear-brake-disc-protector-on-your-stark-varg-ex`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `how-to-remove-and-install-the-rear-indicators-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-steering-locker-barrel-on-your-stark-varg-ex`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-tail-light-on-your-stark-varg-ex`: steps=9, images=9, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `how-to-remove-and-install-the-vcu-on-your-stark-varg-mx1-2`: steps=23, images=23, pdf_pages=13, rendered_pages=13, source_videos=0
+- OK `how-to-unbox-the-stark-varg-ex`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-brake-pedal-stark-varg-mx-1-2`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `remove-and-install-chain-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-control-switch-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-countershaft-replacement-stark-varg-mx-1-2`: steps=42, images=42, pdf_pages=24, rendered_pages=24, source_videos=0
+- OK `remove-and-install-docking-station-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `remove-and-install-footbrake-stark-varg-mx-1-2`: steps=23, images=23, pdf_pages=14, rendered_pages=14, source_videos=0
+- OK `remove-and-install-footpegs-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-front-brake-caliper-stark-varg-mx-1-2`: steps=17, images=17, pdf_pages=10, rendered_pages=10, source_videos=0
+- OK `remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2`: steps=19, images=19, pdf_pages=11, rendered_pages=11, source_videos=0
+- OK `remove-and-install-front-brake-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-front-number-plate-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `remove-and-install-front-sprocket-stark-varg-mx-1-2`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
+- OK `remove-and-install-front-wheel-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-handlebar-stark-varg-mx-1-2`: steps=41, images=41, pdf_pages=23, rendered_pages=23, source_videos=0
+- OK `remove-and-install-left-side-plate-stark-varg-mx-1-2`: steps=35, images=35, pdf_pages=20, rendered_pages=20, source_videos=0
+- OK `remove-and-install-mud-flap-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-pull-rod-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-radiator-stark-varg-mx-1-2`: steps=38, images=38, pdf_pages=21, rendered_pages=21, source_videos=0
+- OK `remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2`: steps=21, images=21, pdf_pages=13, rendered_pages=13, source_videos=0
+- OK `remove-and-install-rear-fender-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-rear-hand-brake-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-rear-shock-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-rear-wheel-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-rockerarm-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-side-stand-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-skidplate-stark-varg-mx-1-2`: steps=4, images=4, pdf_pages=3, rendered_pages=3, source_videos=0
+- OK `remove-and-install-spoiler-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-subframe-stark-varg-mx-1-2`: steps=32, images=32, pdf_pages=18, rendered_pages=18, source_videos=0
+- OK `remove-and-install-swingarm-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-the-forks-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-the-right-side-plate-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-throttle-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `remove-and-install-water-pump-stark-varg-mx-1-2`: steps=36, images=36, pdf_pages=20, rendered_pages=20, source_videos=0
+- OK `remove-and-install-wiring-harness-stark-varg-mx-1-2`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
+
+Overall status: OK

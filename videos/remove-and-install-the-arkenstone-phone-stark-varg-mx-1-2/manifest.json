@@ -1,0 +1,48 @@
+﻿{
+    "slug":  "remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2",
+    "title":  "Remove and Install The Arkenstone Phone - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=ZPb7d-8MR3o",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  6,
+                       "name":  "step_01_prepare-access-to-the-arkenstone-phone"
+                   },
+                   {
+                       "timestamp":  11,
+                       "name":  "step_02_remove-the-visible-fasteners-securing-the-arkenstone-phone"
+                   },
+                   {
+                       "timestamp":  16,
+                       "name":  "step_03_release-the-arkenstone-phone-from-its-mounting-position"
+                   },
+                   {
+                       "timestamp":  21,
+                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+                   },
+                   {
+                       "timestamp":  26,
+                       "name":  "step_05_position-the-arkenstone-phone-for-installation"
+                   },
+                   {
+                       "timestamp":  31,
+                       "name":  "step_06_install-the-retaining-hardware-for-the-arkenstone-phone"
+                   },
+                   {
+                       "timestamp":  36,
+                       "name":  "step_07_align-the-arkenstone-phone-in-its-final-position"
+                   },
+                   {
+                       "timestamp":  41,
+                       "name":  "step_08_verify-the-completed-installation"
+                   }
+               ]
+}

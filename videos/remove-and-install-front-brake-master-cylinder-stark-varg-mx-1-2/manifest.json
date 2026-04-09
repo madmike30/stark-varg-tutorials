@@ -1,0 +1,92 @@
+﻿{
+    "slug":  "remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2",
+    "title":  "Remove and Install Front Brake Master Cylinder - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=BZ6Wk-h8_fA",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-front-brake-master-cylinder-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  6,
+                       "name":  "step_01_carefully-remove-the-master-cylinder-reservoir-cap"
+                   },
+                   {
+                       "timestamp":  24,
+                       "name":  "step_02_remove-the-rubber-cap-from-the-front-caliper-bleeder"
+                   },
+                   {
+                       "timestamp":  31,
+                       "name":  "step_03_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+                   },
+                   {
+                       "timestamp":  41,
+                       "name":  "step_04_drain-the-brake-fluid-from-the-system"
+                   },
+                   {
+                       "timestamp":  76,
+                       "name":  "step_05_carefully-remove-the-hose-from-the-front-caliper-bleeder"
+                   },
+                   {
+                       "timestamp":  90,
+                       "name":  "step_06_unscrew-the-banjo-bolt-from-the-master-cylinder-note-careful"
+                   },
+                   {
+                       "timestamp":  126,
+                       "name":  "step_07_carefully-cover-both-the-hose-and-the-master-cylinder-to-pre"
+                   },
+                   {
+                       "timestamp":  133,
+                       "name":  "step_08_unscrew-both-bridge-bolts-to-completely-remove-the-master-cy"
+                   },
+                   {
+                       "timestamp":  166,
+                       "name":  "step_09_place-the-master-cylinder-in-its-handlebar-position"
+                   },
+                   {
+                       "timestamp":  183,
+                       "name":  "step_10_tighten-both-bridge-bolts-to-6-nm"
+                   },
+                   {
+                       "timestamp":  211,
+                       "name":  "step_11_tighten-the-banjo-bolt-into-the-master-cylinder-to-25-nm"
+                   },
+                   {
+                       "timestamp":  250,
+                       "name":  "step_12_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef"
+                   },
+                   {
+                       "timestamp":  261,
+                       "name":  "step_13_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv"
+                   },
+                   {
+                       "timestamp":  276,
+                       "name":  "step_14_pump-the-brake-lever-several-times-and-while-holding-it-pull"
+                   },
+                   {
+                       "timestamp":  311,
+                       "name":  "step_15_actively-check-the-brake-fluid-level"
+                   },
+                   {
+                       "timestamp":  356,
+                       "name":  "step_16_carefully-remove-the-hose-from-the-front-brake-caliper-bleed"
+                   },
+                   {
+                       "timestamp":  391,
+                       "name":  "step_17_place-the-rubber-protector-cap-into-its-position"
+                   },
+                   {
+                       "timestamp":  418,
+                       "name":  "step_18_install-the-master-cylinder-reservoir-cap-and-tighten-both-s"
+                   },
+                   {
+                       "timestamp":  455,
+                       "name":  "step_19_clean-the-area-thoroughly-and-test-the-brake-system"
+                   }
+               ]
+}

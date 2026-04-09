@@ -1,0 +1,15 @@
+{
+  "slug": "replace-with-video-slug",
+  "title": "Replace With Tutorial Title",
+  "video_url": "https://www.youtube.com/watch?v=replace-me",
+  "tutorial_markdown": "tutorial.md",
+  "source_video": "source/video.mp4",
+  "screenshots_dir": "assets/screenshots",
+  "contact_sheet": "assets/contact-sheet.jpg",
+  "pdf_output": "output/pdf/tutorial.pdf",
+  "pdf_render_dir": "tmp/pdfs",
+  "references": [],
+  "frames": [
+    { "timestamp": 0, "name": "step_01_replace_me" }
+  ]
+}

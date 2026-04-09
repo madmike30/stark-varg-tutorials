@@ -1,0 +1,52 @@
+﻿{
+    "slug":  "how-to-remove-and-install-the-hand-rear-brake-sensor-on-your-stark-varg-ex",
+    "title":  "How to remove and install the Hand Rear Brake Sensor on your Stark VARG EX",
+    "video_url":  "https://www.youtube.com/watch?v=37Nlq-xu0bg",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/how-to-remove-and-install-the-hand-rear-brake-sensor-on-your-stark-varg-ex.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark%2BVARG%2BEX%2BOwners%2BManual%2BENG%2B2025-02.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  39,
+                       "name":  "step_01_remove-the-fasteners-or-panels-that-block-access-to-the-hand"
+                   },
+                   {
+                       "timestamp":  77,
+                       "name":  "step_02_release-the-clips-and-routing-points-for-the-hand-rear-brake"
+                   },
+                   {
+                       "timestamp":  115,
+                       "name":  "step_03_disconnect-the-hand-rear-brake-sensor"
+                   },
+                   {
+                       "timestamp":  153,
+                       "name":  "step_04_remove-the-retaining-hardware-for-the-hand-rear-brake-sensor"
+                   },
+                   {
+                       "timestamp":  191,
+                       "name":  "step_05_remove-the-hand-rear-brake-sensor-from-the-bike"
+                   },
+                   {
+                       "timestamp":  229,
+                       "name":  "step_06_position-the-hand-rear-brake-sensor-for-installation"
+                   },
+                   {
+                       "timestamp":  267,
+                       "name":  "step_07_reconnect-the-hand-rear-brake-sensor-and-route-the-wiring-co"
+                   },
+                   {
+                       "timestamp":  305,
+                       "name":  "step_08_install-the-retaining-hardware-for-the-hand-rear-brake-senso"
+                   },
+                   {
+                       "timestamp":  343,
+                       "name":  "step_09_verify-the-operation-of-the-hand-rear-brake-sensor"
+                   }
+               ]
+}

@@ -1,0 +1,144 @@
+﻿{
+    "slug":  "remove-and-install-subframe-stark-varg-mx-1-2",
+    "title":  "Remove and Install Subframe- Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=BqxuHpaQHlE",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-subframe-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  8,
+                       "name":  "step_01_unscrew-the-side-plate-bolts"
+                   },
+                   {
+                       "timestamp":  29,
+                       "name":  "step_02_unscrew-the-subframe-to-seat-base-bolt-under-the-rear-fender"
+                   },
+                   {
+                       "timestamp":  36,
+                       "name":  "step_03_unscrew-the-four-front-bolts-on-the-side-spoilers"
+                   },
+                   {
+                       "timestamp":  71,
+                       "name":  "step_04_carefully-remove-the-spoiler-assembly-by-sliding-it-backward"
+                   },
+                   {
+                       "timestamp":  80,
+                       "name":  "step_05_unscrew-the-four-bolts-that-attach-the-rear-fender-to-the-su"
+                   },
+                   {
+                       "timestamp":  117,
+                       "name":  "step_06_carefully-remove-the-rear-fender-from-the-bike"
+                   },
+                   {
+                       "timestamp":  126,
+                       "name":  "step_07_remove-the-fan-connector-bracket-from-the-subframe"
+                   },
+                   {
+                       "timestamp":  143,
+                       "name":  "step_08_remove-the-subframe-cable-holder"
+                   },
+                   {
+                       "timestamp":  162,
+                       "name":  "step_09_unscrew-the-three-bolts-that-hold-the-radiator-to-the-subfra"
+                   },
+                   {
+                       "timestamp":  214,
+                       "name":  "step_10_remove-the-rubber-straps-holding-the-breathing-hose-of-the-m"
+                   },
+                   {
+                       "timestamp":  231,
+                       "name":  "step_11_unscrew-the-bottom-shock-shaft-nut"
+                   },
+                   {
+                       "timestamp":  246,
+                       "name":  "step_12_carefully-remove-the-bottom-shaft"
+                   },
+                   {
+                       "timestamp":  255,
+                       "name":  "step_13_unscrew-the-top-shock-shaft-nut"
+                   },
+                   {
+                       "timestamp":  271,
+                       "name":  "step_14_carefully-remove-the-top-shock-shaft"
+                   },
+                   {
+                       "timestamp":  280,
+                       "name":  "step_15_carefully-remove-the-subframe-from-the-bike"
+                   },
+                   {
+                       "timestamp":  284,
+                       "name":  "step_16_remove-the-bushings-and-the-silent-blocks-from-the-subframe"
+                   },
+                   {
+                       "timestamp":  304,
+                       "name":  "step_17_install-the-silent-blocks-and-bushings-into-the-subframe"
+                   },
+                   {
+                       "timestamp":  343,
+                       "name":  "step_18_carefully-place-the-subframe-into-the-bike"
+                   },
+                   {
+                       "timestamp":  356,
+                       "name":  "step_19_install-the-top-shock-shaft"
+                   },
+                   {
+                       "timestamp":  371,
+                       "name":  "step_20_tighten-the-top-shock-shaft-nut-to-40-nm"
+                   },
+                   {
+                       "timestamp":  379,
+                       "name":  "step_21_install-the-bottom-shock-shaft"
+                   },
+                   {
+                       "timestamp":  399,
+                       "name":  "step_22_tighten-the-bottom-shock-shaft-nut-to-40-nm"
+                   },
+                   {
+                       "timestamp":  434,
+                       "name":  "step_23_place-the-bushings-in-their-positions-and-tighten-the-bolts-"
+                   },
+                   {
+                       "timestamp":  524,
+                       "name":  "step_24_tighten-the-bolt-to-secure-the-fan-connector-bracket-into-th"
+                   },
+                   {
+                       "timestamp":  543,
+                       "name":  "step_25_tighten-the-bolt-to-secure-the-cable-holder-into-the-subfram"
+                   },
+                   {
+                       "timestamp":  569,
+                       "name":  "step_26_position-the-rubber-straps-around-the-subframe-to-secure-the"
+                   },
+                   {
+                       "timestamp":  626,
+                       "name":  "step_27_carefully-position-the-rear-fender-between-the-subframe-and-"
+                   },
+                   {
+                       "timestamp":  636,
+                       "name":  "step_28_tighten-the-four-bolts-that-attach-the-rear-fender-to-the-su"
+                   },
+                   {
+                       "timestamp":  709,
+                       "name":  "step_29_position-the-spoiler-assembly-on-top-of-the-bike-and-slide-i"
+                   },
+                   {
+                       "timestamp":  721,
+                       "name":  "step_30_tighten-the-four-front-bolts-to-5-nm"
+                   },
+                   {
+                       "timestamp":  771,
+                       "name":  "step_31_tighten-the-subframe-to-seat-base-bolt-to-10-nm"
+                   },
+                   {
+                       "timestamp":  785,
+                       "name":  "step_32_tighten-the-side-plate-bolts-to-20-nm"
+                   }
+               ]
+}

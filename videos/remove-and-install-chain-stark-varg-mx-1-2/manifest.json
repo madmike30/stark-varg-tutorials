@@ -1,0 +1,48 @@
+﻿{
+    "slug":  "remove-and-install-chain-stark-varg-mx-1-2",
+    "title":  "Remove and Install Chain - Stark VARG MX 1.2",
+    "video_url":  "https://www.youtube.com/watch?v=tQw_BhAxjc4",
+    "tutorial_markdown":  "tutorial.md",
+    "source_video":  "source/video.mp4",
+    "screenshots_dir":  "assets/screenshots",
+    "contact_sheet":  "assets/contact-sheet.jpg",
+    "pdf_output":  "output/pdf/remove-and-install-chain-stark-varg-mx-1-2.pdf",
+    "pdf_render_dir":  "tmp/pdfs",
+    "references":  [
+                       "https://assets.starkfuture.com/technical-documents/Stark-VARG-MX-1.2-Owners-Manual-ENG-2025-07.pdf"
+                   ],
+    "frames":  [
+                   {
+                       "timestamp":  38,
+                       "name":  "step_01_prepare-access-to-the-chain"
+                   },
+                   {
+                       "timestamp":  75,
+                       "name":  "step_02_remove-the-visible-fasteners-securing-the-chain"
+                   },
+                   {
+                       "timestamp":  112,
+                       "name":  "step_03_release-the-chain-from-its-mounting-position"
+                   },
+                   {
+                       "timestamp":  149,
+                       "name":  "step_04_remove-or-free-any-related-clip-bracket-or-connector"
+                   },
+                   {
+                       "timestamp":  186,
+                       "name":  "step_05_position-the-chain-for-installation"
+                   },
+                   {
+                       "timestamp":  223,
+                       "name":  "step_06_install-the-retaining-hardware-for-the-chain"
+                   },
+                   {
+                       "timestamp":  260,
+                       "name":  "step_07_align-the-chain-in-its-final-position"
+                   },
+                   {
+                       "timestamp":  297,
+                       "name":  "step_08_verify-the-completed-installation"
+                   }
+               ]
+}
