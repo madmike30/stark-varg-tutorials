@@ -61,9 +61,9 @@ Hold the component in place until the first retaining hardware is started.
 
 ### 6. Reconnect or refit the support pieces for the Hand Brake Master Cylinder
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Hand Brake Master Cylinder.
+Reinstall the clamp and any related support pieces for the Hand Brake Master Cylinder.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Set the brake lever in the preferred position before final tightening.
 
 ![Step 6 - reconnect or refit the support pieces for the hand brake master cylinder](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-hand-brake-mas.jpg)
 
@@ -73,7 +73,7 @@ Install the main retaining hardware for the Hand Brake Master Cylinder by hand f
 
 Check that the component remains aligned while the hardware is brought fully home.
 
-Tighten the hand brake master cylinder clamp bolts to **3 Nm**.
+Tighten the hand brake master cylinder clamp bolts to **6 Nm**.
 
 ![Step 7 - install the retaining hardware for the hand brake master cylinder](assets/screenshots/step_07_install-the-retaining-hardware-for-the-hand-brake-master-cyl.jpg)
 
@@ -81,7 +81,7 @@ Tighten the hand brake master cylinder clamp bolts to **3 Nm**.
 
 Inspect the final position of the Hand Brake Master Cylinder and confirm that all hardware, clips, and surrounding parts are back in place.
 
-Check the component for correct fit and movement before returning the bike to service.
+Check that the brake lever moves freely and can be fully pressed without contacting other handlebar controls before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the hand brake master cylinder](assets/screenshots/step_08_verify-the-completed-installation-of-the-hand-brake-master-c.jpg)
 
@@ -89,11 +89,11 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the hand brake master cylinder clamp bolts | 3 Nm |
+| Tighten the hand brake master cylinder clamp bolts | 6 Nm |
 
 Verified torque items:
 
-- Tighten the hand brake master cylinder clamp bolts: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the hand brake master cylinder clamp bolts: **6 Nm** from Stark technical manual `02.009.01 Remove and install hand brake master cylinder`.
 
 ## Critical Checks Before Riding
 

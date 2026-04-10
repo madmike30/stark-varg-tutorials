@@ -55,7 +55,7 @@ Inspect the removed part and the mounting points before reassembly.
 
 Return the Spoiler Assembly to its mounting position and align the holes, tabs, or locating surfaces.
 
-Hold the component in place until the first retaining hardware is started.
+Press the assembly forward and downward, and if needed press the seat down and forward to align the rear center holes.
 
 ![Step 5 - position the spoiler assembly for installation](assets/screenshots/step_05_position-the-spoiler-assembly-for-installation.jpg)
 
@@ -63,7 +63,7 @@ Hold the component in place until the first retaining hardware is started.
 
 Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Spoiler Assembly.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Make sure the spoiler assembly fittings are clear of wiring and debris before final tightening.
 
 ![Step 6 - reconnect or refit the support pieces for the spoiler assembly](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-spoiler-assemb.jpg)
 
@@ -75,7 +75,7 @@ Check that the component remains aligned while the hardware is brought fully hom
 
 Tighten the spoiler assembly rear center bolt to **8 Nm**.
 
-Tighten the spoiler assembly side bolts to **40 Nm**.
+Tighten the spoiler assembly side bolts to **20 Nm**.
 
 Tighten the spoiler assembly front bolts to **5 Nm**.
 
@@ -94,14 +94,14 @@ Check the component for correct fit and movement before returning the bike to se
 | Component | Torque |
 | --- | ---: |
 | Tighten the spoiler assembly rear center bolt | 8 Nm |
-| Tighten the spoiler assembly side bolts | 40 Nm |
+| Tighten the spoiler assembly side bolts | 20 Nm |
 | Tighten the spoiler assembly front bolts | 5 Nm |
 
 Verified torque items:
 
-- Tighten the spoiler assembly rear center bolt: **8 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the spoiler assembly side bolts: **40 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the spoiler assembly front bolts: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the spoiler assembly rear center bolt: **8 Nm** from Stark technical manual `01.007.01 Remove and install spoiler assembly`.
+- Tighten the spoiler assembly side bolts: **20 Nm** from Stark technical manual `01.007.01 Remove and install spoiler assembly`.
+- Tighten the spoiler assembly front bolts: **5 Nm** from Stark technical manual `01.007.01 Remove and install spoiler assembly`.
 
 ## Critical Checks Before Riding
 

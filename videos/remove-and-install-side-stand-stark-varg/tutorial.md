@@ -53,7 +53,7 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Side Stand for installation
 
-Return the Side Stand to its mounting position and align the holes, tabs, or locating surfaces.
+Return the Side Stand and rubber strap to their mounting position and align the holes, tabs, or locating surfaces.
 
 Hold the component in place until the first retaining hardware is started.
 
@@ -61,9 +61,9 @@ Hold the component in place until the first retaining hardware is started.
 
 ### 6. Reconnect or refit the support pieces for the Side Stand
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Side Stand.
+Reinstall the side stand bracket and related support pieces for the Side Stand.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Apply grease to the bushing and O-rings before the bracket is fully seated.
 
 ![Step 6 - reconnect or refit the support pieces for the side stand](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-side-stand.jpg)
 
@@ -71,19 +71,19 @@ Make sure each supporting piece is seated correctly before final tightening.
 
 Install the main retaining hardware for the Side Stand by hand first, then tighten it evenly.
 
-Check that the component remains aligned while the hardware is brought fully home.
+Clean the side stand leg bolt, apply medium strength thread locker, and fit the side stand leg through the rubber strap before final tightening.
 
-Tighten the side stand bracket bolts to **5 Nm**.
+Tighten the side stand bracket bolts to **20 Nm**.
 
-Tighten the side stand leg bolt to **15 Nm**.
+Tighten the side stand leg bolt to **35 Nm**.
 
 ![Step 7 - install the retaining hardware for the side stand](assets/screenshots/step_07_install-the-retaining-hardware-for-the-side-stand.jpg)
 
 ### 8. Verify the completed installation of the Side Stand
 
-Inspect the final position of the Side Stand and confirm that all hardware, clips, and surrounding parts are back in place.
+Hook the side stand springs back onto the top bolt and spring plate, then inspect the final position of the Side Stand.
 
-Check the component for correct fit and movement before returning the bike to service.
+Confirm the springs are rehooked correctly and check the component for correct fit and movement before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the side stand](assets/screenshots/step_08_verify-the-completed-installation-of-the-side-stand.jpg)
 
@@ -91,13 +91,13 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the side stand bracket bolts | 5 Nm |
-| Tighten the side stand leg bolt | 15 Nm |
+| Tighten the side stand bracket bolts | 20 Nm |
+| Tighten the side stand leg bolt | 35 Nm |
 
 Verified torque items:
 
-- Tighten the side stand bracket bolts: **5 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the side stand leg bolt: **15 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the side stand bracket bolts: **20 Nm** from Stark technical manual `05.038.01 Remove and install side stand`.
+- Tighten the side stand leg bolt: **35 Nm** from Stark technical manual `05.038.01 Remove and install side stand`.
 
 ## Critical Checks Before Riding
 
