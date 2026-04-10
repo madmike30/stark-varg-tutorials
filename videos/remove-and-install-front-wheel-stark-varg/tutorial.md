@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Front Wheel
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Front Wheel.
+Remove the surrounding hardware needed to expose the Front Wheel and its clamping or axle points.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Front Wheel
 
-Remove the bolts, screws, nuts, or clips that directly secure the Front Wheel.
+Remove the visible Front Wheel fasteners in the order shown and support the part as it comes free.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Front Wheel from the bike
 
-Lift, slide, or guide the Front Wheel out of its mounting position once the retaining hardware is removed.
+Slide the Front Wheel free from the bike once the clamping hardware and support pieces are released.
 
 Inspect the removed part and the mounting points before reassembly.
 

@@ -51,7 +51,7 @@ Support the component as the last fastener is removed so it does not hang on the
 
 ### 5. Remove the License Plate Holder from the bike
 
-Lift, slide, or guide the License Plate Holder clear of the mounting area once the connector and fasteners are released.
+Remove the License Plate Holder from the bike once the connector, routing clips, and mounting hardware are free.
 
 Keep any washers, spacers, sleeves, or rubber mounts with the component for reassembly.
 

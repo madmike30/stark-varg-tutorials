@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Spoiler Assembly
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Spoiler Assembly.
+Remove the surrounding parts needed to expose the Spoiler Assembly mounting points shown in the video.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Spoiler Assembly
 
-Remove the bolts, screws, nuts, or clips that directly secure the Spoiler Assembly.
+Remove the visible fasteners that secure the Spoiler Assembly and keep the hardware in removal order.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Spoiler Assembly from the bike
 
-Lift, slide, or guide the Spoiler Assembly out of its mounting position once the retaining hardware is removed.
+Remove the Spoiler Assembly from the bike once the remaining supports and fasteners are free.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Make sure the spoiler assembly fittings are clear of wiring and debris before fi
 
 ### 7. Install the retaining hardware for the Spoiler Assembly
 
-Install the main retaining hardware for the Spoiler Assembly by hand first, then tighten it evenly.
+Install the Spoiler Assembly retaining hardware by hand first so the part stays aligned in its mounting points.
 
 Check that the component remains aligned while the hardware is brought fully home.
 

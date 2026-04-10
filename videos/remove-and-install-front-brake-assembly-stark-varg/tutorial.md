@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Front Brake Assembly
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Front Brake Assembly.
+Remove the surrounding parts needed to expose the Front Brake Assembly and its routing or mounting points.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Front Brake Assembly
 
-Remove the bolts, screws, nuts, or clips that directly secure the Front Brake Assembly.
+Remove the visible Front Brake Assembly fasteners while supporting the brake component as the hardware comes free.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Front Brake Assembly from the bike
 
-Lift, slide, or guide the Front Brake Assembly out of its mounting position once the retaining hardware is removed.
+Remove the Front Brake Assembly from the bike once the last fastener and any routed support pieces are released.
 
 Inspect the removed part and the mounting points before reassembly.
 

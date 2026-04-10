@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Rocker Arm
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Rocker Arm.
+Remove the surrounding hardware needed to expose the Rocker Arm and its clamping or axle points.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Rocker Arm
 
-Remove the bolts, screws, nuts, or clips that directly secure the Rocker Arm.
+Remove the visible Rocker Arm fasteners in the order shown and support the part as it comes free.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Rocker Arm from the bike
 
-Lift, slide, or guide the Rocker Arm out of its mounting position once the retaining hardware is removed.
+Slide the Rocker Arm free from the bike once the clamping hardware and support pieces are released.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Make sure each supporting piece is seated correctly before final tightening.
 
 ### 7. Install the retaining hardware for the Rocker Arm
 
-Install the main retaining hardware for the Rocker Arm by hand first, then tighten it evenly.
+Install the Rocker Arm retaining hardware by hand first and keep the part aligned as the hardware is tightened.
 
 Check that the component remains aligned while the hardware is brought fully home.
 

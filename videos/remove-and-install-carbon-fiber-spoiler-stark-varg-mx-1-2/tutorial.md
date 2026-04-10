@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Carbon Fiber Spoiler
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Carbon Fiber Spoiler.
+Remove the surrounding parts needed to expose the Carbon Fiber Spoiler mounting points shown in the video.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Carbon Fiber Spoiler
 
-Remove the bolts, screws, nuts, or clips that directly secure the Carbon Fiber Spoiler.
+Remove the visible fasteners that secure the Carbon Fiber Spoiler and keep the hardware in removal order.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Carbon Fiber Spoiler from the bike
 
-Lift, slide, or guide the Carbon Fiber Spoiler out of its mounting position once the retaining hardware is removed.
+Remove the Carbon Fiber Spoiler from the bike once the remaining supports and fasteners are free.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Make sure each supporting piece is seated correctly before final tightening.
 
 ### 7. Install the retaining hardware for the Carbon Fiber Spoiler
 
-Install the main retaining hardware for the Carbon Fiber Spoiler by hand first, then tighten it evenly.
+Install the Carbon Fiber Spoiler retaining hardware by hand first so the part stays aligned in its mounting points.
 
 Check that the component remains aligned while the hardware is brought fully home.
 

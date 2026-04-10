@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Steering Locker Barrel
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Steering Locker Barrel.
+Open the surrounding panel area so the Steering Locker Barrel mounting points and wiring path are fully accessible.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Steering Locker Barrel
 
-Remove the bolts, screws, nuts, or clips that directly secure the Steering Locker Barrel.
+Remove the visible Steering Locker Barrel fasteners and support the part so it does not hang on the wiring.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Steering Locker Barrel from the bike
 
-Lift, slide, or guide the Steering Locker Barrel out of its mounting position once the retaining hardware is removed.
+Remove the Steering Locker Barrel from the bike once the connector, routing clips, and mounting hardware are free.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Make sure each supporting piece is seated correctly before final tightening.
 
 ### 7. Install the retaining hardware for the Steering Locker Barrel
 
-Install the main retaining hardware for the Steering Locker Barrel by hand first, then tighten it evenly.
+Install the Steering Locker Barrel mounting hardware by hand first and seat the part evenly against its bracket or panel.
 
 Check that the component remains aligned while the hardware is brought fully home.
 

@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Control Switch
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Control Switch.
+Open the surrounding panel area so the Control Switch mounting points and wiring path are fully accessible.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Control Switch
 
-Remove the bolts, screws, nuts, or clips that directly secure the Control Switch.
+Remove the visible Control Switch fasteners and support the part so it does not hang on the wiring.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Control Switch from the bike
 
-Lift, slide, or guide the Control Switch out of its mounting position once the retaining hardware is removed.
+Remove the Control Switch from the bike once the connector, routing clips, and mounting hardware are free.
 
 Inspect the removed part and the mounting points before reassembly.
 

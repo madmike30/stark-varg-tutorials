@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Hand Brake Master Cylinder
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Hand Brake Master Cylinder.
+Remove the surrounding parts needed to expose the Hand Brake Master Cylinder and its routing or mounting points.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Hand Brake Master Cylinder
 
-Remove the bolts, screws, nuts, or clips that directly secure the Hand Brake Master Cylinder.
+Remove the visible Hand Brake Master Cylinder fasteners while supporting the brake component as the hardware comes free.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Hand Brake Master Cylinder from the bike
 
-Lift, slide, or guide the Hand Brake Master Cylinder out of its mounting position once the retaining hardware is removed.
+Remove the Hand Brake Master Cylinder from the bike once the last fastener and any routed support pieces are released.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Set the brake lever in the preferred position before final tightening.
 
 ### 7. Install the retaining hardware for the Hand Brake Master Cylinder
 
-Install the main retaining hardware for the Hand Brake Master Cylinder by hand first, then tighten it evenly.
+Install the Hand Brake Master Cylinder retaining hardware by hand first and keep the brake component aligned during tightening.
 
 Check that the component remains aligned while the hardware is brought fully home.
 

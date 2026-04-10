@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Top Steering Bearing
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Top Steering Bearing.
+Remove the surrounding hardware needed to expose the Top Steering Bearing and its clamping or axle points.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Top Steering Bearing
 
-Remove the bolts, screws, nuts, or clips that directly secure the Top Steering Bearing.
+Remove the visible Top Steering Bearing fasteners in the order shown and support the part as it comes free.
 
 Support the component as the last fastener is removed.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Top Steering Bearing from the bike
 
-Lift, slide, or guide the Top Steering Bearing out of its mounting position once the retaining hardware is removed.
+Slide the Top Steering Bearing free from the bike once the clamping hardware and support pieces are released.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -69,7 +69,7 @@ Make sure each supporting piece is seated correctly before final tightening.
 
 ### 7. Install the retaining hardware for the Top Steering Bearing
 
-Install the main retaining hardware for the Top Steering Bearing by hand first, then tighten it evenly.
+Install the Top Steering Bearing retaining hardware by hand first and keep the part aligned as the hardware is tightened.
 
 Check that the component remains aligned while the hardware is brought fully home.
 
