@@ -83,7 +83,7 @@
 - OK `remove-and-install-spoiler-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-stark-phone-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
 - OK `remove-and-install-subframe-stark-varg-mx-1-2`: steps=32, images=32, pdf_pages=19, rendered_pages=19, source_videos=0
-- FAIL `remove-and-install-swingarm-stark-future`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=1
+- OK `remove-and-install-swingarm-stark-future`: steps=39, images=39, pdf_pages=21, rendered_pages=21, source_videos=0
 - OK `remove-and-install-swingarm-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-the-arkenstone-phone-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-the-forks-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
@@ -97,4 +97,4 @@
 - OK `remove-and-install-wiring-harness-stark-varg-mx-1-2`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
 - OK `remove-and-installing-chain`: steps=8, images=8, pdf_pages=8, rendered_pages=8, source_videos=0
 
-Overall status: FAIL
+Overall status: OK

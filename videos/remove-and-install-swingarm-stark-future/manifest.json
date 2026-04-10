@@ -19,36 +19,160 @@
   ],
   "frames": [
     {
-      "timestamp": 41,
-      "name": "step_01_prepare-access-to-the-swingarm-stark-future"
+      "timestamp": 8,
+      "name": "step_01_remove-chain-link"
     },
     {
-      "timestamp": 81,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-swingarm-stark"
+      "timestamp": 36,
+      "name": "step_02_run-the-chain-through-the-front-sprocket"
     },
     {
-      "timestamp": 121,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-swingar"
+      "timestamp": 50,
+      "name": "step_03_loosen-rear-axle-lock-nut"
     },
     {
-      "timestamp": 161,
-      "name": "step_04_remove-the-swingarm-stark-future-from-the-bike"
+      "timestamp": 52,
+      "name": "step_04_push-lock-nut"
     },
     {
-      "timestamp": 201,
-      "name": "step_05_position-the-swingarm-stark-future-for-installation"
+      "timestamp": 56,
+      "name": "step_05_remove-lock-nut-and-tension-adjuster"
     },
     {
-      "timestamp": 241,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-swingarm-stark"
+      "timestamp": 62,
+      "name": "step_06_remove-wheel-axle"
     },
     {
-      "timestamp": 281,
-      "name": "step_07_install-the-retaining-hardware-for-the-swingarm-stark-future"
+      "timestamp": 68,
+      "name": "step_07_loosen-brake-pedal-link-bolt"
     },
     {
-      "timestamp": 321,
-      "name": "step_08_verify-the-completed-installation-of-the-swingarm-stark-futu"
+      "timestamp": 72,
+      "name": "step_08_hold-spring"
+    },
+    {
+      "timestamp": 76,
+      "name": "step_09_loosen-brake-pump-bolts"
+    },
+    {
+      "timestamp": 86,
+      "name": "step_10_remove-brake-assembly"
+    },
+    {
+      "timestamp": 94,
+      "name": "step_11_remove-rear-mud-flap-bolts"
+    },
+    {
+      "timestamp": 108,
+      "name": "step_12_loosen-chain-protector-bolt"
+    },
+    {
+      "timestamp": 116,
+      "name": "step_13_remove-pull-rod-lock-nuts"
+    },
+    {
+      "timestamp": 128,
+      "name": "step_14_pull-bolts-out"
+    },
+    {
+      "timestamp": 146,
+      "name": "step_15_loosen-axle-clamp-bolt"
+    },
+    {
+      "timestamp": 154,
+      "name": "step_16_remove-axle"
+    },
+    {
+      "timestamp": 164,
+      "name": "step_17_remove-swingarm"
+    },
+    {
+      "timestamp": 170,
+      "name": "step_18_hold-swingarm-in-place"
+    },
+    {
+      "timestamp": 180,
+      "name": "step_19_insert-axle"
+    },
+    {
+      "timestamp": 188,
+      "name": "step_20_tighten-axle-to-45-nm"
+    },
+    {
+      "timestamp": 190,
+      "name": "step_21_tighten-clamp-bolt-to-35-nm"
+    },
+    {
+      "timestamp": 196,
+      "name": "step_22_tighten-lock-nuts-to-60-nm"
+    },
+    {
+      "timestamp": 234,
+      "name": "step_23_tighten-chain-protector-bolt-to-5-nm"
+    },
+    {
+      "timestamp": 238,
+      "name": "step_24_slide-the-rear-mud-flap-backward"
+    },
+    {
+      "timestamp": 252,
+      "name": "step_25_tighten-bolts-to-3-nm"
+    },
+    {
+      "timestamp": 258,
+      "name": "step_26_insert-the-brake-line-in-the-bracket"
+    },
+    {
+      "timestamp": 262,
+      "name": "step_27_install-brake-caliper"
+    },
+    {
+      "timestamp": 266,
+      "name": "step_28_hold-the-brake-pump-in-place"
+    },
+    {
+      "timestamp": 274,
+      "name": "step_29_tighten-bolts-to-10-nm"
+    },
+    {
+      "timestamp": 284,
+      "name": "step_30_install-the-rear-brake-pedal-link"
+    },
+    {
+      "timestamp": 294,
+      "name": "step_31_tighten-link-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 302,
+      "name": "step_32_ensure-the-brake-disc-slides-between-the-brake-pads"
+    },
+    {
+      "timestamp": 304,
+      "name": "step_33_insert-wheel-axle"
+    },
+    {
+      "timestamp": 310,
+      "name": "step_34_install-tension-adjuster"
+    },
+    {
+      "timestamp": 320,
+      "name": "step_35_run-the-chain-through-the-front-sprocket-again"
+    },
+    {
+      "timestamp": 330,
+      "name": "step_36_install-chain-link"
+    },
+    {
+      "timestamp": 344,
+      "name": "step_37_insert-a-piece-of-cloth-between-the-chain-and-the-wheel-sprocket"
+    },
+    {
+      "timestamp": 348,
+      "name": "step_38_tighten-axle-lock-nut-to-80-nm"
+    },
+    {
+      "timestamp": 356,
+      "name": "step_39_remove-the-cloth"
     }
   ]
 }
