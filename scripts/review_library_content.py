@@ -66,6 +66,11 @@ def read_doc_text(code: str, url: str) -> str:
     return "\n".join(page.extract_text() or "" for page in PdfReader(str(path)).pages)
 
 
+def extract_torques(text: str) -> list[str]:
+    values = {f"{match.group(1)} Nm" for match in re.finditer(r"(\d+(?:\.\d+)?)\s*Nm", text)}
+    return sorted(values, key=lambda value: float(value.split()[0]))
+
+
 def find_best_doc(title: str, docs: list[dict]) -> dict | None:
     target = normalize(title)
     target_words = significant_words(title)
@@ -145,9 +150,17 @@ def main() -> None:
             continue
 
         doc_name = doc["name"]["en"] if isinstance(doc["name"], dict) else str(doc["name"])
-        doc_text = read_doc_text(doc["code"], doc["file"]["url"])
-        guide_nm = sorted(set(re.findall(r"(\d+(?:\.\d+)?\s*Nm)", tutorial_text)))
-        doc_nm = sorted(set(re.findall(r"(\d+(?:\.\d+)?\s*Nm)", doc_text)))
+        doc_codes = {doc["code"]}
+        doc_lookup = {item.get("code"): item for item in doc_candidates}
+        doc_codes.update(re.findall(r"\b(\d{2}\.\d{3}\.\d{2})\b", tutorial_text))
+        doc_text = []
+        for code in sorted(doc_codes):
+            doc_item = doc_lookup.get(code)
+            if not doc_item:
+                continue
+            doc_text.append(read_doc_text(code, doc_item["file"]["url"]))
+        guide_nm = extract_torques(tutorial_text)
+        doc_nm = extract_torques("\n".join(doc_text))
         if doc_nm and guide_nm != doc_nm:
             torque_flags.append(
                 f"- `{video_dir.name}` vs `{doc['code']} {doc_name}`: guide={guide_nm or ['none']}, manual={doc_nm}"

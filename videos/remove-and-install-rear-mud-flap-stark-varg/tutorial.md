@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Rear Mud Flap
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Rear Mud Flap.
+Prepare access to the rear mud flap and the two retaining bolts, one on each side.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Rear Mud Flap
 
-Remove the bolts, screws, nuts, or clips that directly secure the Rear Mud Flap.
+Unscrew the rear mud flap bolts, one on each end of the flap.
 
 Support the component as the last fastener is removed.
 
@@ -35,7 +35,7 @@ Support the component as the last fastener is removed.
 
 ### 3. Release any bracket, clip, or coupling attached to the Rear Mud Flap
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Rear Mud Flap to the bike.
+Push the mud flap toward the front of the bike and release it from the rear fender grooves.
 
 Note the orientation of these supporting pieces before setting them aside.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Rear Mud Flap from the bike
 
-Lift, slide, or guide the Rear Mud Flap out of its mounting position once the retaining hardware is removed.
+Slide the rear mud flap fully out of the rear fender once it is free of the grooves.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -53,7 +53,7 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Rear Mud Flap for installation
 
-Return the Rear Mud Flap to its mounting position and align the holes, tabs, or locating surfaces.
+Install the rear mud flap by sliding it toward the rear of the bike into the rear fender grooves.
 
 Hold the component in place until the first retaining hardware is started.
 
@@ -61,21 +61,17 @@ Hold the component in place until the first retaining hardware is started.
 
 ### 6. Reconnect or refit the support pieces for the Rear Mud Flap
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Rear Mud Flap.
+Align the mud flap in the grooves and start the retaining bolts by hand.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Make sure the flap is fully seated before tightening.
 
 ![Step 6 - reconnect or refit the support pieces for the rear mud flap](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-rear-mud-flap.jpg)
 
 ### 7. Install the retaining hardware for the Rear Mud Flap
 
-Install the main retaining hardware for the Rear Mud Flap by hand first, then tighten it evenly.
+Tighten the mud flap bolts evenly once the flap is seated in the rear fender grooves.
 
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the lower rear fender bolts to **5 Nm**.
-
-Tighten the mud flap screws to **3 Nm**.
+Tighten the mud flap bolts to **2 Nm**.
 
 ![Step 7 - install the retaining hardware for the rear mud flap](assets/screenshots/step_07_install-the-retaining-hardware-for-the-rear-mud-flap.jpg)
 
@@ -91,13 +87,11 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the lower rear fender bolts | 5 Nm |
-| Tighten the mud flap screws | 3 Nm |
+| Tighten the mud flap bolts | 2 Nm |
 
 Verified torque items:
 
-- Tighten the lower rear fender bolts: **5 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the mud flap screws: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the mud flap bolts: **2 Nm** from Stark technical manual `01.012.01 Remove and install mud flap`.
 
 ## Critical Checks Before Riding
 

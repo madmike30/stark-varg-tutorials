@@ -31,7 +31,7 @@ Place a suitable drain container under the bike before removing the gear oil dra
 
 ### 3. Open the fill and drain points
 
-Loosen the fill and drain hardware shown in the video so the old gear oil can drain fully.
+Loosen the drain plug and the right motor cover metal cap so the old gear oil can drain fully.
 
 ![Step 3 - open the fill and drain points](assets/screenshots/step_03_open-the-fill-and-drain-points.jpg)
 
@@ -39,23 +39,29 @@ Loosen the fill and drain hardware shown in the video so the old gear oil can dr
 
 Allow the old oil to drain completely while monitoring the drain container and the service opening.
 
+Lean the bike slightly to the right if needed to help the used oil drain more completely.
+
 ![Step 4 - drain the old gear oil](assets/screenshots/step_04_drain-the-old-gear-oil.jpg)
 
 ### 5. Reinstall the drain hardware
 
-Reinstall the drain hardware shown in the video once draining is complete and the mating surfaces are ready for assembly.
+Fit a new washer to the drain plug and reinstall it once draining is complete.
+
+Tighten the drain plug to **15 Nm**.
 
 ![Step 5 - reinstall the drain hardware](assets/screenshots/step_05_reinstall-the-drain-hardware.jpg)
 
 ### 6. Refill with fresh gear oil
 
-Fill the system with the oil type and level indicated by the procedure shown in the video.
+Remove the oil level bolt, make sure the bike is level, and fill with fresh oil until it starts to come out from the level bolt opening.
+
+Fit a new washer to the level bolt and tighten it to **5 Nm**.
 
 ![Step 6 - refill with fresh gear oil](assets/screenshots/step_06_refill-with-fresh-gear-oil.jpg)
 
 ### 7. Close the fill point and clean the area
 
-Reinstall the fill hardware and wipe any spilled oil from the surrounding parts.
+Tighten the right motor cover metal cap to **5 Nm** and wipe any spilled oil from the surrounding parts.
 
 ![Step 7 - close the fill point and clean the area](assets/screenshots/step_07_close-the-fill-point-and-clean-the-area.jpg)
 
@@ -71,11 +77,17 @@ Tighten the skid plate bolts to **15 Nm**.
 
 | Component | Torque |
 | --- | ---: |
+| Tighten the drain plug | 15 Nm |
+| Tighten the level bolt | 5 Nm |
+| Tighten the right motor cover metal cap | 5 Nm |
 | Tighten the skid plate bolts | 15 Nm |
 
 Verified torque items:
 
-- Tighten the skid plate bolts: **15 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the drain plug: **15 Nm** from Stark technical manual `07.019.06 Change gear oil`.
+- Tighten the level bolt: **5 Nm** from Stark technical manual `07.019.06 Change gear oil`.
+- Tighten the right motor cover metal cap: **5 Nm** from Stark technical manual `07.019.06 Change gear oil`.
+- Tighten the skid plate bolts: **15 Nm** from Stark technical manual `05.041.01 Remove and install skid plate`.
 
 ## Critical Checks Before Riding
 

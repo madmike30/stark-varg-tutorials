@@ -94,7 +94,7 @@ Inspect the full front brake assembly for correct fit, routing, and lever feel b
 Verified torque items:
 
 - Tighten the hand brake master cylinder clamp bolts: **6 Nm** from Stark technical manual `02.009.01 Remove and install hand brake master cylinder`.
-- Tighten the front brake caliper bolts: **25 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front brake caliper bolts: **25 Nm** from Stark technical manual `02.005.01 Remove and install front brake caliper`.
 - Tighten the fork brake line bracket screws: **3 Nm** from Stark technical manual `02.011.01 Remove and install front brake line bracket`.
 
 ## Critical Checks Before Riding

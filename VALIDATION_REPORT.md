@@ -1,7 +1,7 @@
 # Validation Report
 
 - OK `bleeding-the-cooling-system-stark-varg`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
-- OK `gear-oil-change-stark-varg`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
+- OK `gear-oil-change-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
 - OK `how-to-bleed-the-cooling-system-stark-varg-mx-1-2`: steps=19, images=19, pdf_pages=11, rendered_pages=11, source_videos=0
 - OK `how-to-charge-the-stark-varg`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
 - OK `how-to-disengage-the-stark-varg`: steps=5, images=5, pdf_pages=4, rendered_pages=4, source_videos=0
@@ -28,7 +28,7 @@
 - OK `how-to-unbox-the-stark-varg-mx`: steps=7, images=7, pdf_pages=7, rendered_pages=7, source_videos=0
 - OK `how-to-update-the-stark-varg-software`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
 - OK `remove-and-install-battery-stark-varg`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
-- OK `remove-and-install-brake-pedal-stark-varg`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
+- OK `remove-and-install-brake-pedal-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
 - OK `remove-and-install-brake-pedal-stark-varg-mx-1-2`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
 - OK `remove-and-install-chain-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
@@ -67,7 +67,7 @@
 - OK `remove-and-install-rear-brake-master-cylinder-stark-varg-mx-1-2`: steps=21, images=21, pdf_pages=13, rendered_pages=13, source_videos=0
 - OK `remove-and-install-rear-fender-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-rear-hand-brake-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
-- OK `remove-and-install-rear-mud-flap-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-rear-mud-flap-stark-varg`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-rear-shock-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
 - OK `remove-and-install-rear-shock-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-rear-wheel-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0

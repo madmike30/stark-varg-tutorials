@@ -93,7 +93,7 @@ Check the component for correct fit and movement before returning the bike to se
 
 Verified torque items:
 
-- Tighten the front brake caliper bolts: **25 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front brake caliper bolts: **25 Nm** from Stark technical manual `02.005.01 Remove and install front brake caliper`.
 
 ## Critical Checks Before Riding
 

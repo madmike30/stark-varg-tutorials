@@ -19,7 +19,7 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Prepare access to the Brake Pedal
 
-Remove or move aside the surrounding part, cover, or hardware needed to reach the Brake Pedal.
+Hold the foot pedal spring and prepare access around the brake pedal and linkage before removing hardware.
 
 Keep the removed fasteners organized in sequence so reassembly matches the video.
 
@@ -27,7 +27,7 @@ Keep the removed fasteners organized in sequence so reassembly matches the video
 
 ### 2. Remove the visible retaining hardware for the Brake Pedal
 
-Remove the bolts, screws, nuts, or clips that directly secure the Brake Pedal.
+Loosen the brake pedal link bolt while supporting the pedal assembly.
 
 Support the component as the last fastener is removed.
 
@@ -35,7 +35,7 @@ Support the component as the last fastener is removed.
 
 ### 3. Release any bracket, clip, or coupling attached to the Brake Pedal
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Brake Pedal to the bike.
+Unscrew the sway bolt and release the brake pedal from the linkage.
 
 Note the orientation of these supporting pieces before setting them aside.
 
@@ -43,7 +43,7 @@ Note the orientation of these supporting pieces before setting them aside.
 
 ### 4. Remove the Brake Pedal from the bike
 
-Lift, slide, or guide the Brake Pedal out of its mounting position once the retaining hardware is removed.
+Carefully slide the brake pedal toward the front of the bike and remove it through the gap between the side plate and the battery.
 
 Inspect the removed part and the mounting points before reassembly.
 
@@ -53,7 +53,7 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Brake Pedal for installation
 
-Return the Brake Pedal to its mounting position and align the holes, tabs, or locating surfaces.
+Gently slide the brake pedal back in through the gap between the side plate and the battery.
 
 Hold the component in place until the first retaining hardware is started.
 
@@ -61,31 +61,23 @@ Hold the component in place until the first retaining hardware is started.
 
 ### 6. Reconnect or refit the support pieces for the Brake Pedal
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Brake Pedal.
+Install the sway bolt and seat the pedal correctly before final tightening.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Tighten the sway bolt to **20 Nm**.
 
 ![Step 6 - reconnect or refit the support pieces for the brake pedal](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-brake-pedal.jpg)
 
 ### 7. Install the retaining hardware for the Brake Pedal
 
-Install the main retaining hardware for the Brake Pedal by hand first, then tighten it evenly.
-
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the brake pedal peg bolts to **5 Nm**.
-
-Tighten the brake pedal sway bolts to **20 Nm**.
-
-Tighten the brake pedal link bolts to **10 Nm**.
+Assemble the brake pedal link and hold the linkage in place while the bolt is started by hand.
 
 ![Step 7 - install the retaining hardware for the brake pedal](assets/screenshots/step_07_install-the-retaining-hardware-for-the-brake-pedal.jpg)
 
 ### 8. Verify the completed installation of the Brake Pedal
 
-Inspect the final position of the Brake Pedal and confirm that all hardware, clips, and surrounding parts are back in place.
+Tighten the brake pedal link bolt to **10 Nm** and verify the pedal returns and moves freely.
 
-Check the component for correct fit and movement before returning the bike to service.
+Check brake operation before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the brake pedal](assets/screenshots/step_08_verify-the-completed-installation-of-the-brake-pedal.jpg)
 
@@ -93,15 +85,13 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the brake pedal peg bolts | 5 Nm |
-| Tighten the brake pedal sway bolts | 20 Nm |
-| Tighten the brake pedal link bolts | 10 Nm |
+| Tighten the sway bolt | 20 Nm |
+| Tighten the brake pedal link bolt | 10 Nm |
 
 Verified torque items:
 
-- Tighten the brake pedal peg bolts: **5 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the brake pedal sway bolts: **20 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the brake pedal link bolts: **10 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the sway bolt: **20 Nm** from Stark technical manual `02.018.01 Remove and install brake pedal`.
+- Tighten the brake pedal link bolt: **10 Nm** from Stark technical manual `02.018.01 Remove and install brake pedal`.
 
 ## Critical Checks Before Riding
 
