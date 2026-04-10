@@ -53,29 +53,23 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Front Brake Assembly for installation
 
-Return the Front Brake Assembly to its mounting position and align the holes, tabs, or locating surfaces.
+Return the front brake master cylinder and front brake caliper to their mounting positions.
 
-Hold the component in place until the first retaining hardware is started.
+Hold the master cylinder in place and tighten the clamp bolts to **6 Nm**.
 
 ![Step 5 - position the front brake assembly for installation](assets/screenshots/step_05_position-the-front-brake-assembly-for-installation.jpg)
 
 ### 6. Reconnect or refit the support pieces for the Front Brake Assembly
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Front Brake Assembly.
+Slide the front brake caliper onto the brake disc and start the caliper bolts by hand.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Tighten the front brake caliper bolts to **25 Nm**.
 
 ![Step 6 - reconnect or refit the support pieces for the front brake assembly](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-as.jpg)
 
 ### 7. Install the retaining hardware for the Front Brake Assembly
 
-Install the main retaining hardware for the Front Brake Assembly by hand first, then tighten it evenly.
-
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the front brake caliper bolts to **25 Nm**.
-
-Tighten the hand brake master cylinder clamp bolts to **3 Nm**.
+Align the front brake line bracket so the hose is not twisted or crushed, then install the bracket screws.
 
 Tighten the fork brake line bracket screws to **3 Nm**.
 
@@ -83,9 +77,9 @@ Tighten the fork brake line bracket screws to **3 Nm**.
 
 ### 8. Verify the completed installation of the Front Brake Assembly
 
-Inspect the final position of the Front Brake Assembly and confirm that all hardware, clips, and surrounding parts are back in place.
+Refit the front number plate and make sure the brake line is routed back into the number plate guides.
 
-Check the component for correct fit and movement before returning the bike to service.
+Inspect the full front brake assembly for correct fit, routing, and lever feel before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front brake assembly](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-assembl.jpg)
 
@@ -93,15 +87,15 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
+| Tighten the hand brake master cylinder clamp bolts | 6 Nm |
 | Tighten the front brake caliper bolts | 25 Nm |
-| Tighten the hand brake master cylinder clamp bolts | 3 Nm |
 | Tighten the fork brake line bracket screws | 3 Nm |
 
 Verified torque items:
 
+- Tighten the hand brake master cylinder clamp bolts: **6 Nm** from Stark technical manual `02.009.01 Remove and install hand brake master cylinder`.
 - Tighten the front brake caliper bolts: **25 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the hand brake master cylinder clamp bolts: **3 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the fork brake line bracket screws: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the fork brake line bracket screws: **3 Nm** from Stark technical manual `02.011.01 Remove and install front brake line bracket`.
 
 ## Critical Checks Before Riding
 

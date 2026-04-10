@@ -53,35 +53,59 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Battery for installation
 
-Return the Battery to its mounting position and align the holes, tabs, or locating surfaces.
+Place the battery on the skid plate and position it firmly on the center of the stand.
 
-Hold the component in place until the first retaining hardware is started.
+With one person holding the battery steady, lift the bike back over the battery.
 
 ![Step 5 - position the battery for installation](assets/screenshots/step_05_position-the-battery-for-installation.jpg)
 
 ### 6. Reconnect or refit the support pieces for the Battery
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Battery.
+Clean and grease the battery shafts, align the battery mounting holes with the frame, and insert the top and bottom shafts.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Tighten the skid plate side bolts to **15 Nm** before the battery is fully secured.
 
 ![Step 6 - reconnect or refit the support pieces for the battery](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-battery.jpg)
 
 ### 7. Install the retaining hardware for the Battery
 
-Install the main retaining hardware for the Battery by hand first, then tighten it evenly.
+Install the battery front mounting bolts and tighten them evenly once the battery is aligned in the frame.
 
-Check that the component remains aligned while the hardware is brought fully home.
+Tighten the battery front mounting bolts to **40 Nm**.
+
+Tighten the battery top shaft nut to **40 Nm**.
+
+Tighten the battery bottom shaft nut to **40 Nm**.
+
+Tighten the skid plate rear bolts to **15 Nm**.
 
 ![Step 7 - install the retaining hardware for the battery](assets/screenshots/step_07_install-the-retaining-hardware-for-the-battery.jpg)
 
 ### 8. Verify the completed installation of the Battery
 
-Inspect the final position of the Battery and confirm that all hardware, clips, and surrounding parts are back in place.
+Reconnect the battery power plug and the CAN BUS plug, then remove the protective covers from both sockets.
 
-Check the component for correct fit and movement before returning the bike to service.
+Reinstall the VCU, spoiler assembly, and front fender as required, then check battery status and normal bike operation before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the battery](assets/screenshots/step_08_verify-the-completed-installation-of-the-battery.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the skid plate side bolts | 15 Nm |
+| Tighten the battery front mounting bolts | 40 Nm |
+| Tighten the battery top shaft nut | 40 Nm |
+| Tighten the battery bottom shaft nut | 40 Nm |
+| Tighten the skid plate rear bolts | 15 Nm |
+
+Verified torque items:
+
+- Tighten the skid plate side bolts: **15 Nm** from Stark technical manual `07.005.01 Remove and install battery`.
+- Tighten the battery front mounting bolts: **40 Nm** from Stark technical manual `07.005.01 Remove and install battery`.
+- Tighten the battery top shaft nut: **40 Nm** from Stark technical manual `07.005.01 Remove and install battery`.
+- Tighten the battery bottom shaft nut: **40 Nm** from Stark technical manual `07.005.01 Remove and install battery`.
+- Tighten the skid plate rear bolts: **15 Nm** from Stark technical manual `07.005.01 Remove and install battery`.
 
 ## Critical Checks Before Riding
 

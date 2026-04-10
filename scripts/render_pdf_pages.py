@@ -17,10 +17,12 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     video_dir = Path(args.video_dir).resolve()
-    manifest = json.loads((video_dir / "manifest.json").read_text(encoding="utf-8"))
+    manifest = json.loads((video_dir / "manifest.json").read_text(encoding="utf-8-sig"))
     pdf_path = video_dir / manifest["pdf_output"]
     render_dir = video_dir / manifest["pdf_render_dir"]
     render_dir.mkdir(parents=True, exist_ok=True)
+    for existing in render_dir.glob("page-*.png"):
+        existing.unlink()
 
     pdf = pdfium.PdfDocument(str(pdf_path))
     for index in range(len(pdf)):

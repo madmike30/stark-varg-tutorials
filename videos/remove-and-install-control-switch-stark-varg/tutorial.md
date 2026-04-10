@@ -53,35 +53,33 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Control Switch for installation
 
-Return the Control Switch to its mounting position and align the holes, tabs, or locating surfaces.
+Route the control switch cable through the triple clamp and return the control switch to its mounting position on the handlebar.
 
-Hold the component in place until the first retaining hardware is started.
+Hold the switch in place and tighten the control switch clamp bolt to **3 Nm**.
 
 ![Step 5 - position the control switch for installation](assets/screenshots/step_05_position-the-control-switch-for-installation.jpg)
 
 ### 6. Reconnect or refit the support pieces for the Control Switch
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Control Switch.
+Reconnect the control switch plugs and clip the connectors back onto the junction box.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Make sure the harness routing is seated correctly before tightening the junction box bolts.
 
 ![Step 6 - reconnect or refit the support pieces for the control switch](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-control-switch.jpg)
 
 ### 7. Install the retaining hardware for the Control Switch
 
-Install the main retaining hardware for the Control Switch by hand first, then tighten it evenly.
+Fit the brake line back into the front number plate brackets and slide the front number plate into the front fender slots.
 
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the control switch bolt to **5 Nm**.
+Confirm the brake line is seated correctly in the guide before the number plate is fully home.
 
 ![Step 7 - install the retaining hardware for the control switch](assets/screenshots/step_07_install-the-retaining-hardware-for-the-control-switch.jpg)
 
 ### 8. Verify the completed installation of the Control Switch
 
-Inspect the final position of the Control Switch and confirm that all hardware, clips, and surrounding parts are back in place.
+Hold the front number plate in place and tighten the front number plate bolt to **8 Nm**.
 
-Check the component for correct fit and movement before returning the bike to service.
+Inspect the final position of the control switch, wiring, brake line routing, and number plate before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the control switch](assets/screenshots/step_08_verify-the-completed-installation-of-the-control-switch.jpg)
 
@@ -89,11 +87,13 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the control switch bolt | 5 Nm |
+| Tighten the control switch clamp bolt | 3 Nm |
+| Tighten the front number plate bolt | 8 Nm |
 
 Verified torque items:
 
-- Tighten the control switch bolt: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the control switch clamp bolt: **3 Nm** from Stark technical manual `06.010.01 Remove and install control switch`.
+- Tighten the front number plate bolt: **8 Nm** from Stark technical manual `01.006.01 Remove and install front number plate`.
 
 ## Critical Checks Before Riding
 

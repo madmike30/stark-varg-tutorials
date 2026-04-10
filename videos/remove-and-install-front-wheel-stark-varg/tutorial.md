@@ -53,37 +53,33 @@ Inspect the removed part and the mounting points before reassembly.
 
 ### 5. Position the Front Wheel for installation
 
-Return the Front Wheel to its mounting position and align the holes, tabs, or locating surfaces.
+Return the Front Wheel to its mounting position, align the fork holes with the wheel hub, and start the axle lock nut by hand.
 
-Hold the component in place until the first retaining hardware is started.
+Hold the wheel in place until the axle and lock nut are seated correctly.
 
 ![Step 5 - position the front wheel for installation](assets/screenshots/step_05_position-the-front-wheel-for-installation.jpg)
 
 ### 6. Reconnect or refit the support pieces for the Front Wheel
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Front Wheel.
+Seat the axle and pre-tighten the right fork axle clamp bolts while the wheel is held in alignment.
 
-Make sure each supporting piece is seated correctly before final tightening.
+Tighten the right fork axle clamp bolts to **5 Nm**.
 
 ![Step 6 - reconnect or refit the support pieces for the front wheel](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-wheel.jpg)
 
 ### 7. Install the retaining hardware for the Front Wheel
 
-Install the main retaining hardware for the Front Wheel by hand first, then tighten it evenly.
-
-Check that the component remains aligned while the hardware is brought fully home.
+Install and tighten the front wheel axle lock bolt once the axle is fully seated.
 
 Tighten the front wheel axle lock bolt to **35 Nm**.
-
-Tighten the front wheel clamp bolts to **15 Nm**.
 
 ![Step 7 - install the retaining hardware for the front wheel](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-wheel.jpg)
 
 ### 8. Verify the completed installation of the Front Wheel
 
-Inspect the final position of the Front Wheel and confirm that all hardware, clips, and surrounding parts are back in place.
+Loosen the right fork axle clamp bolts, spin the wheel by hand a few times, and squeeze the brake to let the fork legs settle naturally.
 
-Check the component for correct fit and movement before returning the bike to service.
+Tighten all fork axle clamp bolts to **15 Nm** and verify the wheel rotates freely before returning the bike to service.
 
 ![Step 8 - verify the completed installation of the front wheel](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-wheel.jpg)
 
@@ -91,13 +87,15 @@ Check the component for correct fit and movement before returning the bike to se
 
 | Component | Torque |
 | --- | ---: |
+| Tighten the right fork axle clamp bolts | 5 Nm |
 | Tighten the front wheel axle lock bolt | 35 Nm |
-| Tighten the front wheel clamp bolts | 15 Nm |
+| Tighten all fork axle clamp bolts | 15 Nm |
 
 Verified torque items:
 
+- Tighten the right fork axle clamp bolts: **5 Nm** from Stark technical manual `09.001.01 Remove and install front wheel`.
 - Tighten the front wheel axle lock bolt: **35 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the front wheel clamp bolts: **15 Nm** from the official Stark VARG owner manual torque table.
+- Tighten all fork axle clamp bolts: **15 Nm** from Stark technical manual `09.001.01 Remove and install front wheel`.
 
 ## Critical Checks Before Riding
 
