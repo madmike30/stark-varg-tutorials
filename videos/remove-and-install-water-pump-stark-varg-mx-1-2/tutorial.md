@@ -53,8 +53,6 @@ Carefully remove the skid plate from the battery.
 
 ![Step 6 - carefully remove the skid plate from the battery](assets/screenshots/step_06_carefully-remove-the-skid-plate-from-the-battery.jpg)
 
-## Installation Procedure
-
 ### 7. Place a container underneath the bike to collect the drained coolant
 
 Place a container underneath the bike to collect the drained coolant.
@@ -124,6 +122,8 @@ Handle the clamps carefully, as they have sharp edges.
 Carefully remove the water pump from the bike.
 
 ![Step 17 - carefully remove the water pump from the bike](assets/screenshots/step_17_carefully-remove-the-water-pump-from-the-bike.jpg)
+
+## Installation Procedure
 
 ### 18. Carefully place the Water pump into its position
 

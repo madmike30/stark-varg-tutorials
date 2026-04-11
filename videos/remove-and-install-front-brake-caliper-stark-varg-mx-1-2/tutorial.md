@@ -87,9 +87,9 @@ Fit the wrench onto the bleed screw to open and close it before attaching the ho
 
 ![Step 11 - fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid](assets/screenshots/step_11_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef.jpg)
 
-### 12. Bleed the braking system by adding brake fluid to the reservoir. 05.06 Pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever
+### 12. Bleed the front brake system by pumping the lever and opening and closing the caliper bleed screw
 
-Bleed the braking system by adding brake fluid to the reservoir. 05.06 Pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever.
+Bleed the front brake system by adding brake fluid to the reservoir, then pump the brake lever several times and, while holding it in, open and close the front caliper bleed screw before releasing the lever.
 
 ![Step 12 - bleed the braking system by adding brake fluid to the reservoir. 05.06 pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever](assets/screenshots/step_12_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv.jpg)
 

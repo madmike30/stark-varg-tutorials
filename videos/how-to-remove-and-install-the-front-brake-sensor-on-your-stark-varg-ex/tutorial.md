@@ -19,41 +19,41 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Remove the fasteners or panels that block access to the Front Brake Sensor
 
-Remove the visible bolts, screws, or trim pieces that must come off before the Front Brake Sensor can be reached.
+Move the front mask or access panel aside as needed to expose the front-brake-sensor connector and handlebar routing.
 
-Keep the hardware in removal order so the covers and brackets return to the same locations during assembly.
+Keep the removed hardware organized in sequence so the same covers and brackets can be returned during assembly.
 
 ![Step 1 - remove the fasteners or panels that block access to the front brake sensor](assets/screenshots/step_01_remove-the-fasteners-or-panels-that-block-access-to-the-fron.jpg)
 
 ### 2. Release the clips and routing points for the Front Brake Sensor
 
-Free any clips, retainers, grommets, or brackets that hold the Front Brake Sensor or its wiring in place.
+Release the front-brake-sensor lead from the clips and guides beneath the docking-station area and along the handlebar.
 
-Document the original routing so the cable or harness can be returned to the same path during installation.
+Document the original routing so the same path and slack are restored during installation.
 
 ![Step 2 - release the clips and routing points for the front brake sensor](assets/screenshots/step_02_release-the-clips-and-routing-points-for-the-front-brake-sen.jpg)
 
 ### 3. Disconnect the Front Brake Sensor
 
-Separate the connector or electrical coupling for the Front Brake Sensor exactly as shown in the video.
+Disconnect the front-brake-sensor connector once the harness slack is exposed.
 
-Avoid pulling on the wire itself while releasing the connector lock.
+Release the connector lock first and avoid pulling on the wire itself.
 
 ![Step 3 - disconnect the front brake sensor](assets/screenshots/step_03_disconnect-the-front-brake-sensor.jpg)
 
 ### 4. Remove the retaining hardware for the Front Brake Sensor
 
-Remove the bolts, screws, clips, or nuts that directly secure the Front Brake Sensor to the bike.
+Free the remaining retainer or clip that secures the sensor lead at the front-brake master-cylinder area.
 
-Support the component as the last fastener is removed so it does not hang on the wiring.
+Support the component as the last fastener is removed so it does not drop or hang on the wiring.
 
 ![Step 4 - remove the retaining hardware for the front brake sensor](assets/screenshots/step_04_remove-the-retaining-hardware-for-the-front-brake-sensor.jpg)
 
 ### 5. Remove the Front Brake Sensor from the bike
 
-Remove the Front Brake Sensor from the bike once the connector, routing clips, and mounting hardware are free.
+Remove the front-brake sensor from the front-brake lever assembly and withdraw the lead cleanly.
 
-Keep any washers, spacers, sleeves, or rubber mounts with the component for reassembly.
+Keep any washers, spacers, sleeves, or rubber mounts with the removed component for reassembly.
 
 ![Step 5 - remove the front brake sensor from the bike](assets/screenshots/step_05_remove-the-front-brake-sensor-from-the-bike.jpg)
 
@@ -61,7 +61,7 @@ Keep any washers, spacers, sleeves, or rubber mounts with the component for reas
 
 ### 6. Position the Front Brake Sensor for installation
 
-Set the Front Brake Sensor back into its mounting position and align it with the original locating points.
+Position the front-brake sensor back at the front-brake lever assembly and route the lead toward the original connector path.
 
 Confirm that no cable is trapped behind the component before the fasteners are started.
 
@@ -69,15 +69,15 @@ Confirm that no cable is trapped behind the component before the fasteners are s
 
 ### 7. Reconnect the Front Brake Sensor and route the wiring correctly
 
-Reconnect the Front Brake Sensor connector and return the harness to the same clips, guides, and brackets used before removal.
+Reconnect the front-brake-sensor lead and return it to the original clips and guides under the access panel and along the handlebar.
 
-Check that the wiring has enough slack for steering or suspension movement where applicable.
+Check that the wiring has enough slack for steering, suspension, and normal component movement.
 
 ![Step 7 - reconnect the front brake sensor and route the wiring correctly](assets/screenshots/step_07_reconnect-the-front-brake-sensor-and-route-the-wiring-correc.jpg)
 
 ### 8. Install the retaining hardware for the Front Brake Sensor
 
-Install the mounting hardware for the Front Brake Sensor by hand first, then seat the part evenly against its mount.
+Install the remaining retainer or clip for the sensor lead and confirm the lead sits flush in its guides.
 
 Reinstall any removed clips, covers, or brackets after the main hardware is secure.
 
@@ -85,7 +85,7 @@ Reinstall any removed clips, covers, or brackets after the main hardware is secu
 
 ### 9. Verify the operation of the Front Brake Sensor
 
-Check that the Front Brake Sensor is aligned correctly and confirm it operates as shown in the video.
+Verify the front-brake sensor is seated correctly and that the brake-light function responds as expected.
 
 Inspect the surrounding routing and hardware one more time before returning the bike to service.
 

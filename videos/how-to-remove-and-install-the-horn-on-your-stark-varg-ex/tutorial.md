@@ -19,41 +19,41 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Remove the fasteners or panels that block access to the Horn
 
-Remove the visible bolts, screws, or trim pieces that must come off before the Horn can be reached.
+Remove the front-mask or side-access hardware needed to expose the horn bracket and horn wiring behind the left fork area.
 
-Keep the hardware in removal order so the covers and brackets return to the same locations during assembly.
+Keep the removed hardware organized in sequence so the same covers and brackets can be returned during assembly.
 
 ![Step 1 - remove the fasteners or panels that block access to the horn](assets/screenshots/step_01_remove-the-fasteners-or-panels-that-block-access-to-the-horn.jpg)
 
 ### 2. Release the clips and routing points for the Horn
 
-Free any clips, retainers, grommets, or brackets that hold the Horn or its wiring in place.
+Remove the upper front-mask fastener that opens access to the horn bracket area.
 
-Document the original routing so the cable or harness can be returned to the same path during installation.
+Document the original routing so the same path and slack are restored during installation.
 
 ![Step 2 - release the clips and routing points for the horn](assets/screenshots/step_02_release-the-clips-and-routing-points-for-the-horn.jpg)
 
 ### 3. Disconnect the Horn
 
-Separate the connector or electrical coupling for the Horn exactly as shown in the video.
+Remove the side fastener that frees the front-mask access area so the horn lead and bracket can be reached.
 
-Avoid pulling on the wire itself while releasing the connector lock.
+Release the connector lock first and avoid pulling on the wire itself.
 
 ![Step 3 - disconnect the horn](assets/screenshots/step_03_disconnect-the-horn.jpg)
 
 ### 4. Remove the retaining hardware for the Horn
 
-Remove the bolts, screws, clips, or nuts that directly secure the Horn to the bike.
+Remove the horn mounting fastener from the bracket while supporting the horn body.
 
-Support the component as the last fastener is removed so it does not hang on the wiring.
+Support the component as the last fastener is removed so it does not drop or hang on the wiring.
 
 ![Step 4 - remove the retaining hardware for the horn](assets/screenshots/step_04_remove-the-retaining-hardware-for-the-horn.jpg)
 
 ### 5. Remove the Horn from the bike
 
-Remove the Horn from the bike once the connector, routing clips, and mounting hardware are free.
+Remove the horn from the bike once the lead and mounting fastener are free.
 
-Keep any washers, spacers, sleeves, or rubber mounts with the component for reassembly.
+Keep any washers, spacers, sleeves, or rubber mounts with the removed component for reassembly.
 
 ![Step 5 - remove the horn from the bike](assets/screenshots/step_05_remove-the-horn-from-the-bike.jpg)
 
@@ -61,7 +61,7 @@ Keep any washers, spacers, sleeves, or rubber mounts with the component for reas
 
 ### 6. Position the Horn for installation
 
-Set the Horn back into its mounting position and align it with the original locating points.
+Position the horn back onto its bracket in the same orientation used before removal.
 
 Confirm that no cable is trapped behind the component before the fasteners are started.
 
@@ -69,15 +69,15 @@ Confirm that no cable is trapped behind the component before the fasteners are s
 
 ### 7. Reconnect the Horn and route the wiring correctly
 
-Reconnect the Horn connector and return the harness to the same clips, guides, and brackets used before removal.
+Reconnect the horn lead and return it to the original clips and guides behind the front assembly.
 
-Check that the wiring has enough slack for steering or suspension movement where applicable.
+Check that the wiring has enough slack for steering, suspension, and normal component movement.
 
 ![Step 7 - reconnect the horn and route the wiring correctly](assets/screenshots/step_07_reconnect-the-horn-and-route-the-wiring-correctly.jpg)
 
 ### 8. Install the retaining hardware for the Horn
 
-Install the mounting hardware for the Horn by hand first, then seat the part evenly against its mount.
+Install the horn mounting fastener and then refit any front-mask or access hardware removed for access.
 
 Reinstall any removed clips, covers, or brackets after the main hardware is secure.
 
@@ -85,7 +85,7 @@ Reinstall any removed clips, covers, or brackets after the main hardware is secu
 
 ### 9. Verify the operation of the Horn
 
-Check that the Horn is aligned correctly and confirm it operates as shown in the video.
+Verify the horn is secure on its bracket and operates correctly.
 
 Inspect the surrounding routing and hardware one more time before returning the bike to service.
 

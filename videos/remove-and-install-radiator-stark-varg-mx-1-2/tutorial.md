@@ -53,8 +53,6 @@ Carefully remove the skid plate from the battery.
 
 ![Step 6 - carefully remove the skid plate from the battery](assets/screenshots/step_06_carefully-remove-the-skid-plate-from-the-battery.jpg)
 
-## Installation Procedure
-
 ### 7. Place a container underneath the bike to collect the drained coolant
 
 Place a container underneath the bike to collect the drained coolant.
@@ -130,6 +128,8 @@ Remove the bolts securing the radiator to the subframe.
 Carefully remove the radiator assembly from the bike.
 
 ![Step 18 - carefully remove the radiator assembly from the bike](assets/screenshots/step_18_carefully-remove-the-radiator-assembly-from-the-bike.jpg)
+
+## Installation Procedure
 
 ### 19. Carefully place the radiator into its position
 

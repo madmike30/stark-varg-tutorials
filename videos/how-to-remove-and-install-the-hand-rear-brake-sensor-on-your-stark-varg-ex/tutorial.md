@@ -19,41 +19,41 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Remove the fasteners or panels that block access to the Hand Rear Brake Sensor
 
-Remove the visible bolts, screws, or trim pieces that must come off before the Hand Rear Brake Sensor can be reached.
+Move the front mask or access panel aside as needed to expose the hand-rear-brake-sensor connector and lever-area routing.
 
-Keep the hardware in removal order so the covers and brackets return to the same locations during assembly.
+Keep the removed hardware organized in sequence so the same covers and brackets can be returned during assembly.
 
 ![Step 1 - remove the fasteners or panels that block access to the hand rear brake sensor](assets/screenshots/step_01_remove-the-fasteners-or-panels-that-block-access-to-the-hand.jpg)
 
 ### 2. Release the clips and routing points for the Hand Rear Brake Sensor
 
-Free any clips, retainers, grommets, or brackets that hold the Hand Rear Brake Sensor or its wiring in place.
+Move the front access area into a service position so the sensor lead and connector block can be reached cleanly.
 
-Document the original routing so the cable or harness can be returned to the same path during installation.
+Document the original routing so the same path and slack are restored during installation.
 
 ![Step 2 - release the clips and routing points for the hand rear brake sensor](assets/screenshots/step_02_release-the-clips-and-routing-points-for-the-hand-rear-brake.jpg)
 
 ### 3. Disconnect the Hand Rear Brake Sensor
 
-Separate the connector or electrical coupling for the Hand Rear Brake Sensor exactly as shown in the video.
+Continue exposing the connector block and free enough lead slack to unplug the sensor without straining the wiring.
 
-Avoid pulling on the wire itself while releasing the connector lock.
+Release the connector lock first and avoid pulling on the wire itself.
 
 ![Step 3 - disconnect the hand rear brake sensor](assets/screenshots/step_03_disconnect-the-hand-rear-brake-sensor.jpg)
 
 ### 4. Remove the retaining hardware for the Hand Rear Brake Sensor
 
-Remove the bolts, screws, clips, or nuts that directly secure the Hand Rear Brake Sensor to the bike.
+Free the remaining retainer or clip that secures the sensor lead at the rear-hand-brake master-cylinder assembly.
 
-Support the component as the last fastener is removed so it does not hang on the wiring.
+Support the component as the last fastener is removed so it does not drop or hang on the wiring.
 
 ![Step 4 - remove the retaining hardware for the hand rear brake sensor](assets/screenshots/step_04_remove-the-retaining-hardware-for-the-hand-rear-brake-sensor.jpg)
 
 ### 5. Remove the Hand Rear Brake Sensor from the bike
 
-Remove the Hand Rear Brake Sensor from the bike once the connector, routing clips, and mounting hardware are free.
+Remove the hand-rear-brake sensor from the lever assembly and withdraw the lead cleanly.
 
-Keep any washers, spacers, sleeves, or rubber mounts with the component for reassembly.
+Keep any washers, spacers, sleeves, or rubber mounts with the removed component for reassembly.
 
 ![Step 5 - remove the hand rear brake sensor from the bike](assets/screenshots/step_05_remove-the-hand-rear-brake-sensor-from-the-bike.jpg)
 
@@ -61,7 +61,7 @@ Keep any washers, spacers, sleeves, or rubber mounts with the component for reas
 
 ### 6. Position the Hand Rear Brake Sensor for installation
 
-Set the Hand Rear Brake Sensor back into its mounting position and align it with the original locating points.
+Position the hand-rear-brake sensor back at the lever assembly and route the lead toward the original connector path.
 
 Confirm that no cable is trapped behind the component before the fasteners are started.
 
@@ -69,15 +69,15 @@ Confirm that no cable is trapped behind the component before the fasteners are s
 
 ### 7. Reconnect the Hand Rear Brake Sensor and route the wiring correctly
 
-Reconnect the Hand Rear Brake Sensor connector and return the harness to the same clips, guides, and brackets used before removal.
+Reconnect the hand-rear-brake-sensor lead and return it to the original clips and guides under the access panel and around the handlebar area.
 
-Check that the wiring has enough slack for steering or suspension movement where applicable.
+Check that the wiring has enough slack for steering, suspension, and normal component movement.
 
 ![Step 7 - reconnect the hand rear brake sensor and route the wiring correctly](assets/screenshots/step_07_reconnect-the-hand-rear-brake-sensor-and-route-the-wiring-co.jpg)
 
 ### 8. Install the retaining hardware for the Hand Rear Brake Sensor
 
-Install the mounting hardware for the Hand Rear Brake Sensor by hand first, then seat the part evenly against its mount.
+Install the remaining retainer or clip for the sensor lead and refit any access hardware removed to reach the connector.
 
 Reinstall any removed clips, covers, or brackets after the main hardware is secure.
 
@@ -85,7 +85,7 @@ Reinstall any removed clips, covers, or brackets after the main hardware is secu
 
 ### 9. Verify the operation of the Hand Rear Brake Sensor
 
-Check that the Hand Rear Brake Sensor is aligned correctly and confirm it operates as shown in the video.
+Verify the hand-rear-brake sensor is seated correctly and that the brake-light function responds as expected.
 
 Inspect the surrounding routing and hardware one more time before returning the bike to service.
 

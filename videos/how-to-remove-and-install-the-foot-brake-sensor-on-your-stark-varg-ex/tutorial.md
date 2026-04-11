@@ -19,41 +19,41 @@ This guide follows the same step-by-step workshop structure as the MX tutorials,
 
 ### 1. Remove the fasteners or panels that block access to the Foot Brake Sensor
 
-Remove the visible bolts, screws, or trim pieces that must come off before the Foot Brake Sensor can be reached.
+Remove the rear-fender or side-access hardware needed to expose the foot-brake-sensor lead on the right side of the bike.
 
-Keep the hardware in removal order so the covers and brackets return to the same locations during assembly.
+Keep the removed hardware organized in sequence so the same covers and brackets can be returned during assembly.
 
 ![Step 1 - remove the fasteners or panels that block access to the foot brake sensor](assets/screenshots/step_01_remove-the-fasteners-or-panels-that-block-access-to-the-foot.jpg)
 
 ### 2. Release the clips and routing points for the Foot Brake Sensor
 
-Free any clips, retainers, grommets, or brackets that hold the Foot Brake Sensor or its wiring in place.
+Open the right-side access area and expose the foot-brake-sensor lead around the rear-brake-master-cylinder region.
 
-Document the original routing so the cable or harness can be returned to the same path during installation.
+Document the original routing so the same path and slack are restored during installation.
 
 ![Step 2 - release the clips and routing points for the foot brake sensor](assets/screenshots/step_02_release-the-clips-and-routing-points-for-the-foot-brake-sens.jpg)
 
 ### 3. Disconnect the Foot Brake Sensor
 
-Separate the connector or electrical coupling for the Foot Brake Sensor exactly as shown in the video.
+Disconnect the foot-brake-sensor lead once the connector is exposed near the right-side frame area.
 
-Avoid pulling on the wire itself while releasing the connector lock.
+Release the connector lock first and avoid pulling on the wire itself.
 
 ![Step 3 - disconnect the foot brake sensor](assets/screenshots/step_03_disconnect-the-foot-brake-sensor.jpg)
 
 ### 4. Remove the retaining hardware for the Foot Brake Sensor
 
-Remove the bolts, screws, clips, or nuts that directly secure the Foot Brake Sensor to the bike.
+Remove the remaining fastener or retainer that secures the foot-brake sensor at its mounting point.
 
-Support the component as the last fastener is removed so it does not hang on the wiring.
+Support the component as the last fastener is removed so it does not drop or hang on the wiring.
 
 ![Step 4 - remove the retaining hardware for the foot brake sensor](assets/screenshots/step_04_remove-the-retaining-hardware-for-the-foot-brake-sensor.jpg)
 
 ### 5. Remove the Foot Brake Sensor from the bike
 
-Remove the Foot Brake Sensor from the bike once the connector, routing clips, and mounting hardware are free.
+Remove the foot-brake sensor from the bike and pull the lead free along the original routing path.
 
-Keep any washers, spacers, sleeves, or rubber mounts with the component for reassembly.
+Keep any washers, spacers, sleeves, or rubber mounts with the removed component for reassembly.
 
 ![Step 5 - remove the foot brake sensor from the bike](assets/screenshots/step_05_remove-the-foot-brake-sensor-from-the-bike.jpg)
 
@@ -61,7 +61,7 @@ Keep any washers, spacers, sleeves, or rubber mounts with the component for reas
 
 ### 6. Position the Foot Brake Sensor for installation
 
-Set the Foot Brake Sensor back into its mounting position and align it with the original locating points.
+Position the foot-brake sensor at its mounting point and route the lead back through the original path on the right side of the bike.
 
 Confirm that no cable is trapped behind the component before the fasteners are started.
 
@@ -69,15 +69,15 @@ Confirm that no cable is trapped behind the component before the fasteners are s
 
 ### 7. Reconnect the Foot Brake Sensor and route the wiring correctly
 
-Reconnect the Foot Brake Sensor connector and return the harness to the same clips, guides, and brackets used before removal.
+Reconnect the foot-brake-sensor lead and return it to the original clips and guides along the frame.
 
-Check that the wiring has enough slack for steering or suspension movement where applicable.
+Check that the wiring is clear of the chain, shock, brake pedal, and suspension travel before closing the access area.
 
 ![Step 7 - reconnect the foot brake sensor and route the wiring correctly](assets/screenshots/step_07_reconnect-the-foot-brake-sensor-and-route-the-wiring-correct.jpg)
 
 ### 8. Install the retaining hardware for the Foot Brake Sensor
 
-Install the mounting hardware for the Foot Brake Sensor by hand first, then seat the part evenly against its mount.
+Install the remaining sensor retainer or fastener and refit any access hardware removed to reach the connector.
 
 Reinstall any removed clips, covers, or brackets after the main hardware is secure.
 
@@ -85,7 +85,7 @@ Reinstall any removed clips, covers, or brackets after the main hardware is secu
 
 ### 9. Verify the operation of the Foot Brake Sensor
 
-Check that the Foot Brake Sensor is aligned correctly and confirm it operates as shown in the video.
+Verify the foot-brake sensor is secure and that the brake-light function responds correctly.
 
 Inspect the surrounding routing and hardware one more time before returning the bike to service.
 

@@ -37,8 +37,6 @@ Carefully remove and dispose the copper washer.
 
 ![Step 3 - unscrew the oil drain plug](assets/screenshots/step_03_unscrew-the-oil-drain-plug.jpg)
 
-## Installation Procedure
-
 ### 4. Place a container underneath to collect the used oil
 
 Place a container underneath to collect the used oil.
@@ -158,6 +156,8 @@ Using a pin punch, carefully remove the roller bearing from the motor case.
 Thoroughly clean all housing surfaces.
 
 ![Step 22 - thoroughly clean all housing surfaces](assets/screenshots/step_22_thoroughly-clean-all-housing-surfaces.jpg)
+
+## Installation Procedure
 
 ### 23. Using a pin punch, carefully install the roller bearing into its correct position
 
