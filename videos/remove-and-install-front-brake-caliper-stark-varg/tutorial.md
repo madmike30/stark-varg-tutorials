@@ -6,84 +6,54 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Front Brake Caliper
+### 1. Unscrew front brake caliper bolts
 
-Remove the surrounding parts needed to expose the Front Brake Caliper and its routing or mounting points.
+Unscrew front brake caliper bolts.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - unscrew front brake caliper bolts](assets/screenshots/step_01_unscrew-front-brake-caliper-bolts.jpg)
 
-![Step 1 - prepare access to the front brake caliper](assets/screenshots/step_01_prepare-access-to-the-front-brake-caliper.jpg)
+### 2. Remove front brake caliper
 
-### 2. Remove the visible retaining hardware for the Front Brake Caliper
+Remove front brake caliper.
 
-Remove the visible Front Brake Caliper fasteners while supporting the brake component as the hardware comes free.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the front brake caliper](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-front-brake-ca.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Front Brake Caliper
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Front Brake Caliper to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the front brake caliper](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b.jpg)
-
-### 4. Remove the Front Brake Caliper from the bike
-
-Remove the Front Brake Caliper from the bike once the last fastener and any routed support pieces are released.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the front brake caliper from the bike](assets/screenshots/step_04_remove-the-front-brake-caliper-from-the-bike.jpg)
+![Step 2 - remove front brake caliper](assets/screenshots/step_02_remove-front-brake-caliper.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Front Brake Caliper for installation
+### 3. Clean the front brake caliper bolts and apply medium strength thread locker
 
-Return the Front Brake Caliper to its mounting position and align the holes, tabs, or locating surfaces.
+Clean the front brake caliper bolts and apply medium strength thread locker.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 3 - clean the front brake caliper bolts and apply medium strength thread locker](assets/screenshots/step_03_clean-the-front-brake-caliper-bolts-and-apply-medium-strength-thread-loc.jpg)
 
-![Step 5 - position the front brake caliper for installation](assets/screenshots/step_05_position-the-front-brake-caliper-for-installation.jpg)
+### 4. Slide the brake caliper onto the front brake disc
 
-### 6. Reconnect or refit the support pieces for the Front Brake Caliper
+Slide the brake caliper onto the front brake disc.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Front Brake Caliper.
+![Step 4 - slide the brake caliper onto the front brake disc](assets/screenshots/step_04_slide-the-brake-caliper-onto-the-front-brake-disc.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 5. Tighten the front brake caliper bolts by hand until it holds in place
 
-![Step 6 - reconnect or refit the support pieces for the front brake caliper](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-ca.jpg)
+Tighten the front brake caliper bolts by hand until it holds in place.
 
-### 7. Install the retaining hardware for the Front Brake Caliper
+![Step 5 - tighten the front brake caliper bolts by hand until it holds in place](assets/screenshots/step_05_tighten-the-front-brake-caliper-bolts-by-hand-until-it-holds-in-place.jpg)
 
-Install the Front Brake Caliper retaining hardware by hand first and keep the brake component aligned during tightening.
+### 6. Tighten the front brake caliper bolts to 25 Nm
 
-Check that the component remains aligned while the hardware is brought fully home.
+Tighten the front brake caliper bolts to 25 Nm. Check brake operation before operating the bike. is permitted only with the express written permission.
 
-Tighten the front brake caliper bolts to **25 Nm**.
-
-![Step 7 - install the retaining hardware for the front brake caliper](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-brake-caliper.jpg)
-
-### 8. Verify the completed installation of the Front Brake Caliper
-
-Inspect the final position of the Front Brake Caliper and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the front brake caliper](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-caliper.jpg)
+![Step 6 - tighten the front brake caliper bolts to 25 Nm](assets/screenshots/step_06_tighten-the-front-brake-caliper-bolts-to-25-nm.jpg)
 
 ## Torque Summary
 
@@ -93,11 +63,11 @@ Check the component for correct fit and movement before returning the bike to se
 
 Verified torque items:
 
-- Tighten the front brake caliper bolts: **25 Nm** from Stark technical manual `02.005.01 Remove and install front brake caliper`.
+- Tighten the front brake caliper bolts: **25 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

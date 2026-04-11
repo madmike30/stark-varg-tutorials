@@ -19,32 +19,48 @@
   ],
   "frames": [
     {
-      "timestamp": 65,
-      "name": "step_01_inspect-the-shipping-package"
-    },
-    {
-      "timestamp": 129,
-      "name": "step_02_remove-the-outer-packaging"
+      "timestamp": 156,
+      "name": "step_01_tighten-the-do-following-koved-to-4-engr"
     },
     {
       "timestamp": 193,
-      "name": "step_03_release-the-crate-fasteners-and-supports"
+      "name": "step_02_tighten-the-front-a-bf-bolts"
     },
     {
-      "timestamp": 257,
-      "name": "step_04_remove-the-bike-from-the-crate"
+      "timestamp": 194,
+      "name": "step_03_tighten-the-front-commectof-bf-bolts"
     },
     {
-      "timestamp": 321,
-      "name": "step_05_install-the-supplied-setup-parts"
+      "timestamp": 195,
+      "name": "step_04_tighten-the-front-connect-bpx-bolts"
     },
     {
-      "timestamp": 385,
-      "name": "step_06_secure-the-setup-hardware"
+      "timestamp": 302,
+      "name": "step_05_ensure-to-install-the-charger-with-the-front-lid"
     },
     {
-      "timestamp": 449,
-      "name": "step_07_complete-the-final-setup-inspection"
+      "timestamp": 306,
+      "name": "step_06_charger-with-the-voles"
+    },
+    {
+      "timestamp": 411,
+      "name": "step_07_tighten-the-right-fork-clamp"
+    },
+    {
+      "timestamp": 425,
+      "name": "step_08_loosen-the-right-fork-axle-clamp"
+    },
+    {
+      "timestamp": 435,
+      "name": "step_09_tighten-all-f-2x-on-the-nig"
+    },
+    {
+      "timestamp": 499,
+      "name": "step_10_tighten-a-pin"
+    },
+    {
+      "timestamp": 501,
+      "name": "step_11_tighten-pin"
     }
   ]
 }

@@ -19,36 +19,96 @@
   ],
   "frames": [
     {
-      "timestamp": 28,
-      "name": "step_01_prepare-access-to-the-vcu"
+      "timestamp": 6,
+      "name": "step_01_disconnect-the-handlebar-controls"
     },
     {
-      "timestamp": 55,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-vcu"
+      "timestamp": 7,
+      "name": "step_02_remove-the-front-fender"
     },
     {
-      "timestamp": 82,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-vcu"
+      "timestamp": 12,
+      "name": "step_03_remove-the-carbon-fiber-spoiler-assembly"
     },
     {
-      "timestamp": 109,
-      "name": "step_04_remove-the-vcu-from-the-bike"
+      "timestamp": 12,
+      "name": "step_04_disconnect-the-can-bus-connector"
     },
     {
-      "timestamp": 136,
-      "name": "step_05_position-the-vcu-for-installation"
+      "timestamp": 57,
+      "name": "step_05_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery"
     },
     {
-      "timestamp": 163,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-vcu"
+      "timestamp": 61,
+      "name": "step_06_disconnect-the-battery-power-plug"
     },
     {
-      "timestamp": 190,
-      "name": "step_07_install-the-retaining-hardware-for-the-vcu"
+      "timestamp": 64,
+      "name": "step_07_install-the-protective-cover-onto-the-power-socket-on-the-battery"
     },
     {
-      "timestamp": 217,
-      "name": "step_08_verify-the-completed-installation-of-the-vcu"
+      "timestamp": 64,
+      "name": "step_08_disconnect-the-main-wiring-harness-vcu-socket"
+    },
+    {
+      "timestamp": 74,
+      "name": "step_09_untighten-the-vcu-side-bolts"
+    },
+    {
+      "timestamp": 81,
+      "name": "step_10_untighten-the-vcu-upper-bolt"
+    },
+    {
+      "timestamp": 87,
+      "name": "step_11_remove-vcu"
+    },
+    {
+      "timestamp": 87,
+      "name": "step_12_hold-the-vcu-in-place"
+    },
+    {
+      "timestamp": 92,
+      "name": "step_13_tighten-the-vcu-top-bolt-by-hand-until-vcu-is-secured-in-place"
+    },
+    {
+      "timestamp": 100,
+      "name": "step_14_tighten-the-vcu-side-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 106,
+      "name": "step_15_tighten-the-vcu-top-bolt-to-5-nm"
+    },
+    {
+      "timestamp": 107,
+      "name": "step_16_connect-the-vcu-socket"
+    },
+    {
+      "timestamp": 107,
+      "name": "step_17_remove-the-protective-cover-onto-the-power-socket-on-the-battery"
+    },
+    {
+      "timestamp": 134,
+      "name": "step_18_connect-the-battery-power-plug"
+    },
+    {
+      "timestamp": 141,
+      "name": "step_19_remove-the-protective-cover-onto-the-can-bus-socket-on-the-battery"
+    },
+    {
+      "timestamp": 146,
+      "name": "step_20_connect-the-can-bus-connector"
+    },
+    {
+      "timestamp": 146,
+      "name": "step_21_install-the-carbon-fiber-spoiler-assembly"
+    },
+    {
+      "timestamp": 149,
+      "name": "step_22_install-the-front-fender"
+    },
+    {
+      "timestamp": 169,
+      "name": "step_23_disconnect-the-handlebar-controls-2"
     }
   ]
 }

@@ -6,98 +6,122 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Rear Wheel
+### 1. Loosen rear axle lock bolt
 
-Remove the surrounding hardware needed to expose the Rear Wheel and its clamping or axle points.
+Loosen rear axle lock bolt.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - loosen rear axle lock bolt](assets/screenshots/step_01_loosen-rear-axle-lock-bolt.jpg)
 
-![Step 1 - prepare access to the rear wheel](assets/screenshots/step_01_prepare-access-to-the-rear-wheel.jpg)
+### 2. Push the lock bolt to be able to pull from the opposite side
 
-### 2. Remove the visible retaining hardware for the Rear Wheel
+Push the lock bolt to be able to pull from the opposite side.
 
-Remove the visible Rear Wheel fasteners in the order shown and support the part as it comes free.
+![Step 2 - push the lock bolt to be able to pull from the opposite side](assets/screenshots/step_02_push-the-lock-bolt-to-be-able-to-pull-from-the-opposite-side.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the lock bolt and chain tension adjuster
 
-![Step 2 - remove the visible retaining hardware for the rear wheel](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-rear-wheel.jpg)
+Remove the lock bolt and chain tension adjuster.
 
-### 3. Release any bracket, clip, or coupling attached to the Rear Wheel
+![Step 3 - remove the lock bolt and chain tension adjuster](assets/screenshots/step_03_remove-the-lock-bolt-and-chain-tension-adjuster.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Rear Wheel to the bike.
+### 4. Remove axle
 
-Note the orientation of these supporting pieces before setting them aside.
+Remove axle.
 
-![Step 3 - release any bracket, clip, or coupling attached to the rear wheel](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-wh.jpg)
+![Step 4 - remove axle](assets/screenshots/step_04_remove-axle.jpg)
 
-### 4. Remove the Rear Wheel from the bike
+### 5. Release chain from the rear sprocket
 
-Slide the Rear Wheel free from the bike once the clamping hardware and support pieces are released.
+Release chain from the rear sprocket.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - release chain from the rear sprocket](assets/screenshots/step_05_release-chain-from-the-rear-sprocket.jpg)
 
-![Step 4 - remove the rear wheel from the bike](assets/screenshots/step_04_remove-the-rear-wheel-from-the-bike.jpg)
+### 6. Slide the wheel out
+
+Slide the wheel out.
+
+![Step 6 - slide the wheel out](assets/screenshots/step_06_slide-the-wheel-out.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Rear Wheel for installation
+### 7. Clean the wheel axle from any debris and apply lithium grease
 
-Return the Rear Wheel to its mounting position and align the holes, tabs, or locating surfaces.
+Clean the wheel axle from any debris and apply lithium grease.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 7 - clean the wheel axle from any debris and apply lithium grease](assets/screenshots/step_07_clean-the-wheel-axle-from-any-debris-and-apply-lithium-grease.jpg)
 
-![Step 5 - position the rear wheel for installation](assets/screenshots/step_05_position-the-rear-wheel-for-installation.jpg)
+### 8. Slide the wheel in place Ensure the brake disc is on the brake caliper side and slides between the brake pads
 
-### 6. Reconnect or refit the support pieces for the Rear Wheel
+Slide the wheel in place Ensure the brake disc is on the brake caliper side and slides between the brake pads.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Rear Wheel.
+![Step 8 - slide the wheel in place Ensure the brake disc is on the brake caliper side and slides between the brake pads](assets/screenshots/step_08_slide-the-wheel-in-place-ensure-the-brake-disc-is-on-the-brake-caliper-s.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 9. Fit the chain in the rear sprocket Gently wiggle the wheel to make it easier to slide the axle in
 
-![Step 6 - reconnect or refit the support pieces for the rear wheel](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-rear-wheel.jpg)
+Fit the chain in the rear sprocket Gently wiggle the wheel to make it easier to slide the axle in.
 
-### 7. Install the retaining hardware for the Rear Wheel
+![Step 9 - fit the chain in the rear sprocket Gently wiggle the wheel to make it easier to slide the axle in](assets/screenshots/step_09_fit-the-chain-in-the-rear-sprocket-gently-wiggle-the-wheel-to-make-it-ea.jpg)
 
-Install the Rear Wheel retaining hardware by hand first and keep the part aligned as the hardware is tightened.
+### 10. Insert the rear axle
 
-Check that the component remains aligned while the hardware is brought fully home.
+Insert the rear axle.
 
-Tighten the rear wheel axle lock bolt to **80 Nm**.
+![Step 10 - insert the rear axle](assets/screenshots/step_10_insert-the-rear-axle.jpg)
 
-![Step 7 - install the retaining hardware for the rear wheel](assets/screenshots/step_07_install-the-retaining-hardware-for-the-rear-wheel.jpg)
+### 11. Install the chain tension adjuster Be carefull not to catch your hand between the chain and the rear sprocket when procceding with step #6
 
-### 8. Verify the completed installation of the Rear Wheel
+Install the chain tension adjuster Be carefull not to catch your hand between the chain and the rear sprocket when procceding with step #6.
 
-Inspect the final position of the Rear Wheel and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 11 - install the chain tension adjuster Be carefull not to catch your hand between the chain and the rear sprocket when procceding with step #6](assets/screenshots/step_11_install-the-chain-tension-adjuster-be-carefull-not-to-catch-your-hand-be.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 12. Insert a cloth between the chain and rear sprocket and spin the rear wheel backwards until the chain is tensioned
 
-![Step 8 - verify the completed installation of the rear wheel](assets/screenshots/step_08_verify-the-completed-installation-of-the-rear-wheel.jpg)
+Insert a cloth between the chain and rear sprocket and spin the rear wheel backwards until the chain is tensioned.
+
+![Step 12 - insert a cloth between the chain and rear sprocket and spin the rear wheel backwards until the chain is tensioned](assets/screenshots/step_12_insert-a-cloth-between-the-chain-and-rear-sprocket-and-spin-the-rear-whe.jpg)
+
+### 13. Tighten the axle nut to 80 Nm
+
+Tighten the axle nut to 80 Nm.
+
+![Step 13 - tighten the axle nut to 80 Nm](assets/screenshots/step_13_tighten-the-axle-nut-to-80-nm.jpg)
+
+### 14. Remove the cloth
+
+Remove the cloth.
+
+![Step 14 - remove the cloth](assets/screenshots/step_14_remove-the-cloth.jpg)
+
+### 15. Spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike
+
+Spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike. is permitted only with the express written permission.
+
+![Step 15 - spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike](assets/screenshots/step_15_spin-the-wheel-by-hand-a-few-times-and-check-the-brake-operation-check-b.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the rear wheel axle lock bolt | 80 Nm |
+| Tighten the axle nut | 80 Nm |
 
 Verified torque items:
 
-- Tighten the rear wheel axle lock bolt: **80 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the axle nut: **80 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

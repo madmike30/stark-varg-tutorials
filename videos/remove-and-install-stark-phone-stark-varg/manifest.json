@@ -19,36 +19,16 @@
   ],
   "frames": [
     {
-      "timestamp": 6,
-      "name": "step_01_prepare-access-to-the-stark-phone"
+      "timestamp": 9,
+      "name": "step_01_remove-phone"
     },
     {
-      "timestamp": 11,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-stark-phone"
+      "timestamp": 17,
+      "name": "step_02_insert-phone-in-the-docking-station-left-side-first"
     },
     {
-      "timestamp": 10,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-stark-p"
-    },
-    {
-      "timestamp": 21,
-      "name": "step_04_remove-the-stark-phone-from-the-bike"
-    },
-    {
-      "timestamp": 19,
-      "name": "step_05_position-the-stark-phone-for-installation"
-    },
-    {
-      "timestamp": 20,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-stark-phone"
-    },
-    {
-      "timestamp": 21,
-      "name": "step_07_install-the-retaining-hardware-for-the-stark-phone"
-    },
-    {
-      "timestamp": 24,
-      "name": "step_08_verify-the-completed-installation-of-the-stark-phone"
+      "timestamp": 23,
+      "name": "step_03_ensure-the-phone-is-secure-before-operating-the-bike"
     }
   ]
 }

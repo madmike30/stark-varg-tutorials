@@ -19,36 +19,28 @@
   ],
   "frames": [
     {
-      "timestamp": 6,
-      "name": "step_01_prepare-access-to-the-hand-brake-master-cylinder"
+      "timestamp": 7,
+      "name": "step_01_hold-the-master-cylinder-and-unscrew-bolts"
     },
     {
-      "timestamp": 11,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-hand-brake-mas"
+      "timestamp": 8,
+      "name": "step_02_remove-master-cylinder-clamp"
     },
     {
-      "timestamp": 16,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-hand-br"
+      "timestamp": 14,
+      "name": "step_03_hold-the-master-cylinder-in-place"
     },
     {
-      "timestamp": 21,
-      "name": "step_04_remove-the-hand-brake-master-cylinder-from-the-bike"
+      "timestamp": 25,
+      "name": "step_04_install-clamp"
     },
     {
-      "timestamp": 26,
-      "name": "step_05_position-the-hand-brake-master-cylinder-for-installation"
+      "timestamp": 28,
+      "name": "step_05_tighten-the-bolts-by-hand"
     },
     {
-      "timestamp": 31,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-hand-brake-mas"
-    },
-    {
-      "timestamp": 35,
-      "name": "step_07_install-the-retaining-hardware-for-the-hand-brake-master-cyl"
-    },
-    {
-      "timestamp": 38,
-      "name": "step_08_verify-the-completed-installation-of-the-hand-brake-master-c"
+      "timestamp": 36,
+      "name": "step_06_tighten-the-bolts-to-6-nm"
     }
   ]
 }

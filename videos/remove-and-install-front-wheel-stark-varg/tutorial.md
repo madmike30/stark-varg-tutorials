@@ -6,100 +6,132 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Front Wheel
+### 1. Loosen the fork axle clamp bolts on the left fork
 
-Remove the surrounding hardware needed to expose the Front Wheel and its clamping or axle points.
+Loosen the fork axle clamp bolts on the left fork.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - loosen the fork axle clamp bolts on the left fork](assets/screenshots/step_01_loosen-the-fork-axle-clamp-bolts-on-the-left-fork.jpg)
 
-![Step 1 - prepare access to the front wheel](assets/screenshots/step_01_prepare-access-to-the-front-wheel.jpg)
+### 2. Loosen the front wheel axle bolt
 
-### 2. Remove the visible retaining hardware for the Front Wheel
+Loosen the front wheel axle bolt.
 
-Remove the visible Front Wheel fasteners in the order shown and support the part as it comes free.
+![Step 2 - loosen the front wheel axle bolt](assets/screenshots/step_02_loosen-the-front-wheel-axle-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Loosen the fork axle clamp bolts on the right fork
 
-![Step 2 - remove the visible retaining hardware for the front wheel](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-front-wheel.jpg)
+Loosen the fork axle clamp bolts on the right fork.
 
-### 3. Release any bracket, clip, or coupling attached to the Front Wheel
+![Step 3 - loosen the fork axle clamp bolts on the right fork](assets/screenshots/step_03_loosen-the-fork-axle-clamp-bolts-on-the-right-fork.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Front Wheel to the bike.
+### 4. Unscrew the front axle bolt and push it inside before removing it completely to pop-out the axle on the other side
 
-Note the orientation of these supporting pieces before setting them aside.
+Unscrew the front axle bolt and push it inside before removing it completely to pop-out the axle on the other side.
 
-![Step 3 - release any bracket, clip, or coupling attached to the front wheel](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-w.jpg)
+![Step 4 - unscrew the front axle bolt and push it inside before removing it completely to pop-out the axle on the other side](assets/screenshots/step_04_unscrew-the-front-axle-bolt-and-push-it-inside-before-removing-it-comple.jpg)
 
-### 4. Remove the Front Wheel from the bike
+### 5. Lift the front of the bike until the rear wheel is supported on the floor
 
-Slide the Front Wheel free from the bike once the clamping hardware and support pieces are released.
+Lift the front of the bike until the rear wheel is supported on the floor.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - lift the front of the bike until the rear wheel is supported on the floor](assets/screenshots/step_05_lift-the-front-of-the-bike-until-the-rear-wheel-is-supported-on-the-floo.jpg)
 
-![Step 4 - remove the front wheel from the bike](assets/screenshots/step_04_remove-the-front-wheel-from-the-bike.jpg)
+### 6. Hold the front wheel and remove the axle
+
+Hold the front wheel and remove the axle.
+
+![Step 6 - hold the front wheel and remove the axle](assets/screenshots/step_06_hold-the-front-wheel-and-remove-the-axle.jpg)
+
+### 7. Slide the front wheel out between the forks
+
+Slide the front wheel out between the forks.
+
+![Step 7 - slide the front wheel out between the forks](assets/screenshots/step_07_slide-the-front-wheel-out-between-the-forks.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Front Wheel for installation
+### 8. Clean the wheel axle from any debris and apply lithium grease
 
-Return the Front Wheel to its mounting position, align the fork holes with the wheel hub, and start the axle lock nut by hand.
+Clean the wheel axle from any debris and apply lithium grease.
 
-Hold the wheel in place until the axle and lock nut are seated correctly.
+![Step 8 - clean the wheel axle from any debris and apply lithium grease](assets/screenshots/step_08_clean-the-wheel-axle-from-any-debris-and-apply-lithium-grease.jpg)
 
-![Step 5 - position the front wheel for installation](assets/screenshots/step_05_position-the-front-wheel-for-installation.jpg)
+### 9. Slide the wheel between the forks
 
-### 6. Reconnect or refit the support pieces for the Front Wheel
+Slide the wheel between the forks. Ensure the brake disc is on the brake caliper side and slides between the brake pads.
 
-Seat the axle and pre-tighten the right fork axle clamp bolts while the wheel is held in alignment.
+![Step 9 - slide the wheel between the forks](assets/screenshots/step_09_slide-the-wheel-between-the-forks.jpg)
 
-Tighten the right fork axle clamp bolts to **5 Nm**.
+### 10. Align the fork holes with the wheel hub and push the axle inside from the right fork
 
-![Step 6 - reconnect or refit the support pieces for the front wheel](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-wheel.jpg)
+Align the fork holes with the wheel hub and push the axle inside from the right fork. Gently wiggle the wheel to make it easier to slide the axle in. The weight of the front wheel on the bike may tilt it forward.
 
-### 7. Install the retaining hardware for the Front Wheel
+![Step 10 - align the fork holes with the wheel hub and push the axle inside from the right fork](assets/screenshots/step_10_align-the-fork-holes-with-the-wheel-hub-and-push-the-axle-inside-from-th.jpg)
 
-Install and tighten the front wheel axle lock bolt once the axle is fully seated.
+### 11. Tighten the axle lock bolt by hand until there is no play
 
-Tighten the front wheel axle lock bolt to **35 Nm**.
+Tighten the axle lock bolt by hand until there is no play.
 
-![Step 7 - install the retaining hardware for the front wheel](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-wheel.jpg)
+![Step 11 - tighten the axle lock bolt by hand until there is no play](assets/screenshots/step_11_tighten-the-axle-lock-bolt-by-hand-until-there-is-no-play.jpg)
 
-### 8. Verify the completed installation of the Front Wheel
+### 12. Tighten the right fork axle clamp bolts to 5 Nm
 
-Loosen the right fork axle clamp bolts, spin the wheel by hand a few times, and squeeze the brake to let the fork legs settle naturally.
+Tighten the right fork axle clamp bolts to 5 Nm.
 
-Tighten all fork axle clamp bolts to **15 Nm** and verify the wheel rotates freely before returning the bike to service.
+![Step 12 - tighten the right fork axle clamp bolts to 5 Nm](assets/screenshots/step_12_tighten-the-right-fork-axle-clamp-bolts-to-5-nm.jpg)
 
-![Step 8 - verify the completed installation of the front wheel](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-wheel.jpg)
+### 13. Tighten the axle lock bolt to 35 Nm
+
+Tighten the axle lock bolt to 35 Nm.
+
+![Step 13 - tighten the axle lock bolt to 35 Nm](assets/screenshots/step_13_tighten-the-axle-lock-bolt-to-35-nm.jpg)
+
+### 14. Loosen the right fork axle clamp bolts
+
+Loosen the right fork axle clamp bolts.
+
+![Step 14 - loosen the right fork axle clamp bolts](assets/screenshots/step_14_loosen-the-right-fork-axle-clamp-bolts.jpg)
+
+### 15. Spin the wheel by hand a few times and squeeze the front brake lever
+
+Spin the wheel by hand a few times and squeeze the front brake lever.
+
+![Step 15 - spin the wheel by hand a few times and squeeze the front brake lever](assets/screenshots/step_15_spin-the-wheel-by-hand-a-few-times-and-squeeze-the-front-brake-lever.jpg)
+
+### 16. Tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork
+
+Tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork. Check brakes operation before operating the bike. Reproduction, even in part, as well as copying of all kinds, is permitted only with the express written permission of the copyright owner.
+
+![Step 16 - tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork](assets/screenshots/step_16_tighten-all-fork-axle-clamp-bolts-to-15-nm-2x-on-the-right-fork-and-2x-o.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
 | Tighten the right fork axle clamp bolts | 5 Nm |
-| Tighten the front wheel axle lock bolt | 35 Nm |
-| Tighten all fork axle clamp bolts | 15 Nm |
+| Tighten the axle lock bolt | 35 Nm |
+| Tighten all fork axle clamp bolts, 2x on the right fork and 2x on the left fork | 15 Nm |
 
 Verified torque items:
 
-- Tighten the right fork axle clamp bolts: **5 Nm** from Stark technical manual `09.001.01 Remove and install front wheel`.
-- Tighten the front wheel axle lock bolt: **35 Nm** from the official Stark VARG owner manual torque table.
-- Tighten all fork axle clamp bolts: **15 Nm** from Stark technical manual `09.001.01 Remove and install front wheel`.
+- Tighten the right fork axle clamp bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the axle lock bolt: **35 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten all fork axle clamp bolts, 2x on the right fork and 2x on the left fork: **15 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

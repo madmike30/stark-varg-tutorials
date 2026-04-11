@@ -19,36 +19,92 @@
   ],
   "frames": [
     {
-      "timestamp": 24,
-      "name": "step_01_prepare-access-to-the-forks"
+      "timestamp": 6,
+      "name": "step_01_remove-brake-line-bracket-screws"
     },
     {
-      "timestamp": 47,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-forks"
+      "timestamp": 23,
+      "name": "step_02_loosen-fork-clamp-bolts-on-the-left-fork"
     },
     {
-      "timestamp": 70,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-forks"
+      "timestamp": 38,
+      "name": "step_03_push-the-axi-lock-nut-inside"
     },
     {
-      "timestamp": 93,
-      "name": "step_04_remove-the-forks-from-the-bike"
+      "timestamp": 40,
+      "name": "step_04_remove-axle-lock-nut"
     },
     {
-      "timestamp": 116,
-      "name": "step_05_position-the-forks-for-installation"
+      "timestamp": 44,
+      "name": "step_05_hold-the-whect-and-remove-tre-ale"
     },
     {
-      "timestamp": 139,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-forks"
+      "timestamp": 45,
+      "name": "step_06_hold-the-wheel-and-remove-tee-axle-shee-the-whed-out-betecnn-the-fork"
     },
     {
-      "timestamp": 166,
-      "name": "step_07_install-the-retaining-hardware-for-the-forks"
+      "timestamp": 50,
+      "name": "step_07_loosen-the-tripie-clamp-fork-bolts"
     },
     {
-      "timestamp": 185,
-      "name": "step_08_verify-the-completed-installation-of-the-forks"
+      "timestamp": 62,
+      "name": "step_08_hold-the-fork-while-loosening-the-last-bett"
+    },
+    {
+      "timestamp": 86,
+      "name": "step_09_tighten-clamp-bolts"
+    },
+    {
+      "timestamp": 90,
+      "name": "step_10_ensure-the-fork-hold-in-place-before-refeasing"
+    },
+    {
+      "timestamp": 94,
+      "name": "step_11_tighten-tuple-clamp-bolts-to-value-engraved-on-the-part"
+    },
+    {
+      "timestamp": 115,
+      "name": "step_12_pushing-the-axle-inside"
+    },
+    {
+      "timestamp": 122,
+      "name": "step_13_tighten-axle-lock-nut"
+    },
+    {
+      "timestamp": 127,
+      "name": "step_14_tighten-nght-fork-clamp-bolts"
+    },
+    {
+      "timestamp": 152,
+      "name": "step_15_tighten-bolts-to-25"
+    },
+    {
+      "timestamp": 161,
+      "name": "step_16_loosen-nght-fork-clamp-bolts"
+    },
+    {
+      "timestamp": 172,
+      "name": "step_17_tighten-all-fork-clamp-bolts-to-15-nm"
+    },
+    {
+      "timestamp": 188,
+      "name": "step_18_install-the-bracket-with-the-brake-line-inside"
+    },
+    {
+      "timestamp": 189,
+      "name": "step_19_ensure-correct-alignment-to-avoid-crush-ng-the-brase"
+    },
+    {
+      "timestamp": 191,
+      "name": "step_20_ensure-correct-alignment-to-avoid-crush-ng-the-brake"
+    },
+    {
+      "timestamp": 192,
+      "name": "step_21_tighten-brake-tne-bracket-screws"
+    },
+    {
+      "timestamp": 199,
+      "name": "step_22_check-brake-operation-before-operating-the-bike"
     }
   ]
 }

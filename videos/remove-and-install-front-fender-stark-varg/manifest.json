@@ -19,36 +19,32 @@
   ],
   "frames": [
     {
-      "timestamp": 6,
-      "name": "step_01_prepare-access-to-the-front-fender"
+      "timestamp": 7,
+      "name": "step_01_unscrew-all-4-front-fender-bolts"
+    },
+    {
+      "timestamp": 8,
+      "name": "step_02_carefully-take-the-front-fender-out-between-the-forks"
     },
     {
       "timestamp": 11,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-fender"
+      "name": "step_03_carefully-fit-the-front-fender-between-the-forks"
     },
     {
-      "timestamp": 16,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-f"
+      "timestamp": 11,
+      "name": "step_04_align-the-front-fender-holes-with-the-front-number-plate-studs-and-the-t"
     },
     {
-      "timestamp": 21,
-      "name": "step_04_remove-the-front-fender-from-the-bike"
+      "timestamp": 22,
+      "name": "step_05_tighten-at-least-one-bolt-with-a-bushing-to-secure-the-fender-in-place"
     },
     {
-      "timestamp": 26,
-      "name": "step_05_position-the-front-fender-for-installation"
+      "timestamp": 25,
+      "name": "step_06_tighten-the-remaining-bolts-with-bushings-by-hand-until-all-hold-in-plac"
     },
     {
       "timestamp": 31,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-fender"
-    },
-    {
-      "timestamp": 36,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-fender"
-    },
-    {
-      "timestamp": 41,
-      "name": "step_08_verify-the-completed-installation-of-the-front-fender"
+      "name": "step_07_tighten-all-front-fender-bolts-to-8-nm"
     }
   ]
 }

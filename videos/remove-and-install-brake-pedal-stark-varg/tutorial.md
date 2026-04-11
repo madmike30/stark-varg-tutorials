@@ -6,96 +6,82 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Brake Pedal
+### 1. Hold the foot pedal spring
 
-Hold the foot pedal spring and prepare access around the brake pedal and linkage before removing hardware.
+Hold the foot pedal spring.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - hold the foot pedal spring](assets/screenshots/step_01_hold-the-foot-pedal-spring.jpg)
 
-![Step 1 - prepare access to the brake pedal](assets/screenshots/step_01_prepare-access-to-the-brake-pedal.jpg)
+### 2. Loosen the brake pedal link bolt
 
-### 2. Remove the visible retaining hardware for the Brake Pedal
+Loosen the brake pedal link bolt. Beware of falling objects.
 
-Loosen the brake pedal link bolt while supporting the pedal assembly.
+![Step 2 - loosen the brake pedal link bolt](assets/screenshots/step_02_loosen-the-brake-pedal-link-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Unscrew the sway bolt
 
-![Step 2 - remove the visible retaining hardware for the brake pedal](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-brake-pedal.jpg)
+Unscrew the sway bolt.
 
-### 3. Release any bracket, clip, or coupling attached to the Brake Pedal
+![Step 3 - unscrew the sway bolt](assets/screenshots/step_03_unscrew-the-sway-bolt.jpg)
 
-Unscrew the sway bolt and release the brake pedal from the linkage.
+### 4. Carefully remove the brake pedal by sliding it towards the front of the bike between the side plate and the battery
 
-Note the orientation of these supporting pieces before setting them aside.
+Carefully remove the brake pedal by sliding it towards the front of the bike between the side plate and the battery.
 
-![Step 3 - release any bracket, clip, or coupling attached to the brake pedal](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-brake-p.jpg)
-
-### 4. Remove the Brake Pedal from the bike
-
-Carefully slide the brake pedal toward the front of the bike and remove it through the gap between the side plate and the battery.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the brake pedal from the bike](assets/screenshots/step_04_remove-the-brake-pedal-from-the-bike.jpg)
+![Step 4 - carefully remove the brake pedal by sliding it towards the front of the bike between the side plate and the battery](assets/screenshots/step_04_carefully-remove-the-brake-pedal-by-sliding-it-towards-the-front-of-the.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Brake Pedal for installation
+### 5. Gently slide the brake pedal in through gap between the side plate and the battery
 
-Gently slide the brake pedal back in through the gap between the side plate and the battery.
+Gently slide the brake pedal in through gap between the side plate and the battery.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 5 - gently slide the brake pedal in through gap between the side plate and the battery](assets/screenshots/step_05_gently-slide-the-brake-pedal-in-through-gap-between-the-side-plate-and-t.jpg)
 
-![Step 5 - position the brake pedal for installation](assets/screenshots/step_05_position-the-brake-pedal-for-installation.jpg)
+### 6. Tighten the sway bolt to 20 Nm
 
-### 6. Reconnect or refit the support pieces for the Brake Pedal
+Tighten the sway bolt to 20 Nm.
 
-Install the sway bolt and seat the pedal correctly before final tightening.
+![Step 6 - tighten the sway bolt to 20 Nm](assets/screenshots/step_06_tighten-the-sway-bolt-to-20-nm.jpg)
 
-Tighten the sway bolt to **20 Nm**.
+### 7. Assemble the brake pedal link
 
-![Step 6 - reconnect or refit the support pieces for the brake pedal](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-brake-pedal.jpg)
+Assemble the brake pedal link.
 
-### 7. Install the retaining hardware for the Brake Pedal
+![Step 7 - assemble the brake pedal link](assets/screenshots/step_07_assemble-the-brake-pedal-link.jpg)
 
-Assemble the brake pedal link and hold the linkage in place while the bolt is started by hand.
+### 8. Hold the brake pedal link assembly in place and tighten the bolt to 10 Nm
 
-![Step 7 - install the retaining hardware for the brake pedal](assets/screenshots/step_07_install-the-retaining-hardware-for-the-brake-pedal.jpg)
+Hold the brake pedal link assembly in place and tighten the bolt to 10 Nm. Check brakes operation before operating the bike. is permitted only with the express written permission.
 
-### 8. Verify the completed installation of the Brake Pedal
-
-Tighten the brake pedal link bolt to **10 Nm** and verify the pedal returns and moves freely.
-
-Check brake operation before returning the bike to service.
-
-![Step 8 - verify the completed installation of the brake pedal](assets/screenshots/step_08_verify-the-completed-installation-of-the-brake-pedal.jpg)
+![Step 8 - hold the brake pedal link assembly in place and tighten the bolt to 10 Nm](assets/screenshots/step_08_hold-the-brake-pedal-link-assembly-in-place-and-tighten-the-bolt-to-10-n.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
 | Tighten the sway bolt | 20 Nm |
-| Tighten the brake pedal link bolt | 10 Nm |
+| Hold the brake pedal link assembly in place and tighten the bolt | 10 Nm |
 
 Verified torque items:
 
-- Tighten the sway bolt: **20 Nm** from Stark technical manual `02.018.01 Remove and install brake pedal`.
-- Tighten the brake pedal link bolt: **10 Nm** from Stark technical manual `02.018.01 Remove and install brake pedal`.
+- Tighten the sway bolt: **20 Nm** from the original Stark Future tutorial video text overlay.
+- Hold the brake pedal link assembly in place and tighten the bolt: **10 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

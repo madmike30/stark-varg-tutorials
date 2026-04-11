@@ -6,86 +6,40 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Stark Phone
+### 1. Remove phone
 
-Open the surrounding panel area so the Stark Phone mounting points and wiring path are fully accessible.
+Remove phone.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
-
-![Step 1 - prepare access to the stark phone](assets/screenshots/step_01_prepare-access-to-the-stark-phone.jpg)
-
-### 2. Remove the visible retaining hardware for the Stark Phone
-
-Remove the visible Stark Phone fasteners and support the part so it does not hang on the wiring.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the stark phone](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-stark-phone.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Stark Phone
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Stark Phone to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the stark phone](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-stark-p.jpg)
-
-### 4. Remove the Stark Phone from the bike
-
-Remove the Stark Phone from the bike once the connector, routing clips, and mounting hardware are free.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the stark phone from the bike](assets/screenshots/step_04_remove-the-stark-phone-from-the-bike.jpg)
+![Step 1 - remove phone](assets/screenshots/step_01_remove-phone.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Stark Phone for installation
+### 2. Insert phone in the docking station left side first
 
-Return the Stark Phone to its mounting position and align the holes, tabs, or locating surfaces.
+Insert phone in the docking station left side first.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 2 - insert phone in the docking station left side first](assets/screenshots/step_02_insert-phone-in-the-docking-station-left-side-first.jpg)
 
-![Step 5 - position the stark phone for installation](assets/screenshots/step_05_position-the-stark-phone-for-installation.jpg)
+### 3. Ensure the phone is secure before operating the bike
 
-### 6. Reconnect or refit the support pieces for the Stark Phone
+Ensure the phone is secure before operating the bike.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Stark Phone.
-
-Make sure each supporting piece is seated correctly before final tightening.
-
-![Step 6 - reconnect or refit the support pieces for the stark phone](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-stark-phone.jpg)
-
-### 7. Install the retaining hardware for the Stark Phone
-
-Install the Stark Phone mounting hardware by hand first and seat the part evenly against its bracket or panel.
-
-Check that the component remains aligned while the hardware is brought fully home.
-
-![Step 7 - install the retaining hardware for the stark phone](assets/screenshots/step_07_install-the-retaining-hardware-for-the-stark-phone.jpg)
-
-### 8. Verify the completed installation of the Stark Phone
-
-Inspect the final position of the Stark Phone and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the stark phone](assets/screenshots/step_08_verify-the-completed-installation-of-the-stark-phone.jpg)
+![Step 3 - ensure the phone is secure before operating the bike](assets/screenshots/step_03_ensure-the-phone-is-secure-before-operating-the-bike.jpg)
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

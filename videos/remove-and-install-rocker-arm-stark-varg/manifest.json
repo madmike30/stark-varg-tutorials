@@ -19,36 +19,120 @@
   ],
   "frames": [
     {
-      "timestamp": 29,
-      "name": "step_01_prepare-access-to-the-rocker-arm"
+      "timestamp": 7,
+      "name": "step_01_remove-chain-link"
     },
     {
-      "timestamp": 57,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-rocker-arm"
+      "timestamp": 35,
+      "name": "step_02_run-chain-through-front-sprocket"
     },
     {
-      "timestamp": 85,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-rocker-"
+      "timestamp": 44,
+      "name": "step_03_loosen-rear-axle-lock-nut"
     },
     {
-      "timestamp": 113,
-      "name": "step_04_remove-the-rocker-arm-from-the-bike"
+      "timestamp": 50,
+      "name": "step_04_push-lock-nut"
     },
     {
-      "timestamp": 141,
-      "name": "step_05_position-the-rocker-arm-for-installation"
+      "timestamp": 52,
+      "name": "step_05_remove-lock-nut-and-tension-adjuster"
     },
     {
-      "timestamp": 169,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-rocker-arm"
+      "timestamp": 60,
+      "name": "step_06_remove-wheel-axle"
+    },
+    {
+      "timestamp": 66,
+      "name": "step_07_loosen-chain-protector-bolt"
+    },
+    {
+      "timestamp": 74,
+      "name": "step_08_remove-pull-rod-lock-nuts"
+    },
+    {
+      "timestamp": 80,
+      "name": "step_09_pull-bolts-out"
+    },
+    {
+      "timestamp": 99,
+      "name": "step_10_remove-shaft-lids"
+    },
+    {
+      "timestamp": 110,
+      "name": "step_11_remove-shaft"
+    },
+    {
+      "timestamp": 120,
+      "name": "step_12_loosen-reversed-thread-lock-nut"
+    },
+    {
+      "timestamp": 125,
+      "name": "step_13_remove-rocker-arm"
+    },
+    {
+      "timestamp": 132,
+      "name": "step_14_hold-rocker-arm-in-place"
+    },
+    {
+      "timestamp": 135,
+      "name": "step_15_tighten-reversed-thread-lock-nut-to-5-nm"
+    },
+    {
+      "timestamp": 140,
+      "name": "step_16_tighten-shaft-to-60-nm"
+    },
+    {
+      "timestamp": 145,
+      "name": "step_17_insert-bolts"
+    },
+    {
+      "timestamp": 163,
+      "name": "step_18_tighten-lock-nuts-to-60-nm"
+    },
+    {
+      "timestamp": 176,
+      "name": "step_19_tighten-shaft-lids-to-5-nm"
+    },
+    {
+      "timestamp": 182,
+      "name": "step_20_slide-the-wheel-in"
+    },
+    {
+      "timestamp": 184,
+      "name": "step_21_ensure-brake-disc-slides-between-pads"
+    },
+    {
+      "timestamp": 187,
+      "name": "step_22_insert-wheel-axle"
+    },
+    {
+      "timestamp": 193,
+      "name": "step_23_install-tension-adjuster"
     },
     {
       "timestamp": 197,
-      "name": "step_07_install-the-retaining-hardware-for-the-rocker-arm"
+      "name": "step_24_tighten-axle-lock-nut"
     },
     {
-      "timestamp": 225,
-      "name": "step_08_verify-the-completed-installation-of-the-rocker-arm"
+      "timestamp": 203,
+      "name": "step_25_run-chain-through-front-sprocket-again"
+    },
+    {
+      "timestamp": 213,
+      "name": "step_26_install-chain-link"
+    },
+    {
+      "timestamp": 230,
+      "name": "step_27_insert-cloth-between-chain-and-sprocket"
+    },
+    {
+      "timestamp": 234,
+      "name": "step_28_tighten-axle-lock-nut-to-80-nm"
+    },
+    {
+      "timestamp": 241,
+      "name": "step_29_remove-the-cloth"
     }
   ]
 }

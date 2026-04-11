@@ -6,98 +6,92 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Throttle
+### 1. Disconnect the handlebar controls
 
-Open the surrounding panel area so the Throttle mounting points and wiring path are fully accessible.
+Disconnect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - disconnect the handlebar controls](assets/screenshots/step_01_disconnect-the-handlebar-controls.jpg)
 
-![Step 1 - prepare access to the throttle](assets/screenshots/step_01_prepare-access-to-the-throttle.jpg)
+### 2. Remove the control switch wiring rubber strap
 
-### 2. Remove the visible retaining hardware for the Throttle
+Remove the control switch wiring rubber strap.
 
-Remove the visible Throttle fasteners and support the part so it does not hang on the wiring.
+![Step 2 - remove the control switch wiring rubber strap](assets/screenshots/step_02_remove-the-control-switch-wiring-rubber-strap.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Carefully pull the wiring out of the triple clamp routing channel
 
-![Step 2 - remove the visible retaining hardware for the throttle](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-throttle.jpg)
+Carefully pull the wiring out of the triple clamp routing channel. If you feel excessive resistance when pulling the wiring out of the triple clamp, please check that you disconnected the correct plug or the wiring is not stuck.
 
-### 3. Release any bracket, clip, or coupling attached to the Throttle
+![Step 3 - carefully pull the wiring out of the triple clamp routing channel](assets/screenshots/step_03_carefully-pull-the-wiring-out-of-the-triple-clamp-routing-channel.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Throttle to the bike.
+### 4. Loosen the throttle clamp bolt
 
-Note the orientation of these supporting pieces before setting them aside.
+Loosen the throttle clamp bolt.
 
-![Step 3 - release any bracket, clip, or coupling attached to the throttle](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-throttl.jpg)
+![Step 4 - loosen the throttle clamp bolt](assets/screenshots/step_04_loosen-the-throttle-clamp-bolt.jpg)
 
-### 4. Remove the Throttle from the bike
+### 5. Slide the throttle out of the handlebar
 
-Remove the Throttle from the bike once the connector, routing clips, and mounting hardware are free.
+Slide the throttle out of the handlebar.
 
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the throttle from the bike](assets/screenshots/step_04_remove-the-throttle-from-the-bike.jpg)
+![Step 5 - slide the throttle out of the handlebar](assets/screenshots/step_05_slide-the-throttle-out-of-the-handlebar.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Throttle for installation
+### 6. Slide the throttle onto the handlebar
 
-Return the Throttle to its mounting position and align the holes, tabs, or locating surfaces.
+Slide the throttle onto the handlebar. The bulky side of the throttle housing should be facing up to prevent impacting your knees on a tight turn.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 6 - slide the throttle onto the handlebar](assets/screenshots/step_06_slide-the-throttle-onto-the-handlebar.jpg)
 
-![Step 5 - position the throttle for installation](assets/screenshots/step_05_position-the-throttle-for-installation.jpg)
+### 7. Tighten the throttle clamp bolt to 3 Nm
 
-### 6. Reconnect or refit the support pieces for the Throttle
+Tighten the throttle clamp bolt to 3 Nm. Please ensure throttle can operate freely.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Throttle.
+![Step 7 - tighten the throttle clamp bolt to 3 Nm](assets/screenshots/step_07_tighten-the-throttle-clamp-bolt-to-3-nm.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 8. Fit the cable through the triple clamp routing channel
 
-![Step 6 - reconnect or refit the support pieces for the throttle](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-throttle.jpg)
+Fit the cable through the triple clamp routing channel.
 
-### 7. Install the retaining hardware for the Throttle
+![Step 8 - fit the cable through the triple clamp routing channel](assets/screenshots/step_08_fit-the-cable-through-the-triple-clamp-routing-channel.jpg)
 
-Install the Throttle mounting hardware by hand first and seat the part evenly against its bracket or panel.
+### 9. Connect the handlebar controls
 
-Check that the component remains aligned while the hardware is brought fully home.
+Connect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗.
 
-Tighten the throttle bolt to **3 Nm**.
+![Step 9 - connect the handlebar controls](assets/screenshots/step_09_connect-the-handlebar-controls.jpg)
 
-![Step 7 - install the retaining hardware for the throttle](assets/screenshots/step_07_install-the-retaining-hardware-for-the-throttle.jpg)
+### 10. Fit the throttle wiring rubber strap to secure it to the handlebar
 
-### 8. Verify the completed installation of the Throttle
+Fit the throttle wiring rubber strap to secure it to the handlebar. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
 
-Inspect the final position of the Throttle and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the throttle](assets/screenshots/step_08_verify-the-completed-installation-of-the-throttle.jpg)
+![Step 10 - fit the throttle wiring rubber strap to secure it to the handlebar](assets/screenshots/step_10_fit-the-throttle-wiring-rubber-strap-to-secure-it-to-the-handlebar.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the throttle bolt | 3 Nm |
+| Tighten the throttle clamp bolt | 3 Nm |
 
 Verified torque items:
 
-- Tighten the throttle bolt: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the throttle clamp bolt: **3 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

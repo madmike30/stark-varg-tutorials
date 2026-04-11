@@ -19,36 +19,32 @@
   ],
   "frames": [
     {
-      "timestamp": 18,
-      "name": "step_01_prepare-access-to-the-foot-brake"
+      "timestamp": 6,
+      "name": "step_01_remove-the-rear-wheel"
     },
     {
-      "timestamp": 35,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-foot-brake"
+      "timestamp": 22,
+      "name": "step_02_remove-the-foot-brake-master-cylinder"
     },
     {
-      "timestamp": 52,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-foot-br"
+      "timestamp": 33,
+      "name": "step_03_grab-the-rear-brake-caliper-and-the-foot-brake-master-cylinder-and-clear"
     },
     {
-      "timestamp": 69,
-      "name": "step_04_remove-the-foot-brake-from-the-bike"
+      "timestamp": 64,
+      "name": "step_04_grab-the-rear-brake-caliper-and-the-foot-brake-master-cylinder-and-fit-t"
     },
     {
-      "timestamp": 86,
-      "name": "step_05_position-the-foot-brake-for-installation"
+      "timestamp": 104,
+      "name": "step_05_secure-the-rear-brake-caliper"
     },
     {
-      "timestamp": 103,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-foot-brake"
+      "timestamp": 128,
+      "name": "step_06_install-the-foot-brake-master-cylinder"
     },
     {
-      "timestamp": 120,
-      "name": "step_07_install-the-retaining-hardware-for-the-foot-brake"
-    },
-    {
-      "timestamp": 137,
-      "name": "step_08_verify-the-completed-installation-of-the-foot-brake"
+      "timestamp": 151,
+      "name": "step_07_install-rear-wheel"
     }
   ]
 }

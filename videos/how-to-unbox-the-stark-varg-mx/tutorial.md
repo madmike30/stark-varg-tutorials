@@ -6,100 +6,86 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Procedure
 
-### 1. Inspect the shipping package
+### 1. Tighten the do following koved to 4 engr
 
-Check the outer box, straps, and visible packaging condition before opening the crate.
+Tighten the do following koved to 4 engr.
 
-Confirm the crate is stable and that all included parts remain secured before any hardware is removed.
+![Step 1 - tighten the do following koved to 4 engr](assets/screenshots/step_01_tighten-the-do-following-koved-to-4-engr.jpg)
 
-![Step 1 - inspect the shipping package](assets/screenshots/step_01_inspect-the-shipping-package.jpg)
+### 2. Tighten the front a bf bolts
 
-### 2. Remove the outer packaging
+Tighten the front a bf bolts.
 
-Cut and remove the external wrapping, cover panels, and protective packing material shown in the video.
+![Step 2 - tighten the front a bf bolts](assets/screenshots/step_02_tighten-the-front-a-bf-bolts.jpg)
 
-Keep the removed packing pieces clear of the bike so the remaining crate hardware is easy to access.
+### 3. Tighten the front commectof bf bolts
 
-![Step 2 - remove the outer packaging](assets/screenshots/step_02_remove-the-outer-packaging.jpg)
+Tighten the front commectof bf bolts.
 
-### 3. Release the crate fasteners and supports
+![Step 3 - tighten the front commectof bf bolts](assets/screenshots/step_03_tighten-the-front-commectof-bf-bolts.jpg)
 
-Remove the shipping bolts, brackets, clips, and support pieces that hold the bike and loose parts inside the crate.
+### 4. Tighten the front connect bpx bolts
 
-Set the shipping hardware aside separately from the service hardware used on the bike.
+Tighten the front connect bpx bolts.
 
-![Step 3 - release the crate fasteners and supports](assets/screenshots/step_03_release-the-crate-fasteners-and-supports.jpg)
+![Step 4 - tighten the front connect bpx bolts](assets/screenshots/step_04_tighten-the-front-connect-bpx-bolts.jpg)
 
-### 4. Remove the bike from the crate
+### 5. Ensure to install the charger with the front lid
 
-Lift or roll the bike out of the crate exactly as shown once the shipping restraints are fully removed.
+Ensure to install the charger with the front lid.
 
-Support the bike carefully so no bodywork, guards, or controls are loaded during the move.
+![Step 5 - ensure to install the charger with the front lid](assets/screenshots/step_05_ensure-to-install-the-charger-with-the-front-lid.jpg)
 
-![Step 4 - remove the bike from the crate](assets/screenshots/step_04_remove-the-bike-from-the-crate.jpg)
+### 6. Charger with the voles
 
-### 5. Install the supplied setup parts
+Charger with the voles.
 
-Fit the included parts, guards, or accessories that are supplied separately in the crate.
+![Step 6 - charger with the voles](assets/screenshots/step_06_charger-with-the-voles.jpg)
 
-Install each piece in the same order shown so the mounting hardware, spacers, and brackets stay matched correctly.
+### 7. Tighten the right fork clamp
 
-![Step 5 - install the supplied setup parts](assets/screenshots/step_05_install-the-supplied-setup-parts.jpg)
+Tighten the right fork clamp.
 
-### 6. Secure the setup hardware
+![Step 7 - tighten the right fork clamp](assets/screenshots/step_07_tighten-the-right-fork-clamp.jpg)
 
-Install and tighten the visible fasteners for the newly fitted setup parts.
+### 8. Loosen the right fork axle clamp
 
-Make sure the parts sit flush and that no clip, washer, or spacer is omitted during assembly.
+Loosen the right fork axle clamp.
 
-Tighten the docking station bolts to **30 Nm**.
+![Step 8 - loosen the right fork axle clamp](assets/screenshots/step_08_loosen-the-right-fork-axle-clamp.jpg)
 
-Tighten the front wheel axle lock bolt to **35 Nm**.
+### 9. Tighten all f 2x on the nig
 
-Tighten the front wheel clamp bolts to **15 Nm**.
+Tighten all f 2x on the nig.
 
-Tighten the foot peg pin to **20 Nm**.
+![Step 9 - tighten all f 2x on the nig](assets/screenshots/step_09_tighten-all-f-2x-on-the-nig.jpg)
 
-![Step 6 - secure the setup hardware](assets/screenshots/step_06_secure-the-setup-hardware.jpg)
+### 10. Tighten a pin
 
-### 7. Complete the final setup inspection
+Tighten a pin.
 
-Check that the bike is fully assembled, all packing materials are removed, and the controls move freely.
+![Step 10 - tighten a pin](assets/screenshots/step_10_tighten-a-pin.jpg)
 
-Verify the bike is ready for the next setup steps before riding or charging.
+### 11. Tighten pin
 
-![Step 7 - complete the final setup inspection](assets/screenshots/step_07_complete-the-final-setup-inspection.jpg)
+Tighten pin.
 
-## Torque Summary
-
-| Component | Torque |
-| --- | ---: |
-| Tighten the docking station bolts | 30 Nm |
-| Tighten the front wheel axle lock bolt | 35 Nm |
-| Tighten the front wheel clamp bolts | 15 Nm |
-| Tighten the foot peg pin | 20 Nm |
-
-Verified torque items:
-
-- Tighten the docking station bolts: **30 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the front wheel axle lock bolt: **35 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the front wheel clamp bolts: **15 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the foot peg pin: **20 Nm** from the official Stark VARG owner manual torque table.
+![Step 11 - tighten pin](assets/screenshots/step_11_tighten-pin.jpg)
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

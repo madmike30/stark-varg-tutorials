@@ -6,98 +6,160 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Pull Rod
+### 1. Loosen brake pedal fink bolt
 
-Remove the surrounding hardware needed to expose the Pull Rod and its clamping or axle points.
+Loosen brake pedal fink bolt.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
-
-![Step 1 - prepare access to the pull rod](assets/screenshots/step_01_prepare-access-to-the-pull-rod.jpg)
-
-### 2. Remove the visible retaining hardware for the Pull Rod
-
-Remove the visible Pull Rod fasteners in the order shown and support the part as it comes free.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the pull rod](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-pull-rod.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Pull Rod
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Pull Rod to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the pull rod](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-pull-ro.jpg)
-
-### 4. Remove the Pull Rod from the bike
-
-Slide the Pull Rod free from the bike once the clamping hardware and support pieces are released.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the pull rod from the bike](assets/screenshots/step_04_remove-the-pull-rod-from-the-bike.jpg)
+![Step 1 - loosen brake pedal fink bolt](assets/screenshots/step_01_loosen-brake-pedal-fink-bolt.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Pull Rod for installation
+### 2. Hold spring
 
-Return the Pull Rod to its mounting position and align the holes, tabs, or locating surfaces.
+Hold spring.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 2 - hold spring](assets/screenshots/step_02_hold-spring.jpg)
 
-![Step 5 - position the pull rod for installation](assets/screenshots/step_05_position-the-pull-rod-for-installation.jpg)
+### 3. Remove sway bolt
 
-### 6. Reconnect or refit the support pieces for the Pull Rod
+Remove sway bolt.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Pull Rod.
+![Step 3 - remove sway bolt](assets/screenshots/step_03_remove-sway-bolt.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 4. Remove charn link
 
-![Step 6 - reconnect or refit the support pieces for the pull rod](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-pull-rod.jpg)
+Remove charn link.
 
-### 7. Install the retaining hardware for the Pull Rod
+![Step 4 - remove charn link](assets/screenshots/step_04_remove-charn-link.jpg)
 
-Install the Pull Rod retaining hardware by hand first and keep the part aligned as the hardware is tightened.
+### 5. Remove chain link
 
-Check that the component remains aligned while the hardware is brought fully home.
+Remove chain link.
 
-Tighten the pull rod nuts to **60 Nm**.
+![Step 5 - remove chain link](assets/screenshots/step_05_remove-chain-link.jpg)
 
-![Step 7 - install the retaining hardware for the pull rod](assets/screenshots/step_07_install-the-retaining-hardware-for-the-pull-rod.jpg)
+### 6. Run the chain through the front sprocket
 
-### 8. Verify the completed installation of the Pull Rod
+Run the chain through the front sprocket.
 
-Inspect the final position of the Pull Rod and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 6 - run the chain through the front sprocket](assets/screenshots/step_06_run-the-chain-through-the-front-sprocket.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 7. Loosen chain protector bolt
 
-![Step 8 - verify the completed installation of the pull rod](assets/screenshots/step_08_verify-the-completed-installation-of-the-pull-rod.jpg)
+Loosen chain protector bolt.
 
-## Torque Summary
+![Step 7 - loosen chain protector bolt](assets/screenshots/step_07_loosen-chain-protector-bolt.jpg)
 
-| Component | Torque |
-| --- | ---: |
-| Tighten the pull rod nuts | 60 Nm |
+### 8. Remove pull rod lock nuts
 
-Verified torque items:
+Remove pull rod lock nuts.
 
-- Tighten the pull rod nuts: **60 Nm** from the official Stark VARG owner manual torque table.
+![Step 8 - remove pull rod lock nuts](assets/screenshots/step_08_remove-pull-rod-lock-nuts.jpg)
+
+### 9. Remove dull red
+
+Remove dull red.
+
+![Step 9 - remove dull red](assets/screenshots/step_09_remove-dull-red.jpg)
+
+### 10. Remove pull rod
+
+Remove pull rod.
+
+![Step 10 - remove pull rod](assets/screenshots/step_10_remove-pull-rod.jpg)
+
+### 11. Hold pull rod in place
+
+Hold pull rod in place.
+
+![Step 11 - hold pull rod in place](assets/screenshots/step_11_hold-pull-rod-in-place.jpg)
+
+### 12. Insert the bolts
+
+Insert the bolts.
+
+![Step 12 - insert the bolts](assets/screenshots/step_12_insert-the-bolts.jpg)
+
+### 13. Tighten lock nuts te 69
+
+Tighten lock nuts te 69.
+
+![Step 13 - tighten lock nuts te 69](assets/screenshots/step_13_tighten-lock-nuts-te-69.jpg)
+
+### 14. Tighten lock nuts to 60 nay
+
+Tighten lock nuts to 60 nay.
+
+![Step 14 - tighten lock nuts to 60 nay](assets/screenshots/step_14_tighten-lock-nuts-to-60-nay.jpg)
+
+### 15. Run the chain theough the front sprocket
+
+Run the chain theough the front sprocket.
+
+![Step 15 - run the chain theough the front sprocket](assets/screenshots/step_15_run-the-chain-theough-the-front-sprocket.jpg)
+
+### 16. Install chain bok
+
+Install chain bok.
+
+![Step 16 - install chain bok](assets/screenshots/step_16_install-chain-bok.jpg)
+
+### 17. Install pedal
+
+Install pedal.
+
+![Step 17 - install pedal](assets/screenshots/step_17_install-pedal.jpg)
+
+### 18. Tighten sway bolts to 20
+
+Tighten sway bolts to 20.
+
+![Step 18 - tighten sway bolts to 20](assets/screenshots/step_18_tighten-sway-bolts-to-20.jpg)
+
+### 19. Install the rear brake pedal link
+
+Install the rear brake pedal link.
+
+![Step 19 - install the rear brake pedal link](assets/screenshots/step_19_install-the-rear-brake-pedal-link.jpg)
+
+### 20. Tighten link bolts to 10
+
+Tighten link bolts to 10.
+
+![Step 20 - tighten link bolts to 10](assets/screenshots/step_20_tighten-link-bolts-to-10.jpg)
+
+### 21. Tighten link bolts to 1
+
+Tighten link bolts to 1.
+
+![Step 21 - tighten link bolts to 1](assets/screenshots/step_21_tighten-link-bolts-to-1.jpg)
+
+### 22. Check brake operation before operating the bike
+
+Check brake operation before operating the bike.
+
+![Step 22 - check brake operation before operating the bike](assets/screenshots/step_22_check-brake-operation-before-operating-the-bike.jpg)
+
+### 23. Check brake operation before cpcrating the bike
+
+Check brake operation before cpcrating the bike.
+
+![Step 23 - check brake operation before cpcrating the bike](assets/screenshots/step_23_check-brake-operation-before-cpcrating-the-bike.jpg)
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

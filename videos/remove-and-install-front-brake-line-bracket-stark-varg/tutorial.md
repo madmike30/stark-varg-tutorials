@@ -6,98 +6,56 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Front Brake Line Bracket
+### 1. Unscrew the front brake line brackets screws
 
-Remove the surrounding parts needed to expose the Front Brake Line Bracket and its routing or mounting points.
+Unscrew the front brake line brackets screws.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - unscrew the front brake line brackets screws](assets/screenshots/step_01_unscrew-the-front-brake-line-brackets-screws.jpg)
 
-![Step 1 - prepare access to the front brake line bracket](assets/screenshots/step_01_prepare-access-to-the-front-brake-line-bracket.jpg)
+### 2. Remove the bracket
 
-### 2. Remove the visible retaining hardware for the Front Brake Line Bracket
+Remove the bracket. Beware of falling objects.
 
-Remove the visible Front Brake Line Bracket fasteners while supporting the brake component as the hardware comes free.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the front brake line bracket](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-front-brake-li.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Front Brake Line Bracket
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Front Brake Line Bracket to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the front brake line bracket](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b.jpg)
-
-### 4. Remove the Front Brake Line Bracket from the bike
-
-Remove the Front Brake Line Bracket from the bike once the last fastener and any routed support pieces are released.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the front brake line bracket from the bike](assets/screenshots/step_04_remove-the-front-brake-line-bracket-from-the-bike.jpg)
+![Step 2 - remove the bracket](assets/screenshots/step_02_remove-the-bracket.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Front Brake Line Bracket for installation
+### 3. Hold the front brake line bracket in place
 
-Return the Front Brake Line Bracket to its mounting position and align the holes, tabs, or locating surfaces.
+Hold the front brake line bracket in place. Ensure correct alignment to avoid crushing the brake line.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 3 - hold the front brake line bracket in place](assets/screenshots/step_03_hold-the-front-brake-line-bracket-in-place.jpg)
 
-![Step 5 - position the front brake line bracket for installation](assets/screenshots/step_05_position-the-front-brake-line-bracket-for-installation.jpg)
+### 4. Tighten brake line bracket screws to 3 Nm
 
-### 6. Reconnect or refit the support pieces for the Front Brake Line Bracket
+Tighten brake line bracket screws to 3 Nm. Check brakes operation before operating the bike. is permitted only with the express written permission.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Front Brake Line Bracket.
-
-Make sure each supporting piece is seated correctly before final tightening.
-
-![Step 6 - reconnect or refit the support pieces for the front brake line bracket](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-li.jpg)
-
-### 7. Install the retaining hardware for the Front Brake Line Bracket
-
-Install the Front Brake Line Bracket retaining hardware by hand first and keep the brake component aligned during tightening.
-
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the fork brake line bracket screws to **3 Nm**.
-
-![Step 7 - install the retaining hardware for the front brake line bracket](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-brake-line-brac.jpg)
-
-### 8. Verify the completed installation of the Front Brake Line Bracket
-
-Inspect the final position of the Front Brake Line Bracket and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the front brake line bracket](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-line-br.jpg)
+![Step 4 - tighten brake line bracket screws to 3 Nm](assets/screenshots/step_04_tighten-brake-line-bracket-screws-to-3-nm.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the fork brake line bracket screws | 3 Nm |
+| Tighten brake line bracket screws | 3 Nm |
 
 Verified torque items:
 
-- Tighten the fork brake line bracket screws: **3 Nm** from the official Stark VARG owner manual torque table.
+- Tighten brake line bracket screws: **3 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

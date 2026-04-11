@@ -6,88 +6,164 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Forks
+### 1. Remove brake line bracket screws
 
-Remove the surrounding hardware needed to expose the Forks and its clamping or axle points.
+Remove brake line bracket screws.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove brake line bracket screws](assets/screenshots/step_01_remove-brake-line-bracket-screws.jpg)
 
-![Step 1 - prepare access to the forks](assets/screenshots/step_01_prepare-access-to-the-forks.jpg)
+### 2. Loosen fork clamp bolts on the left fork
 
-### 2. Remove the visible retaining hardware for the Forks
+Loosen fork clamp bolts on the left fork.
 
-Remove the visible Forks fasteners in the order shown and support the part as it comes free.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the forks](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-forks.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Forks
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Forks to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the forks](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-forks.jpg)
-
-### 4. Remove the Forks from the bike
-
-Slide the Forks free from the bike once the clamping hardware and support pieces are released.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the forks from the bike](assets/screenshots/step_04_remove-the-forks-from-the-bike.jpg)
+![Step 2 - loosen fork clamp bolts on the left fork](assets/screenshots/step_02_loosen-fork-clamp-bolts-on-the-left-fork.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Forks for installation
+### 3. Push the axi lock nut inside
 
-Return the Forks to its mounting position and align the holes, tabs, or locating surfaces.
+Push the axi lock nut inside.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 3 - push the axi lock nut inside](assets/screenshots/step_03_push-the-axi-lock-nut-inside.jpg)
 
-![Step 5 - position the forks for installation](assets/screenshots/step_05_position-the-forks-for-installation.jpg)
+### 4. Remove axle lock nut
 
-### 6. Reconnect or refit the support pieces for the Forks
+Remove axle lock nut.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Forks.
+![Step 4 - remove axle lock nut](assets/screenshots/step_04_remove-axle-lock-nut.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 5. Hold the whect and remove tre ale
 
-![Step 6 - reconnect or refit the support pieces for the forks](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-forks.jpg)
+Hold the whect and remove tre ale.
 
-### 7. Install the retaining hardware for the Forks
+![Step 5 - hold the whect and remove tre ale](assets/screenshots/step_05_hold-the-whect-and-remove-tre-ale.jpg)
 
-Install the Forks retaining hardware by hand first and keep the part aligned as the hardware is tightened.
+### 6. Hold the wheel and remove tee axle shee the whed out betecnn the fork
 
-Check that the component remains aligned while the hardware is brought fully home.
+Hold the wheel and remove tee axle shee the whed out betecnn the fork.
 
-Tighten the KYB upper triple clamp and middle/lower triple clamp pinch bolts to the etched torque values marked on each fork assembly.
+![Step 6 - hold the wheel and remove tee axle shee the whed out betecnn the fork](assets/screenshots/step_06_hold-the-wheel-and-remove-tee-axle-shee-the-whed-out-betecnn-the-fork.jpg)
 
-![Step 7 - install the retaining hardware for the forks](assets/screenshots/step_07_install-the-retaining-hardware-for-the-forks.jpg)
+### 7. Loosen the tripie clamp fork bolts
 
-### 8. Verify the completed installation of the Forks
+Loosen the tripie clamp fork bolts.
 
-Inspect the final position of the Forks and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 7 - loosen the tripie clamp fork bolts](assets/screenshots/step_07_loosen-the-tripie-clamp-fork-bolts.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 8. Hold the fork while loosening the last bett
 
-![Step 8 - verify the completed installation of the forks](assets/screenshots/step_08_verify-the-completed-installation-of-the-forks.jpg)
+Hold the fork while loosening the last bett.
+
+![Step 8 - hold the fork while loosening the last bett](assets/screenshots/step_08_hold-the-fork-while-loosening-the-last-bett.jpg)
+
+### 9. Tighten clamp bolts
+
+Tighten clamp bolts.
+
+![Step 9 - tighten clamp bolts](assets/screenshots/step_09_tighten-clamp-bolts.jpg)
+
+### 10. Ensure the fork hold in place before refeasing
+
+Ensure the fork hold in place before refeasing.
+
+![Step 10 - ensure the fork hold in place before refeasing](assets/screenshots/step_10_ensure-the-fork-hold-in-place-before-refeasing.jpg)
+
+### 11. Tighten tuple clamp bolts to value engraved on the part
+
+Tighten tuple clamp bolts to value engraved on the part.
+
+![Step 11 - tighten tuple clamp bolts to value engraved on the part](assets/screenshots/step_11_tighten-tuple-clamp-bolts-to-value-engraved-on-the-part.jpg)
+
+### 12. Pushing the axle inside
+
+Pushing the axle inside.
+
+![Step 12 - pushing the axle inside](assets/screenshots/step_12_pushing-the-axle-inside.jpg)
+
+### 13. Tighten axle lock nut
+
+Tighten axle lock nut.
+
+![Step 13 - tighten axle lock nut](assets/screenshots/step_13_tighten-axle-lock-nut.jpg)
+
+### 14. Tighten nght fork clamp bolts
+
+Tighten nght fork clamp bolts.
+
+![Step 14 - tighten nght fork clamp bolts](assets/screenshots/step_14_tighten-nght-fork-clamp-bolts.jpg)
+
+### 15. Tighten bolts to 25
+
+Tighten bolts to 25.
+
+![Step 15 - tighten bolts to 25](assets/screenshots/step_15_tighten-bolts-to-25.jpg)
+
+### 16. Loosen nght fork clamp bolts
+
+Loosen nght fork clamp bolts.
+
+![Step 16 - loosen nght fork clamp bolts](assets/screenshots/step_16_loosen-nght-fork-clamp-bolts.jpg)
+
+### 17. Tighten all fork clamp bolts to 15 Nm
+
+Tighten all fork clamp bolts to 15 Nm.
+
+![Step 17 - tighten all fork clamp bolts to 15 Nm](assets/screenshots/step_17_tighten-all-fork-clamp-bolts-to-15-nm.jpg)
+
+### 18. Install the bracket with the brake line inside
+
+Install the bracket with the brake line inside.
+
+![Step 18 - install the bracket with the brake line inside](assets/screenshots/step_18_install-the-bracket-with-the-brake-line-inside.jpg)
+
+### 19. Ensure correct alignment to avoid crush ng the brase
+
+Ensure correct alignment to avoid crush ng the brase.
+
+![Step 19 - ensure correct alignment to avoid crush ng the brase](assets/screenshots/step_19_ensure-correct-alignment-to-avoid-crush-ng-the-brase.jpg)
+
+### 20. Ensure correct alignment to avoid crush ng the brake
+
+Ensure correct alignment to avoid crush ng the brake.
+
+![Step 20 - ensure correct alignment to avoid crush ng the brake](assets/screenshots/step_20_ensure-correct-alignment-to-avoid-crush-ng-the-brake.jpg)
+
+### 21. Tighten brake tne bracket screws
+
+Tighten brake tne bracket screws.
+
+![Step 21 - tighten brake tne bracket screws](assets/screenshots/step_21_tighten-brake-tne-bracket-screws.jpg)
+
+### 22. Check brake operation before operating the bike
+
+Check brake operation before operating the bike.
+
+![Step 22 - check brake operation before operating the bike](assets/screenshots/step_22_check-brake-operation-before-operating-the-bike.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten all fork clamp bolts | 15 Nm |
+
+Verified torque items:
+
+- Tighten all fork clamp bolts: **15 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

@@ -6,92 +6,130 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Procedure
 
-### 1. Prepare access to the gear oil service points
+### 1. Ensure the bike is not hot
 
-Place the bike on a stable stand and remove any cover or guard shown in the video that blocks the gear oil fill and drain points.
+Ensure the bike is not hot.
 
-![Step 1 - prepare access to the gear oil service points](assets/screenshots/step_01_prepare-access-to-the-gear-oil-service-points.jpg)
+![Step 1 - ensure the bike is not hot](assets/screenshots/step_01_ensure-the-bike-is-not-hot.jpg)
 
-### 2. Position a container under the drain point
+### 2. Remove the skid plate
 
-Place a suitable drain container under the bike before removing the gear oil drain hardware.
+Remove the skid plate. Refer to: 05.041.01 Remove and install skid plate ↗.
 
-![Step 2 - position a container under the drain point](assets/screenshots/step_02_position-a-container-under-the-drain-point.jpg)
+![Step 2 - remove the skid plate](assets/screenshots/step_02_remove-the-skid-plate.jpg)
 
-### 3. Open the fill and drain points
+### 3. Place a suitable container directly beneath the oil drain plug
 
-Loosen the drain plug and the right motor cover metal cap so the old gear oil can drain fully.
+Place a suitable container directly beneath the oil drain plug.
 
-![Step 3 - open the fill and drain points](assets/screenshots/step_03_open-the-fill-and-drain-points.jpg)
+![Step 3 - place a suitable container directly beneath the oil drain plug](assets/screenshots/step_03_place-a-suitable-container-directly-beneath-the-oil-drain-plug.jpg)
 
-### 4. Drain the old gear oil
+### 4. Untighten the drain plug
 
-Allow the old oil to drain completely while monitoring the drain container and the service opening.
+Untighten the drain plug.
 
-Lean the bike slightly to the right if needed to help the used oil drain more completely.
+![Step 4 - untighten the drain plug](assets/screenshots/step_04_untighten-the-drain-plug.jpg)
 
-![Step 4 - drain the old gear oil](assets/screenshots/step_04_drain-the-old-gear-oil.jpg)
+### 5. Untighten the right motor cover metal cap
 
-### 5. Reinstall the drain hardware
+Untighten the right motor cover metal cap. Lean the bike slightly to the right to help drain most of the used oil.
 
-Fit a new washer to the drain plug and reinstall it once draining is complete.
+![Step 5 - untighten the right motor cover metal cap](assets/screenshots/step_05_untighten-the-right-motor-cover-metal-cap.jpg)
 
-Tighten the drain plug to **15 Nm**.
+### 6. Pour a bit of clean oil in through the metal cap opening to help flush the old oil
 
-![Step 5 - reinstall the drain hardware](assets/screenshots/step_05_reinstall-the-drain-hardware.jpg)
+Pour a bit of clean oil in through the metal cap opening to help flush the old oil.
 
-### 6. Refill with fresh gear oil
+![Step 6 - pour a bit of clean oil in through the metal cap opening to help flush the old oil](assets/screenshots/step_06_pour-a-bit-of-clean-oil-in-through-the-metal-cap-opening-to-help-flush-t.jpg)
 
-Remove the oil level bolt, make sure the bike is level, and fill with fresh oil until it starts to come out from the level bolt opening.
+### 7. Fit a new washer to the drain plug
 
-Fit a new washer to the level bolt and tighten it to **5 Nm**.
+Fit a new washer to the drain plug.
 
-![Step 6 - refill with fresh gear oil](assets/screenshots/step_06_refill-with-fresh-gear-oil.jpg)
+![Step 7 - fit a new washer to the drain plug](assets/screenshots/step_07_fit-a-new-washer-to-the-drain-plug.jpg)
 
-### 7. Close the fill point and clean the area
+### 8. Tighten drain plug to 15 Nm
 
-Tighten the right motor cover metal cap to **5 Nm** and wipe any spilled oil from the surrounding parts.
+Tighten drain plug to 15 Nm.
 
-![Step 7 - close the fill point and clean the area](assets/screenshots/step_07_close-the-fill-point-and-clean-the-area.jpg)
+![Step 8 - tighten drain plug to 15 Nm](assets/screenshots/step_08_tighten-drain-plug-to-15-nm.jpg)
 
-### 8. Reinstall removed parts and inspect for leaks
+### 9. Remove oil level bolt
 
-Reinstall any removed guards or covers and check the service area for leaks before returning the bike to use.
+Remove oil level bolt.
 
-Tighten the skid plate bolts to **15 Nm**.
+![Step 9 - remove oil level bolt](assets/screenshots/step_09_remove-oil-level-bolt.jpg)
 
-![Step 8 - reinstall removed parts and inspect for leaks](assets/screenshots/step_08_reinstall-removed-parts-and-inspect-for-leaks.jpg)
+### 10. Ensure the bike is leveled
+
+Ensure the bike is leveled.
+
+![Step 10 - ensure the bike is leveled](assets/screenshots/step_10_ensure-the-bike-is-leveled.jpg)
+
+### 11. Fill in new oil until it starts to come out from the level bolt opening
+
+Fill in new oil until it starts to come out from the level bolt opening.
+
+![Step 11 - fill in new oil until it starts to come out from the level bolt opening](assets/screenshots/step_11_fill-in-new-oil-until-it-starts-to-come-out-from-the-level-bolt-opening.jpg)
+
+### 12. Fit a new washer to the level bolt
+
+Fit a new washer to the level bolt.
+
+![Step 12 - fit a new washer to the level bolt](assets/screenshots/step_12_fit-a-new-washer-to-the-level-bolt.jpg)
+
+### 13. Tighten the level bolt to 5 Nm
+
+Tighten the level bolt to 5 Nm.
+
+![Step 13 - tighten the level bolt to 5 Nm](assets/screenshots/step_13_tighten-the-level-bolt-to-5-nm.jpg)
+
+### 14. Tighten the right motor cover metal cap to 5 Nm
+
+Tighten the right motor cover metal cap to 5 Nm.
+
+![Step 14 - tighten the right motor cover metal cap to 5 Nm](assets/screenshots/step_14_tighten-the-right-motor-cover-metal-cap-to-5-nm.jpg)
+
+### 15. Clean any oil residue on the motor housing
+
+Clean any oil residue on the motor housing.
+
+![Step 15 - clean any oil residue on the motor housing](assets/screenshots/step_15_clean-any-oil-residue-on-the-motor-housing.jpg)
+
+### 16. Install the skid plate
+
+Install the skid plate. Refer to: 05.041.01 Remove and install skid plate Remove and install skid plate ↗.↗. Dispose of the used oil following your local regulatory requirements. is permitted only with the express written permission.
+
+![Step 16 - install the skid plate](assets/screenshots/step_16_install-the-skid-plate.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the drain plug | 15 Nm |
+| Tighten drain plug | 15 Nm |
 | Tighten the level bolt | 5 Nm |
 | Tighten the right motor cover metal cap | 5 Nm |
-| Tighten the skid plate bolts | 15 Nm |
 
 Verified torque items:
 
-- Tighten the drain plug: **15 Nm** from Stark technical manual `07.019.06 Change gear oil`.
-- Tighten the level bolt: **5 Nm** from Stark technical manual `07.019.06 Change gear oil`.
-- Tighten the right motor cover metal cap: **5 Nm** from Stark technical manual `07.019.06 Change gear oil`.
-- Tighten the skid plate bolts: **15 Nm** from Stark technical manual `05.041.01 Remove and install skid plate`.
+- Tighten drain plug: **15 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the level bolt: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the right motor cover metal cap: **5 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

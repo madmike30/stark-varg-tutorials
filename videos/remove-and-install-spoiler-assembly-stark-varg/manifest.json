@@ -19,36 +19,36 @@
   ],
   "frames": [
     {
-      "timestamp": 9,
-      "name": "step_01_prepare-access-to-the-spoiler-assembly"
+      "timestamp": 5,
+      "name": "step_01_unscrew-the-front-spoiler-bolts-2x-on-each-side"
     },
     {
-      "timestamp": 17,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-spoiler-assemb"
+      "timestamp": 5,
+      "name": "step_02_unscrew-the-seat-rear-center-bolt"
     },
     {
-      "timestamp": 25,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-spoiler"
+      "timestamp": 5,
+      "name": "step_03_unscrew-the-side-panel-bolts-1x-on-each-side"
     },
     {
-      "timestamp": 31,
-      "name": "step_04_remove-the-spoiler-assembly-from-the-bike"
+      "timestamp": 5,
+      "name": "step_04_grab-the-side-panels-and-pull-outwards-to-unclip-it"
     },
     {
-      "timestamp": 41,
-      "name": "step_05_position-the-spoiler-assembly-for-installation"
+      "timestamp": 5,
+      "name": "step_05_pull-the-complete-spoiler-assembly-backward-and-upward"
     },
     {
-      "timestamp": 49,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-spoiler-assemb"
+      "timestamp": 5,
+      "name": "step_06_slide-the-spoiler-assembly-forward-and-downward"
     },
     {
-      "timestamp": 54,
-      "name": "step_07_install-the-retaining-hardware-for-the-spoiler-assembly"
+      "timestamp": 5,
+      "name": "step_07_if-necessary-press-down-and-foward-on-the-seat-to-align-the-rear-center"
     },
     {
-      "timestamp": 65,
-      "name": "step_08_verify-the-completed-installation-of-the-spoiler-assembly"
+      "timestamp": 5,
+      "name": "step_08_tighten-the-spoiler-assembly-bolts"
     }
   ]
 }

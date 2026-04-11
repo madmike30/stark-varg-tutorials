@@ -6,98 +6,56 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Skid Plate
+### 1. Unscrew the skid plate bolts, 1x on each side and 2x at the rear underneath
 
-Remove the surrounding parts needed to expose the Skid Plate mounting points shown in the video.
+Unscrew the skid plate bolts, 1x on each side and 2x at the rear underneath.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - unscrew the skid plate bolts, 1x on each side and 2x at the rear underneath](assets/screenshots/step_01_unscrew-the-skid-plate-bolts-1x-on-each-side-and-2x-at-the-rear-undernea.jpg)
 
-![Step 1 - prepare access to the skid plate](assets/screenshots/step_01_prepare-access-to-the-skid-plate.jpg)
+### 2. Push the skid plate downwards
 
-### 2. Remove the visible retaining hardware for the Skid Plate
+Push the skid plate downwards.
 
-Remove the visible fasteners that secure the Skid Plate and keep the hardware in removal order.
-
-Support the component as the last fastener is removed.
-
-![Step 2 - remove the visible retaining hardware for the skid plate](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-skid-plate.jpg)
-
-### 3. Release any bracket, clip, or coupling attached to the Skid Plate
-
-Free any bracket, clip, spacer, linkage, or connector that still ties the Skid Plate to the bike.
-
-Note the orientation of these supporting pieces before setting them aside.
-
-![Step 3 - release any bracket, clip, or coupling attached to the skid plate](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-skid-pl.jpg)
-
-### 4. Remove the Skid Plate from the bike
-
-Remove the Skid Plate from the bike once the remaining supports and fasteners are free.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the skid plate from the bike](assets/screenshots/step_04_remove-the-skid-plate-from-the-bike.jpg)
+![Step 2 - push the skid plate downwards](assets/screenshots/step_02_push-the-skid-plate-downwards.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Skid Plate for installation
+### 3. Push the skid plate into place until the holes are aligned
 
-Return the Skid Plate to its mounting position and align the holes, tabs, or locating surfaces.
+Push the skid plate into place until the holes are aligned.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 3 - push the skid plate into place until the holes are aligned](assets/screenshots/step_03_push-the-skid-plate-into-place-until-the-holes-are-aligned.jpg)
 
-![Step 5 - position the skid plate for installation](assets/screenshots/step_05_position-the-skid-plate-for-installation.jpg)
+### 4. Tighten the bolts to 15 Nm
 
-### 6. Reconnect or refit the support pieces for the Skid Plate
+Tighten the bolts to 15 Nm. is permitted only with the express written permission.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Skid Plate.
-
-Make sure each supporting piece is seated correctly before final tightening.
-
-![Step 6 - reconnect or refit the support pieces for the skid plate](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-skid-plate.jpg)
-
-### 7. Install the retaining hardware for the Skid Plate
-
-Install the Skid Plate retaining hardware by hand first so the part stays aligned in its mounting points.
-
-Check that the component remains aligned while the hardware is brought fully home.
-
-Tighten the skid plate bolts to **15 Nm**.
-
-![Step 7 - install the retaining hardware for the skid plate](assets/screenshots/step_07_install-the-retaining-hardware-for-the-skid-plate.jpg)
-
-### 8. Verify the completed installation of the Skid Plate
-
-Inspect the final position of the Skid Plate and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the skid plate](assets/screenshots/step_08_verify-the-completed-installation-of-the-skid-plate.jpg)
+![Step 4 - tighten the bolts to 15 Nm](assets/screenshots/step_04_tighten-the-bolts-to-15-nm.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the skid plate bolts | 15 Nm |
+| Tighten the bolts | 15 Nm |
 
 Verified torque items:
 
-- Tighten the skid plate bolts: **15 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the bolts: **15 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

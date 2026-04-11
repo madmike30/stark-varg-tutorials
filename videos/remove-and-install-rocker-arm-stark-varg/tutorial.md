@@ -6,110 +6,214 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the rocker arm procedure. Each step below is aligned to the instruction text shown on screen in the original MX tutorial video.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
-- Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
+- Prepare the correct tools for the rear wheel, pull rod, rocker arm shaft, and linkage hardware shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Rocker Arm
+### 1. Remove chain link
 
-Remove the surrounding hardware needed to expose the Rocker Arm and its clamping or axle points.
+Remove the chain link.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove chain link](assets/screenshots/step_01_remove-chain-link.jpg)
 
-![Step 1 - prepare access to the rocker arm](assets/screenshots/step_01_prepare-access-to-the-rocker-arm.jpg)
+### 2. Run chain through front sprocket
 
-### 2. Remove the visible retaining hardware for the Rocker Arm
+Run the chain through the front sprocket to free it from the rear wheel area.
 
-Remove the visible Rocker Arm fasteners in the order shown and support the part as it comes free.
+![Step 2 - run chain through front sprocket](assets/screenshots/step_02_run-chain-through-front-sprocket.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Loosen rear axle lock nut
 
-![Step 2 - remove the visible retaining hardware for the rocker arm](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-rocker-arm.jpg)
+Loosen the rear axle lock nut.
 
-### 3. Release any bracket, clip, or coupling attached to the Rocker Arm
+![Step 3 - loosen rear axle lock nut](assets/screenshots/step_03_loosen-rear-axle-lock-nut.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Rocker Arm to the bike.
+### 4. Push lock nut
 
-Note the orientation of these supporting pieces before setting them aside.
+Push the lock nut inward.
 
-![Step 3 - release any bracket, clip, or coupling attached to the rocker arm](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-rocker-.jpg)
+![Step 4 - push lock nut](assets/screenshots/step_04_push-lock-nut.jpg)
 
-### 4. Remove the Rocker Arm from the bike
+### 5. Remove lock nut and tension adjuster
 
-Slide the Rocker Arm free from the bike once the clamping hardware and support pieces are released.
+Remove the lock nut and tension adjuster.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - remove lock nut and tension adjuster](assets/screenshots/step_05_remove-lock-nut-and-tension-adjuster.jpg)
 
-![Step 4 - remove the rocker arm from the bike](assets/screenshots/step_04_remove-the-rocker-arm-from-the-bike.jpg)
+### 6. Remove wheel axle
+
+Remove the rear wheel axle.
+
+![Step 6 - remove wheel axle](assets/screenshots/step_06_remove-wheel-axle.jpg)
+
+### 7. Loosen chain protector bolt
+
+Loosen the chain protector bolt.
+
+![Step 7 - loosen chain protector bolt](assets/screenshots/step_07_loosen-chain-protector-bolt.jpg)
+
+### 8. Remove pull rod lock nuts
+
+Remove the pull rod lock nuts.
+
+![Step 8 - remove pull rod lock nuts](assets/screenshots/step_08_remove-pull-rod-lock-nuts.jpg)
+
+### 9. Pull bolts out
+
+Pull the linkage bolts out.
+
+![Step 9 - pull bolts out](assets/screenshots/step_09_pull-bolts-out.jpg)
+
+### 10. Remove shaft lids
+
+Remove the shaft lids.
+
+![Step 10 - remove shaft lids](assets/screenshots/step_10_remove-shaft-lids.jpg)
+
+### 11. Remove shaft
+
+Remove the rocker arm shaft.
+
+![Step 11 - remove shaft](assets/screenshots/step_11_remove-shaft.jpg)
+
+### 12. Loosen reversed thread lock nut
+
+Hold the rocker arm and loosen the reversed-thread lock nut.
+
+![Step 12 - loosen reversed thread lock nut](assets/screenshots/step_12_loosen-reversed-thread-lock-nut.jpg)
+
+### 13. Remove rocker arm
+
+Remove the rocker arm.
+
+![Step 13 - remove rocker arm](assets/screenshots/step_13_remove-rocker-arm.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Rocker Arm for installation
+### 14. Hold rocker arm in place
 
-Return the Rocker Arm to its mounting position and align the holes, tabs, or locating surfaces.
+Hold the rocker arm in place for installation.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 14 - hold rocker arm in place](assets/screenshots/step_14_hold-rocker-arm-in-place.jpg)
 
-![Step 5 - position the rocker arm for installation](assets/screenshots/step_05_position-the-rocker-arm-for-installation.jpg)
+### 15. Tighten reversed thread lock nut to 5 Nm
 
-### 6. Reconnect or refit the support pieces for the Rocker Arm
+Tighten the reversed-thread lock nut to **5 Nm**.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Rocker Arm.
+![Step 15 - tighten reversed thread lock nut to 5 nm](assets/screenshots/step_15_tighten-reversed-thread-lock-nut-to-5-nm.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 16. Tighten shaft to 60 Nm
 
-![Step 6 - reconnect or refit the support pieces for the rocker arm](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-rocker-arm.jpg)
+Tighten the rocker arm shaft to **60 Nm**.
 
-### 7. Install the retaining hardware for the Rocker Arm
+![Step 16 - tighten shaft to 60 nm](assets/screenshots/step_16_tighten-shaft-to-60-nm.jpg)
 
-Install the Rocker Arm retaining hardware by hand first and keep the part aligned as the hardware is tightened.
+### 17. Insert bolts
 
-Check that the component remains aligned while the hardware is brought fully home.
+Insert the linkage bolts.
 
-Tighten the rocker arm reverse lock nut to **5 Nm**.
+![Step 17 - insert bolts](assets/screenshots/step_17_insert-bolts.jpg)
 
-Tighten the rocker arm main shaft to **60 Nm**.
+### 18. Tighten lock nuts to 60 Nm
 
-Tighten the rocker arm shaft lids to **5 Nm**.
+Tighten the lock nuts to **60 Nm**.
 
-Tighten the rocker arm lock nut to **60 Nm**.
+![Step 18 - tighten lock nuts to 60 nm](assets/screenshots/step_18_tighten-lock-nuts-to-60-nm.jpg)
 
-![Step 7 - install the retaining hardware for the rocker arm](assets/screenshots/step_07_install-the-retaining-hardware-for-the-rocker-arm.jpg)
+### 19. Tighten shaft lids to 5 Nm
 
-### 8. Verify the completed installation of the Rocker Arm
+Tighten the shaft lids to **5 Nm**.
 
-Inspect the final position of the Rocker Arm and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 19 - tighten shaft lids to 5 nm](assets/screenshots/step_19_tighten-shaft-lids-to-5-nm.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 20. Slide the wheel in
 
-![Step 8 - verify the completed installation of the rocker arm](assets/screenshots/step_08_verify-the-completed-installation-of-the-rocker-arm.jpg)
+Slide the rear wheel back into position.
+
+![Step 20 - slide the wheel in](assets/screenshots/step_20_slide-the-wheel-in.jpg)
+
+### 21. Ensure brake disc slides between pads
+
+Ensure the brake disc slides between the brake pads.
+
+![Step 21 - ensure brake disc slides between pads](assets/screenshots/step_21_ensure-brake-disc-slides-between-pads.jpg)
+
+### 22. Insert wheel axle
+
+Insert the rear wheel axle.
+
+![Step 22 - insert wheel axle](assets/screenshots/step_22_insert-wheel-axle.jpg)
+
+### 23. Install tension adjuster
+
+Install the tension adjuster.
+
+![Step 23 - install tension adjuster](assets/screenshots/step_23_install-tension-adjuster.jpg)
+
+### 24. Tighten axle lock nut
+
+Tighten the axle lock nut by hand until seated.
+
+![Step 24 - tighten axle lock nut](assets/screenshots/step_24_tighten-axle-lock-nut.jpg)
+
+### 25. Run chain through front sprocket again
+
+Run the chain through the front sprocket again.
+
+![Step 25 - run chain through front sprocket again](assets/screenshots/step_25_run-chain-through-front-sprocket-again.jpg)
+
+### 26. Install chain link
+
+Install the chain link.
+
+![Step 26 - install chain link](assets/screenshots/step_26_install-chain-link.jpg)
+
+### 27. Insert cloth between chain and sprocket
+
+Insert a piece of cloth between the chain and the wheel sprocket.
+
+![Step 27 - insert cloth between chain and sprocket](assets/screenshots/step_27_insert-cloth-between-chain-and-sprocket.jpg)
+
+### 28. Tighten axle lock nut to 80 Nm
+
+Tighten the axle lock nut to **80 Nm**.
+
+![Step 28 - tighten axle lock nut to 80 nm](assets/screenshots/step_28_tighten-axle-lock-nut-to-80-nm.jpg)
+
+### 29. Remove the cloth
+
+Remove the cloth.
+
+![Step 29 - remove the cloth](assets/screenshots/step_29_remove-the-cloth.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the rocker arm reverse lock nut | 5 Nm |
-| Tighten the rocker arm main shaft | 60 Nm |
-| Tighten the rocker arm shaft lids | 5 Nm |
-| Tighten the rocker arm lock nut | 60 Nm |
+| Tighten reversed-thread lock nut | 5 Nm |
+| Tighten rocker arm shaft | 60 Nm |
+| Tighten lock nuts | 60 Nm |
+| Tighten shaft lids | 5 Nm |
+| Tighten axle lock nut | 80 Nm |
 
 Verified torque items:
 
-- Tighten the rocker arm reverse lock nut: **5 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the rocker arm main shaft: **60 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the rocker arm shaft lids: **5 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the rocker arm lock nut: **60 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the reversed-thread lock nut: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the rocker arm shaft: **60 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the lock nuts: **60 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the shaft lids: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the axle lock nut: **80 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the rocker arm, linkage hardware, chain, and rear wheel are fully seated.
 - Recheck all torque-critical hardware before riding.
-- Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
+- Make sure the brake disc is centered between the pads and the chain is installed correctly.
 - Inspect the bike visually for any missing hardware before returning it to service.

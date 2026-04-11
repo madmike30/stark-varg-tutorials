@@ -19,36 +19,32 @@
   ],
   "frames": [
     {
-      "timestamp": 6,
-      "name": "step_01_prepare-access-to-the-front-number-plate"
+      "timestamp": 10,
+      "name": "step_01_unscrew-the-front-number-plate-bolt"
     },
     {
-      "timestamp": 11,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-number-p"
+      "timestamp": 12,
+      "name": "step_02_remove-the-number-plate-up-and-outward"
     },
     {
-      "timestamp": 16,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-n"
+      "timestamp": 12,
+      "name": "step_03_carefully-work-the-brake-line-out-of-the-number-plate-brackets"
     },
     {
-      "timestamp": 21,
-      "name": "step_04_remove-the-front-number-plate-from-the-bike"
+      "timestamp": 13,
+      "name": "step_04_carefully-fit-the-brake-line-in-the-number-plate-brackets"
     },
     {
-      "timestamp": 26,
-      "name": "step_05_position-the-front-number-plate-for-installation"
+      "timestamp": 29,
+      "name": "step_05_slide-the-number-plate-in-the-front-fender-slots"
     },
     {
-      "timestamp": 31,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-number-p"
+      "timestamp": 29,
+      "name": "step_06_hold-the-front-number-plate-with-the-holes-aligned"
     },
     {
-      "timestamp": 36,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-number-plate"
-    },
-    {
-      "timestamp": 41,
-      "name": "step_08_verify-the-completed-installation-of-the-front-number-plate"
+      "timestamp": 32,
+      "name": "step_07_tighten-the-front-number-plate-bolt-to-8-nm"
     }
   ]
 }

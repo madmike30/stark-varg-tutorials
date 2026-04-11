@@ -19,36 +19,68 @@
   ],
   "frames": [
     {
-      "timestamp": 13,
-      "name": "step_01_prepare-access-to-the-front-wheel"
+      "timestamp": 5,
+      "name": "step_01_loosen-the-fork-axle-clamp-bolts-on-the-left-fork"
+    },
+    {
+      "timestamp": 11,
+      "name": "step_02_loosen-the-front-wheel-axle-bolt"
     },
     {
       "timestamp": 25,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-wheel"
+      "name": "step_03_loosen-the-fork-axle-clamp-bolts-on-the-right-fork"
     },
     {
-      "timestamp": 35,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-w"
+      "timestamp": 28,
+      "name": "step_04_unscrew-the-front-axle-bolt-and-push-it-inside-before-removing-it-comple"
     },
     {
-      "timestamp": 49,
-      "name": "step_04_remove-the-front-wheel-from-the-bike"
+      "timestamp": 28,
+      "name": "step_05_lift-the-front-of-the-bike-until-the-rear-wheel-is-supported-on-the-floo"
     },
     {
-      "timestamp": 56,
-      "name": "step_05_position-the-front-wheel-for-installation"
+      "timestamp": 32,
+      "name": "step_06_hold-the-front-wheel-and-remove-the-axle"
     },
     {
-      "timestamp": 65,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-wheel"
+      "timestamp": 33,
+      "name": "step_07_slide-the-front-wheel-out-between-the-forks"
     },
     {
-      "timestamp": 70,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-wheel"
+      "timestamp": 36,
+      "name": "step_08_clean-the-wheel-axle-from-any-debris-and-apply-lithium-grease"
     },
     {
-      "timestamp": 78,
-      "name": "step_08_verify-the-completed-installation-of-the-front-wheel"
+      "timestamp": 43,
+      "name": "step_09_slide-the-wheel-between-the-forks"
+    },
+    {
+      "timestamp": 47,
+      "name": "step_10_align-the-fork-holes-with-the-wheel-hub-and-push-the-axle-inside-from-th"
+    },
+    {
+      "timestamp": 53,
+      "name": "step_11_tighten-the-axle-lock-bolt-by-hand-until-there-is-no-play"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_12_tighten-the-right-fork-axle-clamp-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_13_tighten-the-axle-lock-bolt-to-35-nm"
+    },
+    {
+      "timestamp": 84,
+      "name": "step_14_loosen-the-right-fork-axle-clamp-bolts"
+    },
+    {
+      "timestamp": 95,
+      "name": "step_15_spin-the-wheel-by-hand-a-few-times-and-squeeze-the-front-brake-lever"
+    },
+    {
+      "timestamp": 101,
+      "name": "step_16_tighten-all-fork-axle-clamp-bolts-to-15-nm-2x-on-the-right-fork-and-2x-o"
     }
   ]
 }

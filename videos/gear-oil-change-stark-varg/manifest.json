@@ -19,36 +19,68 @@
   ],
   "frames": [
     {
-      "timestamp": 22,
-      "name": "step_01_prepare-access-to-the-gear-oil-service-points"
+      "timestamp": 15,
+      "name": "step_01_ensure-the-bike-is-not-hot"
     },
     {
-      "timestamp": 43,
-      "name": "step_02_position-a-container-under-the-drain-point"
+      "timestamp": 41,
+      "name": "step_02_remove-the-skid-plate"
     },
     {
-      "timestamp": 64,
-      "name": "step_03_open-the-fill-and-drain-points"
+      "timestamp": 45,
+      "name": "step_03_place-a-suitable-container-directly-beneath-the-oil-drain-plug"
     },
     {
-      "timestamp": 85,
-      "name": "step_04_drain-the-old-gear-oil"
+      "timestamp": 49,
+      "name": "step_04_untighten-the-drain-plug"
     },
     {
-      "timestamp": 106,
-      "name": "step_05_reinstall-the-drain-hardware"
+      "timestamp": 51,
+      "name": "step_05_untighten-the-right-motor-cover-metal-cap"
     },
     {
-      "timestamp": 127,
-      "name": "step_06_refill-with-fresh-gear-oil"
+      "timestamp": 63,
+      "name": "step_06_pour-a-bit-of-clean-oil-in-through-the-metal-cap-opening-to-help-flush-t"
     },
     {
-      "timestamp": 140,
-      "name": "step_07_close-the-fill-point-and-clean-the-area"
+      "timestamp": 69,
+      "name": "step_07_fit-a-new-washer-to-the-drain-plug"
+    },
+    {
+      "timestamp": 73,
+      "name": "step_08_tighten-drain-plug-to-15-nm"
+    },
+    {
+      "timestamp": 80,
+      "name": "step_09_remove-oil-level-bolt"
+    },
+    {
+      "timestamp": 89,
+      "name": "step_10_ensure-the-bike-is-leveled"
+    },
+    {
+      "timestamp": 95,
+      "name": "step_11_fill-in-new-oil-until-it-starts-to-come-out-from-the-level-bolt-opening"
+    },
+    {
+      "timestamp": 110,
+      "name": "step_12_fit-a-new-washer-to-the-level-bolt"
+    },
+    {
+      "timestamp": 124,
+      "name": "step_13_tighten-the-level-bolt-to-5-nm"
+    },
+    {
+      "timestamp": 135,
+      "name": "step_14_tighten-the-right-motor-cover-metal-cap-to-5-nm"
+    },
+    {
+      "timestamp": 154,
+      "name": "step_15_clean-any-oil-residue-on-the-motor-housing"
     },
     {
       "timestamp": 169,
-      "name": "step_08_reinstall-removed-parts-and-inspect-for-leaks"
+      "name": "step_16_install-the-skid-plate"
     }
   ]
 }

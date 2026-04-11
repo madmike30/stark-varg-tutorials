@@ -19,36 +19,28 @@
   ],
   "frames": [
     {
-      "timestamp": 7,
-      "name": "step_01_prepare-access-to-the-front-brake-caliper"
+      "timestamp": 5,
+      "name": "step_01_unscrew-front-brake-caliper-bolts"
     },
     {
-      "timestamp": 13,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-brake-ca"
+      "timestamp": 32,
+      "name": "step_02_remove-front-brake-caliper"
     },
     {
-      "timestamp": 19,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b"
+      "timestamp": 35,
+      "name": "step_03_clean-the-front-brake-caliper-bolts-and-apply-medium-strength-thread-loc"
     },
     {
-      "timestamp": 25,
-      "name": "step_04_remove-the-front-brake-caliper-from-the-bike"
-    },
-    {
-      "timestamp": 31,
-      "name": "step_05_position-the-front-brake-caliper-for-installation"
-    },
-    {
-      "timestamp": 37,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-ca"
+      "timestamp": 35,
+      "name": "step_04_slide-the-brake-caliper-onto-the-front-brake-disc"
     },
     {
       "timestamp": 43,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-brake-caliper"
+      "name": "step_05_tighten-the-front-brake-caliper-bolts-by-hand-until-it-holds-in-place"
     },
     {
       "timestamp": 49,
-      "name": "step_08_verify-the-completed-installation-of-the-front-brake-caliper"
+      "name": "step_06_tighten-the-front-brake-caliper-bolts-to-25-nm"
     }
   ]
 }

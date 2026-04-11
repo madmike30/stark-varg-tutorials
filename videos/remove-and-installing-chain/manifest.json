@@ -19,36 +19,20 @@
   ],
   "frames": [
     {
-      "timestamp": 10,
-      "name": "step_01_prepare-access-to-the-remove-and-installing-chain"
+      "timestamp": 7,
+      "name": "step_01_remove-chain-link"
     },
     {
-      "timestamp": 19,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-remove-and-ins"
+      "timestamp": 34,
+      "name": "step_02_run-the-chain-through-the-front-sprocket"
     },
     {
-      "timestamp": 28,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-remove-"
+      "timestamp": 35,
+      "name": "step_03_run-the-chain-through-the-frant-sprocket"
     },
     {
-      "timestamp": 37,
-      "name": "step_04_remove-the-remove-and-installing-chain-from-the-bike"
-    },
-    {
-      "timestamp": 46,
-      "name": "step_05_position-the-remove-and-installing-chain-for-installation"
-    },
-    {
-      "timestamp": 55,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-remove-and-ins"
-    },
-    {
-      "timestamp": 64,
-      "name": "step_07_install-the-retaining-hardware-for-the-remove-and-installing"
-    },
-    {
-      "timestamp": 73,
-      "name": "step_08_verify-the-completed-installation-of-the-remove-and-installi"
+      "timestamp": 56,
+      "name": "step_04_install-chain"
     }
   ]
 }

@@ -6,98 +6,112 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Rear Shock
+### 1. Remove front bolts
 
-Remove the spoiler assembly and rear fender to gain access to the rear shock mounts.
+Remove front bolts.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove front bolts](assets/screenshots/step_01_remove-front-bolts.jpg)
 
-![Step 1 - prepare access to the rear shock](assets/screenshots/step_01_prepare-access-to-the-rear-shock.jpg)
+### 2. Remove rear center bolt
 
-### 2. Remove the visible retaining hardware for the Rear Shock
+Remove rear center bolt.
 
-Loosen the shock top bolt mount and remove the bottom lock nut.
+![Step 2 - remove rear center bolt](assets/screenshots/step_02_remove-rear-center-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the complete front spouier
 
-![Step 2 - remove the visible retaining hardware for the rear shock](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-rear-shock.jpg)
+Remove the complete front spouier.
 
-### 3. Release any bracket, clip, or coupling attached to the Rear Shock
+![Step 3 - remove the complete front spouier](assets/screenshots/step_03_remove-the-complete-front-spouier.jpg)
 
-Remove the top lock nut and bolt, then remove the bottom bolt from the shock mount.
+### 4. Loosen shock top lock nut
 
-Note the orientation of these supporting pieces before setting them aside.
+Loosen shock top lock nut.
 
-![Step 3 - release any bracket, clip, or coupling attached to the rear shock](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-sh.jpg)
+![Step 4 - loosen shock top lock nut](assets/screenshots/step_04_loosen-shock-top-lock-nut.jpg)
 
-### 4. Remove the Rear Shock from the bike
+### 5. Remove bottom lock nut
 
-Remove the rear shock from the bike and ensure the subframe rests back in the subframe slots.
+Remove bottom lock nut.
 
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the rear shock from the bike](assets/screenshots/step_04_remove-the-rear-shock-from-the-bike.jpg)
+![Step 5 - remove bottom lock nut](assets/screenshots/step_05_remove-bottom-lock-nut.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Rear Shock for installation
+### 6. Push subframe away and hold
 
-Push the subframe out of the way, hold the shock in place, and clean and grease the shock bolts with lithium grease.
+Push subframe away and hold.
 
-Insert the top bolt and nut first.
+![Step 6 - push subframe away and hold](assets/screenshots/step_06_push-subframe-away-and-hold.jpg)
 
-![Step 5 - position the rear shock for installation](assets/screenshots/step_05_position-the-rear-shock-for-installation.jpg)
+### 7. Remove shock
 
-### 6. Reconnect or refit the support pieces for the Rear Shock
+Remove shock.
 
-Align the bottom bolt housing by moving the rear wheel up and down, then insert the bottom bolt and nut.
+![Step 7 - remove shock](assets/screenshots/step_07_remove-shock.jpg)
 
-Place the bike on the ground so the suspension can rest on its own weight before final torque.
+### 8. Ensure the subframe rests in the subframe stots
 
-![Step 6 - reconnect or refit the support pieces for the rear shock](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-rear-shock.jpg)
+Ensure the subframe rests in the subframe stots.
 
-### 7. Install the retaining hardware for the Rear Shock
+![Step 8 - ensure the subframe rests in the subframe stots](assets/screenshots/step_08_ensure-the-subframe-rests-in-the-subframe-stots.jpg)
 
-Tighten the shock top nut to **40 Nm**.
+### 9. Push subframe away and hold
 
-Tighten the shock bottom nut to **40 Nm**.
+Push subframe away and hold.
 
-![Step 7 - install the retaining hardware for the rear shock](assets/screenshots/step_07_install-the-retaining-hardware-for-the-rear-shock.jpg)
+![Step 9 - push subframe away and hold](assets/screenshots/step_09_push-subframe-away-and-hold-2.jpg)
 
-### 8. Verify the completed installation of the Rear Shock
+### 10. Hold shoct in olace
 
-Place the bike back on the center stand, reinstall the rear fender and spoiler assembly, and inspect the final position of the rear shock.
+Hold shoct in olace.
 
-Check brake operation and verify the shock hardware is fully seated before returning the bike to service.
+![Step 10 - hold shoct in olace](assets/screenshots/step_10_hold-shoct-in-olace.jpg)
 
-![Step 8 - verify the completed installation of the rear shock](assets/screenshots/step_08_verify-the-completed-installation-of-the-rear-shock.jpg)
+### 11. Insert topo
 
-## Torque Summary
+Insert topo.
 
-| Component | Torque |
-| --- | ---: |
-| Tighten the shock top nut | 40 Nm |
-| Tighten the shock bottom nut | 40 Nm |
+![Step 11 - insert topo](assets/screenshots/step_11_insert-topo.jpg)
 
-Verified torque items:
+### 12. Tighten lock nut to 40
 
-- Tighten the shock top nut: **40 Nm** from Stark technical document `08.058.01` Remove and install shock.
-- Tighten the shock bottom nut: **40 Nm** from Stark technical document `08.058.01` Remove and install shock.
+Tighten lock nut to 40.
+
+![Step 12 - tighten lock nut to 40](assets/screenshots/step_12_tighten-lock-nut-to-40.jpg)
+
+### 13. Insert bottom bolt
+
+Insert bottom bolt.
+
+![Step 13 - insert bottom bolt](assets/screenshots/step_13_insert-bottom-bolt.jpg)
+
+### 14. Tighten lock nut ta 40
+
+Tighten lock nut ta 40.
+
+![Step 14 - tighten lock nut ta 40](assets/screenshots/step_14_tighten-lock-nut-ta-40.jpg)
+
+### 15. Tighten lower rear fender bolts
+
+Tighten lower rear fender bolts.
+
+![Step 15 - tighten lower rear fender bolts](assets/screenshots/step_15_tighten-lower-rear-fender-bolts.jpg)
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

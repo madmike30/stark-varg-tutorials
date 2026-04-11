@@ -19,36 +19,140 @@
   ],
   "frames": [
     {
-      "timestamp": 119,
-      "name": "step_01_prepare-access-to-the-power-train-unit"
+      "timestamp": 7,
+      "name": "step_01_remove-the-spoiler-assembly"
     },
     {
-      "timestamp": 237,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-power-train-un"
+      "timestamp": 58,
+      "name": "step_02_remove-the-carbon-fiber-spoiler-assembly"
     },
     {
-      "timestamp": 355,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-power-t"
+      "timestamp": 89,
+      "name": "step_03_remove-the-front-fender"
+    },
+    {
+      "timestamp": 101,
+      "name": "step_04_disconnect-the-can-bus-connector"
+    },
+    {
+      "timestamp": 105,
+      "name": "step_05_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery"
+    },
+    {
+      "timestamp": 122,
+      "name": "step_06_disconnect-the-battery-power-plug"
+    },
+    {
+      "timestamp": 155,
+      "name": "step_07_install-the-protective-cover-onto-the-power-socket-on-the-battery"
+    },
+    {
+      "timestamp": 168,
+      "name": "step_08_drain-the-coolant"
+    },
+    {
+      "timestamp": 179,
+      "name": "step_09_remove-the-battery"
+    },
+    {
+      "timestamp": 216,
+      "name": "step_10_remove-the-forks"
+    },
+    {
+      "timestamp": 258,
+      "name": "step_11_remove-the-subframe"
+    },
+    {
+      "timestamp": 307,
+      "name": "step_12_remove-the-shock"
+    },
+    {
+      "timestamp": 318,
+      "name": "step_13_remove-the-chain"
+    },
+    {
+      "timestamp": 348,
+      "name": "step_14_remove-the-rear-brake-caliper"
+    },
+    {
+      "timestamp": 411,
+      "name": "step_15_remove-the-side-plates"
+    },
+    {
+      "timestamp": 450,
+      "name": "step_16_remove-the-swingarm"
     },
     {
       "timestamp": 473,
-      "name": "step_04_remove-the-power-train-unit-from-the-bike"
+      "name": "step_17_loosen-the-inverter-to-battery-wiring-harness-from-the-holding-brackets"
     },
     {
-      "timestamp": 591,
-      "name": "step_05_position-the-power-train-unit-for-installation"
+      "timestamp": 488,
+      "name": "step_18_untighten-the-frame-to-motor-shaft"
     },
     {
-      "timestamp": 709,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-power-train-un"
+      "timestamp": 524,
+      "name": "step_19_carefully-lift-the-frame-off-the-powertrain-unit"
     },
     {
-      "timestamp": 827,
-      "name": "step_07_install-the-retaining-hardware-for-the-power-train-unit"
+      "timestamp": 537,
+      "name": "step_20_place-the-powertrain-unit-firmly-on-the-stand"
     },
     {
-      "timestamp": 945,
-      "name": "step_08_verify-the-completed-installation-of-the-power-train-unit"
+      "timestamp": 543,
+      "name": "step_21_place-the-frame-over-the-powertrain-unit-and-align-the-mounting-holes"
+    },
+    {
+      "timestamp": 556,
+      "name": "step_22_insert-and-tighten-the-frame-to-motor-shaft-enough-to-secure-it-in-place"
+    },
+    {
+      "timestamp": 612,
+      "name": "step_23_install-the-side-plates"
+    },
+    {
+      "timestamp": 649,
+      "name": "step_24_install-swingarm"
+    },
+    {
+      "timestamp": 714,
+      "name": "step_25_install-the-rear-brake-caliper"
+    },
+    {
+      "timestamp": 740,
+      "name": "step_26_install-the-shock"
+    },
+    {
+      "timestamp": 851,
+      "name": "step_27_install-the-subframe"
+    },
+    {
+      "timestamp": 887,
+      "name": "step_28_install-the-forks"
+    },
+    {
+      "timestamp": 895,
+      "name": "step_29_install-the-battery"
+    },
+    {
+      "timestamp": 922,
+      "name": "step_30_tighten-the-frame-to-motor-shaft-to-60-nm"
+    },
+    {
+      "timestamp": 981,
+      "name": "step_31_filling-the-coolant"
+    },
+    {
+      "timestamp": 1005,
+      "name": "step_32_install-the-carbon-fiber-spoiler-assembly"
+    },
+    {
+      "timestamp": 1037,
+      "name": "step_33_install-the-spoiler-assembly"
+    },
+    {
+      "timestamp": 1056,
+      "name": "step_34_install-the-front-fender"
     }
   ]
 }

@@ -6,100 +6,70 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Front Brake Assembly
+### 1. Remove the front number plate
 
-Remove the surrounding parts needed to expose the Front Brake Assembly and its routing or mounting points.
+Remove the front number plate. Refer to: 01.006.01 Remove and Install front number plate ↗.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove the front number plate](assets/screenshots/step_01_remove-the-front-number-plate.jpg)
 
-![Step 1 - prepare access to the front brake assembly](assets/screenshots/step_01_prepare-access-to-the-front-brake-assembly.jpg)
+### 2. Remove the front line bracket
 
-### 2. Remove the visible retaining hardware for the Front Brake Assembly
+Remove the front line bracket. Refer to: 02.011.01 Remove and Install front brake line bracket ↗.
 
-Remove the visible Front Brake Assembly fasteners while supporting the brake component as the hardware comes free.
+![Step 2 - remove the front line bracket](assets/screenshots/step_02_remove-the-front-line-bracket.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the front brake caliper
 
-![Step 2 - remove the visible retaining hardware for the front brake assembly](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-front-brake-as.jpg)
+Remove the front brake caliper. Refer to: 02.005.01 Remove and Install front brake caliper ↗.
 
-### 3. Release any bracket, clip, or coupling attached to the Front Brake Assembly
+![Step 3 - remove the front brake caliper](assets/screenshots/step_03_remove-the-front-brake-caliper.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Front Brake Assembly to the bike.
+### 4. Remove the hand brake master cylinder
 
-Note the orientation of these supporting pieces before setting them aside.
+Remove the hand brake master cylinder. Refer to: 02.009.01 Remove and Install hand break master cylinder ↗. Beware of falling objects.
 
-![Step 3 - release any bracket, clip, or coupling attached to the front brake assembly](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b.jpg)
-
-### 4. Remove the Front Brake Assembly from the bike
-
-Remove the Front Brake Assembly from the bike once the last fastener and any routed support pieces are released.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the front brake assembly from the bike](assets/screenshots/step_04_remove-the-front-brake-assembly-from-the-bike.jpg)
+![Step 4 - remove the hand brake master cylinder](assets/screenshots/step_04_remove-the-hand-brake-master-cylinder.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Front Brake Assembly for installation
+### 5. Install the front brake master cylinder
 
-Return the front brake master cylinder and front brake caliper to their mounting positions.
+Install the front brake master cylinder. Refer to: 02.009.01 Remove and Install hand break master cylinder ↗.
 
-Hold the master cylinder in place and tighten the clamp bolts to **6 Nm**.
+![Step 5 - install the front brake master cylinder](assets/screenshots/step_05_install-the-front-brake-master-cylinder.jpg)
 
-![Step 5 - position the front brake assembly for installation](assets/screenshots/step_05_position-the-front-brake-assembly-for-installation.jpg)
+### 6. Install the front brake caliper
 
-### 6. Reconnect or refit the support pieces for the Front Brake Assembly
+Install the front brake caliper. Refer to: 02.005.01 Remove and Install front brake caliper ↗.
 
-Slide the front brake caliper onto the brake disc and start the caliper bolts by hand.
+![Step 6 - install the front brake caliper](assets/screenshots/step_06_install-the-front-brake-caliper.jpg)
 
-Tighten the front brake caliper bolts to **25 Nm**.
+### 7. Install the front line bracket
 
-![Step 6 - reconnect or refit the support pieces for the front brake assembly](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-as.jpg)
+Install the front line bracket. Refer to: 02.011.01 Remove and Install front brake line bracket ↗.
 
-### 7. Install the retaining hardware for the Front Brake Assembly
+![Step 7 - install the front line bracket](assets/screenshots/step_07_install-the-front-line-bracket.jpg)
 
-Align the front brake line bracket so the hose is not twisted or crushed, then install the bracket screws.
+### 8. Install the front number plate
 
-Tighten the fork brake line bracket screws to **3 Nm**.
+Install the front number plate. Refer to: 01.006.01 Remove and Install front number plate ↗. Check brake operation before operating the bike. is permitted only with the express written permission.
 
-![Step 7 - install the retaining hardware for the front brake assembly](assets/screenshots/step_07_install-the-retaining-hardware-for-the-front-brake-assembly.jpg)
-
-### 8. Verify the completed installation of the Front Brake Assembly
-
-Refit the front number plate and make sure the brake line is routed back into the number plate guides.
-
-Inspect the full front brake assembly for correct fit, routing, and lever feel before returning the bike to service.
-
-![Step 8 - verify the completed installation of the front brake assembly](assets/screenshots/step_08_verify-the-completed-installation-of-the-front-brake-assembl.jpg)
-
-## Torque Summary
-
-| Component | Torque |
-| --- | ---: |
-| Tighten the hand brake master cylinder clamp bolts | 6 Nm |
-| Tighten the front brake caliper bolts | 25 Nm |
-| Tighten the fork brake line bracket screws | 3 Nm |
-
-Verified torque items:
-
-- Tighten the hand brake master cylinder clamp bolts: **6 Nm** from Stark technical manual `02.009.01 Remove and install hand brake master cylinder`.
-- Tighten the front brake caliper bolts: **25 Nm** from Stark technical manual `02.005.01 Remove and install front brake caliper`.
-- Tighten the fork brake line bracket screws: **3 Nm** from Stark technical manual `02.011.01 Remove and install front brake line bracket`.
+![Step 8 - install the front number plate](assets/screenshots/step_08_install-the-front-number-plate.jpg)
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

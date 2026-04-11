@@ -19,36 +19,20 @@
   ],
   "frames": [
     {
-      "timestamp": 7,
-      "name": "step_01_prepare-access-to-the-skid-plate"
+      "timestamp": 5,
+      "name": "step_01_unscrew-the-skid-plate-bolts-1x-on-each-side-and-2x-at-the-rear-undernea"
     },
     {
-      "timestamp": 13,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-skid-plate"
+      "timestamp": 35,
+      "name": "step_02_push-the-skid-plate-downwards"
     },
     {
-      "timestamp": 19,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-skid-pl"
-    },
-    {
-      "timestamp": 25,
-      "name": "step_04_remove-the-skid-plate-from-the-bike"
-    },
-    {
-      "timestamp": 31,
-      "name": "step_05_position-the-skid-plate-for-installation"
-    },
-    {
-      "timestamp": 37,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-skid-plate"
-    },
-    {
-      "timestamp": 43,
-      "name": "step_07_install-the-retaining-hardware-for-the-skid-plate"
+      "timestamp": 45,
+      "name": "step_03_push-the-skid-plate-into-place-until-the-holes-are-aligned"
     },
     {
       "timestamp": 49,
-      "name": "step_08_verify-the-completed-installation-of-the-skid-plate"
+      "name": "step_04_tighten-the-bolts-to-15-nm"
     }
   ]
 }

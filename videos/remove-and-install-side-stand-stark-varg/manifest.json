@@ -19,36 +19,80 @@
   ],
   "frames": [
     {
-      "timestamp": 14,
-      "name": "step_01_prepare-access-to-the-side-stand"
+      "timestamp": 7,
+      "name": "step_01_unhook-the-side-stand-springs-from-the-side-stand-spring-plate"
     },
     {
-      "timestamp": 27,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-side-stand"
+      "timestamp": 18,
+      "name": "step_02_unhook-the-side-stand-springs-from-the-side-stand-spring-bolt"
     },
     {
-      "timestamp": 40,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-side-st"
+      "timestamp": 20,
+      "name": "step_03_unscrew-the-side-stand-leg-bolt"
     },
     {
-      "timestamp": 53,
-      "name": "step_04_remove-the-side-stand-from-the-bike"
+      "timestamp": 20,
+      "name": "step_04_release-the-side-stand-leg-from-the-rubber-strap"
     },
     {
-      "timestamp": 66,
-      "name": "step_05_position-the-side-stand-for-installation"
+      "timestamp": 24,
+      "name": "step_05_remove-the-side-stand-leg"
     },
     {
-      "timestamp": 79,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-side-stand"
+      "timestamp": 35,
+      "name": "step_06_unscrew-the-side-stand-bracket-bolts"
     },
     {
-      "timestamp": 92,
-      "name": "step_07_install-the-retaining-hardware-for-the-side-stand"
+      "timestamp": 38,
+      "name": "step_07_remove-the-side-stand-bracket"
     },
     {
-      "timestamp": 117,
-      "name": "step_08_verify-the-completed-installation-of-the-side-stand"
+      "timestamp": 38,
+      "name": "step_08_remove-the-side-stand-rubber-strap"
+    },
+    {
+      "timestamp": 43,
+      "name": "step_09_install-the-side-stand-rubber-strap"
+    },
+    {
+      "timestamp": 54,
+      "name": "step_10_install-the-side-stand-bracket"
+    },
+    {
+      "timestamp": 67,
+      "name": "step_11_apply-grease-to-the-bushing-and-the-o-rings"
+    },
+    {
+      "timestamp": 74,
+      "name": "step_12_tighten-the-side-stand-bracket-bolts-to-20-nm"
+    },
+    {
+      "timestamp": 74,
+      "name": "step_13_install-the-side-stand-leg"
+    },
+    {
+      "timestamp": 81,
+      "name": "step_14_clean-the-side-stand-leg-bolt-from-any-debris-and-apply-medium-strength"
+    },
+    {
+      "timestamp": 85,
+      "name": "step_15_tighten-the-side-stand-leg-bolt-by-hand-until-it-holds-in-place"
+    },
+    {
+      "timestamp": 88,
+      "name": "step_16_fit-the-side-stand-leg-through-the-rubber-strap"
+    },
+    {
+      "timestamp": 88,
+      "name": "step_17_tighten-the-side-stand-leg-bolt-to-35-nm"
+    },
+    {
+      "timestamp": 95,
+      "name": "step_18_hook-the-springs-on-the-top-bolt-by-the-left-side-plate"
+    },
+    {
+      "timestamp": 96,
+      "name": "step_19_hook-the-springs-on-the-side-stand-legs-spring-plate"
     }
   ]
 }

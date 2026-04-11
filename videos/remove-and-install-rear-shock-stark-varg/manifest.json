@@ -19,36 +19,64 @@
   ],
   "frames": [
     {
-      "timestamp": 20,
-      "name": "step_01_prepare-access-to-the-rear-shock"
+      "timestamp": 6,
+      "name": "step_01_remove-front-bolts"
     },
     {
-      "timestamp": 39,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-rear-shock"
+      "timestamp": 12,
+      "name": "step_02_remove-rear-center-bolt"
     },
     {
-      "timestamp": 58,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-sh"
+      "timestamp": 27,
+      "name": "step_03_remove-the-complete-front-spouier"
+    },
+    {
+      "timestamp": 50,
+      "name": "step_04_loosen-shock-top-lock-nut"
+    },
+    {
+      "timestamp": 57,
+      "name": "step_05_remove-bottom-lock-nut"
+    },
+    {
+      "timestamp": 75,
+      "name": "step_06_push-subframe-away-and-hold"
     },
     {
       "timestamp": 77,
-      "name": "step_04_remove-the-rear-shock-from-the-bike"
+      "name": "step_07_remove-shock"
     },
     {
-      "timestamp": 96,
-      "name": "step_05_position-the-rear-shock-for-installation"
+      "timestamp": 79,
+      "name": "step_08_ensure-the-subframe-rests-in-the-subframe-stots"
     },
     {
-      "timestamp": 115,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-rear-shock"
+      "timestamp": 84,
+      "name": "step_09_push-subframe-away-and-hold-2"
     },
     {
-      "timestamp": 132,
-      "name": "step_07_install-the-retaining-hardware-for-the-rear-shock"
+      "timestamp": 89,
+      "name": "step_10_hold-shoct-in-olace"
     },
     {
-      "timestamp": 168,
-      "name": "step_08_verify-the-completed-installation-of-the-rear-shock"
+      "timestamp": 92,
+      "name": "step_11_insert-topo"
+    },
+    {
+      "timestamp": 98,
+      "name": "step_12_tighten-lock-nut-to-40"
+    },
+    {
+      "timestamp": 105,
+      "name": "step_13_insert-bottom-bolt"
+    },
+    {
+      "timestamp": 110,
+      "name": "step_14_tighten-lock-nut-ta-40"
+    },
+    {
+      "timestamp": 133,
+      "name": "step_15_tighten-lower-rear-fender-bolts"
     }
   ]
 }

@@ -6,98 +6,86 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Handlebar
+### 1. Remove the front number plate
 
-Remove the surrounding parts needed to expose the Handlebar mounting points shown in the video.
+Remove the front number plate. Refer to: 01.006.01 Remove and install fron number plate ↗.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove the front number plate](assets/screenshots/step_01_remove-the-front-number-plate.jpg)
 
-![Step 1 - prepare access to the handlebar](assets/screenshots/step_01_prepare-access-to-the-handlebar.jpg)
+### 2. Untighten the front connectors lid bolts
 
-### 2. Remove the visible retaining hardware for the Handlebar
+Untighten the front connectors lid bolts.
 
-Remove the visible fasteners that secure the Handlebar and keep the hardware in removal order.
+![Step 2 - untighten the front connectors lid bolts](assets/screenshots/step_02_untighten-the-front-connectors-lid-bolts.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the connectors box lid
 
-![Step 2 - remove the visible retaining hardware for the handlebar](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-handlebar.jpg)
+Remove the connectors box lid.
 
-### 3. Release any bracket, clip, or coupling attached to the Handlebar
+![Step 3 - remove the connectors box lid](assets/screenshots/step_03_remove-the-connectors-box-lid.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Handlebar to the bike.
+### 4. Disconnect the throttle, wireless charger module and control switch sockets
 
-Note the orientation of these supporting pieces before setting them aside.
+Disconnect the throttle, wireless charger module and control switch sockets.
 
-![Step 3 - release any bracket, clip, or coupling attached to the handlebar](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-handleb.jpg)
-
-### 4. Remove the Handlebar from the bike
-
-Remove the Handlebar from the bike once the remaining supports and fasteners are free.
-
-Inspect the removed part and the mounting points before reassembly.
-
-![Step 4 - remove the handlebar from the bike](assets/screenshots/step_04_remove-the-handlebar-from-the-bike.jpg)
+![Step 4 - disconnect the throttle, wireless charger module and control switch sockets](assets/screenshots/step_04_disconnect-the-throttle-wireless-charger-module-and-control-switch-socke.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Handlebar for installation
+### 5. Connect the throttle, wireless charger module and control switch sockets
 
-Return the Handlebar to its mounting position and align the holes, tabs, or locating surfaces.
+Connect the throttle, wireless charger module and control switch sockets.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 5 - connect the throttle, wireless charger module and control switch sockets](assets/screenshots/step_05_connect-the-throttle-wireless-charger-module-and-control-switch-sockets.jpg)
 
-![Step 5 - position the handlebar for installation](assets/screenshots/step_05_position-the-handlebar-for-installation.jpg)
+### 6. Gently press the plugs onto the respective front connectors box slots
 
-### 6. Reconnect or refit the support pieces for the Handlebar
+Gently press the plugs onto the respective front connectors box slots.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Handlebar.
+![Step 6 - gently press the plugs onto the respective front connectors box slots](assets/screenshots/step_06_gently-press-the-plugs-onto-the-respective-front-connectors-box-slots.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 7. Clip the lid onto the front connectors box
 
-![Step 6 - reconnect or refit the support pieces for the handlebar](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-handlebar.jpg)
+Clip the lid onto the front connectors box.
 
-### 7. Install the retaining hardware for the Handlebar
+![Step 7 - clip the lid onto the front connectors box](assets/screenshots/step_07_clip-the-lid-onto-the-front-connectors-box.jpg)
 
-Install the Handlebar retaining hardware by hand first so the part stays aligned in its mounting points.
+### 8. Tighten the front connectors box bolts to 5 Nm
 
-Check that the component remains aligned while the hardware is brought fully home.
+Tighten the front connectors box bolts to 5 Nm.
 
-Tighten the docking station bolts to **30 Nm**.
+![Step 8 - tighten the front connectors box bolts to 5 Nm](assets/screenshots/step_08_tighten-the-front-connectors-box-bolts-to-5-nm.jpg)
 
-![Step 7 - install the retaining hardware for the handlebar](assets/screenshots/step_07_install-the-retaining-hardware-for-the-handlebar.jpg)
+### 9. Install the front number plate
 
-### 8. Verify the completed installation of the Handlebar
+Install the front number plate. Refer to: 01.006.01 Remove and install fron number plate ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
 
-Inspect the final position of the Handlebar and confirm that all hardware, clips, and surrounding parts are back in place.
-
-Check the component for correct fit and movement before returning the bike to service.
-
-![Step 8 - verify the completed installation of the handlebar](assets/screenshots/step_08_verify-the-completed-installation-of-the-handlebar.jpg)
+![Step 9 - install the front number plate](assets/screenshots/step_09_install-the-front-number-plate.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the docking station bolts | 30 Nm |
+| Tighten the front connectors box bolts | 5 Nm |
 
 Verified torque items:
 
-- Tighten the docking station bolts: **30 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the front connectors box bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

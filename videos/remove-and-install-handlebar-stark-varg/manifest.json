@@ -19,36 +19,40 @@
   ],
   "frames": [
     {
-      "timestamp": 19,
-      "name": "step_01_prepare-access-to-the-handlebar"
+      "timestamp": 10,
+      "name": "step_01_remove-the-front-number-plate"
     },
     {
-      "timestamp": 37,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-handlebar"
+      "timestamp": 28,
+      "name": "step_02_untighten-the-front-connectors-lid-bolts"
     },
     {
-      "timestamp": 55,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-handleb"
+      "timestamp": 39,
+      "name": "step_03_remove-the-connectors-box-lid"
     },
     {
-      "timestamp": 73,
-      "name": "step_04_remove-the-handlebar-from-the-bike"
+      "timestamp": 52,
+      "name": "step_04_disconnect-the-throttle-wireless-charger-module-and-control-switch-socke"
     },
     {
-      "timestamp": 91,
-      "name": "step_05_position-the-handlebar-for-installation"
+      "timestamp": 57,
+      "name": "step_05_connect-the-throttle-wireless-charger-module-and-control-switch-sockets"
     },
     {
-      "timestamp": 109,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-handlebar"
+      "timestamp": 72,
+      "name": "step_06_gently-press-the-plugs-onto-the-respective-front-connectors-box-slots"
     },
     {
-      "timestamp": 127,
-      "name": "step_07_install-the-retaining-hardware-for-the-handlebar"
+      "timestamp": 114,
+      "name": "step_07_clip-the-lid-onto-the-front-connectors-box"
     },
     {
-      "timestamp": 145,
-      "name": "step_08_verify-the-completed-installation-of-the-handlebar"
+      "timestamp": 139,
+      "name": "step_08_tighten-the-front-connectors-box-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 155,
+      "name": "step_09_install-the-front-number-plate"
     }
   ]
 }

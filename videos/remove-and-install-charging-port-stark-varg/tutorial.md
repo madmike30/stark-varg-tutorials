@@ -6,84 +6,114 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Charging Port
+### 1. Remove the spoiler assembly
 
-Open the surrounding panel area so the Charging Port mounting points and wiring path are fully accessible.
+Remove the spoiler assembly. Refer to: 01.007.01 Remove and install spoiler assembly ↗. Please take all the necessary precautionary measures to handle high voltage components. High voltage components should only be handled by qualified personnel.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove the spoiler assembly](assets/screenshots/step_01_remove-the-spoiler-assembly.jpg)
 
-![Step 1 - prepare access to the charging port](assets/screenshots/step_01_prepare-access-to-the-charging-port.jpg)
+### 2. Disconnect the CAN BUS connector
 
-### 2. Remove the visible retaining hardware for the Charging Port
+Disconnect the CAN BUS connector.
 
-Remove the visible Charging Port fasteners and support the part so it does not hang on the wiring.
+![Step 2 - disconnect the CAN BUS connector](assets/screenshots/step_02_disconnect-the-can-bus-connector.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Install the protective cover onto the CAN BUS socket on the battery
 
-![Step 2 - remove the visible retaining hardware for the charging port](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-charging-port.jpg)
+Install the protective cover onto the CAN BUS socket on the battery.
 
-### 3. Release any bracket, clip, or coupling attached to the Charging Port
+![Step 3 - install the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_03_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Charging Port to the bike.
+### 4. Disconnect the battery power plug
 
-Note the orientation of these supporting pieces before setting them aside.
+Disconnect the battery power plug.
 
-![Step 3 - release any bracket, clip, or coupling attached to the charging port](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-chargin.jpg)
+![Step 4 - disconnect the battery power plug](assets/screenshots/step_04_disconnect-the-battery-power-plug.jpg)
 
-### 4. Remove the Charging Port from the bike
+### 5. Install the protective cover onto the power socket on the battery
 
-Remove the Charging Port from the bike once the connector, routing clips, and mounting hardware are free.
+Install the protective cover onto the power socket on the battery.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - install the protective cover onto the power socket on the battery](assets/screenshots/step_05_install-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
 
-![Step 4 - remove the charging port from the bike](assets/screenshots/step_04_remove-the-charging-port-from-the-bike.jpg)
+### 6. Disconnect the charging port sockets
+
+Disconnect the charging port sockets.
+
+![Step 6 - disconnect the charging port sockets](assets/screenshots/step_06_disconnect-the-charging-port-sockets.jpg)
+
+### 7. Untighten the charging port bolts
+
+Untighten the charging port bolts.
+
+![Step 7 - untighten the charging port bolts](assets/screenshots/step_07_untighten-the-charging-port-bolts.jpg)
+
+### 8. Remove the charging port
+
+Remove the charging port.
+
+![Step 8 - remove the charging port](assets/screenshots/step_08_remove-the-charging-port.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Charging Port for installation
+### 9. Place the charging port in place
 
-Return the Charging Port to its mounting position and align the holes, tabs, or locating surfaces.
+Place the charging port in place.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 9 - place the charging port in place](assets/screenshots/step_09_place-the-charging-port-in-place.jpg)
 
-![Step 5 - position the charging port for installation](assets/screenshots/step_05_position-the-charging-port-for-installation.jpg)
+### 10. Tighten the charging port bolts to 5 Nm
 
-### 6. Reconnect or refit the support pieces for the Charging Port
+Tighten the charging port bolts to 5 Nm.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Charging Port.
+![Step 10 - tighten the charging port bolts to 5 Nm](assets/screenshots/step_10_tighten-the-charging-port-bolts-to-5-nm.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 11. Connect the charging port sockets
 
-![Step 6 - reconnect or refit the support pieces for the charging port](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-charging-port.jpg)
+Connect the charging port sockets. Please take all the necessary precaucionary measures to handle high voltage components. High voltage components should only be handled by qualified personnel.
 
-### 7. Install the retaining hardware for the Charging Port
+![Step 11 - connect the charging port sockets](assets/screenshots/step_11_connect-the-charging-port-sockets.jpg)
 
-Install the Charging Port mounting hardware by hand first and seat the part evenly against its bracket or panel.
+### 12. Remove the protective cover onto the power socket on the battery
 
-Check that the component remains aligned while the hardware is brought fully home.
+Remove the protective cover onto the power socket on the battery.
 
-Tighten the charging port bolts to **5 Nm**.
+![Step 12 - remove the protective cover onto the power socket on the battery](assets/screenshots/step_12_remove-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
 
-![Step 7 - install the retaining hardware for the charging port](assets/screenshots/step_07_install-the-retaining-hardware-for-the-charging-port.jpg)
+### 13. Connect the battery power plug
 
-### 8. Verify the completed installation of the Charging Port
+Connect the battery power plug.
 
-Inspect the final position of the Charging Port and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 13 - connect the battery power plug](assets/screenshots/step_13_connect-the-battery-power-plug.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 14. Remove the protective cover onto the CAN BUS socket on the battery
 
-![Step 8 - verify the completed installation of the charging port](assets/screenshots/step_08_verify-the-completed-installation-of-the-charging-port.jpg)
+Remove the protective cover onto the CAN BUS socket on the battery.
+
+![Step 14 - remove the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_14_remove-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
+
+### 15. Connect the CAN BUS connector
+
+Connect the CAN BUS connector.
+
+![Step 15 - connect the CAN BUS connector](assets/screenshots/step_15_connect-the-can-bus-connector.jpg)
+
+### 16. Install the spoiler assembly
+
+Install the spoiler assembly. Refer to: 01.007.01 Remove and install spoiler assembly ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+
+![Step 16 - install the spoiler assembly](assets/screenshots/step_16_install-the-spoiler-assembly.jpg)
 
 ## Torque Summary
 
@@ -93,11 +123,11 @@ Check the component for correct fit and movement before returning the bike to se
 
 Verified torque items:
 
-- Tighten the charging port bolts: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the charging port bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

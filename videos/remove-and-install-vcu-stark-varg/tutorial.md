@@ -6,98 +6,172 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the VCU
+### 1. Disconnect the handlebar controls
 
-Open the surrounding panel area so the VCU mounting points and wiring path are fully accessible.
+Disconnect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - disconnect the handlebar controls](assets/screenshots/step_01_disconnect-the-handlebar-controls.jpg)
 
-![Step 1 - prepare access to the vcu](assets/screenshots/step_01_prepare-access-to-the-vcu.jpg)
+### 2. Remove the front fender
 
-### 2. Remove the visible retaining hardware for the VCU
+Remove the front fender. Refer to: 01.005.01 Remove and install front fender ↗.
 
-Remove the visible VCU fasteners and support the part so it does not hang on the wiring.
+![Step 2 - remove the front fender](assets/screenshots/step_02_remove-the-front-fender.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the carbon fiber spoiler assembly
 
-![Step 2 - remove the visible retaining hardware for the vcu](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-vcu.jpg)
+Remove the carbon fiber spoiler assembly. Refer to: 01.007.01 Remove and install carbon fiber spoiler assembly ↗. Please take all the necessary precautionary measures to handle high voltage components. High voltage components should only be handled by qualified personnel.
 
-### 3. Release any bracket, clip, or coupling attached to the VCU
+![Step 3 - remove the carbon fiber spoiler assembly](assets/screenshots/step_03_remove-the-carbon-fiber-spoiler-assembly.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the VCU to the bike.
+### 4. Disconnect the CAN BUS connector
 
-Note the orientation of these supporting pieces before setting them aside.
+Disconnect the CAN BUS connector.
 
-![Step 3 - release any bracket, clip, or coupling attached to the vcu](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-vcu.jpg)
+![Step 4 - disconnect the CAN BUS connector](assets/screenshots/step_04_disconnect-the-can-bus-connector.jpg)
 
-### 4. Remove the VCU from the bike
+### 5. Install the protective cover onto the CAN BUS socket on the battery
 
-Remove the VCU from the bike once the connector, routing clips, and mounting hardware are free.
+Install the protective cover onto the CAN BUS socket on the battery.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - install the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_05_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
 
-![Step 4 - remove the vcu from the bike](assets/screenshots/step_04_remove-the-vcu-from-the-bike.jpg)
+### 6. Disconnect the battery power plug
+
+Disconnect the battery power plug.
+
+![Step 6 - disconnect the battery power plug](assets/screenshots/step_06_disconnect-the-battery-power-plug.jpg)
+
+### 7. Install the protective cover onto the power socket on the battery
+
+Install the protective cover onto the power socket on the battery.
+
+![Step 7 - install the protective cover onto the power socket on the battery](assets/screenshots/step_07_install-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
+
+### 8. Disconnect the main wiring harness VCU socket
+
+Disconnect the main wiring harness VCU socket.
+
+![Step 8 - disconnect the main wiring harness VCU socket](assets/screenshots/step_08_disconnect-the-main-wiring-harness-vcu-socket.jpg)
+
+### 9. Untighten the VCU side bolts
+
+Untighten the VCU side bolts.
+
+![Step 9 - untighten the VCU side bolts](assets/screenshots/step_09_untighten-the-vcu-side-bolts.jpg)
+
+### 10. Untighten the VCU upper bolt
+
+Untighten the VCU upper bolt.
+
+![Step 10 - untighten the VCU upper bolt](assets/screenshots/step_10_untighten-the-vcu-upper-bolt.jpg)
+
+### 11. Remove VCU
+
+Remove VCU.
+
+![Step 11 - remove VCU](assets/screenshots/step_11_remove-vcu.jpg)
 
 ## Installation Procedure
 
-### 5. Position the VCU for installation
+### 12. Hold the VCU in place
 
-Return the VCU to its mounting position and align the holes, tabs, or locating surfaces.
+Hold the VCU in place.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 12 - hold the VCU in place](assets/screenshots/step_12_hold-the-vcu-in-place.jpg)
 
-![Step 5 - position the vcu for installation](assets/screenshots/step_05_position-the-vcu-for-installation.jpg)
+### 13. Tighten the VCU top bolt by hand until VCU is secured in place
 
-### 6. Reconnect or refit the support pieces for the VCU
+Tighten the VCU top bolt by hand until VCU is secured in place.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the VCU.
+![Step 13 - tighten the VCU top bolt by hand until VCU is secured in place](assets/screenshots/step_13_tighten-the-vcu-top-bolt-by-hand-until-vcu-is-secured-in-place.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 14. Tighten the VCU side bolts to 5 Nm
 
-![Step 6 - reconnect or refit the support pieces for the vcu](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-vcu.jpg)
+Tighten the VCU side bolts to 5 Nm.
 
-### 7. Install the retaining hardware for the VCU
+![Step 14 - tighten the VCU side bolts to 5 Nm](assets/screenshots/step_14_tighten-the-vcu-side-bolts-to-5-nm.jpg)
 
-Install the VCU mounting hardware by hand first and seat the part evenly against its bracket or panel.
+### 15. Tighten the VCU top bolt to 5 Nm
 
-Check that the component remains aligned while the hardware is brought fully home.
+Tighten the VCU top bolt to 5 Nm.
 
-Tighten the VCU bolts to **5 Nm**.
+![Step 15 - tighten the VCU top bolt to 5 Nm](assets/screenshots/step_15_tighten-the-vcu-top-bolt-to-5-nm.jpg)
 
-![Step 7 - install the retaining hardware for the vcu](assets/screenshots/step_07_install-the-retaining-hardware-for-the-vcu.jpg)
+### 16. Connect the VCU socket
 
-### 8. Verify the completed installation of the VCU
+Connect the VCU socket. Please take all the necessary precautionary measures to handle high voltage components. High voltage components should only be handled by qualified personnel.
 
-Inspect the final position of the VCU and confirm that all hardware, clips, and surrounding parts are back in place.
+![Step 16 - connect the VCU socket](assets/screenshots/step_16_connect-the-vcu-socket.jpg)
 
-Check the component for correct fit and movement before returning the bike to service.
+### 17. Remove the protective cover onto the power socket on the battery
 
-![Step 8 - verify the completed installation of the vcu](assets/screenshots/step_08_verify-the-completed-installation-of-the-vcu.jpg)
+Remove the protective cover onto the power socket on the battery.
+
+![Step 17 - remove the protective cover onto the power socket on the battery](assets/screenshots/step_17_remove-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
+
+### 18. Connect the battery power plug
+
+Connect the battery power plug.
+
+![Step 18 - connect the battery power plug](assets/screenshots/step_18_connect-the-battery-power-plug.jpg)
+
+### 19. Remove the protective cover onto the CAN BUS socket on the battery
+
+Remove the protective cover onto the CAN BUS socket on the battery.
+
+![Step 19 - remove the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_19_remove-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
+
+### 20. Connect the CAN BUS connector
+
+Connect the CAN BUS connector.
+
+![Step 20 - connect the CAN BUS connector](assets/screenshots/step_20_connect-the-can-bus-connector.jpg)
+
+### 21. Install the carbon fiber spoiler assembly
+
+Install the carbon fiber spoiler assembly. Refer to: 01.007.01 Remove and install carbon fiber spoiler assembly ↗.
+
+![Step 21 - install the carbon fiber spoiler assembly](assets/screenshots/step_21_install-the-carbon-fiber-spoiler-assembly.jpg)
+
+### 22. Install the front fender
+
+Install the front fender. Refer to: 01.005.01 Remove and install front fender ↗.
+
+![Step 22 - install the front fender](assets/screenshots/step_22_install-the-front-fender.jpg)
+
+### 23. Disconnect the handlebar controls
+
+Disconnect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+
+![Step 23 - disconnect the handlebar controls](assets/screenshots/step_23_disconnect-the-handlebar-controls-2.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the VCU bolts | 5 Nm |
+| Tighten the VCU side bolts | 5 Nm |
+| Tighten the VCU top bolt | 5 Nm |
 
 Verified torque items:
 
-- Tighten the VCU bolts: **5 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the VCU side bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the VCU top bolt: **5 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

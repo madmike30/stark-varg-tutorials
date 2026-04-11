@@ -19,36 +19,36 @@
   ],
   "frames": [
     {
-      "timestamp": 15,
-      "name": "step_01_prepare-access-to-the-front-brake-assembly"
+      "timestamp": 9,
+      "name": "step_01_remove-the-front-number-plate"
     },
     {
-      "timestamp": 29,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-brake-as"
+      "timestamp": 37,
+      "name": "step_02_remove-the-front-line-bracket"
     },
     {
-      "timestamp": 43,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b"
+      "timestamp": 44,
+      "name": "step_03_remove-the-front-brake-caliper"
     },
     {
-      "timestamp": 57,
-      "name": "step_04_remove-the-front-brake-assembly-from-the-bike"
+      "timestamp": 75,
+      "name": "step_04_remove-the-hand-brake-master-cylinder"
     },
     {
-      "timestamp": 71,
-      "name": "step_05_position-the-front-brake-assembly-for-installation"
+      "timestamp": 93,
+      "name": "step_05_install-the-front-brake-master-cylinder"
     },
     {
-      "timestamp": 85,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-as"
+      "timestamp": 96,
+      "name": "step_06_install-the-front-brake-caliper"
     },
     {
-      "timestamp": 99,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-brake-assembly"
+      "timestamp": 116,
+      "name": "step_07_install-the-front-line-bracket"
     },
     {
-      "timestamp": 113,
-      "name": "step_08_verify-the-completed-installation-of-the-front-brake-assembl"
+      "timestamp": 122,
+      "name": "step_08_install-the-front-number-plate"
     }
   ]
 }

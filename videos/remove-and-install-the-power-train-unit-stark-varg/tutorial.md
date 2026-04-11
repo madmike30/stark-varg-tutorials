@@ -6,86 +6,236 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Power Train Unit
+### 1. Remove the spoiler assembly
 
-Remove the surrounding parts needed to expose the Power Train Unit mounting points shown in the video.
+Remove the spoiler assembly. 01.007.01 Remove and install spoiler assembly ↗.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove the spoiler assembly](assets/screenshots/step_01_remove-the-spoiler-assembly.jpg)
 
-![Step 1 - prepare access to the power train unit](assets/screenshots/step_01_prepare-access-to-the-power-train-unit.jpg)
+### 2. Remove the carbon fiber spoiler assembly
 
-### 2. Remove the visible retaining hardware for the Power Train Unit
+Remove the carbon fiber spoiler assembly. Refer to: 01.021.01 Remove and install carbon fiber spoiler assembly ↗.
 
-Remove the visible fasteners that secure the Power Train Unit and keep the hardware in removal order.
+![Step 2 - remove the carbon fiber spoiler assembly](assets/screenshots/step_02_remove-the-carbon-fiber-spoiler-assembly.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove the front fender
 
-![Step 2 - remove the visible retaining hardware for the power train unit](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-power-train-un.jpg)
+Remove the front fender. Refer to: 01.005.01 Remove and install front fender ↗. Please take all the necessary precautionary measures to handle high voltage components. High voltage components should only be handled by qualified personnel.
 
-### 3. Release any bracket, clip, or coupling attached to the Power Train Unit
+![Step 3 - remove the front fender](assets/screenshots/step_03_remove-the-front-fender.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Power Train Unit to the bike.
+### 4. Disconnect the CAN BUS connector
 
-Note the orientation of these supporting pieces before setting them aside.
+Disconnect the CAN BUS connector.
 
-![Step 3 - release any bracket, clip, or coupling attached to the power train unit](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-power-t.jpg)
+![Step 4 - disconnect the CAN BUS connector](assets/screenshots/step_04_disconnect-the-can-bus-connector.jpg)
 
-### 4. Remove the Power Train Unit from the bike
+### 5. Install the protective cover onto the CAN BUS socket on the battery
 
-Remove the Power Train Unit from the bike once the remaining supports and fasteners are free.
+Install the protective cover onto the CAN BUS socket on the battery.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - install the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_05_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
 
-![Step 4 - remove the power train unit from the bike](assets/screenshots/step_04_remove-the-power-train-unit-from-the-bike.jpg)
+### 6. Disconnect the battery power plug
+
+Disconnect the battery power plug.
+
+![Step 6 - disconnect the battery power plug](assets/screenshots/step_06_disconnect-the-battery-power-plug.jpg)
+
+### 7. Install the protective cover onto the power socket on the battery
+
+Install the protective cover onto the power socket on the battery.
+
+![Step 7 - install the protective cover onto the power socket on the battery](assets/screenshots/step_07_install-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
+
+### 8. Drain the coolant
+
+Drain the coolant. Refer to: 10.002.04 Draining and filing cooling system ↗.
+
+![Step 8 - drain the coolant](assets/screenshots/step_08_drain-the-coolant.jpg)
+
+### 9. Remove the battery
+
+Remove the battery. Refer to: 07.005.01 Remove and install the battery ↗.
+
+![Step 9 - remove the battery](assets/screenshots/step_09_remove-the-battery.jpg)
+
+### 10. Remove the forks
+
+Remove the forks. Refer to: 08.022.01 Remove and install forks ↗.
+
+![Step 10 - remove the forks](assets/screenshots/step_10_remove-the-forks.jpg)
+
+### 11. Remove the subframe
+
+Remove the subframe. Refer to: 05.022.01 Remove and install subframe ↗.
+
+![Step 11 - remove the subframe](assets/screenshots/step_11_remove-the-subframe.jpg)
+
+### 12. Remove the shock
+
+Remove the shock. Refer to: 08.058.01 Remove and install shock ↗.
+
+![Step 12 - remove the shock](assets/screenshots/step_12_remove-the-shock.jpg)
+
+### 13. Remove the chain
+
+Remove the chain. Refer to: 03.011.01 Remove and install rear wheel ↗. Once radiator cap is untighten, coolant should start flowing from the draining hole.
+
+![Step 13 - remove the chain](assets/screenshots/step_13_remove-the-chain.jpg)
+
+### 14. Remove the rear brake caliper
+
+Remove the rear brake caliper. Refer to: 02.024.01 Remove and install rear brake caliper ↗. Secure the rear brake caliper onto the frame.
+
+![Step 14 - remove the rear brake caliper](assets/screenshots/step_14_remove-the-rear-brake-caliper.jpg)
+
+### 15. Remove the side plates
+
+Remove the side plates. Refer to: 05.005.01 Remove and install left side plate ↗. 05.006.01 Remove and install right side plate ↗.
+
+![Step 15 - remove the side plates](assets/screenshots/step_15_remove-the-side-plates.jpg)
+
+### 16. Remove the swingarm
+
+Remove the swingarm. Refer to: 05.052.01 Remove and install swingarm ↗.
+
+![Step 16 - remove the swingarm](assets/screenshots/step_16_remove-the-swingarm.jpg)
+
+### 17. Loosen the inverter to battery wiring harness from the holding brackets
+
+Loosen the inverter to battery wiring harness from the holding brackets.
+
+![Step 17 - loosen the inverter to battery wiring harness from the holding brackets](assets/screenshots/step_17_loosen-the-inverter-to-battery-wiring-harness-from-the-holding-brackets.jpg)
+
+### 18. Untighten the frame to motor shaft
+
+Untighten the frame to motor shaft.
+
+![Step 18 - untighten the frame to motor shaft](assets/screenshots/step_18_untighten-the-frame-to-motor-shaft.jpg)
+
+### 19. Carefully lift the frame off the powertrain unit
+
+Carefully lift the frame off the powertrain unit. Secure the rear brake caliper onto the frame.
+
+![Step 19 - carefully lift the frame off the powertrain unit](assets/screenshots/step_19_carefully-lift-the-frame-off-the-powertrain-unit.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Power Train Unit for installation
+### 20. Place the powertrain unit firmly on the stand
 
-Return the Power Train Unit to its mounting position and align the holes, tabs, or locating surfaces.
+Place the powertrain unit firmly on the stand.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 20 - place the powertrain unit firmly on the stand](assets/screenshots/step_20_place-the-powertrain-unit-firmly-on-the-stand.jpg)
 
-![Step 5 - position the power train unit for installation](assets/screenshots/step_05_position-the-power-train-unit-for-installation.jpg)
+### 21. Place the frame over the powertrain unit and align the mounting holes
 
-### 6. Reconnect or refit the support pieces for the Power Train Unit
+Place the frame over the powertrain unit and align the mounting holes.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Power Train Unit.
+![Step 21 - place the frame over the powertrain unit and align the mounting holes](assets/screenshots/step_21_place-the-frame-over-the-powertrain-unit-and-align-the-mounting-holes.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 22. Insert and tighten the frame to motor shaft enough to secure it in place
 
-![Step 6 - reconnect or refit the support pieces for the power train unit](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-power-train-un.jpg)
+Insert and tighten the frame to motor shaft enough to secure it in place. Torque to spec only on step 11.
 
-### 7. Install the retaining hardware for the Power Train Unit
+![Step 22 - insert and tighten the frame to motor shaft enough to secure it in place](assets/screenshots/step_22_insert-and-tighten-the-frame-to-motor-shaft-enough-to-secure-it-in-place.jpg)
 
-Install the Power Train Unit retaining hardware by hand first so the part stays aligned in its mounting points.
+### 23. Install the side plates
 
-Check that the component remains aligned while the hardware is brought fully home.
+Install the side plates. Refer to: 05.005.01 Remove and install left side plate ↗. 05.006.01 Remove and install right side plate ↗.
 
-![Step 7 - install the retaining hardware for the power train unit](assets/screenshots/step_07_install-the-retaining-hardware-for-the-power-train-unit.jpg)
+![Step 23 - install the side plates](assets/screenshots/step_23_install-the-side-plates.jpg)
 
-### 8. Verify the completed installation of the Power Train Unit
+### 24. Install swingarm
 
-Inspect the final position of the Power Train Unit and confirm that all hardware, clips, and surrounding parts are back in place.
+Install swingarm. Refer to: 05.052.01 Remove and install swingarm ↗. If the bike is fitted with rear foot brake, skip steps 6 and 7.
 
-Check the component for correct fit and movement before returning the bike to service.
+![Step 24 - install swingarm](assets/screenshots/step_24_install-swingarm.jpg)
 
-![Step 8 - verify the completed installation of the power train unit](assets/screenshots/step_08_verify-the-completed-installation-of-the-power-train-unit.jpg)
+### 25. Install the rear brake caliper
+
+Install the rear brake caliper. Refer to: 02.024.01 Remove and install rear brake caliper ↗.
+
+![Step 25 - install the rear brake caliper](assets/screenshots/step_25_install-the-rear-brake-caliper.jpg)
+
+### 26. Install the shock
+
+Install the shock. Refer to: 08.058.01 Remove and install shock ↗.
+
+![Step 26 - install the shock](assets/screenshots/step_26_install-the-shock.jpg)
+
+### 27. Install the subframe
+
+Install the subframe. Refer to: 05.022.01 Remove and install subframe ↗.
+
+![Step 27 - install the subframe](assets/screenshots/step_27_install-the-subframe.jpg)
+
+### 28. Install the forks
+
+Install the forks. Refer to: 08.022.01 Remove and install forks ↗.
+
+![Step 28 - install the forks](assets/screenshots/step_28_install-the-forks.jpg)
+
+### 29. Install the battery
+
+Install the battery. Refer to: 07.005.01 Remove and install the battery ↗.
+
+![Step 29 - install the battery](assets/screenshots/step_29_install-the-battery.jpg)
+
+### 30. Tighten the frame to motor shaft to 60 Nm
+
+Tighten the frame to motor shaft to 60 Nm.
+
+![Step 30 - tighten the frame to motor shaft to 60 Nm](assets/screenshots/step_30_tighten-the-frame-to-motor-shaft-to-60-nm.jpg)
+
+### 31. Filling the coolant
+
+Filling the coolant. Refer to: 10.002.04 Draining and filling cooling system ↗.
+
+![Step 31 - filling the coolant](assets/screenshots/step_31_filling-the-coolant.jpg)
+
+### 32. Install the carbon fiber spoiler assembly
+
+Install the carbon fiber spoiler assembly. Refer to: 01.021.01 Remove and install carbon fiber spoiler assembly ↗.
+
+![Step 32 - install the carbon fiber spoiler assembly](assets/screenshots/step_32_install-the-carbon-fiber-spoiler-assembly.jpg)
+
+### 33. Install the spoiler assembly
+
+Install the spoiler assembly. 01.007.01 Remove and install spoiler assembly ↗.
+
+![Step 33 - install the spoiler assembly](assets/screenshots/step_33_install-the-spoiler-assembly.jpg)
+
+### 34. Install the front fender
+
+Install the front fender. Refer to: 01.005.01 Remove and install front fender ↗. Check brake operation before operating the bike. is permitted only with the express written permission.
+
+![Step 34 - install the front fender](assets/screenshots/step_34_install-the-front-fender.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the frame to motor shaft | 60 Nm |
+
+Verified torque items:
+
+- Tighten the frame to motor shaft: **60 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

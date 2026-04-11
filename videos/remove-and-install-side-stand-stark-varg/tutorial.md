@@ -6,86 +6,132 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the procedure shown in the original MX tutorial video. Each step below is aligned to the instruction text shown on screen.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
 - Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Side Stand
+### 1. Unhook the side stand springs from the side stand spring plate
 
-Remove the surrounding parts needed to expose the Side Stand mounting points shown in the video.
+Unhook the side stand springs from the side stand spring plate.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - unhook the side stand springs from the side stand spring plate](assets/screenshots/step_01_unhook-the-side-stand-springs-from-the-side-stand-spring-plate.jpg)
 
-![Step 1 - prepare access to the side stand](assets/screenshots/step_01_prepare-access-to-the-side-stand.jpg)
+### 2. Unhook the side stand springs from the side stand spring bolt
 
-### 2. Remove the visible retaining hardware for the Side Stand
+Unhook the side stand springs from the side stand spring bolt.
 
-Remove the visible fasteners that secure the Side Stand and keep the hardware in removal order.
+![Step 2 - unhook the side stand springs from the side stand spring bolt](assets/screenshots/step_02_unhook-the-side-stand-springs-from-the-side-stand-spring-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Unscrew the side stand leg bolt
 
-![Step 2 - remove the visible retaining hardware for the side stand](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-side-stand.jpg)
+Unscrew the side stand leg bolt.
 
-### 3. Release any bracket, clip, or coupling attached to the Side Stand
+![Step 3 - unscrew the side stand leg bolt](assets/screenshots/step_03_unscrew-the-side-stand-leg-bolt.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Side Stand to the bike.
+### 4. Release the side stand leg from the rubber strap
 
-Note the orientation of these supporting pieces before setting them aside.
+Release the side stand leg from the rubber strap.
 
-![Step 3 - release any bracket, clip, or coupling attached to the side stand](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-side-st.jpg)
+![Step 4 - release the side stand leg from the rubber strap](assets/screenshots/step_04_release-the-side-stand-leg-from-the-rubber-strap.jpg)
 
-### 4. Remove the Side Stand from the bike
+### 5. Remove the side stand leg
 
-Remove the Side Stand from the bike once the remaining supports and fasteners are free.
+Remove the side stand leg.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - remove the side stand leg](assets/screenshots/step_05_remove-the-side-stand-leg.jpg)
 
-![Step 4 - remove the side stand from the bike](assets/screenshots/step_04_remove-the-side-stand-from-the-bike.jpg)
+### 6. Unscrew the side stand bracket bolts
+
+Unscrew the side stand bracket bolts.
+
+![Step 6 - unscrew the side stand bracket bolts](assets/screenshots/step_06_unscrew-the-side-stand-bracket-bolts.jpg)
+
+### 7. Remove the side stand bracket
+
+Remove the side stand bracket.
+
+![Step 7 - remove the side stand bracket](assets/screenshots/step_07_remove-the-side-stand-bracket.jpg)
+
+### 8. Remove the side stand rubber strap
+
+Remove the side stand rubber strap. Refer to: 05.075.01 rubber strap ↗.
+
+![Step 8 - remove the side stand rubber strap](assets/screenshots/step_08_remove-the-side-stand-rubber-strap.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Side Stand for installation
+### 9. Install the side stand rubber strap
 
-Return the Side Stand and rubber strap to their mounting position and align the holes, tabs, or locating surfaces.
+Install the side stand rubber strap. Refer to: 05.075.01 rubber strap ↗.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 9 - install the side stand rubber strap](assets/screenshots/step_09_install-the-side-stand-rubber-strap.jpg)
 
-![Step 5 - position the side stand for installation](assets/screenshots/step_05_position-the-side-stand-for-installation.jpg)
+### 10. Install the side stand bracket
 
-### 6. Reconnect or refit the support pieces for the Side Stand
+Install the side stand bracket.
 
-Reinstall the side stand bracket and related support pieces for the Side Stand.
+![Step 10 - install the side stand bracket](assets/screenshots/step_10_install-the-side-stand-bracket.jpg)
 
-Apply grease to the bushing and O-rings before the bracket is fully seated.
+### 11. Apply grease to the bushing and the o-rings
 
-![Step 6 - reconnect or refit the support pieces for the side stand](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-side-stand.jpg)
+Apply grease to the bushing and the o-rings.
 
-### 7. Install the retaining hardware for the Side Stand
+![Step 11 - apply grease to the bushing and the o-rings](assets/screenshots/step_11_apply-grease-to-the-bushing-and-the-o-rings.jpg)
 
-Install the Side Stand retaining hardware by hand first so the part stays aligned in its mounting points.
+### 12. Tighten the side stand bracket bolts to 20 Nm
 
-Clean the side stand leg bolt, apply medium strength thread locker, and fit the side stand leg through the rubber strap before final tightening.
+Tighten the side stand bracket bolts to 20 Nm.
 
-Tighten the side stand bracket bolts to **20 Nm**.
+![Step 12 - tighten the side stand bracket bolts to 20 Nm](assets/screenshots/step_12_tighten-the-side-stand-bracket-bolts-to-20-nm.jpg)
 
-Tighten the side stand leg bolt to **35 Nm**.
+### 13. Install the side stand leg
 
-![Step 7 - install the retaining hardware for the side stand](assets/screenshots/step_07_install-the-retaining-hardware-for-the-side-stand.jpg)
+Install the side stand leg.
 
-### 8. Verify the completed installation of the Side Stand
+![Step 13 - install the side stand leg](assets/screenshots/step_13_install-the-side-stand-leg.jpg)
 
-Hook the side stand springs back onto the top bolt and spring plate, then inspect the final position of the Side Stand.
+### 14. Clean the side stand leg bolt from any debris and apply medium strength thread locker
 
-Confirm the springs are rehooked correctly and check the component for correct fit and movement before returning the bike to service.
+Clean the side stand leg bolt from any debris and apply medium strength thread locker.
 
-![Step 8 - verify the completed installation of the side stand](assets/screenshots/step_08_verify-the-completed-installation-of-the-side-stand.jpg)
+![Step 14 - clean the side stand leg bolt from any debris and apply medium strength thread locker](assets/screenshots/step_14_clean-the-side-stand-leg-bolt-from-any-debris-and-apply-medium-strength.jpg)
+
+### 15. Tighten the side stand leg bolt by hand until it holds in place
+
+Tighten the side stand leg bolt by hand until it holds in place.
+
+![Step 15 - tighten the side stand leg bolt by hand until it holds in place](assets/screenshots/step_15_tighten-the-side-stand-leg-bolt-by-hand-until-it-holds-in-place.jpg)
+
+### 16. Fit the side stand leg through the rubber strap
+
+Fit the side stand leg through the rubber strap.
+
+![Step 16 - fit the side stand leg through the rubber strap](assets/screenshots/step_16_fit-the-side-stand-leg-through-the-rubber-strap.jpg)
+
+### 17. Tighten the side stand leg bolt to 35 Nm
+
+Tighten the side stand leg bolt to 35 Nm.
+
+![Step 17 - tighten the side stand leg bolt to 35 Nm](assets/screenshots/step_17_tighten-the-side-stand-leg-bolt-to-35-nm.jpg)
+
+### 18. Hook the springs on the top bolt by the left side plate
+
+Hook the springs on the top bolt by the left side plate.
+
+![Step 18 - hook the springs on the top bolt by the left side plate](assets/screenshots/step_18_hook-the-springs-on-the-top-bolt-by-the-left-side-plate.jpg)
+
+### 19. Hook the springs on the side stand leg’s spring plate
+
+Hook the springs on the side stand leg’s spring plate. is permitted only with the express written permission.
+
+![Step 19 - hook the springs on the side stand leg’s spring plate](assets/screenshots/step_19_hook-the-springs-on-the-side-stand-legs-spring-plate.jpg)
 
 ## Torque Summary
 
@@ -96,12 +142,12 @@ Confirm the springs are rehooked correctly and check the component for correct f
 
 Verified torque items:
 
-- Tighten the side stand bracket bolts: **20 Nm** from Stark technical manual `05.038.01 Remove and install side stand`.
-- Tighten the side stand leg bolt: **35 Nm** from Stark technical manual `05.038.01 Remove and install side stand`.
+- Tighten the side stand bracket bolts: **20 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the side stand leg bolt: **35 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the serviced components are fully seated and all fasteners are tightened in the correct order.
 - Recheck all torque-critical hardware before riding.
 - Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.

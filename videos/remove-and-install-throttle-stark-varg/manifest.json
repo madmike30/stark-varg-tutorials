@@ -19,36 +19,44 @@
   ],
   "frames": [
     {
-      "timestamp": 11,
-      "name": "step_01_prepare-access-to-the-throttle"
+      "timestamp": 7,
+      "name": "step_01_disconnect-the-handlebar-controls"
     },
     {
-      "timestamp": 21,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-throttle"
+      "timestamp": 22,
+      "name": "step_02_remove-the-control-switch-wiring-rubber-strap"
     },
     {
-      "timestamp": 31,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-throttl"
+      "timestamp": 24,
+      "name": "step_03_carefully-pull-the-wiring-out-of-the-triple-clamp-routing-channel"
     },
     {
-      "timestamp": 41,
-      "name": "step_04_remove-the-throttle-from-the-bike"
+      "timestamp": 24,
+      "name": "step_04_loosen-the-throttle-clamp-bolt"
     },
     {
-      "timestamp": 51,
-      "name": "step_05_position-the-throttle-for-installation"
+      "timestamp": 27,
+      "name": "step_05_slide-the-throttle-out-of-the-handlebar"
     },
     {
-      "timestamp": 61,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-throttle"
+      "timestamp": 42,
+      "name": "step_06_slide-the-throttle-onto-the-handlebar"
     },
     {
-      "timestamp": 71,
-      "name": "step_07_install-the-retaining-hardware-for-the-throttle"
+      "timestamp": 50,
+      "name": "step_07_tighten-the-throttle-clamp-bolt-to-3-nm"
     },
     {
-      "timestamp": 81,
-      "name": "step_08_verify-the-completed-installation-of-the-throttle"
+      "timestamp": 50,
+      "name": "step_08_fit-the-cable-through-the-triple-clamp-routing-channel"
+    },
+    {
+      "timestamp": 53,
+      "name": "step_09_connect-the-handlebar-controls"
+    },
+    {
+      "timestamp": 56,
+      "name": "step_10_fit-the-throttle-wiring-rubber-strap-to-secure-it-to-the-handlebar"
     }
   ]
 }

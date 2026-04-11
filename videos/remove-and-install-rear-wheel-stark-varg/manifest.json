@@ -19,36 +19,64 @@
   ],
   "frames": [
     {
-      "timestamp": 10,
-      "name": "step_01_prepare-access-to-the-rear-wheel"
+      "timestamp": 6,
+      "name": "step_01_loosen-rear-axle-lock-bolt"
     },
     {
-      "timestamp": 19,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-rear-wheel"
+      "timestamp": 12,
+      "name": "step_02_push-the-lock-bolt-to-be-able-to-pull-from-the-opposite-side"
     },
     {
-      "timestamp": 25,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-rear-wh"
+      "timestamp": 14,
+      "name": "step_03_remove-the-lock-bolt-and-chain-tension-adjuster"
+    },
+    {
+      "timestamp": 22,
+      "name": "step_04_remove-axle"
+    },
+    {
+      "timestamp": 23,
+      "name": "step_05_release-chain-from-the-rear-sprocket"
+    },
+    {
+      "timestamp": 26,
+      "name": "step_06_slide-the-wheel-out"
     },
     {
       "timestamp": 37,
-      "name": "step_04_remove-the-rear-wheel-from-the-bike"
+      "name": "step_07_clean-the-wheel-axle-from-any-debris-and-apply-lithium-grease"
     },
     {
-      "timestamp": 46,
-      "name": "step_05_position-the-rear-wheel-for-installation"
+      "timestamp": 45,
+      "name": "step_08_slide-the-wheel-in-place-ensure-the-brake-disc-is-on-the-brake-caliper-s"
     },
     {
-      "timestamp": 55,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-rear-wheel"
+      "timestamp": 52,
+      "name": "step_09_fit-the-chain-in-the-rear-sprocket-gently-wiggle-the-wheel-to-make-it-ea"
+    },
+    {
+      "timestamp": 57,
+      "name": "step_10_insert-the-rear-axle"
     },
     {
       "timestamp": 64,
-      "name": "step_07_install-the-retaining-hardware-for-the-rear-wheel"
+      "name": "step_11_install-the-chain-tension-adjuster-be-carefull-not-to-catch-your-hand-be"
     },
     {
-      "timestamp": 73,
-      "name": "step_08_verify-the-completed-installation-of-the-rear-wheel"
+      "timestamp": 68,
+      "name": "step_12_insert-a-cloth-between-the-chain-and-rear-sprocket-and-spin-the-rear-whe"
+    },
+    {
+      "timestamp": 71,
+      "name": "step_13_tighten-the-axle-nut-to-80-nm"
+    },
+    {
+      "timestamp": 75,
+      "name": "step_14_remove-the-cloth"
+    },
+    {
+      "timestamp": 81,
+      "name": "step_15_spin-the-wheel-by-hand-a-few-times-and-check-the-brake-operation-check-b"
     }
   ]
 }

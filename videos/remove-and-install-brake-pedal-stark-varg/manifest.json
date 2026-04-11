@@ -19,36 +19,36 @@
   ],
   "frames": [
     {
+      "timestamp": 6,
+      "name": "step_01_hold-the-foot-pedal-spring"
+    },
+    {
       "timestamp": 9,
-      "name": "step_01_prepare-access-to-the-brake-pedal"
+      "name": "step_02_loosen-the-brake-pedal-link-bolt"
     },
     {
-      "timestamp": 17,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-brake-pedal"
+      "timestamp": 16,
+      "name": "step_03_unscrew-the-sway-bolt"
     },
     {
-      "timestamp": 25,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-brake-p"
+      "timestamp": 34,
+      "name": "step_04_carefully-remove-the-brake-pedal-by-sliding-it-towards-the-front-of-the"
     },
     {
-      "timestamp": 33,
-      "name": "step_04_remove-the-brake-pedal-from-the-bike"
+      "timestamp": 54,
+      "name": "step_05_gently-slide-the-brake-pedal-in-through-gap-between-the-side-plate-and-t"
     },
     {
-      "timestamp": 41,
-      "name": "step_05_position-the-brake-pedal-for-installation"
+      "timestamp": 62,
+      "name": "step_06_tighten-the-sway-bolt-to-20-nm"
     },
     {
-      "timestamp": 49,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-brake-pedal"
+      "timestamp": 72,
+      "name": "step_07_assemble-the-brake-pedal-link"
     },
     {
-      "timestamp": 57,
-      "name": "step_07_install-the-retaining-hardware-for-the-brake-pedal"
-    },
-    {
-      "timestamp": 65,
-      "name": "step_08_verify-the-completed-installation-of-the-brake-pedal"
+      "timestamp": 74,
+      "name": "step_08_hold-the-brake-pedal-link-assembly-in-place-and-tighten-the-bolt-to-10-n"
     }
   ]
 }

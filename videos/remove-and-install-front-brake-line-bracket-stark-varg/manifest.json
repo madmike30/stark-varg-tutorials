@@ -19,36 +19,20 @@
   ],
   "frames": [
     {
-      "timestamp": 6,
-      "name": "step_01_prepare-access-to-the-front-brake-line-bracket"
+      "timestamp": 8,
+      "name": "step_01_unscrew-the-front-brake-line-brackets-screws"
     },
     {
-      "timestamp": 11,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-front-brake-li"
+      "timestamp": 19,
+      "name": "step_02_remove-the-bracket"
     },
     {
-      "timestamp": 13,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-front-b"
-    },
-    {
-      "timestamp": 21,
-      "name": "step_04_remove-the-front-brake-line-bracket-from-the-bike"
-    },
-    {
-      "timestamp": 26,
-      "name": "step_05_position-the-front-brake-line-bracket-for-installation"
+      "timestamp": 22,
+      "name": "step_03_hold-the-front-brake-line-bracket-in-place"
     },
     {
       "timestamp": 27,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-front-brake-li"
-    },
-    {
-      "timestamp": 28,
-      "name": "step_07_install-the-retaining-hardware-for-the-front-brake-line-brac"
-    },
-    {
-      "timestamp": 31,
-      "name": "step_08_verify-the-completed-installation-of-the-front-brake-line-br"
+      "name": "step_04_tighten-brake-line-bracket-screws-to-3-nm"
     }
   ]
 }

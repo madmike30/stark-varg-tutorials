@@ -19,36 +19,24 @@
   ],
   "frames": [
     {
-      "timestamp": 17,
-      "name": "step_01_prepare-access-to-the-cooling-system"
+      "timestamp": 2,
+      "name": "step_01_bleeding-cooling-system"
     },
     {
-      "timestamp": 33,
-      "name": "step_02_position-a-container-for-drained-coolant"
+      "timestamp": 54,
+      "name": "step_02_remove-the-water-pump"
     },
     {
-      "timestamp": 49,
-      "name": "step_03_open-the-cooling-system-service-points"
+      "timestamp": 87,
+      "name": "step_03_tighten-the-radiator-cap"
     },
     {
-      "timestamp": 65,
-      "name": "step_04_drain-and-refill-the-coolant-circuit"
+      "timestamp": 105,
+      "name": "step_04_slide-the-front-spoiler-assembly-forward-and-downward"
     },
     {
-      "timestamp": 81,
-      "name": "step_05_cycle-the-system-to-purge-trapped-air"
-    },
-    {
-      "timestamp": 97,
-      "name": "step_06_top-off-and-close-the-cooling-system"
-    },
-    {
-      "timestamp": 113,
-      "name": "step_07_reinstall-the-removed-bodywork"
-    },
-    {
-      "timestamp": 137,
-      "name": "step_08_check-for-leaks-and-correct-level"
+      "timestamp": 107,
+      "name": "step_05_slide-the-front-spoiler-assembly-forward-and-downward-press-down-and-for"
     }
   ]
 }

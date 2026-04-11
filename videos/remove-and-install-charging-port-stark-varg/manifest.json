@@ -19,36 +19,68 @@
   ],
   "frames": [
     {
-      "timestamp": 17,
-      "name": "step_01_prepare-access-to-the-charging-port"
+      "timestamp": 8,
+      "name": "step_01_remove-the-spoiler-assembly"
     },
     {
-      "timestamp": 33,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-charging-port"
+      "timestamp": 29,
+      "name": "step_02_disconnect-the-can-bus-connector"
     },
     {
-      "timestamp": 49,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-chargin"
+      "timestamp": 39,
+      "name": "step_03_install-the-protective-cover-onto-the-can-bus-socket-on-the-battery"
     },
     {
-      "timestamp": 65,
-      "name": "step_04_remove-the-charging-port-from-the-bike"
+      "timestamp": 48,
+      "name": "step_04_disconnect-the-battery-power-plug"
     },
     {
-      "timestamp": 81,
-      "name": "step_05_position-the-charging-port-for-installation"
+      "timestamp": 57,
+      "name": "step_05_install-the-protective-cover-onto-the-power-socket-on-the-battery"
     },
     {
-      "timestamp": 97,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-charging-port"
+      "timestamp": 59,
+      "name": "step_06_disconnect-the-charging-port-sockets"
     },
     {
-      "timestamp": 113,
-      "name": "step_07_install-the-retaining-hardware-for-the-charging-port"
+      "timestamp": 61,
+      "name": "step_07_untighten-the-charging-port-bolts"
     },
     {
-      "timestamp": 129,
-      "name": "step_08_verify-the-completed-installation-of-the-charging-port"
+      "timestamp": 67,
+      "name": "step_08_remove-the-charging-port"
+    },
+    {
+      "timestamp": 69,
+      "name": "step_09_place-the-charging-port-in-place"
+    },
+    {
+      "timestamp": 71,
+      "name": "step_10_tighten-the-charging-port-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 101,
+      "name": "step_11_connect-the-charging-port-sockets"
+    },
+    {
+      "timestamp": 108,
+      "name": "step_12_remove-the-protective-cover-onto-the-power-socket-on-the-battery"
+    },
+    {
+      "timestamp": 116,
+      "name": "step_13_connect-the-battery-power-plug"
+    },
+    {
+      "timestamp": 120,
+      "name": "step_14_remove-the-protective-cover-onto-the-can-bus-socket-on-the-battery"
+    },
+    {
+      "timestamp": 136,
+      "name": "step_15_connect-the-can-bus-connector"
+    },
+    {
+      "timestamp": 144,
+      "name": "step_16_install-the-spoiler-assembly"
     }
   ]
 }
