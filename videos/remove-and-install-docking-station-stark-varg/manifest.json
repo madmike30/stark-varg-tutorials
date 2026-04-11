@@ -19,36 +19,72 @@
   ],
   "frames": [
     {
-      "timestamp": 13,
-      "name": "step_01_prepare-access-to-the-docking-station"
+      "timestamp": 10,
+      "name": "step_01_remove-phone"
     },
     {
-      "timestamp": 25,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-docking-statio"
+      "timestamp": 11,
+      "name": "step_02_remove-number-plate-bolt"
     },
     {
-      "timestamp": 36,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-docking"
+      "timestamp": 15,
+      "name": "step_03_remove-number-plate-up-and-outward"
     },
     {
-      "timestamp": 49,
-      "name": "step_04_remove-the-docking-station-from-the-bike"
+      "timestamp": 22,
+      "name": "step_04_remove-junction-box-lid"
     },
     {
-      "timestamp": 61,
-      "name": "step_05_position-the-docking-station-for-installation"
+      "timestamp": 26,
+      "name": "step_05_disconnect-the-plugs"
     },
     {
-      "timestamp": 73,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-docking-statio"
+      "timestamp": 29,
+      "name": "step_06_take-note-of-the-handlebar-angle-before-loosening-docking-sta"
     },
     {
-      "timestamp": 85,
-      "name": "step_07_install-the-retaining-hardware-for-the-docking-station"
+      "timestamp": 32,
+      "name": "step_07_remove-docking-station-bolts"
+    },
+    {
+      "timestamp": 34,
+      "name": "step_08_remove-docking-station"
+    },
+    {
+      "timestamp": 41,
+      "name": "step_09_insert-the-bolts-in-the-docking-station"
+    },
+    {
+      "timestamp": 46,
+      "name": "step_10_tighten-bolts"
+    },
+    {
+      "timestamp": 57,
+      "name": "step_11_tighten-bolts-to-30-nm"
+    },
+    {
+      "timestamp": 70,
+      "name": "step_12_connect-the-plugs"
+    },
+    {
+      "timestamp": 72,
+      "name": "step_13_clip-connectors-onto-the-junction-box"
+    },
+    {
+      "timestamp": 75,
+      "name": "step_14_tighten-junction-box-bolts"
+    },
+    {
+      "timestamp": 92,
+      "name": "step_15_tighten-front-number-plate-bolt-to-8-nm"
     },
     {
       "timestamp": 97,
-      "name": "step_08_verify-the-completed-installation-of-the-docking-station"
+      "name": "step_16_insert-phone-in-the-docking-station-left-side-first"
+    },
+    {
+      "timestamp": 104,
+      "name": "step_17_ensure-the-phone-is-secure-before-operating-the-bike"
     }
   ]
 }

@@ -6,98 +6,136 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the docking station procedure. Each step below is aligned to the instruction text shown on screen in the original MX tutorial video.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
-- Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
+- Prepare the correct tools for the number plate, junction box, docking station bolts, and phone mount hardware shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Docking Station
+### 1. Remove phone
 
-Open the surrounding panel area so the Docking Station mounting points and wiring path are fully accessible.
+Remove the phone from the docking station.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove phone](assets/screenshots/step_01_remove-phone.jpg)
 
-![Step 1 - prepare access to the docking station](assets/screenshots/step_01_prepare-access-to-the-docking-station.jpg)
+### 2. Remove number plate bolt
 
-### 2. Remove the visible retaining hardware for the Docking Station
+Remove the front number plate bolt.
 
-Remove the visible Docking Station fasteners and support the part so it does not hang on the wiring.
+![Step 2 - remove number plate bolt](assets/screenshots/step_02_remove-number-plate-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove number plate up and outward
 
-![Step 2 - remove the visible retaining hardware for the docking station](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-docking-statio.jpg)
+Lift the front number plate up and outward to remove it.
 
-### 3. Release any bracket, clip, or coupling attached to the Docking Station
+![Step 3 - remove number plate up and outward](assets/screenshots/step_03_remove-number-plate-up-and-outward.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Docking Station to the bike.
+### 4. Remove junction box lid
 
-Note the orientation of these supporting pieces before setting them aside.
+Remove the junction box lid.
 
-![Step 3 - release any bracket, clip, or coupling attached to the docking station](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-docking.jpg)
+![Step 4 - remove junction box lid](assets/screenshots/step_04_remove-junction-box-lid.jpg)
 
-### 4. Remove the Docking Station from the bike
+### 5. Disconnect the plugs
 
-Remove the Docking Station from the bike once the connector, routing clips, and mounting hardware are free.
+Disconnect the plugs.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - disconnect the plugs](assets/screenshots/step_05_disconnect-the-plugs.jpg)
 
-![Step 4 - remove the docking station from the bike](assets/screenshots/step_04_remove-the-docking-station-from-the-bike.jpg)
+### 6. Take note of the handlebar angle before loosening docking station bolts
+
+Note the handlebar angle before loosening the docking station bolts so it can be restored during assembly.
+
+![Step 6 - take note of the handlebar angle before loosening docking station bolts](assets/screenshots/step_06_take-note-of-the-handlebar-angle-before-loosening-docking-sta.jpg)
+
+### 7. Remove docking station bolts
+
+Remove the docking station bolts.
+
+![Step 7 - remove docking station bolts](assets/screenshots/step_07_remove-docking-station-bolts.jpg)
+
+### 8. Remove docking station
+
+Remove the docking station.
+
+![Step 8 - remove docking station](assets/screenshots/step_08_remove-docking-station.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Docking Station for installation
+### 9. Insert the bolts in the docking station
 
-Return the Docking Station to its mounting position and align the holes, tabs, or locating surfaces.
+Insert the bolts in the docking station.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 9 - insert the bolts in the docking station](assets/screenshots/step_09_insert-the-bolts-in-the-docking-station.jpg)
 
-![Step 5 - position the docking station for installation](assets/screenshots/step_05_position-the-docking-station-for-installation.jpg)
+### 10. Tighten bolts
 
-### 6. Reconnect or refit the support pieces for the Docking Station
+Tighten the docking station bolts evenly while keeping the handlebar angle aligned with the note taken during removal.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the Docking Station.
+![Step 10 - tighten bolts](assets/screenshots/step_10_tighten-bolts.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
-
-![Step 6 - reconnect or refit the support pieces for the docking station](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-docking-statio.jpg)
-
-### 7. Install the retaining hardware for the Docking Station
-
-Install the Docking Station mounting hardware by hand first and seat the part evenly against its bracket or panel.
-
-Check that the component remains aligned while the hardware is brought fully home.
+### 11. Tighten bolts to 30 Nm
 
 Tighten the docking station bolts to **30 Nm**.
 
-![Step 7 - install the retaining hardware for the docking station](assets/screenshots/step_07_install-the-retaining-hardware-for-the-docking-station.jpg)
+![Step 11 - tighten bolts to 30 nm](assets/screenshots/step_11_tighten-bolts-to-30-nm.jpg)
 
-### 8. Verify the completed installation of the Docking Station
+### 12. Connect the plugs
 
-Inspect the final position of the Docking Station and confirm that all hardware, clips, and surrounding parts are back in place.
+Connect the plugs.
 
-Check the component for correct fit and movement before returning the bike to service.
+![Step 12 - connect the plugs](assets/screenshots/step_12_connect-the-plugs.jpg)
 
-![Step 8 - verify the completed installation of the docking station](assets/screenshots/step_08_verify-the-completed-installation-of-the-docking-station.jpg)
+### 13. Clip connectors onto the junction box
+
+Clip the connectors onto the junction box.
+
+![Step 13 - clip connectors onto the junction box](assets/screenshots/step_13_clip-connectors-onto-the-junction-box.jpg)
+
+### 14. Tighten junction box bolts
+
+Tighten the junction box bolts.
+
+![Step 14 - tighten junction box bolts](assets/screenshots/step_14_tighten-junction-box-bolts.jpg)
+
+### 15. Tighten front number plate bolt to 8 Nm
+
+Tighten the front number plate bolt to **8 Nm**.
+
+![Step 15 - tighten front number plate bolt to 8 nm](assets/screenshots/step_15_tighten-front-number-plate-bolt-to-8-nm.jpg)
+
+### 16. Insert phone in the docking station left side first
+
+Insert the phone into the docking station left side first.
+
+![Step 16 - insert phone in the docking station left side first](assets/screenshots/step_16_insert-phone-in-the-docking-station-left-side-first.jpg)
+
+### 17. Ensure the phone is secure before operating the bike
+
+Ensure the phone is secure before operating the bike.
+
+![Step 17 - ensure the phone is secure before operating the bike](assets/screenshots/step_17_ensure-the-phone-is-secure-before-operating-the-bike.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the docking station bolts | 30 Nm |
+| Tighten docking station bolts | 30 Nm |
+| Tighten front number plate bolt | 8 Nm |
 
 Verified torque items:
 
-- Tighten the docking station bolts: **30 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the docking station bolts: **30 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the front number plate bolt: **8 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the docking station is aligned to the original handlebar angle and fully seated.
 - Recheck all torque-critical hardware before riding.
-- Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
-- Inspect the bike visually for any missing hardware before returning it to service.
+- Make sure the plugs, junction box connectors, and front number plate are returned to their original positions.
+- Check that the phone locks in securely before operating the bike.

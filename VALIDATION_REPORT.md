@@ -33,10 +33,10 @@
 - OK `remove-and-install-carbon-fiber-spoiler-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=8, rendered_pages=8, source_videos=0
 - OK `remove-and-install-chain-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-charging-port-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
-- OK `remove-and-install-control-switch-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-control-switch-stark-varg`: steps=14, images=14, pdf_pages=8, rendered_pages=8, source_videos=0
 - OK `remove-and-install-control-switch-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
 - OK `remove-and-install-countershaft-replacement-stark-varg-mx-1-2`: steps=42, images=42, pdf_pages=24, rendered_pages=24, source_videos=0
-- OK `remove-and-install-docking-station-stark-varg`: steps=8, images=8, pdf_pages=6, rendered_pages=6, source_videos=0
+- OK `remove-and-install-docking-station-stark-varg`: steps=17, images=17, pdf_pages=10, rendered_pages=10, source_videos=0
 - OK `remove-and-install-docking-station-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0
 - OK `remove-and-install-foot-brake-master-cylinder-stark-varg`: steps=8, images=8, pdf_pages=9, rendered_pages=9, source_videos=0
 - OK `remove-and-install-foot-brake-stark-varg`: steps=8, images=8, pdf_pages=7, rendered_pages=7, source_videos=0

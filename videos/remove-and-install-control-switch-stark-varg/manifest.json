@@ -19,36 +19,60 @@
   ],
   "frames": [
     {
-      "timestamp": 11,
-      "name": "step_01_prepare-access-to-the-control-switch"
+      "timestamp": 9,
+      "name": "step_01_remove-number-plate-bolt"
+    },
+    {
+      "timestamp": 12,
+      "name": "step_02_remove-number-plate-up-and-outward"
     },
     {
       "timestamp": 21,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-control-switch"
+      "name": "step_03_remove-junction-box-lid"
+    },
+    {
+      "timestamp": 24,
+      "name": "step_04_loosen-connectors"
+    },
+    {
+      "timestamp": 25,
+      "name": "step_05_disconnect-the-plugs"
+    },
+    {
+      "timestamp": 29,
+      "name": "step_06_remove-rubber-strap"
     },
     {
       "timestamp": 31,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-control"
+      "name": "step_07_hold-switch-and-remove-clamp-bolt"
     },
     {
-      "timestamp": 36,
-      "name": "step_04_remove-the-control-switch-from-the-bike"
+      "timestamp": 35,
+      "name": "step_08_remove-the-switch"
     },
     {
-      "timestamp": 51,
-      "name": "step_05_position-the-control-switch-for-installation"
+      "timestamp": 41,
+      "name": "step_09_hold-switch-in-place-and-tighten-clamp-bolt"
     },
     {
-      "timestamp": 61,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-control-switch"
+      "timestamp": 50,
+      "name": "step_10_tighten-clamp-bolt-to-5-nm"
     },
     {
-      "timestamp": 71,
-      "name": "step_07_install-the-retaining-hardware-for-the-control-switch"
+      "timestamp": 54,
+      "name": "step_11_connect-the-plugs"
     },
     {
-      "timestamp": 81,
-      "name": "step_08_verify-the-completed-installation-of-the-control-switch"
+      "timestamp": 57,
+      "name": "step_12_clip-connectors-onto-the-junction-box"
+    },
+    {
+      "timestamp": 59,
+      "name": "step_13_tighten-junction-box-bolts"
+    },
+    {
+      "timestamp": 77,
+      "name": "step_14_tighten-number-plate-bolt-to-8-nm"
     }
   ]
 }

@@ -3,7 +3,7 @@
 - Total guide folders reviewed: **96**
 - Structural pass (steps/images/PDF renders aligned): **96/96**
 - Guides using generic template wording: **0**
-- Original MX guides with torque/manual differences still worth manual review: **0**
+- Original MX guides with torque/manual differences still worth manual review: **2**
 
 ## Generic Template Guides
 
@@ -11,4 +11,5 @@
 
 ## Remaining Torque Review Flags
 
-- None
+- `remove-and-install-control-switch-stark-varg` vs `06.010.01 Remove and install control switch`: guide=['5 Nm', '8 Nm'], manual=['3 Nm']
+- `remove-and-install-docking-station-stark-varg` vs `06.014.01 Remove and install docking station`: guide=['8 Nm', '30 Nm'], manual=['30 Nm']

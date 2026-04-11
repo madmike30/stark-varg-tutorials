@@ -6,98 +6,118 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the control switch procedure. Each step below is aligned to the instruction text shown on screen in the original MX tutorial video.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
-- Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
+- Prepare the correct tools for the front number plate, junction box, control switch clamp, and wiring clips shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the Control Switch
+### 1. Remove number plate bolt
 
-Open the surrounding panel area so the Control Switch mounting points and wiring path are fully accessible.
+Remove the front number plate bolt.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove number plate bolt](assets/screenshots/step_01_remove-number-plate-bolt.jpg)
 
-![Step 1 - prepare access to the control switch](assets/screenshots/step_01_prepare-access-to-the-control-switch.jpg)
+### 2. Remove number plate up and outward
 
-### 2. Remove the visible retaining hardware for the Control Switch
+Lift the front number plate up and outward to remove it.
 
-Remove the visible Control Switch fasteners and support the part so it does not hang on the wiring.
+![Step 2 - remove number plate up and outward](assets/screenshots/step_02_remove-number-plate-up-and-outward.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove junction box lid
 
-![Step 2 - remove the visible retaining hardware for the control switch](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-control-switch.jpg)
+Remove the junction box lid.
 
-### 3. Release any bracket, clip, or coupling attached to the Control Switch
+![Step 3 - remove junction box lid](assets/screenshots/step_03_remove-junction-box-lid.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the Control Switch to the bike.
+### 4. Loosen connectors
 
-Note the orientation of these supporting pieces before setting them aside.
+Loosen the connectors in the junction box area.
 
-![Step 3 - release any bracket, clip, or coupling attached to the control switch](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-control.jpg)
+![Step 4 - loosen connectors](assets/screenshots/step_04_loosen-connectors.jpg)
 
-### 4. Remove the Control Switch from the bike
+### 5. Disconnect the plugs
 
-Remove the Control Switch from the bike once the connector, routing clips, and mounting hardware are free.
+Disconnect the plugs.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - disconnect the plugs](assets/screenshots/step_05_disconnect-the-plugs.jpg)
 
-![Step 4 - remove the control switch from the bike](assets/screenshots/step_04_remove-the-control-switch-from-the-bike.jpg)
+### 6. Remove rubber strap
+
+Remove the rubber strap.
+
+![Step 6 - remove rubber strap](assets/screenshots/step_06_remove-rubber-strap.jpg)
+
+### 7. Hold switch and remove clamp bolt
+
+Hold the switch and remove the clamp bolt.
+
+![Step 7 - hold switch and remove clamp bolt](assets/screenshots/step_07_hold-switch-and-remove-clamp-bolt.jpg)
+
+### 8. Remove the switch
+
+Remove the control switch.
+
+![Step 8 - remove the switch](assets/screenshots/step_08_remove-the-switch.jpg)
 
 ## Installation Procedure
 
-### 5. Position the Control Switch for installation
+### 9. Hold switch in place and tighten clamp bolt
 
-Route the control switch cable through the triple clamp and return the control switch to its mounting position on the handlebar.
+Hold the switch in place on the handlebar and start tightening the clamp bolt.
 
-Hold the switch in place and tighten the control switch clamp bolt to **3 Nm**.
+![Step 9 - hold switch in place and tighten clamp bolt](assets/screenshots/step_09_hold-switch-in-place-and-tighten-clamp-bolt.jpg)
 
-![Step 5 - position the control switch for installation](assets/screenshots/step_05_position-the-control-switch-for-installation.jpg)
+### 10. Tighten clamp bolt to 5 Nm
 
-### 6. Reconnect or refit the support pieces for the Control Switch
+Tighten the control switch clamp bolt to **5 Nm**.
 
-Reconnect the control switch plugs and clip the connectors back onto the junction box.
+![Step 10 - tighten clamp bolt to 5 nm](assets/screenshots/step_10_tighten-clamp-bolt-to-5-nm.jpg)
 
-Make sure the harness routing is seated correctly before tightening the junction box bolts.
+### 11. Connect the plugs
 
-![Step 6 - reconnect or refit the support pieces for the control switch](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-control-switch.jpg)
+Connect the plugs.
 
-### 7. Install the retaining hardware for the Control Switch
+![Step 11 - connect the plugs](assets/screenshots/step_11_connect-the-plugs.jpg)
 
-Fit the brake line back into the front number plate brackets and slide the front number plate into the front fender slots.
+### 12. Clip connectors onto the junction box
 
-Confirm the brake line is seated correctly in the guide before the number plate is fully home.
+Clip the connectors onto the junction box.
 
-![Step 7 - install the retaining hardware for the control switch](assets/screenshots/step_07_install-the-retaining-hardware-for-the-control-switch.jpg)
+![Step 12 - clip connectors onto the junction box](assets/screenshots/step_12_clip-connectors-onto-the-junction-box.jpg)
 
-### 8. Verify the completed installation of the Control Switch
+### 13. Tighten junction box bolts
 
-Hold the front number plate in place and tighten the front number plate bolt to **8 Nm**.
+Tighten the junction box bolts.
 
-Inspect the final position of the control switch, wiring, brake line routing, and number plate before returning the bike to service.
+![Step 13 - tighten junction box bolts](assets/screenshots/step_13_tighten-junction-box-bolts.jpg)
 
-![Step 8 - verify the completed installation of the control switch](assets/screenshots/step_08_verify-the-completed-installation-of-the-control-switch.jpg)
+### 14. Tighten number plate bolt to 8 Nm
+
+Tighten the front number plate bolt to **8 Nm**.
+
+![Step 14 - tighten number plate bolt to 8 nm](assets/screenshots/step_14_tighten-number-plate-bolt-to-8-nm.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the control switch clamp bolt | 3 Nm |
-| Tighten the front number plate bolt | 8 Nm |
+| Tighten control switch clamp bolt | 5 Nm |
+| Tighten number plate bolt | 8 Nm |
 
 Verified torque items:
 
-- Tighten the control switch clamp bolt: **3 Nm** from Stark technical manual `06.010.01 Remove and install control switch`.
-- Tighten the front number plate bolt: **8 Nm** from Stark technical manual `01.006.01 Remove and install front number plate`.
+- Tighten the control switch clamp bolt: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the front number plate bolt: **8 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the control switch is seated correctly on the handlebar and does not rotate unexpectedly.
 - Recheck all torque-critical hardware before riding.
-- Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
+- Make sure the plugs, junction box connectors, and rubber strap are returned to their original positions.
 - Inspect the bike visually for any missing hardware before returning it to service.
