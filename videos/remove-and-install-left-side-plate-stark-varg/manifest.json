@@ -19,36 +19,116 @@
   ],
   "frames": [
     {
-      "timestamp": 26,
-      "name": "step_01_prepare-access-to-the-left-side-plate"
+      "timestamp": 8,
+      "name": "step_01_remove-front-bolts"
     },
     {
-      "timestamp": 51,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-left-side-plat"
+      "timestamp": 12,
+      "name": "step_02_remove-rear-center-bolt"
+    },
+    {
+      "timestamp": 18,
+      "name": "step_03_remove-side-bolts"
+    },
+    {
+      "timestamp": 30,
+      "name": "step_04_remove-the-complete-front-spoiler"
+    },
+    {
+      "timestamp": 34,
+      "name": "step_05_remove-lower-fender-bolts"
+    },
+    {
+      "timestamp": 46,
+      "name": "step_06_remove-lower-rear-fender"
+    },
+    {
+      "timestamp": 50,
+      "name": "step_07_loosen-shock-top-lock-nut"
+    },
+    {
+      "timestamp": 58,
+      "name": "step_08_remove-bottom-lock-nut"
+    },
+    {
+      "timestamp": 64,
+      "name": "step_09_remove-top-lock-nut-and-bolt"
+    },
+    {
+      "timestamp": 72,
+      "name": "step_10_remove-bottom-lock-nut-and-bolt"
     },
     {
       "timestamp": 76,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-left-si"
+      "name": "step_11_push-subframe-away-and-hold"
     },
     {
-      "timestamp": 101,
-      "name": "step_04_remove-the-left-side-plate-from-the-bike"
+      "timestamp": 80,
+      "name": "step_12_ensure-the-subframe-rests-in-the-subframe-slots"
     },
     {
-      "timestamp": 126,
-      "name": "step_05_position-the-left-side-plate-for-installation"
+      "timestamp": 84,
+      "name": "step_13_loosen-swingarm-clamp-bolt"
     },
     {
-      "timestamp": 151,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-left-side-plat"
+      "timestamp": 88,
+      "name": "step_14_remove-side-plate-bolts"
     },
     {
-      "timestamp": 176,
-      "name": "step_07_install-the-retaining-hardware-for-the-left-side-plate"
+      "timestamp": 96,
+      "name": "step_15_remove-side-plate"
     },
     {
-      "timestamp": 201,
-      "name": "step_08_verify-the-completed-installation-of-the-left-side-plate"
+      "timestamp": 110,
+      "name": "step_16_install-chain-guide-on-the-side-plate"
+    },
+    {
+      "timestamp": 118,
+      "name": "step_17_tighten-top-bolt-to-45-nm"
+    },
+    {
+      "timestamp": 124,
+      "name": "step_18_tighten-bottom-bolt-to-40-nm"
+    },
+    {
+      "timestamp": 132,
+      "name": "step_19_tighten-swingarm-axle-clamp-to-35-nm"
+    },
+    {
+      "timestamp": 136,
+      "name": "step_20_push-subframe-away-and-hold-again"
+    },
+    {
+      "timestamp": 144,
+      "name": "step_21_insert-top-bolt"
+    },
+    {
+      "timestamp": 150,
+      "name": "step_22_tighten-lock-nut-to-40-nm"
+    },
+    {
+      "timestamp": 158,
+      "name": "step_23_insert-bottom-bolt"
+    },
+    {
+      "timestamp": 164,
+      "name": "step_24_tighten-lock-nut-to-40-nm-again"
+    },
+    {
+      "timestamp": 174,
+      "name": "step_25_tighten-lower-rear-fender-bolts"
+    },
+    {
+      "timestamp": 204,
+      "name": "step_26_tighten-rear-center-bolt-to-8-nm"
+    },
+    {
+      "timestamp": 208,
+      "name": "step_27_tighten-side-bolts-to-40-nm"
+    },
+    {
+      "timestamp": 214,
+      "name": "step_28_tighten-front-bolts-to-5-nm"
     }
   ]
 }

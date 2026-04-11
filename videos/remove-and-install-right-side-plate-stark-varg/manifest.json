@@ -19,36 +19,144 @@
   ],
   "frames": [
     {
-      "timestamp": 35,
-      "name": "step_01_prepare-access-to-the-right-side-plate"
+      "timestamp": 8,
+      "name": "step_01_remove-front-bolts"
     },
     {
-      "timestamp": 69,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-right-side-pla"
+      "timestamp": 12,
+      "name": "step_02_remove-rear-center-bolt"
     },
     {
-      "timestamp": 103,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-right-s"
+      "timestamp": 18,
+      "name": "step_03_remove-side-bolts"
     },
     {
-      "timestamp": 137,
-      "name": "step_04_remove-the-right-side-plate-from-the-bike"
+      "timestamp": 28,
+      "name": "step_04_remove-the-complete-front-spoiler"
     },
     {
-      "timestamp": 171,
-      "name": "step_05_position-the-right-side-plate-for-installation"
+      "timestamp": 34,
+      "name": "step_05_remove-lower-fender-bolts"
     },
     {
-      "timestamp": 205,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-right-side-pla"
+      "timestamp": 46,
+      "name": "step_06_remove-lower-rear-fender"
     },
     {
-      "timestamp": 239,
-      "name": "step_07_install-the-retaining-hardware-for-the-right-side-plate"
+      "timestamp": 58,
+      "name": "step_07_remove-bottom-lock-nut"
     },
     {
-      "timestamp": 273,
-      "name": "step_08_verify-the-completed-installation-of-the-right-side-plate"
+      "timestamp": 64,
+      "name": "step_08_remove-top-lock-nut-and-bolt"
+    },
+    {
+      "timestamp": 68,
+      "name": "step_09_remove-bottom-lock-nut-and-bolt"
+    },
+    {
+      "timestamp": 76,
+      "name": "step_10_push-subframe-away-and-hold"
+    },
+    {
+      "timestamp": 78,
+      "name": "step_11_ensure-the-subframe-rests-in-the-subframe-slots"
+    },
+    {
+      "timestamp": 82,
+      "name": "step_12_remove-the-rear-brake-pedal-peg-bolts"
+    },
+    {
+      "timestamp": 86,
+      "name": "step_13_loosen-brake-pump-bolts"
+    },
+    {
+      "timestamp": 98,
+      "name": "step_14_remove-side-plate-bolts"
+    },
+    {
+      "timestamp": 120,
+      "name": "step_15_remove-side-plate"
+    },
+    {
+      "timestamp": 136,
+      "name": "step_16_install-the-side-plate-in-place"
+    },
+    {
+      "timestamp": 150,
+      "name": "step_17_tighten-top-bolt-to-45-nm"
+    },
+    {
+      "timestamp": 156,
+      "name": "step_18_tighten-middle-bolt-to-45-nm"
+    },
+    {
+      "timestamp": 162,
+      "name": "step_19_tighten-bottom-bolt-to-40-nm"
+    },
+    {
+      "timestamp": 168,
+      "name": "step_20_hold-the-brake-pump-in-place"
+    },
+    {
+      "timestamp": 176,
+      "name": "step_21_tighten-bolts-to-10-nm"
+    },
+    {
+      "timestamp": 188,
+      "name": "step_22_install-the-rear-brake-pedal-link"
+    },
+    {
+      "timestamp": 196,
+      "name": "step_23_tighten-link-bolt-to-10-nm"
+    },
+    {
+      "timestamp": 206,
+      "name": "step_24_hold-the-rear-brake-pedal-peg-in-place"
+    },
+    {
+      "timestamp": 210,
+      "name": "step_25_tighten-the-rear-brake-pedal-peg-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 214,
+      "name": "step_26_push-subframe-away-and-hold-again"
+    },
+    {
+      "timestamp": 224,
+      "name": "step_27_insert-top-bolt"
+    },
+    {
+      "timestamp": 230,
+      "name": "step_28_tighten-lock-nut-to-40-nm"
+    },
+    {
+      "timestamp": 236,
+      "name": "step_29_insert-bottom-bolt"
+    },
+    {
+      "timestamp": 240,
+      "name": "step_30_tighten-lock-nut-to-40-nm-again"
+    },
+    {
+      "timestamp": 252,
+      "name": "step_31_tighten-lower-rear-fender-bolts"
+    },
+    {
+      "timestamp": 282,
+      "name": "step_32_tighten-rear-center-bolt-to-8-nm"
+    },
+    {
+      "timestamp": 288,
+      "name": "step_33_tighten-side-bolts-to-40-nm"
+    },
+    {
+      "timestamp": 292,
+      "name": "step_34_tighten-front-bolts-to-5-nm"
+    },
+    {
+      "timestamp": 298,
+      "name": "step_35_check-brake-operation-before-operating-the-bike"
     }
   ]
 }

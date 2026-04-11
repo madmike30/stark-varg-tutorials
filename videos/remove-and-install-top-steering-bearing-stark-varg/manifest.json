@@ -19,36 +19,204 @@
   ],
   "frames": [
     {
-      "timestamp": 56,
-      "name": "step_01_prepare-access-to-the-top-steering-bearing"
+      "timestamp": 8,
+      "name": "step_01_remove-stark-phone"
     },
     {
-      "timestamp": 111,
-      "name": "step_02_remove-the-visible-retaining-hardware-for-the-top-steering-b"
+      "timestamp": 12,
+      "name": "step_02_remove-number-plate-bolt"
     },
     {
-      "timestamp": 166,
-      "name": "step_03_release-any-bracket-clip-or-coupling-attached-to-the-top-ste"
+      "timestamp": 22,
+      "name": "step_03_remove-bracket-screws"
     },
     {
-      "timestamp": 221,
-      "name": "step_04_remove-the-top-steering-bearing-from-the-bike"
+      "timestamp": 24,
+      "name": "step_04_remove-brake-line-bracket"
     },
     {
-      "timestamp": 276,
-      "name": "step_05_position-the-top-steering-bearing-for-installation"
+      "timestamp": 28,
+      "name": "step_05_remove-caliper-bolts"
     },
     {
-      "timestamp": 331,
-      "name": "step_06_reconnect-or-refit-the-support-pieces-for-the-top-steering-b"
+      "timestamp": 44,
+      "name": "step_06_remove-junction-box-lid"
     },
     {
-      "timestamp": 386,
-      "name": "step_07_install-the-retaining-hardware-for-the-top-steering-bearing"
+      "timestamp": 48,
+      "name": "step_07_disconnect-the-plugs"
     },
     {
-      "timestamp": 441,
-      "name": "step_08_verify-the-completed-installation-of-the-top-steering-bearin"
+      "timestamp": 52,
+      "name": "step_08_take-note-of-the-handlebar-angle-before-loosening-docking-sta"
+    },
+    {
+      "timestamp": 54,
+      "name": "step_09_remove-docking-station-bolts"
+    },
+    {
+      "timestamp": 78,
+      "name": "step_10_remove-handlebar"
+    },
+    {
+      "timestamp": 82,
+      "name": "step_11_remove-fender-bolts"
+    },
+    {
+      "timestamp": 92,
+      "name": "step_12_loosen-fork-clamp-bolts-on-the-left-fork"
+    },
+    {
+      "timestamp": 108,
+      "name": "step_13_loosen-wheel-axle-lock-nut"
+    },
+    {
+      "timestamp": 112,
+      "name": "step_14_loosen-fork-clamp-bolts-on-the-right-fork"
+    },
+    {
+      "timestamp": 118,
+      "name": "step_15_remove-axle-lock-nut"
+    },
+    {
+      "timestamp": 124,
+      "name": "step_16_lift-the-front-of-the-bike-and-slide-the-wheel-out-between-th"
+    },
+    {
+      "timestamp": 134,
+      "name": "step_17_hold-the-fork-while-loosening-the-last-bolt"
+    },
+    {
+      "timestamp": 146,
+      "name": "step_18_loosen-steering-head-clamp-bolt"
+    },
+    {
+      "timestamp": 148,
+      "name": "step_19_loosen-top-lock-nut-but-do-not-remove-it-completely"
+    },
+    {
+      "timestamp": 162,
+      "name": "step_20_remove-the-top-triple-clamp-and-slide-the-lower-triple-clamp"
+    },
+    {
+      "timestamp": 170,
+      "name": "step_21_remove-the-top-cap-seal-and-bearing"
+    },
+    {
+      "timestamp": 184,
+      "name": "step_22_install-bearing"
+    },
+    {
+      "timestamp": 188,
+      "name": "step_23_install-seal"
+    },
+    {
+      "timestamp": 194,
+      "name": "step_24_install-cap"
+    },
+    {
+      "timestamp": 208,
+      "name": "step_25_insert-top-o-ring"
+    },
+    {
+      "timestamp": 212,
+      "name": "step_26_install-top-triple-clamp"
+    },
+    {
+      "timestamp": 238,
+      "name": "step_27_hold-the-fork-and-tighten-lower-clamp-bolts"
+    },
+    {
+      "timestamp": 242,
+      "name": "step_28_ensure-the-fork-holds-in-place-before-releasing-it"
+    },
+    {
+      "timestamp": 246,
+      "name": "step_29_tighten-top-lock-nut-to-value-engraved-on-the-part"
+    },
+    {
+      "timestamp": 256,
+      "name": "step_30_tighten-triple-clamp-bolts-to-value-engraved-on-the-part"
+    },
+    {
+      "timestamp": 270,
+      "name": "step_31_tighten-steering-head-clamp-bolt-to-value-engraved-on-the-par"
+    },
+    {
+      "timestamp": 278,
+      "name": "step_32_insert-the-bolts-in-the-docking-station"
+    },
+    {
+      "timestamp": 314,
+      "name": "step_33_tighten-docking-station-bolts-to-30-nm"
+    },
+    {
+      "timestamp": 334,
+      "name": "step_34_connect-the-plugs"
+    },
+    {
+      "timestamp": 336,
+      "name": "step_35_clip-connectors-onto-the-junction-box"
+    },
+    {
+      "timestamp": 340,
+      "name": "step_36_tighten-junction-box-bolts"
+    },
+    {
+      "timestamp": 344,
+      "name": "step_37_install-the-fender-between-the-forks"
+    },
+    {
+      "timestamp": 348,
+      "name": "step_38_hold-the-fender-in-place-and-install-bolts"
+    },
+    {
+      "timestamp": 362,
+      "name": "step_39_tighten-front-fender-bolts-to-8-nm"
+    },
+    {
+      "timestamp": 376,
+      "name": "step_40_wiggle-the-wheel-and-fork-whilst-pushing-the-axle-inside"
+    },
+    {
+      "timestamp": 412,
+      "name": "step_41_ensure-the-front-brake-caliper-holds-in-place-before-releasin"
+    },
+    {
+      "timestamp": 424,
+      "name": "step_42_tighten-front-brake-caliper-bolts-to-25-nm"
+    },
+    {
+      "timestamp": 432,
+      "name": "step_43_install-the-bracket-with-the-brake-line-inside"
+    },
+    {
+      "timestamp": 434,
+      "name": "step_44_ensure-correct-alignment-to-avoid-crushing-the-brake-line"
+    },
+    {
+      "timestamp": 442,
+      "name": "step_45_tighten-axle-lock-nut-to-35-nm"
+    },
+    {
+      "timestamp": 446,
+      "name": "step_46_loosen-right-fork-clamp-bolts"
+    },
+    {
+      "timestamp": 458,
+      "name": "step_47_tighten-all-fork-clamp-bolts-to-15-nm"
+    },
+    {
+      "timestamp": 486,
+      "name": "step_48_tighten-front-number-plate-bolt-to-8-nm"
+    },
+    {
+      "timestamp": 490,
+      "name": "step_49_insert-phone-in-the-docking-station-and-lock-it"
+    },
+    {
+      "timestamp": 494,
+      "name": "step_50_check-brake-operation-and-ensure-the-phone-is-secure"
     }
   ]
 }

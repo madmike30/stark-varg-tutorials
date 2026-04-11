@@ -6,102 +6,260 @@ Applicable models: `MX`
 
 ## Scope
 
-This guide follows the same step-by-step workshop structure as the MX tutorials, but it is derived as a visual sequence from the official Stark Future ASMR video. Because the source video does not provide usable captions or narration, the procedure is documented through curated screenshots and concise action guidance.
+This guide follows the original Stark Future video overlay sequence for the right side plate procedure. Each step below is aligned to the instruction text shown on screen in the original MX tutorial video.
 
 ## Preparation
 
 - Place the bike on a stable stand or work area before starting the procedure.
-- Prepare the correct tools for the fasteners, clips, brackets, and components shown in the video.
+- Prepare the correct tools for the bodywork, shock mounts, brake hardware, and side plate fasteners shown in the video.
 - Keep removed hardware organized in sequence so reassembly follows the same order as the video.
-- Have a torque wrench ready for any tightening steps that specify a torque value.
+- Follow the torque values shown in the original Stark tutorial video wherever the video displays a torque on screen.
 
 ## Removal Procedure
 
-### 1. Prepare access to the right Side Plate
+### 1. Remove front bolts
 
-Remove the surrounding parts needed to expose the right Side Plate mounting points shown in the video.
+Remove the front bolts.
 
-Keep the removed fasteners organized in sequence so reassembly matches the video.
+![Step 1 - remove front bolts](assets/screenshots/step_01_remove-front-bolts.jpg)
 
-![Step 1 - prepare access to the right side plate](assets/screenshots/step_01_prepare-access-to-the-right-side-plate.jpg)
+### 2. Remove rear center bolt
 
-### 2. Remove the visible retaining hardware for the right Side Plate
+Remove the rear center bolt.
 
-Remove the visible fasteners that secure the right Side Plate and keep the hardware in removal order.
+![Step 2 - remove rear center bolt](assets/screenshots/step_02_remove-rear-center-bolt.jpg)
 
-Support the component as the last fastener is removed.
+### 3. Remove side bolts
 
-![Step 2 - remove the visible retaining hardware for the right side plate](assets/screenshots/step_02_remove-the-visible-retaining-hardware-for-the-right-side-pla.jpg)
+Remove the side bolts.
 
-### 3. Release any bracket, clip, or coupling attached to the right Side Plate
+![Step 3 - remove side bolts](assets/screenshots/step_03_remove-side-bolts.jpg)
 
-Free any bracket, clip, spacer, linkage, or connector that still ties the right Side Plate to the bike.
+### 4. Remove the complete front spoiler
 
-Note the orientation of these supporting pieces before setting them aside.
+Remove the complete front spoiler.
 
-![Step 3 - release any bracket, clip, or coupling attached to the right side plate](assets/screenshots/step_03_release-any-bracket-clip-or-coupling-attached-to-the-right-s.jpg)
+![Step 4 - remove the complete front spoiler](assets/screenshots/step_04_remove-the-complete-front-spoiler.jpg)
 
-### 4. Remove the right Side Plate from the bike
+### 5. Remove lower fender bolts
 
-Remove the right Side Plate from the bike once the remaining supports and fasteners are free.
+Remove the lower fender bolts.
 
-Inspect the removed part and the mounting points before reassembly.
+![Step 5 - remove lower fender bolts](assets/screenshots/step_05_remove-lower-fender-bolts.jpg)
 
-![Step 4 - remove the right side plate from the bike](assets/screenshots/step_04_remove-the-right-side-plate-from-the-bike.jpg)
+### 6. Remove lower rear fender
+
+Remove the lower rear fender.
+
+![Step 6 - remove lower rear fender](assets/screenshots/step_06_remove-lower-rear-fender.jpg)
+
+### 7. Remove bottom lock nut
+
+Remove the bottom lock nut.
+
+![Step 7 - remove bottom lock nut](assets/screenshots/step_07_remove-bottom-lock-nut.jpg)
+
+### 8. Remove top lock nut and bolt
+
+Remove the top lock nut and bolt.
+
+![Step 8 - remove top lock nut and bolt](assets/screenshots/step_08_remove-top-lock-nut-and-bolt.jpg)
+
+### 9. Remove bottom lock nut and bolt
+
+Remove the bottom lock nut and bolt.
+
+![Step 9 - remove bottom lock nut and bolt](assets/screenshots/step_09_remove-bottom-lock-nut-and-bolt.jpg)
+
+### 10. Push subframe away and hold
+
+Push the subframe away and hold it as shown in the video.
+
+![Step 10 - push subframe away and hold](assets/screenshots/step_10_push-subframe-away-and-hold.jpg)
+
+### 11. Ensure the subframe rests in the subframe slots
+
+Ensure the subframe rests in the subframe slots.
+
+![Step 11 - ensure the subframe rests in the subframe slots](assets/screenshots/step_11_ensure-the-subframe-rests-in-the-subframe-slots.jpg)
+
+### 12. Remove the rear brake pedal peg bolts
+
+Remove the rear brake pedal peg bolts.
+
+![Step 12 - remove the rear brake pedal peg bolts](assets/screenshots/step_12_remove-the-rear-brake-pedal-peg-bolts.jpg)
+
+### 13. Loosen brake pump bolts
+
+Loosen the brake pump bolts.
+
+![Step 13 - loosen brake pump bolts](assets/screenshots/step_13_loosen-brake-pump-bolts.jpg)
+
+### 14. Remove side plate bolts
+
+Remove the side plate bolts.
+
+![Step 14 - remove side plate bolts](assets/screenshots/step_14_remove-side-plate-bolts.jpg)
+
+### 15. Remove side plate
+
+Remove the right side plate.
+
+![Step 15 - remove side plate](assets/screenshots/step_15_remove-side-plate.jpg)
 
 ## Installation Procedure
 
-### 5. Position the right Side Plate for installation
+### 16. Install the side plate in place
 
-Return the right Side Plate to its mounting position and align the holes, tabs, or locating surfaces.
+Install the side plate in place.
 
-Hold the component in place until the first retaining hardware is started.
+![Step 16 - install the side plate in place](assets/screenshots/step_16_install-the-side-plate-in-place.jpg)
 
-![Step 5 - position the right side plate for installation](assets/screenshots/step_05_position-the-right-side-plate-for-installation.jpg)
+### 17. Tighten top bolt to 45 Nm
 
-### 6. Reconnect or refit the support pieces for the right Side Plate
+Tighten the top bolt to **45 Nm**.
 
-Reinstall any bracket, clip, spacer, linkage, or coupling associated with the right Side Plate.
+![Step 17 - tighten top bolt to 45 nm](assets/screenshots/step_17_tighten-top-bolt-to-45-nm.jpg)
 
-Make sure each supporting piece is seated correctly before final tightening.
+### 18. Tighten middle bolt to 45 Nm
 
-![Step 6 - reconnect or refit the support pieces for the right side plate](assets/screenshots/step_06_reconnect-or-refit-the-support-pieces-for-the-right-side-pla.jpg)
+Tighten the middle bolt to **45 Nm**.
 
-### 7. Install the retaining hardware for the right Side Plate
+![Step 18 - tighten middle bolt to 45 nm](assets/screenshots/step_18_tighten-middle-bolt-to-45-nm.jpg)
 
-Install the right Side Plate retaining hardware by hand first so the part stays aligned in its mounting points.
+### 19. Tighten bottom bolt to 40 Nm
 
-Check that the component remains aligned while the hardware is brought fully home.
+Tighten the bottom bolt to **40 Nm**.
 
-Tighten the side plates top bolt to **45 Nm**.
+![Step 19 - tighten bottom bolt to 40 nm](assets/screenshots/step_19_tighten-bottom-bolt-to-40-nm.jpg)
 
-Tighten the side plates bottom bolt to **40 Nm**.
+### 20. Hold the brake pump in place
 
-![Step 7 - install the retaining hardware for the right side plate](assets/screenshots/step_07_install-the-retaining-hardware-for-the-right-side-plate.jpg)
+Hold the brake pump in place for installation.
 
-### 8. Verify the completed installation of the right Side Plate
+![Step 20 - hold the brake pump in place](assets/screenshots/step_20_hold-the-brake-pump-in-place.jpg)
 
-Inspect the final position of the right Side Plate and confirm that all hardware, clips, and surrounding parts are back in place.
+### 21. Tighten bolts to 10 Nm
 
-Check the component for correct fit and movement before returning the bike to service.
+Tighten the brake pump bolts to **10 Nm**.
 
-![Step 8 - verify the completed installation of the right side plate](assets/screenshots/step_08_verify-the-completed-installation-of-the-right-side-plate.jpg)
+![Step 21 - tighten bolts to 10 nm](assets/screenshots/step_21_tighten-bolts-to-10-nm.jpg)
+
+### 22. Install the rear brake pedal link
+
+Install the rear brake pedal link.
+
+![Step 22 - install the rear brake pedal link](assets/screenshots/step_22_install-the-rear-brake-pedal-link.jpg)
+
+### 23. Tighten link bolt to 10 Nm
+
+Tighten the rear brake pedal link bolt to **10 Nm**.
+
+![Step 23 - tighten link bolt to 10 nm](assets/screenshots/step_23_tighten-link-bolt-to-10-nm.jpg)
+
+### 24. Hold the rear brake pedal peg in place
+
+Hold the rear brake pedal peg in place.
+
+![Step 24 - hold the rear brake pedal peg in place](assets/screenshots/step_24_hold-the-rear-brake-pedal-peg-in-place.jpg)
+
+### 25. Tighten the rear brake pedal peg bolts to 5 Nm
+
+Tighten the rear brake pedal peg bolts to **5 Nm**.
+
+![Step 25 - tighten the rear brake pedal peg bolts to 5 nm](assets/screenshots/step_25_tighten-the-rear-brake-pedal-peg-bolts-to-5-nm.jpg)
+
+### 26. Push subframe away and hold again
+
+Push the subframe away and hold it again while refitting the mounting hardware.
+
+![Step 26 - push subframe away and hold again](assets/screenshots/step_26_push-subframe-away-and-hold-again.jpg)
+
+### 27. Insert top bolt
+
+Insert the top bolt.
+
+![Step 27 - insert top bolt](assets/screenshots/step_27_insert-top-bolt.jpg)
+
+### 28. Tighten lock nut to 40 Nm
+
+Tighten the lock nut to **40 Nm**.
+
+![Step 28 - tighten lock nut to 40 nm](assets/screenshots/step_28_tighten-lock-nut-to-40-nm.jpg)
+
+### 29. Insert bottom bolt
+
+Insert the bottom bolt.
+
+![Step 29 - insert bottom bolt](assets/screenshots/step_29_insert-bottom-bolt.jpg)
+
+### 30. Tighten lock nut to 40 Nm again
+
+Tighten the lower lock nut to **40 Nm**.
+
+![Step 30 - tighten lock nut to 40 nm again](assets/screenshots/step_30_tighten-lock-nut-to-40-nm-again.jpg)
+
+### 31. Tighten lower rear fender bolts
+
+Tighten the lower rear fender bolts.
+
+![Step 31 - tighten lower rear fender bolts](assets/screenshots/step_31_tighten-lower-rear-fender-bolts.jpg)
+
+### 32. Tighten rear center bolt to 8 Nm
+
+Tighten the rear center bolt to **8 Nm**.
+
+![Step 32 - tighten rear center bolt to 8 nm](assets/screenshots/step_32_tighten-rear-center-bolt-to-8-nm.jpg)
+
+### 33. Tighten side bolts to 40 Nm
+
+Tighten the side bolts to **40 Nm**.
+
+![Step 33 - tighten side bolts to 40 nm](assets/screenshots/step_33_tighten-side-bolts-to-40-nm.jpg)
+
+### 34. Tighten front bolts to 5 Nm
+
+Tighten the front bolts to **5 Nm**.
+
+![Step 34 - tighten front bolts to 5 nm](assets/screenshots/step_34_tighten-front-bolts-to-5-nm.jpg)
+
+### 35. Check brake operation before operating the bike
+
+Check brake operation before operating the bike.
+
+![Step 35 - check brake operation before operating the bike](assets/screenshots/step_35_check-brake-operation-before-operating-the-bike.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the side plates top bolt | 45 Nm |
-| Tighten the side plates bottom bolt | 40 Nm |
+| Tighten top bolt | 45 Nm |
+| Tighten middle bolt | 45 Nm |
+| Tighten bottom bolt | 40 Nm |
+| Tighten brake pump bolts | 10 Nm |
+| Tighten rear brake pedal link bolt | 10 Nm |
+| Tighten rear brake pedal peg bolts | 5 Nm |
+| Tighten lock nuts | 40 Nm |
+| Tighten rear center bolt | 8 Nm |
+| Tighten side bolts | 40 Nm |
+| Tighten front bolts | 5 Nm |
 
 Verified torque items:
 
-- Tighten the side plates top bolt: **45 Nm** from the official Stark VARG owner manual torque table.
-- Tighten the side plates bottom bolt: **40 Nm** from the official Stark VARG owner manual torque table.
+- Tighten the top bolt: **45 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the middle bolt: **45 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the bottom bolt: **40 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the brake pump bolts: **10 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the rear brake pedal link bolt: **10 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the rear brake pedal peg bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the lock nuts: **40 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the rear center bolt: **8 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the side bolts: **40 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the front bolts: **5 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 
-- Confirm the serviced component is fully seated and all fasteners are tightened in the correct order.
+- Confirm the side plate, lower rear fender, brake pump, brake pedal link, and pedal peg are fully seated.
 - Recheck all torque-critical hardware before riding.
-- Make sure all routed cables, clips, brackets, and surrounding parts are returned to their original positions.
-- Inspect the bike visually for any missing hardware before returning it to service.
+- Make sure the subframe is seated correctly in the subframe slots.
+- Check brake operation before riding.
