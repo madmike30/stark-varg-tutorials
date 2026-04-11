@@ -45,13 +45,13 @@ Align the front fender holes with the front number plate studs and the triple cl
 
 ### 5. Tighten at least one bolt with a bushing to secure the fender in place
 
-Tighten at least one bolt with a bushing to secure the fender in place.
+Tighten at least one bolt with a bushing to secure the fender in place. Final torque is applied in step 7.
 
 ![Step 5 - tighten at least one bolt with a bushing to secure the fender in place](assets/screenshots/step_05_tighten-at-least-one-bolt-with-a-bushing-to-secure-the-fender-in-place.jpg)
 
 ### 6. Tighten the remaining bolts with bushings by hand until all hold in place
 
-Tighten the remaining bolts with bushings by hand until all hold in place.
+Tighten the remaining bolts with bushings by hand until all hold in place. Final torque is applied in step 7.
 
 ![Step 6 - tighten the remaining bolts with bushings by hand until all hold in place](assets/screenshots/step_06_tighten-the-remaining-bolts-with-bushings-by-hand-until-all-hold-in-plac.jpg)
 

@@ -69,7 +69,7 @@ Remove the control switch.
 
 ### 9. Hold switch in place and tighten clamp bolt
 
-Hold the switch in place on the handlebar and start tightening the clamp bolt.
+Hold the switch in place on the handlebar and start tightening the clamp bolt. Final torque is applied in step 10.
 
 ![Step 9 - hold switch in place and tighten clamp bolt](assets/screenshots/step_09_hold-switch-in-place-and-tighten-clamp-bolt.jpg)
 
@@ -93,7 +93,7 @@ Clip the connectors onto the junction box.
 
 ### 13. Tighten junction box bolts
 
-Tighten the junction box bolts.
+Tighten the junction box bolts. The torque value is not shown in the video; verify the official Stark specification before final tightening.
 
 ![Step 13 - tighten junction box bolts](assets/screenshots/step_13_tighten-junction-box-bolts.jpg)
 

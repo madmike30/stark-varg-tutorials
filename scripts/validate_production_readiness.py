@@ -45,6 +45,22 @@ FASTENER_WORDS = (
     "bridge bolts",
 )
 
+NON_TORQUE_INSTALL_EXCLUSIONS = (
+    "hose clamp",
+    "hose clamps",
+    "rubber strap",
+    "bearing",
+    "bearings",
+    "circlip",
+    "o-ring",
+    "seal",
+    "phone",
+    "plug",
+    "connector",
+    "connectors",
+    "bleed hose",
+)
+
 TYPO_RESIDUE_PATTERNS = [
     "is permitted only with the express written permission",
     "step 4 require at least two people",
@@ -116,13 +132,19 @@ def split_steps(text: str) -> list[Step]:
 
 
 def is_fastener_install_step(step: Step) -> bool:
-    text = f"{step.title} {step.body}".lower()
+    title = step.title.lower()
+    body = step.body.lower()
+    text = f"{title} {body}"
+    if any(exclusion in text for exclusion in NON_TORQUE_INSTALL_EXCLUSIONS):
+        return False
     has_fastener = any(word in text for word in FASTENER_WORDS)
     if not has_fastener:
         return False
-    install_action = "tighten" in text or "secure" in text
-    if not install_action and "install" in text:
-        install_action = any(word in text for word in ("bolt", "bolts", "nut", "nuts", "screw", "screws", "clamp", "clamps", "banjo"))
+    install_action = any(re.match(rf"^\s*{verb}\b", candidate) for verb in ("tighten", "secure") for candidate in (title, body))
+    if not install_action:
+        install_starts = any(re.match(r"^\s*install\b", candidate) for candidate in (title, body))
+        if install_starts:
+            install_action = any(word in text for word in ("bolt", "bolts", "nut", "nuts", "screw", "screws", "banjo"))
     if "by hand" in text:
         return False
     return has_fastener and install_action
@@ -131,10 +153,11 @@ def is_fastener_install_step(step: Step) -> bool:
 def has_torque(step: Step) -> bool:
     text = f"{step.title} {step.body}".lower()
     return (
-        "nm" in text
+        bool(re.search(r"\b\d+(?:\.\d+)?\s*nm\b", text))
         or "etched torque" in text
+        or "engraved on the part" in text
         or "torque value" in text
-        or "final torque" in text
+        or bool(re.search(r"\bfinal\b.*\btorque\b", text))
         or "official stark specification" in text
     )
 
@@ -260,7 +283,7 @@ def classify_findings(slug: str, text: str, steps: list[Step]) -> list[Finding]:
                 )
             )
 
-    if "nm" in text_lower and "## torque summary" not in text_lower:
+    if re.search(r"\b\d+(?:\.\d+)?\s*nm\b", text_lower) and "## torque summary" not in text_lower:
         findings.append(
             Finding(
                 "medium",

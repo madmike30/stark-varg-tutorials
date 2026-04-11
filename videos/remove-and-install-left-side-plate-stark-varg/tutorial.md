@@ -165,7 +165,7 @@ Tighten the lower lock nut to **40 Nm**.
 
 ### 25. Tighten lower rear fender bolts
 
-Tighten the lower rear fender bolts.
+Tighten the lower rear fender bolts. The torque value is not shown in the video; verify the official Stark specification before final tightening.
 
 ![Step 25 - tighten lower rear fender bolts](assets/screenshots/step_25_tighten-lower-rear-fender-bolts.jpg)
 

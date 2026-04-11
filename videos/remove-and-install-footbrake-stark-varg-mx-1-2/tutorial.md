@@ -139,7 +139,7 @@ Carefully position the wheel and ensure it is aligned with the swingarm and rear
 
 ### 20. Install the rear wheel shaft and secure it with the lock nut after placing the chain tensioner
 
-Install the rear wheel shaft and secure it with the lock nut after placing the chain tensioner.
+Install the rear wheel shaft and secure it with the lock nut after placing the chain tensioner. Final torque is applied in step 22.
 
 ![Step 20 - install the rear wheel shaft and secure it with the lock nut after placing the chain tensioner](assets/screenshots/step_20_install-the-rear-wheel-shaft-and-secure-it-with-the-lock-nut.jpg)
 

@@ -121,6 +121,8 @@ Ensure the level does not drop too low at any time.
 
 Carefully remove the hose from the front brake caliper bleed screw, then tighten the bleed screw and clean the area.
 
+The bleed screw torque is not shown in the video. Verify the official Stark specification before final tightening.
+
 ![Step 16 - carefully remove the hose from the front brake caliper bleed screw, then tighten the bleed screw and clean the area](assets/screenshots/step_16_carefully-remove-the-hose-from-the-front-brake-caliper-bleed.jpg)
 
 ### 17. Place the rubber protector cap into its position
@@ -132,6 +134,8 @@ Place the rubber protector cap into its position.
 ### 18. Install the master cylinder reservoir cap and tighten both screws securely
 
 Install the master cylinder reservoir cap and tighten both screws securely.
+
+The reservoir cap screw torque is not shown in the video. Verify the official Stark specification before final tightening.
 
 ![Step 18 - install the master cylinder reservoir cap and tighten both screws securely](assets/screenshots/step_18_install-the-master-cylinder-reservoir-cap-and-tighten-both-s.jpg)
 

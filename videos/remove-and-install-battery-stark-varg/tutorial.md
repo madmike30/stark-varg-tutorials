@@ -85,7 +85,7 @@ Loosen the battery bottom and top shaft nuts.
 
 ### 12. Pull out the battery bottom shaft
 
-Pull out the battery bottom shaft. Step 12 require at least two people.
+Pull out the battery bottom shaft. This step requires at least two people.
 
 ![Step 12 - pull out the battery bottom shaft](assets/screenshots/step_12_pull-out-the-battery-bottom-shaft.jpg)
 
@@ -123,7 +123,7 @@ Tighten the skid plate side bolts to 15 Nm.
 
 ### 18. Place the battery firmly on the center of the stand
 
-Place the battery firmly on the center of the stand. Step 4 require at least two people.
+Place the battery firmly on the center of the stand. This step requires at least two people.
 
 ![Step 18 - place the battery firmly on the center of the stand](assets/screenshots/step_18_place-the-battery-firmly-on-the-center-of-the-stand.jpg)
 

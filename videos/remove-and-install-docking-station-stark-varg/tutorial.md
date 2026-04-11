@@ -75,7 +75,7 @@ Insert the bolts in the docking station.
 
 ### 10. Tighten bolts
 
-Tighten the docking station bolts evenly while keeping the handlebar angle aligned with the note taken during removal.
+Tighten the docking station bolts evenly while keeping the handlebar angle aligned with the note taken during removal. Final torque is applied in step 11.
 
 ![Step 10 - tighten bolts](assets/screenshots/step_10_tighten-bolts.jpg)
 
@@ -99,7 +99,7 @@ Clip the connectors onto the junction box.
 
 ### 14. Tighten junction box bolts
 
-Tighten the junction box bolts.
+Tighten the junction box bolts. The torque value is not shown in the video; verify the official Stark specification before final tightening.
 
 ![Step 14 - tighten junction box bolts](assets/screenshots/step_14_tighten-junction-box-bolts.jpg)
 

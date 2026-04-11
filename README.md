@@ -1,5 +1,9 @@
 # Stark Varg Tutorials
 
+Live website: https://madmike30.github.io/stark-varg-tutorials/
+
+If you just want the workshop library, use the website above. This README stays as the project/source overview.
+
 Garage-friendly Stark VARG service tutorials converted from the official Stark Future video playlists into step-by-step markdown guides and printable PDFs.
 
 ## Source Material

@@ -155,6 +155,8 @@ Connect the radiator hoses by pushing them securely into position.
 
 Handle the clamps carefully, as they have sharp edges.
 
+The hose clamp torque is not shown in the video; verify the official Stark specification if clamp tightening is required.
+
 ![Step 22 - connect the radiator hoses by pushing them securely into position](assets/screenshots/step_22_connect-the-radiator-hoses-by-pushing-them-securely-into-pos.jpg)
 
 ### 23. Secure the water pump by positioning its rubber strap correctly
@@ -167,11 +169,15 @@ Secure the water pump by positioning its rubber strap correctly.
 
 Secure the radiator bleed hose clamp in its proper position.
 
+The bleed hose clamp torque is not shown in the video; verify the official Stark specification if clamp tightening is required.
+
 ![Step 24 - secure the radiator bleed hose clamp in its proper position](assets/screenshots/step_24_secure-the-radiator-bleed-hose-clamp-in-its-proper-position.jpg)
 
 ### 25. Secure the radiator hose clamps in their proper positions. Note: Ensure that no cables are in contact with the clamps
 
 Secure the radiator hose clamps in their proper positions. Note: Ensure that no cables are in contact with the clamps.
+
+The hose clamp torque is not shown in the video; verify the official Stark specification if clamp tightening is required.
 
 ![Step 25 - secure the radiator hose clamps in their proper positions. note: ensure that no cables are in contact with the clamps](assets/screenshots/step_25_secure-the-radiator-hose-clamps-in-their-proper-positions-no.jpg)
 

@@ -177,7 +177,7 @@ Install the top triple clamp.
 
 ### 27. Hold the fork and tighten lower clamp bolts
 
-Hold the fork and tighten the lower clamp bolts.
+Hold the fork and tighten the lower clamp bolts enough to support the fork. Final torque is applied in step 30.
 
 ![Step 27 - hold the fork and tighten lower clamp bolts](assets/screenshots/step_27_hold-the-fork-and-tighten-lower-clamp-bolts.jpg)
 
@@ -231,7 +231,7 @@ Clip the connectors onto the junction box.
 
 ### 36. Tighten junction box bolts
 
-Tighten the junction box bolts.
+Tighten the junction box bolts. The torque value is not shown in the video; verify the official Stark specification before final tightening.
 
 ![Step 36 - tighten junction box bolts](assets/screenshots/step_36_tighten-junction-box-bolts.jpg)
 
@@ -243,7 +243,7 @@ Install the fender between the forks.
 
 ### 38. Hold the fender in place and install bolts
 
-Hold the fender in place and install the bolts.
+Hold the fender in place and install the bolts. Final torque is applied in step 39.
 
 ![Step 38 - hold the fender in place and install bolts](assets/screenshots/step_38_hold-the-fender-in-place-and-install-bolts.jpg)
 

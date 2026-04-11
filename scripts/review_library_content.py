@@ -161,6 +161,20 @@ def main() -> None:
             doc_text.append(read_doc_text(code, doc_item["file"]["url"]))
         guide_nm = extract_torques(tutorial_text)
         doc_nm = extract_torques("\n".join(doc_text))
+        guide_set = set(guide_nm)
+        doc_set = set(doc_nm)
+        delegates_to_linked_guides = tutorial_text.count("Refer to:") >= 2
+        is_single_procedure_guide = "## procedure" in tutorial_text.lower() and "## removal procedure" not in tutorial_text.lower()
+
+        if not doc_nm:
+            continue
+
+        if guide_set and (guide_set <= doc_set or doc_set <= guide_set):
+            continue
+
+        if not guide_set and (delegates_to_linked_guides or is_single_procedure_guide):
+            continue
+
         if doc_nm and guide_nm != doc_nm:
             torque_flags.append(
                 f"- `{video_dir.name}` vs `{doc['code']} {doc_name}`: guide={guide_nm or ['none']}, manual={doc_nm}"

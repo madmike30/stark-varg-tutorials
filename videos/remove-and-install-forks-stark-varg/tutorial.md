@@ -117,7 +117,7 @@ Tighten the axle lock nut to **35 Nm**.
 
 ### 17. Tighten the right fork clamp bolts enough to seat the axle
 
-Tighten the right fork clamp bolts enough to seat the axle. Final fork clamp torque is applied in step 21.
+Tighten the right fork clamp bolts enough to seat the axle. Final torque for the fork clamp bolts is applied in step 21.
 
 ![Step 17 - tighten the right fork clamp bolts](assets/screenshots/step_14_tighten-nght-fork-clamp-bolts.jpg)
 
