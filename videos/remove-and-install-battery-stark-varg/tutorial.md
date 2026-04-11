@@ -127,9 +127,9 @@ Place the battery firmly on the center of the stand. Step 4 require at least two
 
 ![Step 18 - place the battery firmly on the center of the stand](assets/screenshots/step_18_place-the-battery-firmly-on-the-center-of-the-stand.jpg)
 
-### 19. While one person holds the battery steady on the stand, lift the bike over the battery with the help of another person
+### 19. While one person steadies the battery on the stand, lower the bike back over the battery with the help of another person
 
-While one person holds the battery steady on the stand, lift the bike over the battery with the help of another person.
+While one person steadies the battery on the stand, lower the bike back over the battery with the help of another person.
 
 ![Step 19 - while one person holds the battery steady on the stand, lift the bike over the battery with the help of another person](assets/screenshots/step_19_while-one-person-holds-the-battery-steady-on-the-stand-lift-the-bike-ove-2.jpg)
 

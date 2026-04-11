@@ -103,9 +103,9 @@ Use new copper washers and install them on both sides of the brake hose. Ensure 
 
 ![Step 13 - tighten the banjo bolt into the master cylinder to 27 nm](assets/screenshots/step_13_tighten-the-banjo-bolt-into-the-master-cylinder-to-27-nm.jpg)
 
-### 14. Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid
+### 14. Refit the wrench and hose to the rear bleed screw so the rear brake system can be bled
 
-Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid.
+Refit the wrench and hose to the rear bleed screw so the rear brake system can be bled.
 
 ![Step 14 - fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid](assets/screenshots/step_14_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef.jpg)
 
@@ -115,9 +115,9 @@ Bleed the braking system by adding brake fluid to the reservoir.
 
 ![Step 15 - bleed the braking system by adding brake fluid to the reservoir](assets/screenshots/step_15_bleed-the-braking-system-by-adding-brake-fluid-to-the-reserv.jpg)
 
-### 16. Pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever
+### 16. Pump the brake pedal several times and, while holding pressure on it, open and close the rear caliper bleed screw before releasing it
 
-Pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever.
+Pump the brake pedal several times and, while holding pressure on it, open and close the rear caliper bleed screw before releasing it.
 
 ![Step 16 - pump the brake lever several times and, while holding it pulled in, open and close the front caliper bleed screw before releasing the lever](assets/screenshots/step_16_pump-the-brake-lever-several-times-and-while-holding-it-pull.jpg)
 

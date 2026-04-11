@@ -81,9 +81,9 @@ Use new copper washers and position them on either side of the brake hose.
 
 ![Step 10 - tighten the banjo bolt into the front caliper to 25 nm](assets/screenshots/step_10_tighten-the-banjo-bolt-into-the-front-caliper-to-25-nm.jpg)
 
-### 11. Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid
+### 11. Refit the wrench and hose to the bleed screw so the caliper can be bled
 
-Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid.
+Refit the wrench and hose to the bleed screw so the front brake caliper can be bled.
 
 ![Step 11 - fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid](assets/screenshots/step_11_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef.jpg)
 

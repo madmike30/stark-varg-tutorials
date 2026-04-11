@@ -151,9 +151,9 @@ Install the front fender. Refer to: 01.005.01 Remove and install front fender �
 
 ![Step 22 - install the front fender](assets/screenshots/step_22_install-the-front-fender.jpg)
 
-### 23. Disconnect the handlebar controls
+### 23. Reconnect the handlebar controls
 
-Disconnect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+Reconnect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect handlebar controls ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after reconnecting electronic components.
 
 ![Step 23 - disconnect the handlebar controls](assets/screenshots/step_23_disconnect-the-handlebar-controls-2.jpg)
 

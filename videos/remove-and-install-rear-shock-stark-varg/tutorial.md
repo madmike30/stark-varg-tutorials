@@ -49,9 +49,9 @@ Remove bottom lock nut.
 
 ## Installation Procedure
 
-### 6. Push subframe away and hold
+### 6. Push the subframe away and hold it clear for shock removal
 
-Push subframe away and hold.
+Push the subframe away and hold it clear for shock removal.
 
 ![Step 6 - push subframe away and hold](assets/screenshots/step_06_push-subframe-away-and-hold.jpg)
 
@@ -67,9 +67,9 @@ Ensure the subframe rests in the subframe stots.
 
 ![Step 8 - ensure the subframe rests in the subframe stots](assets/screenshots/step_08_ensure-the-subframe-rests-in-the-subframe-stots.jpg)
 
-### 9. Push subframe away and hold
+### 9. Push the subframe away and hold it clear for shock installation
 
-Push subframe away and hold.
+Push the subframe away and hold it clear for shock installation.
 
 ![Step 9 - push subframe away and hold](assets/screenshots/step_09_push-subframe-away-and-hold-2.jpg)
 

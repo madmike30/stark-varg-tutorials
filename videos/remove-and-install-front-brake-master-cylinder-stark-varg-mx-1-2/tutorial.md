@@ -91,9 +91,9 @@ Use new copper washers and position them on either side of the brake hose.
 
 ![Step 11 - tighten the banjo bolt into the master cylinder to 25 nm](assets/screenshots/step_11_tighten-the-banjo-bolt-into-the-master-cylinder-to-25-nm.jpg)
 
-### 12. Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid
+### 12. Refit the wrench and hose to the bleed screw so the front brake system can be bled
 
-Fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid.
+Refit the wrench and hose to the bleed screw so the front brake system can be bled.
 
 ![Step 12 - fit the wrench onto the bleed screw to open and close it before attaching the hose to drain the brake fluid](assets/screenshots/step_12_fit-the-wrench-onto-the-bleed-screw-to-open-and-close-it-bef.jpg)
 

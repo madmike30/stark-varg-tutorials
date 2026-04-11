@@ -31,9 +31,9 @@ Run the chain through the front sprocket.
 
 ![Step 2 - run the chain through the front sprocket](assets/screenshots/step_02_run-the-chain-through-the-front-sprocket.jpg)
 
-### 3. Run the chain through the front sprocket
+### 3. Continue feeding the chain fully through the front sprocket
 
-Run the chain through the front sprocket.
+Continue feeding the chain fully through the front sprocket.
 
 ![Step 3 - run the chain through the front sprocket](assets/screenshots/step_03_run-the-chain-through-the-frant-sprocket.jpg)
 
