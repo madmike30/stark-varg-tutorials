@@ -35,15 +35,15 @@ Place a suitable container directly beneath the oil drain plug.
 
 ![Step 3 - place a suitable container directly beneath the oil drain plug](assets/screenshots/step_03_place-a-suitable-container-directly-beneath-the-oil-drain-plug.jpg)
 
-### 4. Untighten the drain plug
+### 4. Loosen the drain plug
 
-Untighten the drain plug.
+Loosen the drain plug.
 
 ![Step 4 - untighten the drain plug](assets/screenshots/step_04_untighten-the-drain-plug.jpg)
 
-### 5. Untighten the right motor cover metal cap
+### 5. Loosen the right motor cover metal cap
 
-Untighten the right motor cover metal cap. Lean the bike slightly to the right to help drain most of the used oil.
+Loosen the right motor cover metal cap. Lean the bike slightly to the right to help drain most of the used oil.
 
 ![Step 5 - untighten the right motor cover metal cap](assets/screenshots/step_05_untighten-the-right-motor-cover-metal-cap.jpg)
 
@@ -109,7 +109,7 @@ Clean any oil residue on the motor housing.
 
 ### 16. Install the skid plate
 
-Install the skid plate. Refer to: 05.041.01 Remove and install skid plate Remove and install skid plate ↗.↗. Dispose of the used oil following your local regulatory requirements. is permitted only with the express written permission.
+Install the skid plate. Refer to: 05.041.01 Remove and install skid plate ↗. Dispose of the used oil following your local regulatory requirements.
 
 ![Step 16 - install the skid plate](assets/screenshots/step_16_install-the-skid-plate.jpg)
 

@@ -129,7 +129,7 @@ Hook the springs on the top bolt by the left side plate.
 
 ### 19. Hook the springs on the side stand leg’s spring plate
 
-Hook the springs on the side stand leg’s spring plate. is permitted only with the express written permission.
+Hook the springs on the side stand leg's spring plate.
 
 ![Step 19 - hook the springs on the side stand leg’s spring plate](assets/screenshots/step_19_hook-the-springs-on-the-side-stand-legs-spring-plate.jpg)
 

@@ -63,7 +63,7 @@ Install the front line bracket. Refer to: 02.011.01 Remove and Install front bra
 
 ### 8. Install the front number plate
 
-Install the front number plate. Refer to: 01.006.01 Remove and Install front number plate ↗. Check brake operation before operating the bike. is permitted only with the express written permission.
+Install the front number plate. Refer to: 01.006.01 Remove and Install front number plate ↗. Check brake operation before operating the bike.
 
 ![Step 8 - install the front number plate](assets/screenshots/step_08_install-the-front-number-plate.jpg)
 

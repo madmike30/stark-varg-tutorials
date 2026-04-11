@@ -91,7 +91,7 @@ Remove the shock. Refer to: 08.058.01 Remove and install shock ↗.
 
 ### 13. Remove the chain
 
-Remove the chain. Refer to: 03.011.01 Remove and install rear wheel ↗. Once radiator cap is untighten, coolant should start flowing from the draining hole.
+Remove the chain. Refer to: 03.011.01 Remove and install chain ↗.
 
 ![Step 13 - remove the chain](assets/screenshots/step_13_remove-the-chain.jpg)
 
@@ -119,9 +119,9 @@ Loosen the inverter to battery wiring harness from the holding brackets.
 
 ![Step 17 - loosen the inverter to battery wiring harness from the holding brackets](assets/screenshots/step_17_loosen-the-inverter-to-battery-wiring-harness-from-the-holding-brackets.jpg)
 
-### 18. Untighten the frame to motor shaft
+### 18. Loosen the frame-to-motor shaft
 
-Untighten the frame to motor shaft.
+Loosen the frame-to-motor shaft.
 
 ![Step 18 - untighten the frame to motor shaft](assets/screenshots/step_18_untighten-the-frame-to-motor-shaft.jpg)
 
@@ -147,7 +147,7 @@ Place the frame over the powertrain unit and align the mounting holes.
 
 ### 22. Insert and tighten the frame to motor shaft enough to secure it in place
 
-Insert and tighten the frame to motor shaft enough to secure it in place. Torque to spec only on step 11.
+Insert and tighten the frame-to-motor shaft enough to secure it in place. Final torque is applied in step 30.
 
 ![Step 22 - insert and tighten the frame to motor shaft enough to secure it in place](assets/screenshots/step_22_insert-and-tighten-the-frame-to-motor-shaft-enough-to-secure-it-in-place.jpg)
 
@@ -195,7 +195,7 @@ Install the battery. Refer to: 07.005.01 Remove and install the battery ↗.
 
 ### 30. Tighten the frame to motor shaft to 60 Nm
 
-Tighten the frame to motor shaft to 60 Nm.
+Tighten the frame to motor shaft to **60 Nm**.
 
 ![Step 30 - tighten the frame to motor shaft to 60 Nm](assets/screenshots/step_30_tighten-the-frame-to-motor-shaft-to-60-nm.jpg)
 
@@ -219,7 +219,7 @@ Install the spoiler assembly. 01.007.01 Remove and install spoiler assembly ↗.
 
 ### 34. Install the front fender
 
-Install the front fender. Refer to: 01.005.01 Remove and install front fender ↗. Check brake operation before operating the bike. is permitted only with the express written permission.
+Install the front fender. Refer to: 01.005.01 Remove and install front fender ↗. Confirm the bike operates normally before riding.
 
 ![Step 34 - install the front fender](assets/screenshots/step_34_install-the-front-fender.jpg)
 

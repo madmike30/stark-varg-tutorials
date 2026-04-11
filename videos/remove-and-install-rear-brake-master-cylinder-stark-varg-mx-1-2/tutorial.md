@@ -139,6 +139,8 @@ Tighten the foot brake master cylinder reservoir cap.
 
 Carefully remove the hose from the rear brake caliper bleed screw, then tighten the bleed screw and clean the area.
 
+The bleed screw torque is not shown in the video. Verify the official Stark specification before final tightening.
+
 ![Step 19 - carefully remove the hose from the rear brake caliper bleed screw, then tighten the bleed screw and clean the area](assets/screenshots/step_19_carefully-remove-the-hose-from-the-rear-brake-caliper-bleed-.jpg)
 
 ### 20. Place the rubber protector cap into its position

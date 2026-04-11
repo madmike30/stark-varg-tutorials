@@ -57,7 +57,7 @@ Install the foot brake master cylinder. Refer to: 02.027.01 Remove and Install f
 
 ### 7. Install rear wheel
 
-Install rear wheel. Refer to: 09.015.01 Remove and Install rear wheel ↗. Check brakes operation before operating the bike. is permitted only with the express written permission.
+Install rear wheel. Refer to: 09.015.01 Remove and Install rear wheel ↗. Check brake operation before operating the bike.
 
 ![Step 7 - install rear wheel](assets/screenshots/step_07_install-rear-wheel.jpg)
 

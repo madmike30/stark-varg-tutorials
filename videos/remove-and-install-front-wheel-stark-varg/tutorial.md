@@ -87,13 +87,13 @@ Tighten the axle lock bolt by hand until there is no play.
 
 ### 12. Tighten the right fork axle clamp bolts to 5 Nm
 
-Tighten the right fork axle clamp bolts to 5 Nm.
+Tighten the right fork axle clamp bolts to **5 Nm**.
 
 ![Step 12 - tighten the right fork axle clamp bolts to 5 Nm](assets/screenshots/step_12_tighten-the-right-fork-axle-clamp-bolts-to-5-nm.jpg)
 
 ### 13. Tighten the axle lock bolt to 35 Nm
 
-Tighten the axle lock bolt to 35 Nm.
+Tighten the axle lock bolt to **35 Nm**.
 
 ![Step 13 - tighten the axle lock bolt to 35 Nm](assets/screenshots/step_13_tighten-the-axle-lock-bolt-to-35-nm.jpg)
 
@@ -111,7 +111,7 @@ Spin the wheel by hand a few times and squeeze the front brake lever.
 
 ### 16. Tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork
 
-Tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork. Check brakes operation before operating the bike. Reproduction, even in part, as well as copying of all kinds, is permitted only with the express written permission of the copyright owner.
+Tighten all fork axle clamp bolts to **15 Nm**, 2x on the right fork and 2x on the left fork. Check brake operation before operating the bike.
 
 ![Step 16 - tighten all fork axle clamp bolts to 15 Nm, 2x on the right fork and 2x on the left fork](assets/screenshots/step_16_tighten-all-fork-axle-clamp-bolts-to-15-nm-2x-on-the-right-fork-and-2x-o.jpg)
 

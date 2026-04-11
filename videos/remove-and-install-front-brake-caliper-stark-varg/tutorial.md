@@ -51,7 +51,7 @@ Tighten the front brake caliper bolts by hand until it holds in place.
 
 ### 6. Tighten the front brake caliper bolts to 25 Nm
 
-Tighten the front brake caliper bolts to 25 Nm. Check brake operation before operating the bike. is permitted only with the express written permission.
+Tighten the front brake caliper bolts to **25 Nm**. Check brake operation before operating the bike.
 
 ![Step 6 - tighten the front brake caliper bolts to 25 Nm](assets/screenshots/step_06_tighten-the-front-brake-caliper-bolts-to-25-nm.jpg)
 

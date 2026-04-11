@@ -23,143 +23,167 @@ Remove brake line bracket screws.
 
 ![Step 1 - remove brake line bracket screws](assets/screenshots/step_01_remove-brake-line-bracket-screws.jpg)
 
-### 2. Loosen fork clamp bolts on the left fork
+### 2. Remove the brake line bracket
+
+Remove the brake line bracket.
+
+![Step 2 - remove the brake line bracket](assets/screenshots/step_02_remove-brake-line-bracket.jpg)
+
+### 3. Remove the front brake caliper bolts
+
+Remove the front brake caliper bolts, then lift the caliper clear of the disc.
+
+![Step 3 - remove the front brake caliper bolts](assets/screenshots/step_03_remove-front-brake-caliper-bolts.jpg)
+
+### 4. Loosen fork clamp bolts on the left fork
 
 Loosen fork clamp bolts on the left fork.
 
-![Step 2 - loosen fork clamp bolts on the left fork](assets/screenshots/step_02_loosen-fork-clamp-bolts-on-the-left-fork.jpg)
+![Step 4 - loosen fork clamp bolts on the left fork](assets/screenshots/step_02_loosen-fork-clamp-bolts-on-the-left-fork.jpg)
 
-## Installation Procedure
+### 5. Loosen fork clamp bolts on the right fork
 
-### 3. Push the axi lock nut inside
+Loosen fork clamp bolts on the right fork.
 
-Push the axi lock nut inside.
+![Step 5 - loosen fork clamp bolts on the right fork](assets/screenshots/step_05_loosen-fork-clamp-bolts-on-the-right-fork.jpg)
 
-![Step 3 - push the axi lock nut inside](assets/screenshots/step_03_push-the-axi-lock-nut-inside.jpg)
+### 6. Push the axle lock nut inside
 
-### 4. Remove axle lock nut
+Push the axle lock nut inside.
+
+![Step 6 - push the axle lock nut inside](assets/screenshots/step_03_push-the-axi-lock-nut-inside.jpg)
+
+### 7. Remove axle lock nut
 
 Remove axle lock nut.
 
-![Step 4 - remove axle lock nut](assets/screenshots/step_04_remove-axle-lock-nut.jpg)
+![Step 7 - remove axle lock nut](assets/screenshots/step_04_remove-axle-lock-nut.jpg)
 
-### 5. Hold the whect and remove tre ale
+### 8. Lift the front of the bike to support the rear wheel on the floor, then hold the wheel and remove the axle
 
-Hold the whect and remove tre ale.
+Lift the front of the bike to support the rear wheel on the floor, then hold the wheel and remove the axle.
 
-![Step 5 - hold the whect and remove tre ale](assets/screenshots/step_05_hold-the-whect-and-remove-tre-ale.jpg)
+![Step 8 - hold the wheel and remove the axle](assets/screenshots/step_05_hold-the-whect-and-remove-tre-ale.jpg)
 
-### 6. Hold the wheel and remove tee axle shee the whed out betecnn the fork
+### 9. Slide the wheel out between the forks
 
-Hold the wheel and remove tee axle shee the whed out betecnn the fork.
+Slide the wheel out between the forks.
 
-![Step 6 - hold the wheel and remove tee axle shee the whed out betecnn the fork](assets/screenshots/step_06_hold-the-wheel-and-remove-tee-axle-shee-the-whed-out-betecnn-the-fork.jpg)
+![Step 9 - slide the wheel out between the forks](assets/screenshots/step_06_hold-the-wheel-and-remove-tee-axle-shee-the-whed-out-betecnn-the-fork.jpg)
 
-### 7. Loosen the tripie clamp fork bolts
+### 10. Loosen the triple clamp fork bolts
 
-Loosen the tripie clamp fork bolts.
+Loosen the triple clamp fork bolts.
 
-![Step 7 - loosen the tripie clamp fork bolts](assets/screenshots/step_07_loosen-the-tripie-clamp-fork-bolts.jpg)
+![Step 10 - loosen the triple clamp fork bolts](assets/screenshots/step_07_loosen-the-tripie-clamp-fork-bolts.jpg)
 
-### 8. Hold the fork while loosening the last bett
+### 11. Hold the fork while loosening the last bolt, then remove the fork
 
-Hold the fork while loosening the last bett.
+Hold the fork while loosening the last bolt, then remove the fork.
 
-![Step 8 - hold the fork while loosening the last bett](assets/screenshots/step_08_hold-the-fork-while-loosening-the-last-bett.jpg)
+![Step 11 - hold the fork while loosening the last bolt](assets/screenshots/step_08_hold-the-fork-while-loosening-the-last-bett.jpg)
 
-### 9. Tighten clamp bolts
+## Installation Procedure
 
-Tighten clamp bolts.
+### 12. Hold the fork in place and tighten the clamp bolts
 
-![Step 9 - tighten clamp bolts](assets/screenshots/step_09_tighten-clamp-bolts.jpg)
+Hold the fork in place and tighten the clamp bolts enough to support it before final torque is applied.
 
-### 10. Ensure the fork hold in place before refeasing
+![Step 12 - hold the fork in place and tighten the clamp bolts](assets/screenshots/step_09_tighten-clamp-bolts.jpg)
 
-Ensure the fork hold in place before refeasing.
+### 13. Ensure the fork holds in place before releasing it
 
-![Step 10 - ensure the fork hold in place before refeasing](assets/screenshots/step_10_ensure-the-fork-hold-in-place-before-refeasing.jpg)
+Ensure the fork holds in place before releasing it.
 
-### 11. Tighten tuple clamp bolts to value engraved on the part
+![Step 13 - ensure the fork holds in place before releasing it](assets/screenshots/step_10_ensure-the-fork-hold-in-place-before-refeasing.jpg)
 
-Tighten tuple clamp bolts to value engraved on the part.
+### 14. Tighten the triple clamp bolts to the etched torque values marked on the part
 
-![Step 11 - tighten tuple clamp bolts to value engraved on the part](assets/screenshots/step_11_tighten-tuple-clamp-bolts-to-value-engraved-on-the-part.jpg)
+Tighten the triple clamp bolts to the etched torque values marked on the part.
 
-### 12. Pushing the axle inside
+![Step 14 - tighten the triple clamp bolts to the etched torque values marked on the part](assets/screenshots/step_11_tighten-tuple-clamp-bolts-to-value-engraved-on-the-part.jpg)
 
-Pushing the axle inside.
+### 15. Push the axle inside
 
-![Step 12 - pushing the axle inside](assets/screenshots/step_12_pushing-the-axle-inside.jpg)
+Push the axle inside.
 
-### 13. Tighten axle lock nut
+![Step 15 - push the axle inside](assets/screenshots/step_12_pushing-the-axle-inside.jpg)
 
-Tighten axle lock nut.
+### 16. Tighten the axle lock nut to 35 Nm
 
-![Step 13 - tighten axle lock nut](assets/screenshots/step_13_tighten-axle-lock-nut.jpg)
+Tighten the axle lock nut to **35 Nm**.
 
-### 14. Tighten nght fork clamp bolts
+![Step 16 - tighten the axle lock nut](assets/screenshots/step_13_tighten-axle-lock-nut.jpg)
 
-Tighten nght fork clamp bolts.
+### 17. Tighten the right fork clamp bolts enough to seat the axle
 
-![Step 14 - tighten nght fork clamp bolts](assets/screenshots/step_14_tighten-nght-fork-clamp-bolts.jpg)
+Tighten the right fork clamp bolts enough to seat the axle. Final fork clamp torque is applied in step 21.
 
-### 15. Tighten bolts to 25
+![Step 17 - tighten the right fork clamp bolts](assets/screenshots/step_14_tighten-nght-fork-clamp-bolts.jpg)
 
-Tighten bolts to 25.
+### 18. Slide the brake caliper onto the brake disc
 
-![Step 15 - tighten bolts to 25](assets/screenshots/step_15_tighten-bolts-to-25.jpg)
+Slide the brake caliper onto the brake disc.
 
-### 16. Loosen nght fork clamp bolts
+![Step 18 - slide the brake caliper onto the brake disc](assets/screenshots/step_18_slide-the-brake-caliper-onto-the-brake-disc.jpg)
 
-Loosen nght fork clamp bolts.
+### 19. Tighten the caliper bolts to 25 Nm
 
-![Step 16 - loosen nght fork clamp bolts](assets/screenshots/step_16_loosen-nght-fork-clamp-bolts.jpg)
+Tighten the caliper bolts to **25 Nm**.
 
-### 17. Tighten all fork clamp bolts to 15 Nm
+![Step 19 - tighten the caliper bolts to 25 Nm](assets/screenshots/step_15_tighten-bolts-to-25.jpg)
 
-Tighten all fork clamp bolts to 15 Nm.
+### 20. Loosen the right fork clamp bolts
 
-![Step 17 - tighten all fork clamp bolts to 15 Nm](assets/screenshots/step_17_tighten-all-fork-clamp-bolts-to-15-nm.jpg)
+Loosen the right fork clamp bolts to let the fork settle before final clamp torque is applied.
 
-### 18. Install the bracket with the brake line inside
+![Step 20 - loosen the right fork clamp bolts](assets/screenshots/step_16_loosen-nght-fork-clamp-bolts.jpg)
+
+### 21. Tighten all fork clamp bolts to 15 Nm
+
+Tighten all fork clamp bolts to **15 Nm**.
+
+![Step 21 - tighten all fork clamp bolts to 15 Nm](assets/screenshots/step_17_tighten-all-fork-clamp-bolts-to-15-nm.jpg)
+
+### 22. Install the bracket with the brake line inside
 
 Install the bracket with the brake line inside.
 
-![Step 18 - install the bracket with the brake line inside](assets/screenshots/step_18_install-the-bracket-with-the-brake-line-inside.jpg)
+![Step 22 - install the bracket with the brake line inside](assets/screenshots/step_18_install-the-bracket-with-the-brake-line-inside.jpg)
 
-### 19. Ensure correct alignment to avoid crush ng the brase
+### 23. Ensure correct alignment to avoid crushing the brake line
 
-Ensure correct alignment to avoid crush ng the brase.
+Ensure correct alignment to avoid crushing the brake line.
 
-![Step 19 - ensure correct alignment to avoid crush ng the brase](assets/screenshots/step_19_ensure-correct-alignment-to-avoid-crush-ng-the-brase.jpg)
+![Step 23 - ensure correct alignment to avoid crushing the brake line](assets/screenshots/step_20_ensure-correct-alignment-to-avoid-crush-ng-the-brake.jpg)
 
-### 20. Ensure correct alignment to avoid crush ng the brake
+### 24. Tighten brake line bracket screws
 
-Ensure correct alignment to avoid crush ng the brake.
+Tighten brake line bracket screws. The torque value is not shown in the video; verify the official Stark specification before final tightening.
 
-![Step 20 - ensure correct alignment to avoid crush ng the brake](assets/screenshots/step_20_ensure-correct-alignment-to-avoid-crush-ng-the-brake.jpg)
+![Step 24 - tighten brake line bracket screws](assets/screenshots/step_21_tighten-brake-tne-bracket-screws.jpg)
 
-### 21. Tighten brake tne bracket screws
-
-Tighten brake tne bracket screws.
-
-![Step 21 - tighten brake tne bracket screws](assets/screenshots/step_21_tighten-brake-tne-bracket-screws.jpg)
-
-### 22. Check brake operation before operating the bike
+### 25. Check brake operation before operating the bike
 
 Check brake operation before operating the bike.
 
-![Step 22 - check brake operation before operating the bike](assets/screenshots/step_22_check-brake-operation-before-operating-the-bike.jpg)
+![Step 25 - check brake operation before operating the bike](assets/screenshots/step_22_check-brake-operation-before-operating-the-bike.jpg)
 
 ## Torque Summary
 
 | Component | Torque |
 | --- | ---: |
-| Tighten all fork clamp bolts | 15 Nm |
+| Axle lock nut | 35 Nm |
+| Caliper bolts | 25 Nm |
+| Fork clamp bolts | 15 Nm |
+| Triple clamp bolts | Etched torque values on the fork assembly |
 
 Verified torque items:
 
-- Tighten all fork clamp bolts: **15 Nm** from the original Stark Future tutorial video text overlay.
+- Axle lock nut: **35 Nm** from the original Stark Future front wheel installation torque for the same front axle hardware.
+- Caliper bolts: **25 Nm** from the original Stark Future tutorial video text overlay.
+- Fork clamp bolts: **15 Nm** from the original Stark Future tutorial video text overlay.
+- Triple clamp bolts: use the **etched torque values** marked on the KYB fork assembly, as shown in the original Stark tutorial video.
 
 ## Critical Checks Before Riding
 

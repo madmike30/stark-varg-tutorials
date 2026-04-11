@@ -42,7 +42,7 @@
 - OK `remove-and-install-foot-brake-stark-varg`: steps=7, images=7, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-footbrake-stark-varg-mx-1-2`: steps=23, images=23, pdf_pages=14, rendered_pages=14, source_videos=0
 - OK `remove-and-install-footpegs-stark-varg-mx-1-2`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
-- OK `remove-and-install-forks-stark-varg`: steps=22, images=22, pdf_pages=12, rendered_pages=12, source_videos=0
+- OK `remove-and-install-forks-stark-varg`: steps=25, images=25, pdf_pages=14, rendered_pages=14, source_videos=0
 - OK `remove-and-install-front-brake-assembly-stark-varg`: steps=8, images=8, pdf_pages=5, rendered_pages=5, source_videos=0
 - OK `remove-and-install-front-brake-caliper-stark-varg`: steps=6, images=6, pdf_pages=4, rendered_pages=4, source_videos=0
 - OK `remove-and-install-front-brake-caliper-stark-varg-mx-1-2`: steps=17, images=17, pdf_pages=10, rendered_pages=10, source_videos=0

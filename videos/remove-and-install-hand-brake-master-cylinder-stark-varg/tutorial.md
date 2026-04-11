@@ -51,7 +51,7 @@ Tighten the bolts by hand. Before the final tightening, place the brake lever in
 
 ### 6. Tighten the bolts to 6 Nm
 
-Tighten the bolts to 6 Nm. Check brakes operation before operating the bike. is permitted only with the express written permission.
+Tighten the bolts to **6 Nm**. Check brake operation before operating the bike.
 
 ![Step 6 - tighten the bolts to 6 Nm](assets/screenshots/step_06_tighten-the-bolts-to-6-nm.jpg)
 

@@ -23,9 +23,9 @@ Remove the front number plate. Refer to: 01.006.01 Remove and install fron numbe
 
 ![Step 1 - remove the front number plate](assets/screenshots/step_01_remove-the-front-number-plate.jpg)
 
-### 2. Untighten the front connectors lid bolts
+### 2. Loosen the front connectors lid bolts
 
-Untighten the front connectors lid bolts.
+Loosen the front connectors lid bolts.
 
 ![Step 2 - untighten the front connectors lid bolts](assets/screenshots/step_02_untighten-the-front-connectors-lid-bolts.jpg)
 
@@ -69,7 +69,7 @@ Tighten the front connectors box bolts to 5 Nm.
 
 ### 9. Install the front number plate
 
-Install the front number plate. Refer to: 01.006.01 Remove and install fron number plate ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+Install the front number plate. Refer to: 01.006.01 Remove and install front number plate ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components.
 
 ![Step 9 - install the front number plate](assets/screenshots/step_09_install-the-front-number-plate.jpg)
 

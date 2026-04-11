@@ -57,7 +57,7 @@ Hold the front number plate with the holes aligned.
 
 ### 7. Tighten the front number plate bolt to 8 Nm
 
-Tighten the front number plate bolt to 8 Nm. is permitted only with the express written permission.
+Tighten the front number plate bolt to **8 Nm**.
 
 ![Step 7 - tighten the front number plate bolt to 8 Nm](assets/screenshots/step_07_tighten-the-front-number-plate-bolt-to-8-nm.jpg)
 

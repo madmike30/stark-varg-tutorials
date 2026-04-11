@@ -69,7 +69,7 @@ Hold the assembled brake pedal link in place.
 
 ### 9. Tighten the brake pedal link bolt to 10 Nm
 
-Tighten the brake pedal link bolt to 10 Nm. Check brakes operation before operating the bike. is permitted only with the express written permission.
+Tighten the brake pedal link bolt to **10 Nm**. Check brake operation before operating the bike.
 
 ![Step 9 - tighten the brake pedal link bolt to 10 Nm](assets/screenshots/step_09_tighten-the-brake-pedal-link-bolt-to-10-nm.jpg)
 

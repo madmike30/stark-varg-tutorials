@@ -105,7 +105,7 @@ Remove the cloth.
 
 ### 15. Spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike
 
-Spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike. is permitted only with the express written permission.
+Spin the wheel by hand a few times and check brake operation before operating the bike.
 
 ![Step 15 - spin the wheel by hand a few times and check the brake operation Check brakes operation before operating the bike](assets/screenshots/step_15_spin-the-wheel-by-hand-a-few-times-and-check-the-brake-operation-check-b.jpg)
 

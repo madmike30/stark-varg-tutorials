@@ -53,9 +53,9 @@ Disconnect the charging port sockets.
 
 ![Step 6 - disconnect the charging port sockets](assets/screenshots/step_06_disconnect-the-charging-port-sockets.jpg)
 
-### 7. Untighten the charging port bolts
+### 7. Loosen the charging port bolts
 
-Untighten the charging port bolts.
+Loosen the charging port bolts.
 
 ![Step 7 - untighten the charging port bolts](assets/screenshots/step_07_untighten-the-charging-port-bolts.jpg)
 
@@ -111,7 +111,7 @@ Connect the CAN BUS connector.
 
 ### 16. Install the spoiler assembly
 
-Install the spoiler assembly. Refer to: 01.007.01 Remove and install spoiler assembly ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+Install the spoiler assembly. Refer to: 01.007.01 Remove and install spoiler assembly ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components.
 
 ![Step 16 - install the spoiler assembly](assets/screenshots/step_16_install-the-spoiler-assembly.jpg)
 

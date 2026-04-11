@@ -29,9 +29,9 @@ Remove rear center bolt.
 
 ![Step 2 - remove rear center bolt](assets/screenshots/step_02_remove-rear-center-bolt.jpg)
 
-### 3. Remove the complete front spouier
+### 3. Remove the complete front spoiler
 
-Remove the complete front spouier.
+Remove the complete front spoiler.
 
 ![Step 3 - remove the complete front spouier](assets/screenshots/step_03_remove-the-complete-front-spouier.jpg)
 
@@ -47,8 +47,6 @@ Remove bottom lock nut.
 
 ![Step 5 - remove bottom lock nut](assets/screenshots/step_05_remove-bottom-lock-nut.jpg)
 
-## Installation Procedure
-
 ### 6. Push the subframe away and hold it clear for shock removal
 
 Push the subframe away and hold it clear for shock removal.
@@ -61,9 +59,11 @@ Remove shock.
 
 ![Step 7 - remove shock](assets/screenshots/step_07_remove-shock.jpg)
 
-### 8. Ensure the subframe rests in the subframe stots
+## Installation Procedure
 
-Ensure the subframe rests in the subframe stots.
+### 8. Ensure the subframe rests in the subframe slots
+
+Ensure the subframe rests in the subframe slots.
 
 ![Step 8 - ensure the subframe rests in the subframe stots](assets/screenshots/step_08_ensure-the-subframe-rests-in-the-subframe-stots.jpg)
 
@@ -73,21 +73,21 @@ Push the subframe away and hold it clear for shock installation.
 
 ![Step 9 - push subframe away and hold](assets/screenshots/step_09_push-subframe-away-and-hold-2.jpg)
 
-### 10. Hold shoct in olace
+### 10. Hold shock in place
 
-Hold shoct in olace.
+Hold shock in place.
 
 ![Step 10 - hold shoct in olace](assets/screenshots/step_10_hold-shoct-in-olace.jpg)
 
-### 11. Insert topo
+### 11. Insert top bolt
 
-Insert topo.
+Insert top bolt.
 
 ![Step 11 - insert topo](assets/screenshots/step_11_insert-topo.jpg)
 
-### 12. Tighten lock nut to 40
+### 12. Tighten the top lock nut to 40 Nm
 
-Tighten lock nut to 40.
+Tighten the top lock nut to **40 Nm**.
 
 ![Step 12 - tighten lock nut to 40](assets/screenshots/step_12_tighten-lock-nut-to-40.jpg)
 
@@ -97,17 +97,31 @@ Insert bottom bolt.
 
 ![Step 13 - insert bottom bolt](assets/screenshots/step_13_insert-bottom-bolt.jpg)
 
-### 14. Tighten lock nut ta 40
+### 14. Tighten the bottom lock nut to 40 Nm
 
-Tighten lock nut ta 40.
+Tighten the bottom lock nut to **40 Nm**.
 
 ![Step 14 - tighten lock nut ta 40](assets/screenshots/step_14_tighten-lock-nut-ta-40.jpg)
 
-### 15. Tighten lower rear fender bolts
+### 15. Tighten the lower rear fender bolts
 
-Tighten lower rear fender bolts.
+Tighten the lower rear fender bolts.
+
+The lower rear fender bolt torque is not shown in the video. Verify the official Stark specification before final tightening.
 
 ![Step 15 - tighten lower rear fender bolts](assets/screenshots/step_15_tighten-lower-rear-fender-bolts.jpg)
+
+## Torque Summary
+
+| Component | Torque |
+| --- | ---: |
+| Tighten the top lock nut | 40 Nm |
+| Tighten the bottom lock nut | 40 Nm |
+
+Verified torque items:
+
+- Tighten the top lock nut: **40 Nm** from the original Stark Future tutorial video text overlay.
+- Tighten the bottom lock nut: **40 Nm** from the original Stark Future tutorial video text overlay.
 
 ## Critical Checks Before Riding
 

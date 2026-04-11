@@ -57,7 +57,7 @@ Tighten the remaining bolts with bushings by hand until all hold in place.
 
 ### 7. Tighten all front fender bolts to 8 Nm
 
-Tighten all front fender bolts to 8 Nm. is permitted only with the express written permission.
+Tighten all front fender bolts to **8 Nm**.
 
 ![Step 7 - tighten all front fender bolts to 8 Nm](assets/screenshots/step_07_tighten-all-front-fender-bolts-to-8-nm.jpg)
 

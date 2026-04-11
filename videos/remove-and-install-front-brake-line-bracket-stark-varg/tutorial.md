@@ -39,7 +39,7 @@ Hold the front brake line bracket in place. Ensure correct alignment to avoid cr
 
 ### 4. Tighten brake line bracket screws to 3 Nm
 
-Tighten brake line bracket screws to 3 Nm. Check brakes operation before operating the bike. is permitted only with the express written permission.
+Tighten brake line bracket screws to **3 Nm**. Check brake operation before operating the bike.
 
 ![Step 4 - tighten brake line bracket screws to 3 Nm](assets/screenshots/step_04_tighten-brake-line-bracket-screws-to-3-nm.jpg)
 

@@ -39,7 +39,7 @@ Push the skid plate into place until the holes are aligned.
 
 ### 4. Tighten the bolts to 15 Nm
 
-Tighten the bolts to 15 Nm. is permitted only with the express written permission.
+Tighten the bolts to **15 Nm**.
 
 ![Step 4 - tighten the bolts to 15 Nm](assets/screenshots/step_04_tighten-the-bolts-to-15-nm.jpg)
 

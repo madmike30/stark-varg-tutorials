@@ -39,7 +39,7 @@ Install the mud flap by sliding it towards the rear of the bike in the rear fend
 
 ### 4. Tighten the mud flap bolts to 2 Nm
 
-Tighten the mud flap bolts to 2 Nm. is permitted only with the express written permission.
+Tighten the mud flap bolts to **2 Nm**.
 
 ![Step 4 - tighten the mud flap bolts to 2 Nm](assets/screenshots/step_04_tighten-the-mud-flap-bolts-to-2-nm.jpg)
 

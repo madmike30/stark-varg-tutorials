@@ -75,7 +75,7 @@ Connect the handlebar controls. Refer to: 06.030.07 Disconnect and reconnect han
 
 ### 10. Fit the throttle wiring rubber strap to secure it to the handlebar
 
-Fit the throttle wiring rubber strap to secure it to the handlebar. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components. is permitted only with the express written permission.
+Fit the throttle wiring rubber strap to secure it to the handlebar. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after disconnecting electronic components.
 
 ![Step 10 - fit the throttle wiring rubber strap to secure it to the handlebar](assets/screenshots/step_10_fit-the-throttle-wiring-rubber-strap-to-secure-it-to-the-handlebar.jpg)
 

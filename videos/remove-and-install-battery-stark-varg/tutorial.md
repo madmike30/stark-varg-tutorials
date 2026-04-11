@@ -65,21 +65,21 @@ Remove the VCU. Refer to: 04.025.01 Remove and install VCU ↗.
 
 ![Step 8 - remove the VCU](assets/screenshots/step_08_remove-the-vcu.jpg)
 
-### 9. Untighten the rear skid plate bolts
+### 9. Loosen the rear skid plate bolts
 
-Untighten the rear skid plate bolts.
+Loosen the rear skid plate bolts.
 
 ![Step 9 - untighten the rear skid plate bolts](assets/screenshots/step_09_untighten-the-rear-skid-plate-bolts.jpg)
 
-### 10. Untighten the battery front mounting bolts
+### 10. Loosen the battery front mounting bolts
 
-Untighten the battery front mounting bolts.
+Loosen the battery front mounting bolts.
 
 ![Step 10 - untighten the battery front mounting bolts](assets/screenshots/step_10_untighten-the-battery-front-mounting-bolts.jpg)
 
-### 11. Untighten the battery bottom and top shaft nuts
+### 11. Loosen the battery bottom and top shaft nuts
 
-Untighten the battery bottom and top shaft nuts.
+Loosen the battery bottom and top shaft nuts.
 
 ![Step 11 - untighten the battery bottom and top shaft nuts](assets/screenshots/step_11_untighten-the-battery-bottom-and-top-shaft-nuts.jpg)
 
@@ -95,9 +95,9 @@ While one person holds the battery steady on the stand, lift the bike over the b
 
 ![Step 13 - while one person holds the battery steady on the stand, lift the bike over the battery with the help of another person](assets/screenshots/step_13_while-one-person-holds-the-battery-steady-on-the-stand-lift-the-bike-ove.jpg)
 
-### 14. Untighten the remaining skid plate bolts
+### 14. Loosen the remaining skid plate bolts
 
-Untighten the remaining skid plate bolts.
+Loosen the remaining skid plate bolts.
 
 ![Step 14 - untighten the remaining skid plate bolts](assets/screenshots/step_14_untighten-the-remaining-skid-plate-bolts.jpg)
 
@@ -219,7 +219,7 @@ Install the spoiler assembly. Refer to: 01.007.01 Remove and install spoiler ass
 
 ### 34. Install the front fender
 
-Install the front fender. Refer to: 01.005.01 Remove and install the front fender ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after battery replacement. is permitted only with the express written permission.
+Install the front fender. Refer to: 01.005.01 Remove and install the front fender ↗. Turn ON the bike and connect to the Stark phone to check battery status and that the bike is operating normally after battery replacement.
 
 ![Step 34 - install the front fender](assets/screenshots/step_34_install-the-front-fender.jpg)
 

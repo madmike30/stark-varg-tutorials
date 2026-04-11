@@ -65,15 +65,15 @@ Disconnect the main wiring harness VCU socket.
 
 ![Step 8 - disconnect the main wiring harness VCU socket](assets/screenshots/step_08_disconnect-the-main-wiring-harness-vcu-socket.jpg)
 
-### 9. Untighten the VCU side bolts
+### 9. Loosen the VCU side bolts
 
-Untighten the VCU side bolts.
+Loosen the VCU side bolts.
 
 ![Step 9 - untighten the VCU side bolts](assets/screenshots/step_09_untighten-the-vcu-side-bolts.jpg)
 
-### 10. Untighten the VCU upper bolt
+### 10. Loosen the VCU upper bolt
 
-Untighten the VCU upper bolt.
+Loosen the VCU upper bolt.
 
 ![Step 10 - untighten the VCU upper bolt](assets/screenshots/step_10_untighten-the-vcu-upper-bolt.jpg)
 
@@ -99,13 +99,13 @@ Tighten the VCU top bolt by hand until VCU is secured in place.
 
 ### 14. Tighten the VCU side bolts to 5 Nm
 
-Tighten the VCU side bolts to 5 Nm.
+Tighten the VCU side bolts to **5 Nm**.
 
 ![Step 14 - tighten the VCU side bolts to 5 Nm](assets/screenshots/step_14_tighten-the-vcu-side-bolts-to-5-nm.jpg)
 
 ### 15. Tighten the VCU top bolt to 5 Nm
 
-Tighten the VCU top bolt to 5 Nm.
+Tighten the VCU top bolt to **5 Nm**.
 
 ![Step 15 - tighten the VCU top bolt to 5 Nm](assets/screenshots/step_15_tighten-the-vcu-top-bolt-to-5-nm.jpg)
 
@@ -115,9 +115,9 @@ Connect the VCU socket. Please take all the necessary precautionary measures to 
 
 ![Step 16 - connect the VCU socket](assets/screenshots/step_16_connect-the-vcu-socket.jpg)
 
-### 17. Remove the protective cover onto the power socket on the battery
+### 17. Remove the protective cover from the power socket on the battery
 
-Remove the protective cover onto the power socket on the battery.
+Remove the protective cover from the power socket on the battery.
 
 ![Step 17 - remove the protective cover onto the power socket on the battery](assets/screenshots/step_17_remove-the-protective-cover-onto-the-power-socket-on-the-battery.jpg)
 
@@ -127,9 +127,9 @@ Connect the battery power plug.
 
 ![Step 18 - connect the battery power plug](assets/screenshots/step_18_connect-the-battery-power-plug.jpg)
 
-### 19. Remove the protective cover onto the CAN BUS socket on the battery
+### 19. Remove the protective cover from the CAN BUS socket on the battery
 
-Remove the protective cover onto the CAN BUS socket on the battery.
+Remove the protective cover from the CAN BUS socket on the battery.
 
 ![Step 19 - remove the protective cover onto the CAN BUS socket on the battery](assets/screenshots/step_19_remove-the-protective-cover-onto-the-can-bus-socket-on-the-battery.jpg)
 
