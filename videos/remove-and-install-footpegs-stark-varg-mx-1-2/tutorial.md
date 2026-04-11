@@ -23,9 +23,9 @@ Unscrew the right foot peg pin.
 
 ![Step 1 - unscrew the right foot peg pin](assets/screenshots/step_01_unscrew-the-right-foot-peg-pin.jpg)
 
-### 2. Remove the foot peg from the side plate
+### 2. Remove the right foot peg from the right side plate
 
-Remove the foot peg from the side plate.
+Remove the right foot peg from the right side plate.
 
 ![Step 2 - remove the foot peg from the side plate](assets/screenshots/step_02_remove-the-foot-peg-from-the-side-plate.jpg)
 
@@ -35,9 +35,9 @@ Unscrew the left foot peg pin.
 
 ![Step 3 - unscrew the left foot peg pin](assets/screenshots/step_03_unscrew-the-left-foot-peg-pin.jpg)
 
-### 4. Remove the foot peg from the side plate
+### 4. Remove the left foot peg from the left side plate
 
-Remove the foot peg from the side plate.
+Remove the left foot peg from the left side plate.
 
 ![Step 4 - remove the foot peg from the side plate](assets/screenshots/step_04_remove-the-foot-peg-from-the-side-plate.jpg)
 
@@ -49,9 +49,9 @@ Position the right foot peg into the right side plate.
 
 ![Step 5 - position the right foot peg into the right side plate](assets/screenshots/step_05_position-the-right-foot-peg-into-the-right-side-plate.jpg)
 
-### 6. Tighten the foot peg pin to 20 Nm
+### 6. Tighten the right foot peg pin to 20 Nm
 
-Tighten the foot peg pin to **20 Nm**.
+Tighten the right foot peg pin to **20 Nm**.
 
 ![Step 6 - tighten the foot peg pin to 20 nm](assets/screenshots/step_06_tighten-the-foot-peg-pin-to-20-nm.jpg)
 
@@ -61,9 +61,9 @@ Position the left foot peg into the left side plate.
 
 ![Step 7 - position the left foot peg into the left side plate](assets/screenshots/step_07_position-the-left-foot-peg-into-the-left-side-plate.jpg)
 
-### 8. Tighten the foot peg pin to 20 Nm
+### 8. Tighten the left foot peg pin to 20 Nm
 
-Tighten the foot peg pin to **20 Nm**.
+Tighten the left foot peg pin to **20 Nm**.
 
 ![Step 8 - tighten the foot peg pin to 20 nm](assets/screenshots/step_08_tighten-the-foot-peg-pin-to-20-nm.jpg)
 
@@ -71,11 +71,13 @@ Tighten the foot peg pin to **20 Nm**.
 
 | Component | Torque |
 | --- | ---: |
-| Tighten the foot peg pin | 20 Nm |
+| Tighten the right foot peg pin | 20 Nm |
+| Tighten the left foot peg pin | 20 Nm |
 
 Video-sourced torque items:
 
-- Tighten the foot peg pin: **20 Nm** from the official Stark tutorial video.
+- Tighten the right foot peg pin: **20 Nm** from the official Stark tutorial video.
+- Tighten the left foot peg pin: **20 Nm** from the official Stark tutorial video.
 
 ## Critical Checks Before Riding
 
